@@ -131,15 +131,12 @@ class Intransitive_Screeve(Screeve):
     def generate_forms(self, lemma: Intransitive_Lemma, print_by_format: bool, verbose: bool):
         # region gen_lemma
         if lemma.lemma_form == '':
-            basic_form = lemma.version['sg3'] + lemma.root + lemma.ts + self.paas['sg3']['suff']  # 1st Screeve, 3rd person singular
+            basic_form = lemma.version['sg3'] + lemma.root + lemma.passive_marker + lemma.ts + 'ა'  # 1st Screeve, 3rd person singular
         else:
             basic_form = lemma.lemma_form
         # endregion gen_lemma
 
-        curr_version = lemma.version
-
-        if lemma.formation_option==2:
-            lemma.root += 'დ' # Passive Marker
+        curr_version = zip_pronouns(['']*6) if self.idx==9 else lemma.version # be careful with this one
 
         if self.idx == 7:
             self.paas['sg3']['suff'] = lemma.aor_indic_3rd_sg  # can mostly be "a" or "o"
@@ -159,6 +156,14 @@ class Intransitive_Screeve(Screeve):
                 self.paas['pl3']['suff'] = 'ნ'
             self.markers = zip_pronouns(markers)
 
+        if self.idx == 9:
+            if lemma.perfect_marker in {'მარ', 'მალ'} : # special case of marker = m-___-ar (circumfix)
+                lemma.root = 'მ' + lemma.root
+                lemma.perfect_marker = lemma.perfect_marker[1:]
+            self.markers = zip_pronouns([lemma.perfect_marker] * 6)
+
+            lemma.ts = lemma.perfect_ts
+
 
         forms = []
         if verbose: print('Screeve #{}:'.format(self.idx))
@@ -167,6 +172,7 @@ class Intransitive_Screeve(Screeve):
                                   lemma.preverb,
                                   curr_version[p],
                                   lemma.root,
+                                  lemma.passive_marker,
                                   lemma.ts,
                                   self.markers[p],
                                   self.paas[p]['suff'])  # not all of them are actually used, depends on the Screeve.
@@ -263,7 +269,7 @@ def define_Intransitive_Screeves():
     # Present Indicative
     screeve1_paas = [['ვ', ''], ['', ''], ['', 'ა'], ['ვ', 'თ'], ['', 'თ'], ['', 'ან']]
     screeve1_markers = ['ი', 'ი', '', 'ი', 'ი', 'ი']
-    def screeve1_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + screeve_marker + paa_suff  # Here, stem := version + root + ts
+    def screeve1_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return paa_pref + version + root + passive + ts + screeve_marker + paa_suff  # Here, stem := version + root + ts
     present_indicative = Intransitive_Screeve(1, screeve1_paas, screeve1_markers, screeve1_form)
 
     # Imperfect Indicative
@@ -276,7 +282,7 @@ def define_Intransitive_Screeves():
     screeve3_markers = ['ოდ' + s for s in ['ე', 'ე', 'ე', 'ე', 'ე', '']]
     present_subjunctive = Intransitive_Screeve(3, screeve3_paas, screeve3_markers, screeve1_form)
 
-    def screeve4_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    def screeve4_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + passive + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
     future_indicative = Intransitive_Screeve(4, screeve1_paas, screeve1_markers, screeve4_form)
 
     # Conditional
@@ -289,7 +295,7 @@ def define_Intransitive_Screeves():
     # Aorist Indicative
     screeve7_paas = [['ვ', ''], ['', ''], ['', ''], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
     screeve7_markers = [] # in this case, a property of the lexeme!
-    def screeve7_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + screeve_marker + paa_suff  # stem := version + root + screeve_marker
+    def screeve7_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + passive + screeve_marker + paa_suff  # stem := version + root + screeve_marker
     aorist_indicative = Intransitive_Screeve(7, screeve7_paas, screeve7_markers, screeve7_form)
 
     # Aorist Subjunctive
@@ -299,10 +305,12 @@ def define_Intransitive_Screeves():
 
     # Perfect
     screeve9_paas = [['ვ', 'ვარ'], ['', 'ხარ'], ['', 'ა'], ['ვ', 'ვართ'], ['', 'ხართ'], ['', 'ან']]
-
+    screeve9_markers = []
+    def screeve4_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    perfect = Intransitive_Screeve(9, screeve9_paas, screeve9_markers, screeve4_form)
 
 
     screeves = [present_indicative, imperfect_indicative, present_subjunctive, future_indicative, conditional, future_subjunctive, # Series 1
-                aorist_indicative, aorist_subjunctive] # Series 2
-                # perfect, pluperfect, third_subjunctive]
+                aorist_indicative, aorist_subjunctive, # Series 2
+                perfect] #, pluperfect, third_subjunctive]
     return screeves

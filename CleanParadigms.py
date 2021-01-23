@@ -37,14 +37,14 @@ if __name__=='__main__':
     # endregion transitive
 
     # region intransitive_verbs
-    blush = Intransitive_Lemma('გა', '', 'წითლ', 'ებ', 'ა', 'ი', '', '', 2, masdar_prf='გაწითლება', masdar_imprf='წითლება')
-    be_done = Intransitive_Lemma('გა', '', 'კეთ', 'ებ', 'ა', 'ი', '', '', 2, masdar_prf='?')
-    be_opened = Intransitive_Lemma('გა', 'ი', 'ღ', 'ებ', 'ო', 'ე', '', '', 1, masdar_prf='გაიღება ?') # you can add the active parallel to the first list!
-    written = Intransitive_Lemma('და', 'ი', 'წერ', 'ებ', 'ა', 'ე',  '', '', 1, masdar_imprf='იწერა?')
-    be_cleaned = Intransitive_Lemma('გა', 'ი', 'წმინდ', 'ებ', 'ა', 'ე', '', '', 1, masdar_prf='გაწმნიდება?', masdar_imprf='წმინდება')
-    err = Intransitive_Lemma('შე', '', 'ცდ', 'ებ', 'ა' , 'ი', '', '', 3, masdar_prf='შეცდომა')
-    hide = Intransitive_Lemma('და', 'ი', 'მალ', 'ებ', 'ა', 'ე', '', '', 1, masdar_prf='დამალვა', masdar_imprf='მალვა')
-    choke = Intransitive_Lemma('და', 'ი', 'ხრჩ', 'ობ', 'ო', 'ე', '', '', 1, masdar_prf='დახრჩობა', masdar_imprf='ხრჩობა')
+    blush = Intransitive_Lemma('გა', '', 'წითლ', 'ებ', 'ა', 'ი', '', 'ულ', '', 2, masdar_prf='გაწითლება', masdar_imprf='წითლება')
+    be_done = Intransitive_Lemma('გა', '', 'კეთ', 'ებ', 'ა', 'ი', 'ებ', 'ულ', '', 2, masdar_prf='?')
+    be_opened = Intransitive_Lemma('გა', 'ი', 'ღ', 'ებ', 'ო', 'ე', 'ებ', 'ულ', '', 1, masdar_prf='გაიღება ?') # you can add the active parallel to the first list!
+    written = Intransitive_Lemma('და', 'ი', 'წერ', 'ებ', 'ა', 'ე',  '', 'ილ', '', 1, masdar_imprf='იწერა?')
+    be_cleaned = Intransitive_Lemma('გა', 'ი', 'წმინდ', 'ებ', 'ა', 'ე', '', 'ილ', '', 1, masdar_prf='გაწმნიდება?', masdar_imprf='წმინდება')
+    err = Intransitive_Lemma('შე', '', 'ცდ', 'ებ', 'ა' , 'ი', '', 'მარ', '', 3, masdar_prf='შეცდომა')
+    hide = Intransitive_Lemma('და', 'ი', 'მალ', 'ებ', 'ა', 'ე', '', 'ულ', '', 1, masdar_prf='დამალვა', masdar_imprf='მალვა')
+    choke = Intransitive_Lemma('და', 'ი', 'ხრჩ', 'ობ', 'ო', 'ე', '', 'მვალ', '', 1, masdar_prf='დახრჩობა', masdar_imprf='ხრჩობა') # ???????
 
     intransitive_lemmas_dict = {1: blush, 2: be_done, 3:be_opened, 4:written, 5:be_cleaned, 6:err, 7:hide, 8:choke}
     # endregion intransitive_verbs

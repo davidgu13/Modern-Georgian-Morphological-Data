@@ -41,14 +41,18 @@ class Transitive_Lemma(Lemma):
 
 
 class Intransitive_Lemma(Lemma):
-    def __init__(self, preverb:str, version:str, root:str, ts:str, aor_indic_3rd_sg:str, aor_indic_vowel:str, perfect_version:str, pluperfect_version:str, lemma_formation,
+    def __init__(self, preverb:str, version:str, root:str, ts:str, aor_indic_3rd_sg:str, aor_indic_vowel:str, perfect_ts:str, perfect_marker:str, pluperfect_version:str, lemma_formation,
                  alternative_root='', masdar_prf='', masdar_imprf='', lemma_form=''):
         super(Intransitive_Lemma, self).__init__(preverb, version, root, ts, aor_indic_3rd_sg, alternative_root, masdar_prf, masdar_imprf, lemma_form)
         self.aor_indic_vowel = aor_indic_vowel
         # self.aor_subj_vowel = aor_subj_vowel # if the rule in the Screeve formation is too specific, use this property to assign it,
                                                # and act similarly to the way aor_indic_vowel is used
+        self.perfect_ts = perfect_ts
+        self.perfect_marker = perfect_marker
 
         if lemma_formation in [1,2,3]: # Option 1 for prefixal (ი version), 2 for d (დ) addition, 3 for markerless
             self.formation_option = lemma_formation
         else: raise Exception('Invalid Formation value!')
+
+        self.passive_marker = 'დ' if self.formation_option==2 else ''
         # The actual modifications of the stem are found in Intransitive_Screeve class!
