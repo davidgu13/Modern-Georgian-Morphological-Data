@@ -1,5 +1,6 @@
-# from utils import *
+__author__ = "David Guriel"
 from Lemma import *
+import abc
 
 class Screeve:
     def __init__(self, idx:int, PAAs:[[str]], screeve_markers:[str], formula):
@@ -8,36 +9,38 @@ class Screeve:
         self.markers = zip_pronouns(screeve_markers)
         self.formulate = formula # concatenates the different elements required for the forms.
 
+    @abc.abstractmethod
+    def screeve_specifications(self, lemma:Lemma):
+        pass
 
-    def generate_forms(self, lemma:Lemma, print_by_format:bool, verbose:bool):
-        if lemma.lemma_form=='': # calculating the lemma name if necessary
-            basic_form = lemma.version['sg3'] + lemma.root + lemma.ts + self.paas['sg3']['suff']  # 1st Screeve, 3rd person singular
-        else:
-            basic_form = lemma.lemma_form
-
-        curr_version = lemma.version
-
+    def generate_forms(self, lemma:Lemma, print_by_format:bool, verbose:bool, file):
+        self.screeve_specifications(lemma) # implemented per each class
 
         forms = []
-        if verbose: print('Screeve #{}:'.format(self.idx))
+        if verbose: file.write(f'Screeve #{self.idx}:\n')
         for p in self.paas:
-            form = self.formulate(self.paas[p]['pref'], lemma.preverb, curr_version[p], lemma.root, lemma.ts,
+            form = self.formulate(self.paas[p]['pref'],
+                                  lemma.preverb,
+                                  lemma.version[p],
+                                  lemma.root,
+                                  lemma.passive_marker,
+                                  lemma.ts,
                                   self.markers[p],
                                   self.paas[p]['suff']) # not all of them are actually used, depends on the Screeve.
             eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
             if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form,form,format_pronouns(p),screeves_formats[self.idx],eng_form))
+                file.write(f"{lemma.lemma_form}\t{form}\tV;{format_pronouns(p)};{screeves_formats[self.idx]}{eng_form}\n")
             else:
-                print("{}{}".format(form,eng_form))
-
+                file.write(f"{form}{eng_form}\n")
             forms.append(form)
         current_forms_dict = zip_pronouns(forms)
-        # print()
+        file.write('\n')
+        self.gen_imperatives(current_forms_dict, lemma.lemma_form, print_by_format, verbose, file)
 
-
-        if self.idx==7: # generating Imperative forms for sg2 and pl2.
+    def gen_imperatives(self, current_forms_dict, lemma_form, print_by_format, verbose, file):
+        if self.idx == 7:  # generating Imperative forms for sg2 and pl2.
             iter_prons = ['sg2', 'pl2']
-        elif self.idx==8: # generating Imperative forms for pl1, sg3, pl3.
+        elif self.idx == 8:  # generating Imperative forms for pl1, sg3, pl3.
             iter_prons = ['pl1', 'sg3', 'pl3']
         else:
             iter_prons = []
@@ -45,31 +48,24 @@ class Screeve:
             form = current_forms_dict[p]
             eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
             if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form, form, format_pronouns(p), 'IMP', eng_form))
+                file.write(f"{lemma_form}\t{form}\tV;{format_pronouns(p)};IMP{eng_form}\n")
             else:
-                print("Imperative form, {}: {}{}".format(p, form, eng_form))
-            # print()
-
-        return basic_form
+                file.write(f"Imperative form, {p}: {form}{eng_form}\n")
+        file.write('\n')
 
 
 class Transitive_Screeve(Screeve):
     def __init__(self, idx:int, PAAs:[[str]], screeve_markers:[str], formula):
         super(Transitive_Screeve, self).__init__(idx, PAAs, screeve_markers, formula)
 
-    def generate_forms(self, lemma: Transitive_Lemma, print_by_format: bool, verbose: bool):
-        if lemma.lemma_form == '':
-            basic_form = lemma.version['sg3'] + lemma.root + lemma.ts + self.paas['sg3']['suff']  # 1st Screeve, 3rd person singular
-        else:
-            basic_form = lemma.lemma_form
-
+    def screeve_specifications(self, lemma:Transitive_Lemma):
         # region Screeves specifications
+        if self.idx in {1,4} and lemma.ts=='ი':
+            self.paas['pl3']['suff'] = 'ან' # instead of 'en'
         if self.idx == 9:
-            curr_version = lemma.perfect_version
+            lemma.version = lemma.perfect_version
         elif self.idx in {10, 11}:
-            curr_version = lemma.pluperfect_version
-        else:
-            curr_version = lemma.version
+            lemma.version = lemma.pluperfect_version
 
         if self.idx == 7:
             self.paas['sg3']['suff'] = lemma.aor_indic_3rd_sg  # can mostly be "a" or "o"
@@ -77,78 +73,47 @@ class Transitive_Screeve(Screeve):
         if self.idx == 9 and (lemma.ts == 'ებ' and not vowel_in_word(lemma.root) or lemma.root == 'ხურ'):
             lemma.ts = ''  # if a root has no vowel and ts==ებ, then in 9th screeve the ts is ommited!
 
-        if self.idx in {7, 8, 10, 11} and lemma.alter_root != '':
-            lemma.root = lemma.alter_root  # a simple case of root changing
+        if self.idx in {7, 8, 10, 11}:
+            if lemma.alter_root != '':
+                lemma.root = lemma.alter_root  # a simple case of root changing
+            if lemma.ts=='ენ':
+                if self.idx in {7,8}:
+                    lemma.root += 'ინ'
+                else:
+                    lemma.ts = 'ინ'
+            elif lemma.ts == 'ევ':
+                if self.idx in {7,8}:
+                    lemma.root += 'ი'
+                else:
+                    lemma.ts = 'ი'
 
-        if self.idx in {9, 10, 11} and lemma.ts == 'ავ':
+        if self.idx in {9, 10, 11} and lemma.ts in {'ავ','ი','ობ','ამ'}:
             lemma.ts = ''
 
         if self.idx in {10, 11} and lemma.ts == 'ებ':
-            lemma.ts = 'ებინ'  # in these Screeves and this TS, "eb" turns into "ebin".
+            if vowel_in_word(lemma.root):
+                lemma.ts = 'ებინ'
+            else:
+                lemma.ts = ''
             # An unhandled case regarding lemma.ts=='ავ' - sometimes the 3rd Subjunctive screeve marker is ა and not ო! (irrelevant for "lose")
         # endregion Screeves specifications
-
-        forms = []
-        if verbose: print('Screeve #{}:'.format(self.idx))
-        for p in self.paas:
-            form = self.formulate(self.paas[p]['pref'], lemma.preverb, curr_version[p], lemma.root, lemma.ts,
-                                  self.markers[p],
-                                  self.paas[p]['suff'])  # not all of them are actually used, depends on the Screeve.
-            eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
-            if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form, form, format_pronouns(p), screeves_formats[self.idx],
-                                                 eng_form))
-            else:
-                print("{}{}".format(form, eng_form))
-
-            forms.append(form)
-        current_forms_dict = zip_pronouns(forms)
-        # print()
-
-        if self.idx == 7:  # generating Imperative forms for sg2 and pl2.
-            iter_prons = ['sg2', 'pl2']
-        elif self.idx == 8:  # generating Imperative forms for pl1, sg3, pl3.
-            iter_prons = ['pl1', 'sg3', 'pl3']
-        else:
-            iter_prons = []
-        for p in iter_prons:
-            form = current_forms_dict[p]
-            eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
-            if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form, form, format_pronouns(p), 'IMP', eng_form))
-            else:
-                print("Imperative form, {}: {}{}".format(p, form, eng_form))
-            # print()
-
-        return basic_form
 
 
 class Intransitive_Screeve(Screeve):
     def __init__(self, idx: int, PAAs: [[str]], screeve_markers: [str], formula):
         super(Intransitive_Screeve, self).__init__(idx, PAAs, screeve_markers, formula)
 
-
-    def generate_forms(self, lemma: Intransitive_Lemma, print_by_format: bool, verbose: bool):
-        # region gen_lemma
-        if lemma.lemma_form == '':
-            basic_form = lemma.version['sg3'] + lemma.root + lemma.passive_marker + lemma.ts + 'ა'  # 1st Screeve, 3rd person singular
-        else:
-            basic_form = lemma.lemma_form
-        # endregion gen_lemma
-
-        curr_version = zip_pronouns(['']*6) if self.idx==9 else lemma.version # be careful with this one
-
+    def screeve_specifications(self, lemma: Intransitive_Lemma):
         if self.idx == 7:
             self.paas['sg3']['suff'] = lemma.aor_indic_3rd_sg  # can mostly be "a" or "o"
 
             vowel = lemma.aor_indic_vowel
-            markers = [vowel, vowel, '', vowel, vowel, '']
-            self.markers = zip_pronouns(markers)
+            self.markers = zip_pronouns([vowel, vowel, '', vowel, vowel, ''])
 
         if self.idx == 8:
             if lemma.formation_option in {2,3}:
                 vowel = 'ე'
-                markers = [vowel, vowel, vowel, vowel, vowel, '']
+                markers = [vowel] * 5 + ['']
                 self.paas['pl3']['suff'] = 'ნენ'
             else:
                 vowel = 'ო'
@@ -156,67 +121,43 @@ class Intransitive_Screeve(Screeve):
                 self.paas['pl3']['suff'] = 'ნ'
             self.markers = zip_pronouns(markers)
 
-        if self.idx == 9:
-            if lemma.perfect_marker in {'მარ', 'მალ'} : # special case of marker = m-___-ar (circumfix)
-                lemma.root = 'მ' + lemma.root
-                lemma.perfect_marker = lemma.perfect_marker[1:]
-            self.markers = zip_pronouns([lemma.perfect_marker] * 6)
+        if self.idx in {9, 10, 11}:
+            lemma.ts = lemma.perfect_ts if self.idx==9 else lemma.pluperfect_ts
+            if lemma.valency==1:
+                if lemma.perfect_marker in {'მარ', 'მალ'} : # special case of marker = m-___-ar (circumfix)
+                    lemma.root = 'მ' + lemma.root
+                    lemma.perfect_marker = lemma.perfect_marker[1:]
+                self.markers = zip_pronouns([lemma.perfect_marker] * 6)
+            else: # lemma.valency==2:
+                marker_char = 'ოდ' + ('ე' if self.idx==11 else 'ი') # else <=> idx in {9,10}
+                self.markers = zip_pronouns([marker_char] * 6)
 
-            lemma.ts = lemma.perfect_ts
+                self.paas['sg3']['pref'] = lemma.perfects_3rd_IDO
 
-
-        forms = []
-        if verbose: print('Screeve #{}:'.format(self.idx))
-        for p in self.paas:
-            form = self.formulate(self.paas[p]['pref'],
-                                  lemma.preverb,
-                                  curr_version[p],
-                                  lemma.root,
-                                  lemma.passive_marker,
-                                  lemma.ts,
-                                  self.markers[p],
-                                  self.paas[p]['suff'])  # not all of them are actually used, depends on the Screeve.
-            eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
-            if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form, form, format_pronouns(p), screeves_formats[self.idx],eng_form))
+        if self.idx==10:
+            if lemma.valency==1:
+                self.paas = zip_pronouns_paas([['ვ','იყავი'], ['','იყავი'], ['','იყო'], ['ვ','იყავით'], ['','იყავით'], ['','იყვნენ']])
             else:
-                print("{}{}".format(form, eng_form))
-            forms.append(form)
-        current_forms_dict = zip_pronouns(forms)
-        print()
-
-        # region imperatives
-        if self.idx == 7:  # generating Imperative forms for sg2 and pl2.
-            iter_prons = ['sg2', 'pl2']
-        elif self.idx == 8:  # generating Imperative forms for pl1, sg3, pl3.
-            iter_prons = ['pl1', 'sg3', 'pl3']
-        else:
-            iter_prons = []
-        for p in iter_prons:
-            form = current_forms_dict[p]
-            eng_form = " = {}".format(transliterate_kat2eng(form)) if verbose else ''
-            if print_by_format:
-                print("{}\t{}\tV;{};{}{}".format(basic_form, form, format_pronouns(p), 'IMP', eng_form))
+                self.paas = zip_pronouns_paas([['ვ',''], ['',''], ['','ა'], ['ვ','თ'], ['','თ'], ['','ნენ']])
+        if self.idx==11:
+            if lemma.valency==1:
+                self.paas = zip_pronouns_paas([['ვ','იყო'], ['','იყო'], ['','იყოს'], ['ვ','იყოთ'], ['','იყოთ'], ['','იყონ']])
             else:
-                print("Imperative form, {}: {}{}".format(p, form, eng_form))
-            # print()
-        print()
-        # endregion imperatives
+                self.paas = zip_pronouns_paas([['ვ',''], ['',''], ['','ს'], ['ვ','თ'], ['','თ'], ['','ნენ']])
 
-        return basic_form
 
 
 def define_Transitive_Screeves():
     # Present Indicative
     screeve1_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ენ']]  # paa = pronominal agreement affixes
     screeve1_markers = [''] * 6
-    def screeve1_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + paa_suff  # Here, stem := version + root + ts
+    def screeve1_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + paa_suff  # Here, stem := version + root + ts
     present_indicative = Transitive_Screeve(1, screeve1_paas, screeve1_markers, screeve1_form)
 
     # Imperfect Indicative
     screeve2_paas = [['ვ', ''], ['', ''], ['', 'ა'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
     screeve2_markers = ['დ' + s for s in ['ი', 'ი', '', 'ი', 'ი', '']]
-    def screeve2_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + screeve_marker + paa_suff  # stem := version + root + ts + screeve_marker
+    def screeve2_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + screeve_marker + paa_suff  # stem := version + root + ts + screeve_marker
     imperfect_indicative = Transitive_Screeve(2, screeve2_paas, screeve2_markers, screeve2_form)
 
     # Present Subjunctive
@@ -225,7 +166,7 @@ def define_Transitive_Screeves():
     present_subjunctive = Transitive_Screeve(3, screeve3_paas, screeve3_markers, screeve2_form)
 
     # Future Indicative
-    def screeve4_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    def screeve4_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
     future_indicative = Transitive_Screeve(4, screeve1_paas, screeve1_markers, screeve4_form)
 
     # Conditional
@@ -237,7 +178,7 @@ def define_Transitive_Screeves():
     # Aorist Indicative
     screeve7_paas = [['ვ', ''], ['', ''], ['', ''], ['ვ', 'თ'], ['', 'თ'], ['', 'ეს']]
     screeve7_markers = ['ე', 'ე', '', 'ე', 'ე', '']
-    def screeve7_form(paa_pref, prev, version, root, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + screeve_marker + paa_suff  # stem := version + root + screeve_marker
+    def screeve7_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + screeve_marker + paa_suff  # stem := version + root + screeve_marker
     aorist_indicative = Transitive_Screeve(7, screeve7_paas, screeve7_markers, screeve7_form)
 
     # Aorist Subjunctive
@@ -262,7 +203,6 @@ def define_Transitive_Screeves():
                 aorist_indicative, aorist_subjunctive,  # Series 2
                 perfect, pluperfect, third_subjunctive]  # Series 3
     return screeves
-
 
 
 def define_Intransitive_Screeves():
@@ -291,7 +231,6 @@ def define_Intransitive_Screeves():
     # Future Subjunctive
     future_subjunctive = Intransitive_Screeve(6, screeve3_paas, screeve3_markers, screeve4_form)
 
-
     # Aorist Indicative
     screeve7_paas = [['ვ', ''], ['', ''], ['', ''], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
     screeve7_markers = [] # in this case, a property of the lexeme!
@@ -305,12 +244,22 @@ def define_Intransitive_Screeves():
 
     # Perfect
     screeve9_paas = [['ვ', 'ვარ'], ['', 'ხარ'], ['', 'ა'], ['ვ', 'ვართ'], ['', 'ხართ'], ['', 'ან']]
-    screeve9_markers = []
-    def screeve4_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
-    perfect = Intransitive_Screeve(9, screeve9_paas, screeve9_markers, screeve4_form)
+    screeve9_markers = [''] * 6
+    def screeve9_form(paa_pref, prev, version, root, passive, ts, screeve_marker, paa_suff): return prev + paa_pref + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    perfect = Intransitive_Screeve(9, screeve9_paas, screeve9_markers, screeve9_form)
+
+
+    # Pluperfect
+    screeve10_paas = [['','']]*6 # TBD by valency
+    screeve10_markers = [''] * 6 # TBD by valency
+    pluperfect = Intransitive_Screeve(10, screeve10_paas, screeve10_markers, screeve9_form)
+
+
+    # 3rd Subjunctive
+    third_subjunctive = Intransitive_Screeve(11, screeve10_paas, screeve10_markers, screeve9_form)
 
 
     screeves = [present_indicative, imperfect_indicative, present_subjunctive, future_indicative, conditional, future_subjunctive, # Series 1
                 aorist_indicative, aorist_subjunctive, # Series 2
-                perfect] #, pluperfect, third_subjunctive]
+                perfect, pluperfect, third_subjunctive] # Series 3
     return screeves
