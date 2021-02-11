@@ -1,6 +1,7 @@
-import copy
+__author__ = "David Guriel"
 import sys
 import string
+import os
 
 misc = ['', ' ', '\xa0'] + list(string.punctuation + string.ascii_lowercase + string.ascii_uppercase + string.digits)
 kat2eng = dict(zip(['ა', 'ბ', 'გ', 'დ', 'ე', 'ვ', 'ზ', 'თ', 'ი', 'კ', 'ლ', 'მ', 'ნ', 'ო', 'პ', 'ჟ', 'რ', 'ს', 'ტ', 'უ', 'ფ', 'ქ', 'ღ', 'ყ', 'შ', 'ჩ', 'ც', 'ძ', 'წ', 'ჭ', 'ხ', 'ჯ', 'ჰ']+misc,
