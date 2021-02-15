@@ -98,6 +98,67 @@ class Transitive_Screeve(Screeve):
             # An unhandled case regarding lemma.ts=='ავ' - sometimes the 3rd Subjunctive screeve marker is ა and not ო! (irrelevant for "lose")
         # endregion Screeves specifications
 
+def define_Transitive_Screeves(conj='tv'):
+    if conj=='tv': conj_class = Transitive_Screeve
+    elif conj=='med': conj_class = Medial_Screeve
+    else: raise Exception('Invalid Screeve class!')
+
+    # Present Indicative
+    screeve1_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ენ']]  # paa = pronominal agreement affixes
+    screeve1_markers = [''] * 6
+    def screeve1_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + paa_suff  # Here, stem := version + root + ts
+    present_indicative = conj_class(1, screeve1_paas, screeve1_markers, screeve1_form)
+
+    # Imperfect Indicative
+    screeve2_paas = [['ვ', ''], ['', ''], ['', 'ა'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
+    screeve2_markers = ['დ' + s for s in ['ი', 'ი', '', 'ი', 'ი', '']]
+    def screeve2_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + screeve_marker + paa_suff  # stem := version + root + ts + screeve_marker
+    imperfect_indicative = conj_class(2, screeve2_paas, screeve2_markers, screeve2_form)
+
+    # Present Subjunctive
+    screeve3_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
+    screeve3_markers = ['დ' + s for s in ['ე', 'ე', 'ე', 'ე', 'ე', '']]
+    present_subjunctive = conj_class(3, screeve3_paas, screeve3_markers, screeve2_form)
+
+    # Future Indicative
+    def screeve4_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    future_indicative = conj_class(4, screeve1_paas, screeve1_markers, screeve4_form)
+
+    # Conditional
+    conditional = conj_class(5, screeve2_paas, screeve2_markers, screeve4_form)
+
+    # Future Subjunctive
+    future_subjunctive = conj_class(6, screeve3_paas, screeve3_markers, screeve4_form)
+
+    # Aorist Indicative
+    screeve7_paas = [['ვ', ''], ['', ''], ['', ''], ['ვ', 'თ'], ['', 'თ'], ['', 'ეს']]
+    screeve7_markers = ['ე', 'ე', '', 'ე', 'ე', '']
+    def screeve7_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + screeve_marker + paa_suff  # stem := version + root + screeve_marker
+    aorist_indicative = conj_class(7, screeve7_paas, screeve7_markers, screeve7_form)
+
+    # Aorist Subjunctive
+    screeve8_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნ']]
+    screeve8_markers = ['ო'] * 6
+    aorist_subjunctive = conj_class(8, screeve8_paas, screeve8_markers, screeve7_form)
+
+    # Perfect
+    screeve9_paas = [['მ', ''], ['გ', ''], ['', ''], ['გვ', ''], ['გ', 'თ'], ['', 'თ']]
+    screeve9_markers = ['ი' + 'ა'] * 6  # the 'ა' is for Inversion - marks 3rd person object
+    perfect = conj_class(9, screeve9_paas, screeve9_markers, screeve4_form)
+
+    # Pluperfect
+    screeve10_markers = ['ა'] * 6  # the 'ა' is for Inversion - marks 3rd person object
+    pluperfect = conj_class(10, screeve9_paas, screeve10_markers, screeve4_form)
+
+    # 3rd Subjunctive
+    screeve11_markers = ['ო' + 'ს', 'ო' + 'ს', 'ო' + 'ს', 'ო' + 'ს', 'ო' + '','ო' + '']  # the ს' is for Inversion - marks 3rd person object
+    third_subjunctive = conj_class(11, screeve9_paas, screeve11_markers, screeve4_form)
+
+    screeves = [present_indicative, imperfect_indicative, present_subjunctive, future_indicative, conditional, future_subjunctive,  # Series 1
+                aorist_indicative, aorist_subjunctive,  # Series 2
+                perfect, pluperfect, third_subjunctive]  # Series 3
+    return screeves
+
 
 class Intransitive_Screeve(Screeve):
     def __init__(self, idx: int, PAAs: [[str]], screeve_markers: [str], formula):
@@ -144,66 +205,6 @@ class Intransitive_Screeve(Screeve):
                 self.paas = zip_pronouns_paas([['ვ','იყო'], ['','იყო'], ['','იყოს'], ['ვ','იყოთ'], ['','იყოთ'], ['','იყონ']])
             else:
                 self.paas = zip_pronouns_paas([['ვ',''], ['',''], ['','ს'], ['ვ','თ'], ['','თ'], ['','ნენ']])
-
-
-
-def define_Transitive_Screeves():
-    # Present Indicative
-    screeve1_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ენ']]  # paa = pronominal agreement affixes
-    screeve1_markers = [''] * 6
-    def screeve1_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + paa_suff  # Here, stem := version + root + ts
-    present_indicative = Transitive_Screeve(1, screeve1_paas, screeve1_markers, screeve1_form)
-
-    # Imperfect Indicative
-    screeve2_paas = [['ვ', ''], ['', ''], ['', 'ა'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
-    screeve2_markers = ['დ' + s for s in ['ი', 'ი', '', 'ი', 'ი', '']]
-    def screeve2_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + screeve_marker + paa_suff  # stem := version + root + ts + screeve_marker
-    imperfect_indicative = Transitive_Screeve(2, screeve2_paas, screeve2_markers, screeve2_form)
-
-    # Present Subjunctive
-    screeve3_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნენ']]
-    screeve3_markers = ['დ' + s for s in ['ე', 'ე', 'ე', 'ე', 'ე', '']]
-    present_subjunctive = Transitive_Screeve(3, screeve3_paas, screeve3_markers, screeve2_form)
-
-    # Future Indicative
-    def screeve4_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
-    future_indicative = Transitive_Screeve(4, screeve1_paas, screeve1_markers, screeve4_form)
-
-    # Conditional
-    conditional = Transitive_Screeve(5, screeve2_paas, screeve2_markers, screeve4_form)
-
-    # Future Subjunctive
-    future_subjunctive = Transitive_Screeve(6, screeve3_paas, screeve3_markers, screeve4_form)
-
-    # Aorist Indicative
-    screeve7_paas = [['ვ', ''], ['', ''], ['', ''], ['ვ', 'თ'], ['', 'თ'], ['', 'ეს']]
-    screeve7_markers = ['ე', 'ე', '', 'ე', 'ე', '']
-    def screeve7_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + screeve_marker + paa_suff  # stem := version + root + screeve_marker
-    aorist_indicative = Transitive_Screeve(7, screeve7_paas, screeve7_markers, screeve7_form)
-
-    # Aorist Subjunctive
-    screeve8_paas = [['ვ', ''], ['', ''], ['', 'ს'], ['ვ', 'თ'], ['', 'თ'], ['', 'ნ']]
-    screeve8_markers = ['ო'] * 6
-    aorist_subjunctive = Transitive_Screeve(8, screeve8_paas, screeve8_markers, screeve7_form)
-
-    # Perfect
-    screeve9_paas = [['მ', ''], ['გ', ''], ['', ''], ['გვ', ''], ['გ', 'თ'], ['', 'თ']]
-    screeve9_markers = ['ი' + 'ა'] * 6  # the 'ა' is for Inversion - marks 3rd person object
-    perfect = Transitive_Screeve(9, screeve9_paas, screeve9_markers, screeve4_form)
-
-    # Pluperfect
-    screeve10_markers = ['ა'] * 6  # the 'ა' is for Inversion - marks 3rd person object
-    pluperfect = Transitive_Screeve(10, screeve9_paas, screeve10_markers, screeve4_form)
-
-    # 3rd Subjunctive
-    screeve11_markers = ['ო' + 'ს', 'ო' + 'ს', 'ო' + 'ს', 'ო' + 'ს', 'ო' + '','ო' + '']  # the ს' is for Inversion - marks 3rd person object
-    third_subjunctive = Transitive_Screeve(11, screeve9_paas, screeve11_markers, screeve4_form)
-
-    screeves = [present_indicative, imperfect_indicative, present_subjunctive, future_indicative, conditional, future_subjunctive,  # Series 1
-                aorist_indicative, aorist_subjunctive,  # Series 2
-                perfect, pluperfect, third_subjunctive]  # Series 3
-    return screeves
-
 
 def define_Intransitive_Screeves():
     # Present Indicative
@@ -263,3 +264,27 @@ def define_Intransitive_Screeves():
                 aorist_indicative, aorist_subjunctive, # Series 2
                 perfect, pluperfect, third_subjunctive] # Series 3
     return screeves
+
+class Medial_Screeve(Screeve):
+    def __init__(self, idx: int, PAAs: [[str]], screeve_markers: [str], formula):
+        super().__init__(idx, PAAs, screeve_markers, formula)
+
+    def screeve_specifications(self, lemma: Medial_Lemma):
+        assert lemma.preverb==''
+        if self.idx in {4,5,6,7,8}:
+            lemma.ts = lemma.future_ts
+            lemma.version = zip_pronouns(['ი']*6)
+
+        if self.idx in {9,10,11}:
+            lemma.ts = ''
+
+        if self.idx == 9:
+            lemma.version = lemma.perfect_version
+        elif self.idx in {10, 11}:
+            lemma.version = lemma.pluperfect_version
+
+        if self.idx == 7:
+            self.paas['sg3']['suff'] = 'ა' # instead of lemma.aor_indic_3rd_sg - can be "a" except the verb "feel".
+
+def define_Medial_Screeves():
+    return define_Transitive_Screeves('med')
