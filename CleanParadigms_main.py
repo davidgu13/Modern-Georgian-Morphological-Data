@@ -16,6 +16,8 @@ class Conjugation:
             obj = Transitive_Lemma(*row.tolist())
         elif conj=='itv':
             obj = Intransitive_Lemma(*row.tolist())
+        elif conj=='med':
+            obj = Medial_Lemma(*row.tolist())
         else:
             raise Exception("Unknown Conjugation class!")
         return obj
@@ -33,8 +35,14 @@ if __name__=='__main__':
     ITV_df = pd.read_excel(file_path, sheet_name=1)
     ITV_df.fillna('', inplace=True)
 
+    medial_class = Conjugation(define_Medial_Screeves())
+    MED_df = pd.read_excel(file_path, sheet_name=2)
+    MED_df.fillna('', inplace=True)
+
     TV_lemmas_dict = {(idx+1):transitive_class.gen_lemma_object(row,'tv') for idx,row in TV_df.iterrows()}
     ITV_lemmas_dict = {(idx+1):intransitive_class.gen_lemma_object(row,'itv') for idx,row in ITV_df.iterrows()}
+    MED_lemmas_dict = {(idx+1):intransitive_class.gen_lemma_object(row,'med') for idx,row in MED_df.iterrows()}
+
 
     # region transitive_verbs
     # 2 simple regular verbs for example, and then the actual 5 verbs:
@@ -64,9 +72,15 @@ if __name__=='__main__':
     # intransitive_lemmas_dict = {1: blush, 2: be_done, 3:be_opened, 4:written, 5:be_cleaned,
     #                             6:err, 7:hide, 8:choke, 9: hide_tv, 10: stay_from}
     # endregion intransitive_verbs
-    example_lemma = TV_lemmas_dict[23]
-    with open(os.path.join("Clean Paradigms", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-        transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
-    # example_lemma = ITV_lemmas_dict[12]
-    # intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose)
+    # example_lemma = TV_lemmas_dict[39]
+    # with open(os.path.join("Clean Paradigms", "Transitive", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+    #     transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    # example_lemma = ITV_lemmas_dict[11]
+    # with open(os.path.join("Clean Paradigms", "Intransitive", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+    #     intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    example_lemma = MED_lemmas_dict[19]
+    with open(os.path.join("Clean Paradigms", "Medial", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+        medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
