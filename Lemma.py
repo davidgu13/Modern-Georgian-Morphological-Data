@@ -21,7 +21,7 @@ class Lemma:
 
     def gen_lemma_form(self, screeves):
         if self.lemma_form=='': # calculating the lemma name, if not already given
-            self.lemma_form = self.version['sg3'] + self.root + self.ts + screeves[0].paas['sg3']['suff']  # 1st Screeve, 3rd person singular
+            self.lemma_form = self.version['sg3'] + self.root + self.passive_marker + self.ts + screeves[0].paas['sg3']['suff']  # 1st Screeve, 3rd person singular
 
 
     def generate_clean_paradigm(self, screeves, use_unimorph_format, verbose, file):
@@ -79,3 +79,12 @@ class Intransitive_Lemma(Lemma):
 
         self.passive_marker = 'დ' if self.formation_option==2 else ''
         # Other modifications of the stem are found in Intransitive_Screeve class!
+
+
+class Medial_Lemma(Lemma):
+    def __init__(self, idx: int, translation: str, version:str, root:str, ts:str, future_ts:str, alternative_root='', masdar_prf='', masdar_imprf='', lemma_form=''):
+        super(Medial_Lemma, self).__init__(idx, translation, '', version, root, ts, alternative_root, masdar_prf, masdar_imprf, lemma_form) # preverb=''
+        self.future_ts = future_tsל
+
+        self.perfect_version = zip_pronouns(['ი','ი','უ','ი','ი','უ']) # if it is not always correct, then modify manuaaly or copy from Transitive_class
+        self.pluperfect_version = zip_pronouns(['ე']*6)
