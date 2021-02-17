@@ -73,14 +73,37 @@ if __name__=='__main__':
     #                             6:err, 7:hide, 8:choke, 9: hide_tv, 10: stay_from}
     # endregion intransitive_verbs
 
-    # example_lemma = TV_lemmas_dict[39]
-    # with open(os.path.join("Clean Paradigms", "Transitive", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-    #     transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+    conjugations_names = ['Transitive', 'Intransitive', 'Medial', 'Indirect']
+    if not os.path.isdir("Clean Paradigms"):
+        os.mkdir("Clean Paradigms")
+    for dir_name in conjugations_names:
+        if not os.path.isdir(os.path.join("Clean Paradigms", dir_name)):
+            os.mkdir(os.path.join("Clean Paradigms", dir_name))
 
-    # example_lemma = ITV_lemmas_dict[11]
-    # with open(os.path.join("Clean Paradigms", "Intransitive", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-    #     intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
-    example_lemma = MED_lemmas_dict[19]
-    with open(os.path.join("Clean Paradigms", "Medial", example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-        medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+    conjugation_choice = 2
+    assert 0 <= conjugation_choice < len(conjugations_names)
+
+    if conjugation_choice==0:
+        example_lemma = TV_lemmas_dict[8]
+        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+            transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    elif conjugation_choice==1:
+        example_lemma = ITV_lemmas_dict[16]
+        with open(os.path.join("Clean Paradigms", conjugations_names[1], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+            intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    elif conjugation_choice==2:
+        example_lemma = MED_lemmas_dict[19]
+        with open(os.path.join("Clean Paradigms", conjugations_names[2], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+            medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    elif conjugation_choice==3:
+        example_lemma = TV_lemmas_dict[10]
+        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice],
+                               example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
+            transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+
+    else: raise Exception("Invalid conjugation choice!")
+

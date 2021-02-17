@@ -51,7 +51,8 @@ class Screeve:
                 file.write(f"{lemma_form}\t{form}\tV;{format_pronouns(p)};IMP{eng_form}\n")
             else:
                 file.write(f"Imperative form, {p}: {form}{eng_form}\n")
-        file.write('\n')
+        s = '\n' if self.idx in {7,8} else ''
+        file.write('\n'+s)
 
 
 class Transitive_Screeve(Screeve):
@@ -86,6 +87,10 @@ class Transitive_Screeve(Screeve):
                     lemma.root += 'ი'
                 else:
                     lemma.ts = 'ი'
+
+        if lemma.ts=='ოფ':
+            if self.idx==9: lemma.ts = 'ვ'
+            elif self.idx in {10,11}: lemma.ts=''
 
         if self.idx in {9, 10, 11} and lemma.ts in {'ავ','ი','ობ','ამ'}:
             lemma.ts = ''
@@ -190,8 +195,15 @@ class Intransitive_Screeve(Screeve):
                     lemma.perfect_marker = lemma.perfect_marker[1:]
                 self.markers = zip_pronouns([lemma.perfect_marker] * 6)
             else: # lemma.valency==2:
-                marker_char = 'ოდ' + ('ე' if self.idx==11 else 'ი') # else <=> idx in {9,10}
-                self.markers = zip_pronouns([marker_char] * 6)
+                marker_char = 'ოდ' if self.idx in {10,11} else ''
+                if self.idx==9:
+                    markers = ['ი']*6
+                elif self.idx==10:
+                    markers = ['ი', 'ი', '', 'ი', 'ი', 'ი']
+                elif self.idx==11:
+                    markers = ['ე']*6
+                else: raise Exception("Impossible!")
+                self.markers = zip_pronouns([marker_char+c for c in markers])
 
                 self.paas['sg3']['pref'] = lemma.perfects_3rd_IDO
 

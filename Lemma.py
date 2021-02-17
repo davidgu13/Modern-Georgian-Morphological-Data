@@ -84,7 +84,7 @@ class Intransitive_Lemma(Lemma):
 class Medial_Lemma(Lemma):
     def __init__(self, idx: int, translation: str, version:str, root:str, ts:str, future_ts:str, alternative_root='', masdar_prf='', masdar_imprf='', lemma_form=''):
         super(Medial_Lemma, self).__init__(idx, translation, '', version, root, ts, alternative_root, masdar_prf, masdar_imprf, lemma_form) # preverb=''
-        self.future_ts = future_tsל
+        self.future_ts = future_ts
 
         self.perfect_version = zip_pronouns(['ი','ი','უ','ი','ი','უ']) # if it is not always correct, then modify manuaaly or copy from Transitive_class
         self.pluperfect_version = zip_pronouns(['ე']*6)
