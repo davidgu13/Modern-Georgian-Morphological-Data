@@ -1,0 +1,109 @@
+#24 - ანთებს - light_fire:
+Screeve #1:
+ანთებს	ვანთებ	V;1;SG;IND;PRS = vanteb
+ანთებს	ანთებ	V;2;SG;IND;PRS = anteb
+ანთებს	ანთებს	V;3;SG;IND;PRS = antebs
+ანთებს	ვანთებთ	V;1;PL;IND;PRS = vantebt
+ანთებს	ანთებთ	V;2;PL;IND;PRS = antebt
+ანთებს	ანთებენ	V;3;PL;IND;PRS = anteben
+
+
+Screeve #2:
+ანთებს	ვანთებდი	V;1;SG;IND;IPFV = vantebdi
+ანთებს	ანთებდი	V;2;SG;IND;IPFV = antebdi
+ანთებს	ანთებდა	V;3;SG;IND;IPFV = antebda
+ანთებს	ვანთებდით	V;1;PL;IND;IPFV = vantebdit
+ანთებს	ანთებდით	V;2;PL;IND;IPFV = antebdit
+ანთებს	ანთებდნენ	V;3;PL;IND;IPFV = antebdnen
+
+
+Screeve #3:
+ანთებს	ვანთებდე	V;1;SG;SBJV;PRS = vantebde
+ანთებს	ანთებდე	V;2;SG;SBJV;PRS = antebde
+ანთებს	ანთებდეს	V;3;SG;SBJV;PRS = antebdes
+ანთებს	ვანთებდეთ	V;1;PL;SBJV;PRS = vantebdet
+ანთებს	ანთებდეთ	V;2;PL;SBJV;PRS = antebdet
+ანთებს	ანთებდნენ	V;3;PL;SBJV;PRS = antebdnen
+
+
+Screeve #4:
+ანთებს	დავანთებ	V;1;SG;IND;FUT = davanteb
+ანთებს	დაანთებ	V;2;SG;IND;FUT = daanteb
+ანთებს	დაანთებს	V;3;SG;IND;FUT = daantebs
+ანთებს	დავანთებთ	V;1;PL;IND;FUT = davantebt
+ანთებს	დაანთებთ	V;2;PL;IND;FUT = daantebt
+ანთებს	დაანთებენ	V;3;PL;IND;FUT = daanteben
+
+
+Screeve #5:
+ანთებს	დავანთებდი	V;1;SG;COND = davantebdi
+ანთებს	დაანთებდი	V;2;SG;COND = daantebdi
+ანთებს	დაანთებდა	V;3;SG;COND = daantebda
+ანთებს	დავანთებდით	V;1;PL;COND = davantebdit
+ანთებს	დაანთებდით	V;2;PL;COND = daantebdit
+ანთებს	დაანთებდნენ	V;3;PL;COND = daantebdnen
+
+
+Screeve #6:
+ანთებს	დავანთებდე	V;1;SG;SBJV;FUT = davantebde
+ანთებს	დაანთებდე	V;2;SG;SBJV;FUT = daantebde
+ანთებს	დაანთებდეს	V;3;SG;SBJV;FUT = daantebdes
+ანთებს	დავანთებდეთ	V;1;PL;SBJV;FUT = davantebdet
+ანთებს	დაანთებდეთ	V;2;PL;SBJV;FUT = daantebdet
+ანთებს	დაანთებდნენ	V;3;PL;SBJV;FUT = daantebdnen
+
+
+Screeve #7:
+ანთებს	დავანთე	V;1;SG;IND;PST;PFV = davante
+ანთებს	დაანთე	V;2;SG;IND;PST;PFV = daante
+ანთებს	დაანთო	V;3;SG;IND;PST;PFV = daanto
+ანთებს	დავანთეთ	V;1;PL;IND;PST;PFV = davantet
+ანთებს	დაანთეთ	V;2;PL;IND;PST;PFV = daantet
+ანთებს	დაანთეს	V;3;PL;IND;PST;PFV = daantes
+
+ანთებს	დაანთე	V;2;SG;IMP = daante
+ანთებს	დაანთეთ	V;2;PL;IMP = daantet
+
+
+Screeve #8:
+ანთებს	დავანთო	V;1;SG;OPT = davanto
+ანთებს	დაანთო	V;2;SG;OPT = daanto
+ანთებს	დაანთოს	V;3;SG;OPT = daantos
+ანთებს	დავანთოთ	V;1;PL;OPT = davantot
+ანთებს	დაანთოთ	V;2;PL;OPT = daantot
+ანთებს	დაანთონ	V;3;PL;OPT = daanton
+
+ანთებს	დავანთოთ	V;1;PL;IMP = davantot
+ანთებს	დაანთოს	V;3;SG;IMP = daantos
+ანთებს	დაანთონ	V;3;PL;IMP = daanton
+
+
+Screeve #9:
+ანთებს	დამინთია	V;1;SG;IND;PRF = damintia
+ანთებს	დაგინთია	V;2;SG;IND;PRF = dagintia
+ანთებს	დაუნთია	V;3;SG;IND;PRF = dauntia
+ანთებს	დაგვინთია	V;1;PL;IND;PRF = dagvintia
+ანთებს	დაგინთიათ	V;2;PL;IND;PRF = dagintiat
+ანთებს	დაუნთიათ	V;3;PL;IND;PRF = dauntiat
+
+
+Screeve #10:
+ანთებს	დამენთო	V;1;SG;IND;PST;PRF = damento
+ანთებს	დაგენთო	V;2;SG;IND;PST;PRF = dagento
+ანთებს	დაენთო	V;3;SG;IND;PST;PRF = daento
+ანთებს	დაგვენთო	V;1;PL;IND;PST;PRF = dagvento
+ანთებს	დაგენთოთ	V;2;PL;IND;PST;PRF = dagentot
+ანთებს	დაენთოთ	V;3;PL;IND;PST;PRF = daentot
+
+
+Screeve #11:
+ანთებს	დამენთოს	V;1;SG;SBJV;PRF = damentos
+ანთებს	დაგენთოს	V;2;SG;SBJV;PRF = dagentos
+ანთებს	დაენთოს	V;3;SG;SBJV;PRF = daentos
+ანთებს	დაგვენთოს	V;1;PL;SBJV;PRF = dagventos
+ანთებს	დაგენთოთ	V;2;PL;SBJV;PRF = dagentot
+ანთებს	დაენთოთ	V;3;PL;SBJV;PRF = daentot
+
+
+ანთებს	დანთება	V;V.MSDR;PRF
+ანთებს	დანთება	V;V.MSDR;IPFV

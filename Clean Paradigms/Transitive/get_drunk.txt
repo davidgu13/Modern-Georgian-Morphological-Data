@@ -1,0 +1,109 @@
+#34 - ათრობს - get_drunk:
+Screeve #1:
+ათრობს	ვათრობ	V;1;SG;IND;PRS = vatrob
+ათრობს	ათრობ	V;2;SG;IND;PRS = atrob
+ათრობს	ათრობს	V;3;SG;IND;PRS = atrobs
+ათრობს	ვათრობთ	V;1;PL;IND;PRS = vatrobt
+ათრობს	ათრობთ	V;2;PL;IND;PRS = atrobt
+ათრობს	ათრობენ	V;3;PL;IND;PRS = atroben
+
+
+Screeve #2:
+ათრობს	ვათრობდი	V;1;SG;IND;IPFV = vatrobdi
+ათრობს	ათრობდი	V;2;SG;IND;IPFV = atrobdi
+ათრობს	ათრობდა	V;3;SG;IND;IPFV = atrobda
+ათრობს	ვათრობდით	V;1;PL;IND;IPFV = vatrobdit
+ათრობს	ათრობდით	V;2;PL;IND;IPFV = atrobdit
+ათრობს	ათრობდნენ	V;3;PL;IND;IPFV = atrobdnen
+
+
+Screeve #3:
+ათრობს	ვათრობდე	V;1;SG;SBJV;PRS = vatrobde
+ათრობს	ათრობდე	V;2;SG;SBJV;PRS = atrobde
+ათრობს	ათრობდეს	V;3;SG;SBJV;PRS = atrobdes
+ათრობს	ვათრობდეთ	V;1;PL;SBJV;PRS = vatrobdet
+ათრობს	ათრობდეთ	V;2;PL;SBJV;PRS = atrobdet
+ათრობს	ათრობდნენ	V;3;PL;SBJV;PRS = atrobdnen
+
+
+Screeve #4:
+ათრობს	დავათრობ	V;1;SG;IND;FUT = davatrob
+ათრობს	დაათრობ	V;2;SG;IND;FUT = daatrob
+ათრობს	დაათრობს	V;3;SG;IND;FUT = daatrobs
+ათრობს	დავათრობთ	V;1;PL;IND;FUT = davatrobt
+ათრობს	დაათრობთ	V;2;PL;IND;FUT = daatrobt
+ათრობს	დაათრობენ	V;3;PL;IND;FUT = daatroben
+
+
+Screeve #5:
+ათრობს	დავათრობდი	V;1;SG;COND = davatrobdi
+ათრობს	დაათრობდი	V;2;SG;COND = daatrobdi
+ათრობს	დაათრობდა	V;3;SG;COND = daatrobda
+ათრობს	დავათრობდით	V;1;PL;COND = davatrobdit
+ათრობს	დაათრობდით	V;2;PL;COND = daatrobdit
+ათრობს	დაათრობდნენ	V;3;PL;COND = daatrobdnen
+
+
+Screeve #6:
+ათრობს	დავათრობდე	V;1;SG;SBJV;FUT = davatrobde
+ათრობს	დაათრობდე	V;2;SG;SBJV;FUT = daatrobde
+ათრობს	დაათრობდეს	V;3;SG;SBJV;FUT = daatrobdes
+ათრობს	დავათრობდეთ	V;1;PL;SBJV;FUT = davatrobdet
+ათრობს	დაათრობდეთ	V;2;PL;SBJV;FUT = daatrobdet
+ათრობს	დაათრობდნენ	V;3;PL;SBJV;FUT = daatrobdnen
+
+
+Screeve #7:
+ათრობს	დავათრე	V;1;SG;IND;PST;PFV = davatre
+ათრობს	დაათრე	V;2;SG;IND;PST;PFV = daatre
+ათრობს	დაათრო	V;3;SG;IND;PST;PFV = daatro
+ათრობს	დავათრეთ	V;1;PL;IND;PST;PFV = davatret
+ათრობს	დაათრეთ	V;2;PL;IND;PST;PFV = daatret
+ათრობს	დაათრეს	V;3;PL;IND;PST;PFV = daatres
+
+ათრობს	დაათრე	V;2;SG;IMP = daatre
+ათრობს	დაათრეთ	V;2;PL;IMP = daatret
+
+
+Screeve #8:
+ათრობს	დავათრო	V;1;SG;OPT = davatro
+ათრობს	დაათრო	V;2;SG;OPT = daatro
+ათრობს	დაათროს	V;3;SG;OPT = daatros
+ათრობს	დავათროთ	V;1;PL;OPT = davatrot
+ათრობს	დაათროთ	V;2;PL;OPT = daatrot
+ათრობს	დაათრონ	V;3;PL;OPT = daatron
+
+ათრობს	დავათროთ	V;1;PL;IMP = davatrot
+ათრობს	დაათროს	V;3;SG;IMP = daatros
+ათრობს	დაათრონ	V;3;PL;IMP = daatron
+
+
+Screeve #9:
+ათრობს	დამითრია	V;1;SG;IND;PRF = damitria
+ათრობს	დაგითრია	V;2;SG;IND;PRF = dagitria
+ათრობს	დაუთრია	V;3;SG;IND;PRF = dautria
+ათრობს	დაგვითრია	V;1;PL;IND;PRF = dagvitria
+ათრობს	დაგითრიათ	V;2;PL;IND;PRF = dagitriat
+ათრობს	დაუთრიათ	V;3;PL;IND;PRF = dautriat
+
+
+Screeve #10:
+ათრობს	დამეთრა	V;1;SG;IND;PST;PRF = dametra
+ათრობს	დაგეთრა	V;2;SG;IND;PST;PRF = dagetra
+ათრობს	დაეთრა	V;3;SG;IND;PST;PRF = daetra
+ათრობს	დაგვეთრა	V;1;PL;IND;PST;PRF = dagvetra
+ათრობს	დაგეთრათ	V;2;PL;IND;PST;PRF = dagetrat
+ათრობს	დაეთრათ	V;3;PL;IND;PST;PRF = daetrat
+
+
+Screeve #11:
+ათრობს	დამეთროს	V;1;SG;SBJV;PRF = dametros
+ათრობს	დაგეთროს	V;2;SG;SBJV;PRF = dagetros
+ათრობს	დაეთროს	V;3;SG;SBJV;PRF = daetros
+ათრობს	დაგვეთროს	V;1;PL;SBJV;PRF = dagvetros
+ათრობს	დაგეთროთ	V;2;PL;SBJV;PRF = dagetrot
+ათრობს	დაეთროთ	V;3;PL;SBJV;PRF = daetrot
+
+
+ათრობს	დათრობა	V;V.MSDR;PRF
+ათრობს	?	V;V.MSDR;IPFV

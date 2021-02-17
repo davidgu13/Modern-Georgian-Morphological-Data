@@ -1,0 +1,109 @@
+#30 - ასახელებს - name:
+Screeve #1:
+ასახელებს	ვასახელებ	V;1;SG;IND;PRS = vasaxeleb
+ასახელებს	ასახელებ	V;2;SG;IND;PRS = asaxeleb
+ასახელებს	ასახელებს	V;3;SG;IND;PRS = asaxelebs
+ასახელებს	ვასახელებთ	V;1;PL;IND;PRS = vasaxelebt
+ასახელებს	ასახელებთ	V;2;PL;IND;PRS = asaxelebt
+ასახელებს	ასახელებენ	V;3;PL;IND;PRS = asaxeleben
+
+
+Screeve #2:
+ასახელებს	ვასახელებდი	V;1;SG;IND;IPFV = vasaxelebdi
+ასახელებს	ასახელებდი	V;2;SG;IND;IPFV = asaxelebdi
+ასახელებს	ასახელებდა	V;3;SG;IND;IPFV = asaxelebda
+ასახელებს	ვასახელებდით	V;1;PL;IND;IPFV = vasaxelebdit
+ასახელებს	ასახელებდით	V;2;PL;IND;IPFV = asaxelebdit
+ასახელებს	ასახელებდნენ	V;3;PL;IND;IPFV = asaxelebdnen
+
+
+Screeve #3:
+ასახელებს	ვასახელებდე	V;1;SG;SBJV;PRS = vasaxelebde
+ასახელებს	ასახელებდე	V;2;SG;SBJV;PRS = asaxelebde
+ასახელებს	ასახელებდეს	V;3;SG;SBJV;PRS = asaxelebdes
+ასახელებს	ვასახელებდეთ	V;1;PL;SBJV;PRS = vasaxelebdet
+ასახელებს	ასახელებდეთ	V;2;PL;SBJV;PRS = asaxelebdet
+ასახელებს	ასახელებდნენ	V;3;PL;SBJV;PRS = asaxelebdnen
+
+
+Screeve #4:
+ასახელებს	დავასახელებ	V;1;SG;IND;FUT = davasaxeleb
+ასახელებს	დაასახელებ	V;2;SG;IND;FUT = daasaxeleb
+ასახელებს	დაასახელებს	V;3;SG;IND;FUT = daasaxelebs
+ასახელებს	დავასახელებთ	V;1;PL;IND;FUT = davasaxelebt
+ასახელებს	დაასახელებთ	V;2;PL;IND;FUT = daasaxelebt
+ასახელებს	დაასახელებენ	V;3;PL;IND;FUT = daasaxeleben
+
+
+Screeve #5:
+ასახელებს	დავასახელებდი	V;1;SG;COND = davasaxelebdi
+ასახელებს	დაასახელებდი	V;2;SG;COND = daasaxelebdi
+ასახელებს	დაასახელებდა	V;3;SG;COND = daasaxelebda
+ასახელებს	დავასახელებდით	V;1;PL;COND = davasaxelebdit
+ასახელებს	დაასახელებდით	V;2;PL;COND = daasaxelebdit
+ასახელებს	დაასახელებდნენ	V;3;PL;COND = daasaxelebdnen
+
+
+Screeve #6:
+ასახელებს	დავასახელებდე	V;1;SG;SBJV;FUT = davasaxelebde
+ასახელებს	დაასახელებდე	V;2;SG;SBJV;FUT = daasaxelebde
+ასახელებს	დაასახელებდეს	V;3;SG;SBJV;FUT = daasaxelebdes
+ასახელებს	დავასახელებდეთ	V;1;PL;SBJV;FUT = davasaxelebdet
+ასახელებს	დაასახელებდეთ	V;2;PL;SBJV;FUT = daasaxelebdet
+ასახელებს	დაასახელებდნენ	V;3;PL;SBJV;FUT = daasaxelebdnen
+
+
+Screeve #7:
+ასახელებს	დავასახელე	V;1;SG;IND;PST;PFV = davasaxele
+ასახელებს	დაასახელე	V;2;SG;IND;PST;PFV = daasaxele
+ასახელებს	დაასახელა	V;3;SG;IND;PST;PFV = daasaxela
+ასახელებს	დავასახელეთ	V;1;PL;IND;PST;PFV = davasaxelet
+ასახელებს	დაასახელეთ	V;2;PL;IND;PST;PFV = daasaxelet
+ასახელებს	დაასახელეს	V;3;PL;IND;PST;PFV = daasaxeles
+
+ასახელებს	დაასახელე	V;2;SG;IMP = daasaxele
+ასახელებს	დაასახელეთ	V;2;PL;IMP = daasaxelet
+
+
+Screeve #8:
+ასახელებს	დავასახელო	V;1;SG;OPT = davasaxelo
+ასახელებს	დაასახელო	V;2;SG;OPT = daasaxelo
+ასახელებს	დაასახელოს	V;3;SG;OPT = daasaxelos
+ასახელებს	დავასახელოთ	V;1;PL;OPT = davasaxelot
+ასახელებს	დაასახელოთ	V;2;PL;OPT = daasaxelot
+ასახელებს	დაასახელონ	V;3;PL;OPT = daasaxelon
+
+ასახელებს	დავასახელოთ	V;1;PL;IMP = davasaxelot
+ასახელებს	დაასახელოს	V;3;SG;IMP = daasaxelos
+ასახელებს	დაასახელონ	V;3;PL;IMP = daasaxelon
+
+
+Screeve #9:
+ასახელებს	დამისახელებია	V;1;SG;IND;PRF = damisaxelebia
+ასახელებს	დაგისახელებია	V;2;SG;IND;PRF = dagisaxelebia
+ასახელებს	დაუსახელებია	V;3;SG;IND;PRF = dausaxelebia
+ასახელებს	დაგვისახელებია	V;1;PL;IND;PRF = dagvisaxelebia
+ასახელებს	დაგისახელებიათ	V;2;PL;IND;PRF = dagisaxelebiat
+ასახელებს	დაუსახელებიათ	V;3;PL;IND;PRF = dausaxelebiat
+
+
+Screeve #10:
+ასახელებს	დამესახელებინა	V;1;SG;IND;PST;PRF = damesaxelebina
+ასახელებს	დაგესახელებინა	V;2;SG;IND;PST;PRF = dagesaxelebina
+ასახელებს	დაესახელებინა	V;3;SG;IND;PST;PRF = daesaxelebina
+ასახელებს	დაგვესახელებინა	V;1;PL;IND;PST;PRF = dagvesaxelebina
+ასახელებს	დაგესახელებინათ	V;2;PL;IND;PST;PRF = dagesaxelebinat
+ასახელებს	დაესახელებინათ	V;3;PL;IND;PST;PRF = daesaxelebinat
+
+
+Screeve #11:
+ასახელებს	დამესახელებინოს	V;1;SG;SBJV;PRF = damesaxelebinos
+ასახელებს	დაგესახელებინოს	V;2;SG;SBJV;PRF = dagesaxelebinos
+ასახელებს	დაესახელებინოს	V;3;SG;SBJV;PRF = daesaxelebinos
+ასახელებს	დაგვესახელებინოს	V;1;PL;SBJV;PRF = dagvesaxelebinos
+ასახელებს	დაგესახელებინოთ	V;2;PL;SBJV;PRF = dagesaxelebinot
+ასახელებს	დაესახელებინოთ	V;3;PL;SBJV;PRF = daesaxelebinot
+
+
+ასახელებს	?	V;V.MSDR;PRF
+ასახელებს	?	V;V.MSDR;IPFV

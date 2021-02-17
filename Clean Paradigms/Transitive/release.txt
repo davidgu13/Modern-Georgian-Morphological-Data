@@ -1,0 +1,108 @@
+#29 - უშვებს - release:
+Screeve #1:
+უშვებს	ვუშვებ	V;1;SG;IND;PRS = vušveb
+უშვებს	უშვებ	V;2;SG;IND;PRS = ušveb
+უშვებს	უშვებს	V;3;SG;IND;PRS = ušvebs
+უშვებს	ვუშვებთ	V;1;PL;IND;PRS = vušvebt
+უშვებს	უშვებთ	V;2;PL;IND;PRS = ušvebt
+უშვებს	უშვებენ	V;3;PL;IND;PRS = ušveben
+
+
+Screeve #2:
+უშვებს	ვუშვებდი	V;1;SG;IND;IPFV = vušvebdi
+უშვებს	უშვებდი	V;2;SG;IND;IPFV = ušvebdi
+უშვებს	უშვებდა	V;3;SG;IND;IPFV = ušvebda
+უშვებს	ვუშვებდით	V;1;PL;IND;IPFV = vušvebdit
+უშვებს	უშვებდით	V;2;PL;IND;IPFV = ušvebdit
+უშვებს	უშვებდნენ	V;3;PL;IND;IPFV = ušvebdnen
+
+
+Screeve #3:
+უშვებს	ვუშვებდე	V;1;SG;SBJV;PRS = vušvebde
+უშვებს	უშვებდე	V;2;SG;SBJV;PRS = ušvebde
+უშვებს	უშვებდეს	V;3;SG;SBJV;PRS = ušvebdes
+უშვებს	ვუშვებდეთ	V;1;PL;SBJV;PRS = vušvebdet
+უშვებს	უშვებდეთ	V;2;PL;SBJV;PRS = ušvebdet
+უშვებს	უშვებდნენ	V;3;PL;SBJV;PRS = ušvebdnen
+
+
+Screeve #4:
+უშვებს	გავუშვებ	V;1;SG;IND;FUT = gavušveb
+უშვებს	გაუშვებ	V;2;SG;IND;FUT = gaušveb
+უშვებს	გაუშვებს	V;3;SG;IND;FUT = gaušvebs
+უშვებს	გავუშვებთ	V;1;PL;IND;FUT = gavušvebt
+უშვებს	გაუშვებთ	V;2;PL;IND;FUT = gaušvebt
+უშვებს	გაუშვებენ	V;3;PL;IND;FUT = gaušveben
+
+
+Screeve #5:
+უშვებს	გავუშვებდი	V;1;SG;COND = gavušvebdi
+უშვებს	გაუშვებდი	V;2;SG;COND = gaušvebdi
+უშვებს	გაუშვებდა	V;3;SG;COND = gaušvebda
+უშვებს	გავუშვებდით	V;1;PL;COND = gavušvebdit
+უშვებს	გაუშვებდით	V;2;PL;COND = gaušvebdit
+უშვებს	გაუშვებდნენ	V;3;PL;COND = gaušvebdnen
+
+
+Screeve #6:
+უშვებს	გავუშვებდე	V;1;SG;SBJV;FUT = gavušvebde
+უშვებს	გაუშვებდე	V;2;SG;SBJV;FUT = gaušvebde
+უშვებს	გაუშვებდეს	V;3;SG;SBJV;FUT = gaušvebdes
+უშვებს	გავუშვებდეთ	V;1;PL;SBJV;FUT = gavušvebdet
+უშვებს	გაუშვებდეთ	V;2;PL;SBJV;FUT = gaušvebdet
+უშვებს	გაუშვებდნენ	V;3;PL;SBJV;FUT = gaušvebdnen
+
+
+Screeve #7:
+უშვებს	გავუშვი	V;1;SG;IND;PST;PFV = gavušvi
+უშვებს	გაუშვი	V;2;SG;IND;PST;PFV = gaušvi
+უშვებს	გაუშვა	V;3;SG;IND;PST;PFV = gaušva
+უშვებს	გავუშვით	V;1;PL;IND;PST;PFV = gavušvit
+უშვებს	გაუშვით	V;2;PL;IND;PST;PFV = gaušvit
+უშვებს	გაუშვეს	V;3;PL;IND;PST;PFV = gaušves
+
+უშვებს	გაუშვი	V;2;SG;IMP = gaušvi
+უშვებს	გაუშვით	V;2;PL;IMP = gaušvit
+
+
+Screeve #8:
+უშვებს	გავუშვა	V;1;SG;OPT = gavušva
+უშვებს	გაუშვა	V;2;SG;OPT = gaušva
+უშვებს	გაუშვას	V;3;SG;OPT = gaušvas
+უშვებს	გავუშვათ	V;1;PL;OPT = gavušvat
+უშვებს	გაუშვათ	V;2;PL;OPT = gaušvat
+უშვებს	გაუშვან	V;3;PL;OPT = gaušvan
+
+უშვებს	გავუშვათ	V;1;PL;IMP = gavušvat
+უშვებს	გაუშვას	V;3;SG;IMP = gaušvas
+უშვებს	გაუშვან	V;3;PL;IMP = gaušvan
+
+
+Screeve #9:
+უშვებს	გამიშვია	V;1;SG;IND;PRF = gamišvia
+უშვებს	გაგიშვია	V;2;SG;IND;PRF = gagišvia
+უშვებს	გაუშვია	V;3;SG;IND;PRF = gaušvia
+უშვებს	გაგვიშვია	V;1;PL;IND;PRF = gagvišvia
+უშვებს	გაგიშვიათ	V;2;PL;IND;PRF = gagišviat
+უშვებს	გაუშვიათ	V;3;PL;IND;PRF = gaušviat
+
+
+Screeve #10:
+უშვებს	გამეშვა	V;1;SG;IND;PST;PRF = gamešva
+უშვებს	გაგეშვა	V;2;SG;IND;PST;PRF = gagešva
+უშვებს	გაეშვა	V;3;SG;IND;PST;PRF = gaešva
+უშვებს	გაგვეშვა	V;1;PL;IND;PST;PRF = gagvešva
+უშვებს	გაგეშვათ	V;2;PL;IND;PST;PRF = gagešvat
+უშვებს	გაეშვათ	V;3;PL;IND;PST;PRF = gaešvat
+
+
+Screeve #11:
+უშვებს	გამეშვას	V;1;SG;SBJV;PRF = gamešvas
+უშვებს	გაგეშვას	V;2;SG;SBJV;PRF = gagešvas
+უშვებს	გაეშვას	V;3;SG;SBJV;PRF = gaešvas
+უშვებს	გაგვეშვას	V;1;PL;SBJV;PRF = gagvešvas
+უშვებს	გაგეშვათ	V;2;PL;SBJV;PRF = gagešvat
+უშვებს	გაეშვათ	V;3;PL;SBJV;PRF = gaešvat
+
+
+უშვებს	გაშვება	V;V.MSDR;PRF

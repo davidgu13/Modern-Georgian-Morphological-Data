@@ -1,0 +1,109 @@
+#18 - ახრჩობს - choke:
+Screeve #1:
+ახრჩობს	ვახრჩობ	V;1;SG;IND;PRS = vaxrčob
+ახრჩობს	ახრჩობ	V;2;SG;IND;PRS = axrčob
+ახრჩობს	ახრჩობს	V;3;SG;IND;PRS = axrčobs
+ახრჩობს	ვახრჩობთ	V;1;PL;IND;PRS = vaxrčobt
+ახრჩობს	ახრჩობთ	V;2;PL;IND;PRS = axrčobt
+ახრჩობს	ახრჩობენ	V;3;PL;IND;PRS = axrčoben
+
+
+Screeve #2:
+ახრჩობს	ვახრჩობდი	V;1;SG;IND;IPFV = vaxrčobdi
+ახრჩობს	ახრჩობდი	V;2;SG;IND;IPFV = axrčobdi
+ახრჩობს	ახრჩობდა	V;3;SG;IND;IPFV = axrčobda
+ახრჩობს	ვახრჩობდით	V;1;PL;IND;IPFV = vaxrčobdit
+ახრჩობს	ახრჩობდით	V;2;PL;IND;IPFV = axrčobdit
+ახრჩობს	ახრჩობდნენ	V;3;PL;IND;IPFV = axrčobdnen
+
+
+Screeve #3:
+ახრჩობს	ვახრჩობდე	V;1;SG;SBJV;PRS = vaxrčobde
+ახრჩობს	ახრჩობდე	V;2;SG;SBJV;PRS = axrčobde
+ახრჩობს	ახრჩობდეს	V;3;SG;SBJV;PRS = axrčobdes
+ახრჩობს	ვახრჩობდეთ	V;1;PL;SBJV;PRS = vaxrčobdet
+ახრჩობს	ახრჩობდეთ	V;2;PL;SBJV;PRS = axrčobdet
+ახრჩობს	ახრჩობდნენ	V;3;PL;SBJV;PRS = axrčobdnen
+
+
+Screeve #4:
+ახრჩობს	დავახრჩობ	V;1;SG;IND;FUT = davaxrčob
+ახრჩობს	დაახრჩობ	V;2;SG;IND;FUT = daaxrčob
+ახრჩობს	დაახრჩობს	V;3;SG;IND;FUT = daaxrčobs
+ახრჩობს	დავახრჩობთ	V;1;PL;IND;FUT = davaxrčobt
+ახრჩობს	დაახრჩობთ	V;2;PL;IND;FUT = daaxrčobt
+ახრჩობს	დაახრჩობენ	V;3;PL;IND;FUT = daaxrčoben
+
+
+Screeve #5:
+ახრჩობს	დავახრჩობდი	V;1;SG;COND = davaxrčobdi
+ახრჩობს	დაახრჩობდი	V;2;SG;COND = daaxrčobdi
+ახრჩობს	დაახრჩობდა	V;3;SG;COND = daaxrčobda
+ახრჩობს	დავახრჩობდით	V;1;PL;COND = davaxrčobdit
+ახრჩობს	დაახრჩობდით	V;2;PL;COND = daaxrčobdit
+ახრჩობს	დაახრჩობდნენ	V;3;PL;COND = daaxrčobdnen
+
+
+Screeve #6:
+ახრჩობს	დავახრჩობდე	V;1;SG;SBJV;FUT = davaxrčobde
+ახრჩობს	დაახრჩობდე	V;2;SG;SBJV;FUT = daaxrčobde
+ახრჩობს	დაახრჩობდეს	V;3;SG;SBJV;FUT = daaxrčobdes
+ახრჩობს	დავახრჩობდეთ	V;1;PL;SBJV;FUT = davaxrčobdet
+ახრჩობს	დაახრჩობდეთ	V;2;PL;SBJV;FUT = daaxrčobdet
+ახრჩობს	დაახრჩობდნენ	V;3;PL;SBJV;FUT = daaxrčobdnen
+
+
+Screeve #7:
+ახრჩობს	დავახრჩე	V;1;SG;IND;PST;PFV = davaxrče
+ახრჩობს	დაახრჩე	V;2;SG;IND;PST;PFV = daaxrče
+ახრჩობს	დაახრჩო	V;3;SG;IND;PST;PFV = daaxrčo
+ახრჩობს	დავახრჩეთ	V;1;PL;IND;PST;PFV = davaxrčet
+ახრჩობს	დაახრჩეთ	V;2;PL;IND;PST;PFV = daaxrčet
+ახრჩობს	დაახრჩეს	V;3;PL;IND;PST;PFV = daaxrčes
+
+ახრჩობს	დაახრჩე	V;2;SG;IMP = daaxrče
+ახრჩობს	დაახრჩეთ	V;2;PL;IMP = daaxrčet
+
+
+Screeve #8:
+ახრჩობს	დავახრჩო	V;1;SG;OPT = davaxrčo
+ახრჩობს	დაახრჩო	V;2;SG;OPT = daaxrčo
+ახრჩობს	დაახრჩოს	V;3;SG;OPT = daaxrčos
+ახრჩობს	დავახრჩოთ	V;1;PL;OPT = davaxrčot
+ახრჩობს	დაახრჩოთ	V;2;PL;OPT = daaxrčot
+ახრჩობს	დაახრჩონ	V;3;PL;OPT = daaxrčon
+
+ახრჩობს	დავახრჩოთ	V;1;PL;IMP = davaxrčot
+ახრჩობს	დაახრჩოს	V;3;SG;IMP = daaxrčos
+ახრჩობს	დაახრჩონ	V;3;PL;IMP = daaxrčon
+
+
+Screeve #9:
+ახრჩობს	დამიხრჩვია	V;1;SG;IND;PRF = damixrčvia
+ახრჩობს	დაგიხრჩვია	V;2;SG;IND;PRF = dagixrčvia
+ახრჩობს	დაუხრჩვია	V;3;SG;IND;PRF = dauxrčvia
+ახრჩობს	დაგვიხრჩვია	V;1;PL;IND;PRF = dagvixrčvia
+ახრჩობს	დაგიხრჩვიათ	V;2;PL;IND;PRF = dagixrčviat
+ახრჩობს	დაუხრჩვიათ	V;3;PL;IND;PRF = dauxrčviat
+
+
+Screeve #10:
+ახრჩობს	დამეხრჩო	V;1;SG;IND;PST;PRF = damexrčo
+ახრჩობს	დაგეხრჩო	V;2;SG;IND;PST;PRF = dagexrčo
+ახრჩობს	დაეხრჩო	V;3;SG;IND;PST;PRF = daexrčo
+ახრჩობს	დაგვეხრჩო	V;1;PL;IND;PST;PRF = dagvexrčo
+ახრჩობს	დაგეხრჩოთ	V;2;PL;IND;PST;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;IND;PST;PRF = daexrčot
+
+
+Screeve #11:
+ახრჩობს	დამეხრჩოს	V;1;SG;SBJV;PRF = damexrčos
+ახრჩობს	დაგეხრჩოს	V;2;SG;SBJV;PRF = dagexrčos
+ახრჩობს	დაეხრჩოს	V;3;SG;SBJV;PRF = daexrčos
+ახრჩობს	დაგვეხრჩოს	V;1;PL;SBJV;PRF = dagvexrčos
+ახრჩობს	დაგეხრჩოთ	V;2;PL;SBJV;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;SBJV;PRF = daexrčot
+
+
+ახრჩობს	დახრჩობა	V;V.MSDR;PRF
+ახრჩობს	ხრჩობა	V;V.MSDR;IPFV

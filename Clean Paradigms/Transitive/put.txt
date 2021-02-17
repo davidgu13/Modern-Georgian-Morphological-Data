@@ -1,0 +1,108 @@
+#28 - დებს - put:
+Screeve #1:
+დებს	ვდებ	V;1;SG;IND;PRS = vdeb
+დებს	დებ	V;2;SG;IND;PRS = deb
+დებს	დებს	V;3;SG;IND;PRS = debs
+დებს	ვდებთ	V;1;PL;IND;PRS = vdebt
+დებს	დებთ	V;2;PL;IND;PRS = debt
+დებს	დებენ	V;3;PL;IND;PRS = deben
+
+
+Screeve #2:
+დებს	ვდებდი	V;1;SG;IND;IPFV = vdebdi
+დებს	დებდი	V;2;SG;IND;IPFV = debdi
+დებს	დებდა	V;3;SG;IND;IPFV = debda
+დებს	ვდებდით	V;1;PL;IND;IPFV = vdebdit
+დებს	დებდით	V;2;PL;IND;IPFV = debdit
+დებს	დებდნენ	V;3;PL;IND;IPFV = debdnen
+
+
+Screeve #3:
+დებს	ვდებდე	V;1;SG;SBJV;PRS = vdebde
+დებს	დებდე	V;2;SG;SBJV;PRS = debde
+დებს	დებდეს	V;3;SG;SBJV;PRS = debdes
+დებს	ვდებდეთ	V;1;PL;SBJV;PRS = vdebdet
+დებს	დებდეთ	V;2;PL;SBJV;PRS = debdet
+დებს	დებდნენ	V;3;PL;SBJV;PRS = debdnen
+
+
+Screeve #4:
+დებს	დავდებ	V;1;SG;IND;FUT = davdeb
+დებს	დადებ	V;2;SG;IND;FUT = dadeb
+დებს	დადებს	V;3;SG;IND;FUT = dadebs
+დებს	დავდებთ	V;1;PL;IND;FUT = davdebt
+დებს	დადებთ	V;2;PL;IND;FUT = dadebt
+დებს	დადებენ	V;3;PL;IND;FUT = dadeben
+
+
+Screeve #5:
+დებს	დავდებდი	V;1;SG;COND = davdebdi
+დებს	დადებდი	V;2;SG;COND = dadebdi
+დებს	დადებდა	V;3;SG;COND = dadebda
+დებს	დავდებდით	V;1;PL;COND = davdebdit
+დებს	დადებდით	V;2;PL;COND = dadebdit
+დებს	დადებდნენ	V;3;PL;COND = dadebdnen
+
+
+Screeve #6:
+დებს	დავდებდე	V;1;SG;SBJV;FUT = davdebde
+დებს	დადებდე	V;2;SG;SBJV;FUT = dadebde
+დებს	დადებდეს	V;3;SG;SBJV;FUT = dadebdes
+დებს	დავდებდეთ	V;1;PL;SBJV;FUT = davdebdet
+დებს	დადებდეთ	V;2;PL;SBJV;FUT = dadebdet
+დებს	დადებდნენ	V;3;PL;SBJV;FUT = dadebdnen
+
+
+Screeve #7:
+დებს	დავდე	V;1;SG;IND;PST;PFV = davde
+დებს	დადე	V;2;SG;IND;PST;PFV = dade
+დებს	დადო	V;3;SG;IND;PST;PFV = dado
+დებს	დავდეთ	V;1;PL;IND;PST;PFV = davdet
+დებს	დადეთ	V;2;PL;IND;PST;PFV = dadet
+დებს	დადეს	V;3;PL;IND;PST;PFV = dades
+
+დებს	დადე	V;2;SG;IMP = dade
+დებს	დადეთ	V;2;PL;IMP = dadet
+
+
+Screeve #8:
+დებს	დავდო	V;1;SG;OPT = davdo
+დებს	დადო	V;2;SG;OPT = dado
+დებს	დადოს	V;3;SG;OPT = dados
+დებს	დავდოთ	V;1;PL;OPT = davdot
+დებს	დადოთ	V;2;PL;OPT = dadot
+დებს	დადონ	V;3;PL;OPT = dadon
+
+დებს	დავდოთ	V;1;PL;IMP = davdot
+დებს	დადოს	V;3;SG;IMP = dados
+დებს	დადონ	V;3;PL;IMP = dadon
+
+
+Screeve #9:
+დებს	დამიდია	V;1;SG;IND;PRF = damidia
+დებს	დაგიდია	V;2;SG;IND;PRF = dagidia
+დებს	დაუდია	V;3;SG;IND;PRF = daudia
+დებს	დაგვიდია	V;1;PL;IND;PRF = dagvidia
+დებს	დაგიდიათ	V;2;PL;IND;PRF = dagidiat
+დებს	დაუდიათ	V;3;PL;IND;PRF = daudiat
+
+
+Screeve #10:
+დებს	დამედო	V;1;SG;IND;PST;PRF = damedo
+დებს	დაგედო	V;2;SG;IND;PST;PRF = dagedo
+დებს	დაედო	V;3;SG;IND;PST;PRF = daedo
+დებს	დაგვედო	V;1;PL;IND;PST;PRF = dagvedo
+დებს	დაგედოთ	V;2;PL;IND;PST;PRF = dagedot
+დებს	დაედოთ	V;3;PL;IND;PST;PRF = daedot
+
+
+Screeve #11:
+დებს	დამედოს	V;1;SG;SBJV;PRF = damedos
+დებს	დაგედოს	V;2;SG;SBJV;PRF = dagedos
+დებს	დაედოს	V;3;SG;SBJV;PRF = daedos
+დებს	დაგვედოს	V;1;PL;SBJV;PRF = dagvedos
+დებს	დაგედოთ	V;2;PL;SBJV;PRF = dagedot
+დებს	დაედოთ	V;3;PL;SBJV;PRF = daedot
+
+
+დებს	დადება	V;V.MSDR;PRF

@@ -1,0 +1,109 @@
+#33 - ხატავს - paint:
+Screeve #1:
+ხატავს	ვხატავ	V;1;SG;IND;PRS = vxat'av
+ხატავს	ხატავ	V;2;SG;IND;PRS = xat'av
+ხატავს	ხატავს	V;3;SG;IND;PRS = xat'avs
+ხატავს	ვხატავთ	V;1;PL;IND;PRS = vxat'avt
+ხატავს	ხატავთ	V;2;PL;IND;PRS = xat'avt
+ხატავს	ხატავენ	V;3;PL;IND;PRS = xat'aven
+
+
+Screeve #2:
+ხატავს	ვხატავდი	V;1;SG;IND;IPFV = vxat'avdi
+ხატავს	ხატავდი	V;2;SG;IND;IPFV = xat'avdi
+ხატავს	ხატავდა	V;3;SG;IND;IPFV = xat'avda
+ხატავს	ვხატავდით	V;1;PL;IND;IPFV = vxat'avdit
+ხატავს	ხატავდით	V;2;PL;IND;IPFV = xat'avdit
+ხატავს	ხატავდნენ	V;3;PL;IND;IPFV = xat'avdnen
+
+
+Screeve #3:
+ხატავს	ვხატავდე	V;1;SG;SBJV;PRS = vxat'avde
+ხატავს	ხატავდე	V;2;SG;SBJV;PRS = xat'avde
+ხატავს	ხატავდეს	V;3;SG;SBJV;PRS = xat'avdes
+ხატავს	ვხატავდეთ	V;1;PL;SBJV;PRS = vxat'avdet
+ხატავს	ხატავდეთ	V;2;PL;SBJV;PRS = xat'avdet
+ხატავს	ხატავდნენ	V;3;PL;SBJV;PRS = xat'avdnen
+
+
+Screeve #4:
+ხატავს	დავხატავ	V;1;SG;IND;FUT = davxat'av
+ხატავს	დახატავ	V;2;SG;IND;FUT = daxat'av
+ხატავს	დახატავს	V;3;SG;IND;FUT = daxat'avs
+ხატავს	დავხატავთ	V;1;PL;IND;FUT = davxat'avt
+ხატავს	დახატავთ	V;2;PL;IND;FUT = daxat'avt
+ხატავს	დახატავენ	V;3;PL;IND;FUT = daxat'aven
+
+
+Screeve #5:
+ხატავს	დავხატავდი	V;1;SG;COND = davxat'avdi
+ხატავს	დახატავდი	V;2;SG;COND = daxat'avdi
+ხატავს	დახატავდა	V;3;SG;COND = daxat'avda
+ხატავს	დავხატავდით	V;1;PL;COND = davxat'avdit
+ხატავს	დახატავდით	V;2;PL;COND = daxat'avdit
+ხატავს	დახატავდნენ	V;3;PL;COND = daxat'avdnen
+
+
+Screeve #6:
+ხატავს	დავხატავდე	V;1;SG;SBJV;FUT = davxat'avde
+ხატავს	დახატავდე	V;2;SG;SBJV;FUT = daxat'avde
+ხატავს	დახატავდეს	V;3;SG;SBJV;FUT = daxat'avdes
+ხატავს	დავხატავდეთ	V;1;PL;SBJV;FUT = davxat'avdet
+ხატავს	დახატავდეთ	V;2;PL;SBJV;FUT = daxat'avdet
+ხატავს	დახატავდნენ	V;3;PL;SBJV;FUT = daxat'avdnen
+
+
+Screeve #7:
+ხატავს	დავხატე	V;1;SG;IND;PST;PFV = davxat'e
+ხატავს	დახატე	V;2;SG;IND;PST;PFV = daxat'e
+ხატავს	დახატა	V;3;SG;IND;PST;PFV = daxat'a
+ხატავს	დავხატეთ	V;1;PL;IND;PST;PFV = davxat'et
+ხატავს	დახატეთ	V;2;PL;IND;PST;PFV = daxat'et
+ხატავს	დახატეს	V;3;PL;IND;PST;PFV = daxat'es
+
+ხატავს	დახატე	V;2;SG;IMP = daxat'e
+ხატავს	დახატეთ	V;2;PL;IMP = daxat'et
+
+
+Screeve #8:
+ხატავს	დავხატო	V;1;SG;OPT = davxat'o
+ხატავს	დახატო	V;2;SG;OPT = daxat'o
+ხატავს	დახატოს	V;3;SG;OPT = daxat'os
+ხატავს	დავხატოთ	V;1;PL;OPT = davxat'ot
+ხატავს	დახატოთ	V;2;PL;OPT = daxat'ot
+ხატავს	დახატონ	V;3;PL;OPT = daxat'on
+
+ხატავს	დავხატოთ	V;1;PL;IMP = davxat'ot
+ხატავს	დახატოს	V;3;SG;IMP = daxat'os
+ხატავს	დახატონ	V;3;PL;IMP = daxat'on
+
+
+Screeve #9:
+ხატავს	დამიხატია	V;1;SG;IND;PRF = damixat'ia
+ხატავს	დაგიხატია	V;2;SG;IND;PRF = dagixat'ia
+ხატავს	დაუხატია	V;3;SG;IND;PRF = dauxat'ia
+ხატავს	დაგვიხატია	V;1;PL;IND;PRF = dagvixat'ia
+ხატავს	დაგიხატიათ	V;2;PL;IND;PRF = dagixat'iat
+ხატავს	დაუხატიათ	V;3;PL;IND;PRF = dauxat'iat
+
+
+Screeve #10:
+ხატავს	დამეხატა	V;1;SG;IND;PST;PRF = damexat'a
+ხატავს	დაგეხატა	V;2;SG;IND;PST;PRF = dagexat'a
+ხატავს	დაეხატა	V;3;SG;IND;PST;PRF = daexat'a
+ხატავს	დაგვეხატა	V;1;PL;IND;PST;PRF = dagvexat'a
+ხატავს	დაგეხატათ	V;2;PL;IND;PST;PRF = dagexat'at
+ხატავს	დაეხატათ	V;3;PL;IND;PST;PRF = daexat'at
+
+
+Screeve #11:
+ხატავს	დამეხატოს	V;1;SG;SBJV;PRF = damexat'os
+ხატავს	დაგეხატოს	V;2;SG;SBJV;PRF = dagexat'os
+ხატავს	დაეხატოს	V;3;SG;SBJV;PRF = daexat'os
+ხატავს	დაგვეხატოს	V;1;PL;SBJV;PRF = dagvexat'os
+ხატავს	დაგეხატოთ	V;2;PL;SBJV;PRF = dagexat'ot
+ხატავს	დაეხატოთ	V;3;PL;SBJV;PRF = daexat'ot
+
+
+ხატავს	დახატვა	V;V.MSDR;PRF
+ხატავს	ხატვა	V;V.MSDR;IPFV

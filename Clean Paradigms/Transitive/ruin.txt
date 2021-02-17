@@ -1,0 +1,108 @@
+#13 - ანგრევს - ruin:
+Screeve #1:
+ანგრევს	ვანგრევ	V;1;SG;IND;PRS = vangrev
+ანგრევს	ანგრევ	V;2;SG;IND;PRS = angrev
+ანგრევს	ანგრევს	V;3;SG;IND;PRS = angrevs
+ანგრევს	ვანგრევთ	V;1;PL;IND;PRS = vangrevt
+ანგრევს	ანგრევთ	V;2;PL;IND;PRS = angrevt
+ანგრევს	ანგრევენ	V;3;PL;IND;PRS = angreven
+
+
+Screeve #2:
+ანგრევს	ვანგრევდი	V;1;SG;IND;IPFV = vangrevdi
+ანგრევს	ანგრევდი	V;2;SG;IND;IPFV = angrevdi
+ანგრევს	ანგრევდა	V;3;SG;IND;IPFV = angrevda
+ანგრევს	ვანგრევდით	V;1;PL;IND;IPFV = vangrevdit
+ანგრევს	ანგრევდით	V;2;PL;IND;IPFV = angrevdit
+ანგრევს	ანგრევდნენ	V;3;PL;IND;IPFV = angrevdnen
+
+
+Screeve #3:
+ანგრევს	ვანგრევდე	V;1;SG;SBJV;PRS = vangrevde
+ანგრევს	ანგრევდე	V;2;SG;SBJV;PRS = angrevde
+ანგრევს	ანგრევდეს	V;3;SG;SBJV;PRS = angrevdes
+ანგრევს	ვანგრევდეთ	V;1;PL;SBJV;PRS = vangrevdet
+ანგრევს	ანგრევდეთ	V;2;PL;SBJV;PRS = angrevdet
+ანგრევს	ანგრევდნენ	V;3;PL;SBJV;PRS = angrevdnen
+
+
+Screeve #4:
+ანგრევს	დავანგრევ	V;1;SG;IND;FUT = davangrev
+ანგრევს	დაანგრევ	V;2;SG;IND;FUT = daangrev
+ანგრევს	დაანგრევს	V;3;SG;IND;FUT = daangrevs
+ანგრევს	დავანგრევთ	V;1;PL;IND;FUT = davangrevt
+ანგრევს	დაანგრევთ	V;2;PL;IND;FUT = daangrevt
+ანგრევს	დაანგრევენ	V;3;PL;IND;FUT = daangreven
+
+
+Screeve #5:
+ანგრევს	დავანგრევდი	V;1;SG;COND = davangrevdi
+ანგრევს	დაანგრევდი	V;2;SG;COND = daangrevdi
+ანგრევს	დაანგრევდა	V;3;SG;COND = daangrevda
+ანგრევს	დავანგრევდით	V;1;PL;COND = davangrevdit
+ანგრევს	დაანგრევდით	V;2;PL;COND = daangrevdit
+ანგრევს	დაანგრევდნენ	V;3;PL;COND = daangrevdnen
+
+
+Screeve #6:
+ანგრევს	დავანგრევდე	V;1;SG;SBJV;FUT = davangrevde
+ანგრევს	დაანგრევდე	V;2;SG;SBJV;FUT = daangrevde
+ანგრევს	დაანგრევდეს	V;3;SG;SBJV;FUT = daangrevdes
+ანგრევს	დავანგრევდეთ	V;1;PL;SBJV;FUT = davangrevdet
+ანგრევს	დაანგრევდეთ	V;2;PL;SBJV;FUT = daangrevdet
+ანგრევს	დაანგრევდნენ	V;3;PL;SBJV;FUT = daangrevdnen
+
+
+Screeve #7:
+ანგრევს	დავანგრიე	V;1;SG;IND;PST;PFV = davangrie
+ანგრევს	დაანგრიე	V;2;SG;IND;PST;PFV = daangrie
+ანგრევს	დაანგრია	V;3;SG;IND;PST;PFV = daangria
+ანგრევს	დავანგრიეთ	V;1;PL;IND;PST;PFV = davangriet
+ანგრევს	დაანგრიეთ	V;2;PL;IND;PST;PFV = daangriet
+ანგრევს	დაანგრიეს	V;3;PL;IND;PST;PFV = daangries
+
+ანგრევს	დაანგრიე	V;2;SG;IMP = daangrie
+ანგრევს	დაანგრიეთ	V;2;PL;IMP = daangriet
+
+
+Screeve #8:
+ანგრევს	დავანგრიო	V;1;SG;OPT = davangrio
+ანგრევს	დაანგრიო	V;2;SG;OPT = daangrio
+ანგრევს	დაანგრიოს	V;3;SG;OPT = daangrios
+ანგრევს	დავანგრიოთ	V;1;PL;OPT = davangriot
+ანგრევს	დაანგრიოთ	V;2;PL;OPT = daangriot
+ანგრევს	დაანგრიონ	V;3;PL;OPT = daangrion
+
+ანგრევს	დავანგრიოთ	V;1;PL;IMP = davangriot
+ანგრევს	დაანგრიოს	V;3;SG;IMP = daangrios
+ანგრევს	დაანგრიონ	V;3;PL;IMP = daangrion
+
+
+Screeve #9:
+ანგრევს	დამინგრევია	V;1;SG;IND;PRF = damingrevia
+ანგრევს	დაგინგრევია	V;2;SG;IND;PRF = dagingrevia
+ანგრევს	დაუნგრევია	V;3;SG;IND;PRF = daungrevia
+ანგრევს	დაგვინგრევია	V;1;PL;IND;PRF = dagvingrevia
+ანგრევს	დაგინგრევიათ	V;2;PL;IND;PRF = dagingreviat
+ანგრევს	დაუნგრევიათ	V;3;PL;IND;PRF = daungreviat
+
+
+Screeve #10:
+ანგრევს	დამენგრია	V;1;SG;IND;PST;PRF = damengria
+ანგრევს	დაგენგრია	V;2;SG;IND;PST;PRF = dagengria
+ანგრევს	დაენგრია	V;3;SG;IND;PST;PRF = daengria
+ანგრევს	დაგვენგრია	V;1;PL;IND;PST;PRF = dagvengria
+ანგრევს	დაგენგრიათ	V;2;PL;IND;PST;PRF = dagengriat
+ანგრევს	დაენგრიათ	V;3;PL;IND;PST;PRF = daengriat
+
+
+Screeve #11:
+ანგრევს	დამენგრიოს	V;1;SG;SBJV;PRF = damengrios
+ანგრევს	დაგენგრიოს	V;2;SG;SBJV;PRF = dagengrios
+ანგრევს	დაენგრიოს	V;3;SG;SBJV;PRF = daengrios
+ანგრევს	დაგვენგრიოს	V;1;PL;SBJV;PRF = dagvengrios
+ანგრევს	დაგენგრიოთ	V;2;PL;SBJV;PRF = dagengriot
+ანგრევს	დაენგრიოთ	V;3;PL;SBJV;PRF = daengriot
+
+
+ანგრევს	დანგრევა	V;V.MSDR;PRF

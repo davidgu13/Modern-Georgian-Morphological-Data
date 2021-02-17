@@ -1,0 +1,109 @@
+#13 - მალავს - hide:
+Screeve #1:
+მალავს	ვმალავ	V;1;SG;IND;PRS = vmalav
+მალავს	მალავ	V;2;SG;IND;PRS = malav
+მალავს	მალავს	V;3;SG;IND;PRS = malavs
+მალავს	ვმალავთ	V;1;PL;IND;PRS = vmalavt
+მალავს	მალავთ	V;2;PL;IND;PRS = malavt
+მალავს	მალავენ	V;3;PL;IND;PRS = malaven
+
+
+Screeve #2:
+მალავს	ვმალავდი	V;1;SG;IND;IPFV = vmalavdi
+მალავს	მალავდი	V;2;SG;IND;IPFV = malavdi
+მალავს	მალავდა	V;3;SG;IND;IPFV = malavda
+მალავს	ვმალავდით	V;1;PL;IND;IPFV = vmalavdit
+მალავს	მალავდით	V;2;PL;IND;IPFV = malavdit
+მალავს	მალავდნენ	V;3;PL;IND;IPFV = malavdnen
+
+
+Screeve #3:
+მალავს	ვმალავდე	V;1;SG;SBJV;PRS = vmalavde
+მალავს	მალავდე	V;2;SG;SBJV;PRS = malavde
+მალავს	მალავდეს	V;3;SG;SBJV;PRS = malavdes
+მალავს	ვმალავდეთ	V;1;PL;SBJV;PRS = vmalavdet
+მალავს	მალავდეთ	V;2;PL;SBJV;PRS = malavdet
+მალავს	მალავდნენ	V;3;PL;SBJV;PRS = malavdnen
+
+
+Screeve #4:
+მალავს	დავმალავ	V;1;SG;IND;FUT = davmalav
+მალავს	დამალავ	V;2;SG;IND;FUT = damalav
+მალავს	დამალავს	V;3;SG;IND;FUT = damalavs
+მალავს	დავმალავთ	V;1;PL;IND;FUT = davmalavt
+მალავს	დამალავთ	V;2;PL;IND;FUT = damalavt
+მალავს	დამალავენ	V;3;PL;IND;FUT = damalaven
+
+
+Screeve #5:
+მალავს	დავმალავდი	V;1;SG;COND = davmalavdi
+მალავს	დამალავდი	V;2;SG;COND = damalavdi
+მალავს	დამალავდა	V;3;SG;COND = damalavda
+მალავს	დავმალავდით	V;1;PL;COND = davmalavdit
+მალავს	დამალავდით	V;2;PL;COND = damalavdit
+მალავს	დამალავდნენ	V;3;PL;COND = damalavdnen
+
+
+Screeve #6:
+მალავს	დავმალავდე	V;1;SG;SBJV;FUT = davmalavde
+მალავს	დამალავდე	V;2;SG;SBJV;FUT = damalavde
+მალავს	დამალავდეს	V;3;SG;SBJV;FUT = damalavdes
+მალავს	დავმალავდეთ	V;1;PL;SBJV;FUT = davmalavdet
+მალავს	დამალავდეთ	V;2;PL;SBJV;FUT = damalavdet
+მალავს	დამალავდნენ	V;3;PL;SBJV;FUT = damalavdnen
+
+
+Screeve #7:
+მალავს	დავმალე	V;1;SG;IND;PST;PFV = davmale
+მალავს	დამალე	V;2;SG;IND;PST;PFV = damale
+მალავს	დამალა	V;3;SG;IND;PST;PFV = damala
+მალავს	დავმალეთ	V;1;PL;IND;PST;PFV = davmalet
+მალავს	დამალეთ	V;2;PL;IND;PST;PFV = damalet
+მალავს	დამალეს	V;3;PL;IND;PST;PFV = damales
+
+მალავს	დამალე	V;2;SG;IMP = damale
+მალავს	დამალეთ	V;2;PL;IMP = damalet
+
+
+Screeve #8:
+მალავს	დავმალო	V;1;SG;OPT = davmalo
+მალავს	დამალო	V;2;SG;OPT = damalo
+მალავს	დამალოს	V;3;SG;OPT = damalos
+მალავს	დავმალოთ	V;1;PL;OPT = davmalot
+მალავს	დამალოთ	V;2;PL;OPT = damalot
+მალავს	დამალონ	V;3;PL;OPT = damalon
+
+მალავს	დავმალოთ	V;1;PL;IMP = davmalot
+მალავს	დამალოს	V;3;SG;IMP = damalos
+მალავს	დამალონ	V;3;PL;IMP = damalon
+
+
+Screeve #9:
+მალავს	დამიმალია	V;1;SG;IND;PRF = damimalia
+მალავს	დაგიმალია	V;2;SG;IND;PRF = dagimalia
+მალავს	დაუმალია	V;3;SG;IND;PRF = daumalia
+მალავს	დაგვიმალია	V;1;PL;IND;PRF = dagvimalia
+მალავს	დაგიმალიათ	V;2;PL;IND;PRF = dagimaliat
+მალავს	დაუმალიათ	V;3;PL;IND;PRF = daumaliat
+
+
+Screeve #10:
+მალავს	დამემალა	V;1;SG;IND;PST;PRF = damemala
+მალავს	დაგემალა	V;2;SG;IND;PST;PRF = dagemala
+მალავს	დაემალა	V;3;SG;IND;PST;PRF = daemala
+მალავს	დაგვემალა	V;1;PL;IND;PST;PRF = dagvemala
+მალავს	დაგემალათ	V;2;PL;IND;PST;PRF = dagemalat
+მალავს	დაემალათ	V;3;PL;IND;PST;PRF = daemalat
+
+
+Screeve #11:
+მალავს	დამემალოს	V;1;SG;SBJV;PRF = damemalos
+მალავს	დაგემალოს	V;2;SG;SBJV;PRF = dagemalos
+მალავს	დაემალოს	V;3;SG;SBJV;PRF = daemalos
+მალავს	დაგვემალოს	V;1;PL;SBJV;PRF = dagvemalos
+მალავს	დაგემალოთ	V;2;PL;SBJV;PRF = dagemalot
+მალავს	დაემალოთ	V;3;PL;SBJV;PRF = daemalot
+
+
+მალავს	დამალვა	V;V.MSDR;PRF
+მალავს	მალვა	V;V.MSDR;IPFV

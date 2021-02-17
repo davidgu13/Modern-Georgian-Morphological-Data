@@ -1,0 +1,108 @@
+#3 - იღებს - take:
+Screeve #1:
+იღებს	ვიღებ	V;1;SG;IND;PRS = viġeb
+იღებს	იღებ	V;2;SG;IND;PRS = iġeb
+იღებს	იღებს	V;3;SG;IND;PRS = iġebs
+იღებს	ვიღებთ	V;1;PL;IND;PRS = viġebt
+იღებს	იღებთ	V;2;PL;IND;PRS = iġebt
+იღებს	იღებენ	V;3;PL;IND;PRS = iġeben
+
+
+Screeve #2:
+იღებს	ვიღებდი	V;1;SG;IND;IPFV = viġebdi
+იღებს	იღებდი	V;2;SG;IND;IPFV = iġebdi
+იღებს	იღებდა	V;3;SG;IND;IPFV = iġebda
+იღებს	ვიღებდით	V;1;PL;IND;IPFV = viġebdit
+იღებს	იღებდით	V;2;PL;IND;IPFV = iġebdit
+იღებს	იღებდნენ	V;3;PL;IND;IPFV = iġebdnen
+
+
+Screeve #3:
+იღებს	ვიღებდე	V;1;SG;SBJV;PRS = viġebde
+იღებს	იღებდე	V;2;SG;SBJV;PRS = iġebde
+იღებს	იღებდეს	V;3;SG;SBJV;PRS = iġebdes
+იღებს	ვიღებდეთ	V;1;PL;SBJV;PRS = viġebdet
+იღებს	იღებდეთ	V;2;PL;SBJV;PRS = iġebdet
+იღებს	იღებდნენ	V;3;PL;SBJV;PRS = iġebdnen
+
+
+Screeve #4:
+იღებს	ავიღებ	V;1;SG;IND;FUT = aviġeb
+იღებს	აიღებ	V;2;SG;IND;FUT = aiġeb
+იღებს	აიღებს	V;3;SG;IND;FUT = aiġebs
+იღებს	ავიღებთ	V;1;PL;IND;FUT = aviġebt
+იღებს	აიღებთ	V;2;PL;IND;FUT = aiġebt
+იღებს	აიღებენ	V;3;PL;IND;FUT = aiġeben
+
+
+Screeve #5:
+იღებს	ავიღებდი	V;1;SG;COND = aviġebdi
+იღებს	აიღებდი	V;2;SG;COND = aiġebdi
+იღებს	აიღებდა	V;3;SG;COND = aiġebda
+იღებს	ავიღებდით	V;1;PL;COND = aviġebdit
+იღებს	აიღებდით	V;2;PL;COND = aiġebdit
+იღებს	აიღებდნენ	V;3;PL;COND = aiġebdnen
+
+
+Screeve #6:
+იღებს	ავიღებდე	V;1;SG;SBJV;FUT = aviġebde
+იღებს	აიღებდე	V;2;SG;SBJV;FUT = aiġebde
+იღებს	აიღებდეს	V;3;SG;SBJV;FUT = aiġebdes
+იღებს	ავიღებდეთ	V;1;PL;SBJV;FUT = aviġebdet
+იღებს	აიღებდეთ	V;2;PL;SBJV;FUT = aiġebdet
+იღებს	აიღებდნენ	V;3;PL;SBJV;FUT = aiġebdnen
+
+
+Screeve #7:
+იღებს	ავიღე	V;1;SG;IND;PST;PFV = aviġe
+იღებს	აიღე	V;2;SG;IND;PST;PFV = aiġe
+იღებს	აიღო	V;3;SG;IND;PST;PFV = aiġo
+იღებს	ავიღეთ	V;1;PL;IND;PST;PFV = aviġet
+იღებს	აიღეთ	V;2;PL;IND;PST;PFV = aiġet
+იღებს	აიღეს	V;3;PL;IND;PST;PFV = aiġes
+
+იღებს	აიღე	V;2;SG;IMP = aiġe
+იღებს	აიღეთ	V;2;PL;IMP = aiġet
+
+
+Screeve #8:
+იღებს	ავიღო	V;1;SG;OPT = aviġo
+იღებს	აიღო	V;2;SG;OPT = aiġo
+იღებს	აიღოს	V;3;SG;OPT = aiġos
+იღებს	ავიღოთ	V;1;PL;OPT = aviġot
+იღებს	აიღოთ	V;2;PL;OPT = aiġot
+იღებს	აიღონ	V;3;PL;OPT = aiġon
+
+იღებს	ავიღოთ	V;1;PL;IMP = aviġot
+იღებს	აიღოს	V;3;SG;IMP = aiġos
+იღებს	აიღონ	V;3;PL;IMP = aiġon
+
+
+Screeve #9:
+იღებს	ამიღია	V;1;SG;IND;PRF = amiġia
+იღებს	აგიღია	V;2;SG;IND;PRF = agiġia
+იღებს	აუღია	V;3;SG;IND;PRF = auġia
+იღებს	აგვიღია	V;1;PL;IND;PRF = agviġia
+იღებს	აგიღიათ	V;2;PL;IND;PRF = agiġiat
+იღებს	აუღიათ	V;3;PL;IND;PRF = auġiat
+
+
+Screeve #10:
+იღებს	ამეღა	V;1;SG;IND;PST;PRF = ameġa
+იღებს	აგეღა	V;2;SG;IND;PST;PRF = ageġa
+იღებს	აეღა	V;3;SG;IND;PST;PRF = aeġa
+იღებს	აგვეღა	V;1;PL;IND;PST;PRF = agveġa
+იღებს	აგეღათ	V;2;PL;IND;PST;PRF = ageġat
+იღებს	აეღათ	V;3;PL;IND;PST;PRF = aeġat
+
+
+Screeve #11:
+იღებს	ამეღოს	V;1;SG;SBJV;PRF = ameġos
+იღებს	აგეღოს	V;2;SG;SBJV;PRF = ageġos
+იღებს	აეღოს	V;3;SG;SBJV;PRF = aeġos
+იღებს	აგვეღოს	V;1;PL;SBJV;PRF = agveġos
+იღებს	აგეღოთ	V;2;PL;SBJV;PRF = ageġot
+იღებს	აეღოთ	V;3;PL;SBJV;PRF = aeġot
+
+
+იღებს	აღება	V;V.MSDR;IPFV

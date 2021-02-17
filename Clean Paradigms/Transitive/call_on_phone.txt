@@ -1,0 +1,109 @@
+#37 - რეკავს - call_on_phone:
+Screeve #1:
+რეკავს	ვრეკავ	V;1;SG;IND;PRS = vrek'av
+რეკავს	რეკავ	V;2;SG;IND;PRS = rek'av
+რეკავს	რეკავს	V;3;SG;IND;PRS = rek'avs
+რეკავს	ვრეკავთ	V;1;PL;IND;PRS = vrek'avt
+რეკავს	რეკავთ	V;2;PL;IND;PRS = rek'avt
+რეკავს	რეკავენ	V;3;PL;IND;PRS = rek'aven
+
+
+Screeve #2:
+რეკავს	ვრეკავდი	V;1;SG;IND;IPFV = vrek'avdi
+რეკავს	რეკავდი	V;2;SG;IND;IPFV = rek'avdi
+რეკავს	რეკავდა	V;3;SG;IND;IPFV = rek'avda
+რეკავს	ვრეკავდით	V;1;PL;IND;IPFV = vrek'avdit
+რეკავს	რეკავდით	V;2;PL;IND;IPFV = rek'avdit
+რეკავს	რეკავდნენ	V;3;PL;IND;IPFV = rek'avdnen
+
+
+Screeve #3:
+რეკავს	ვრეკავდე	V;1;SG;SBJV;PRS = vrek'avde
+რეკავს	რეკავდე	V;2;SG;SBJV;PRS = rek'avde
+რეკავს	რეკავდეს	V;3;SG;SBJV;PRS = rek'avdes
+რეკავს	ვრეკავდეთ	V;1;PL;SBJV;PRS = vrek'avdet
+რეკავს	რეკავდეთ	V;2;PL;SBJV;PRS = rek'avdet
+რეკავს	რეკავდნენ	V;3;PL;SBJV;PRS = rek'avdnen
+
+
+Screeve #4:
+რეკავს	დავრეკავ	V;1;SG;IND;FUT = davrek'av
+რეკავს	დარეკავ	V;2;SG;IND;FUT = darek'av
+რეკავს	დარეკავს	V;3;SG;IND;FUT = darek'avs
+რეკავს	დავრეკავთ	V;1;PL;IND;FUT = davrek'avt
+რეკავს	დარეკავთ	V;2;PL;IND;FUT = darek'avt
+რეკავს	დარეკავენ	V;3;PL;IND;FUT = darek'aven
+
+
+Screeve #5:
+რეკავს	დავრეკავდი	V;1;SG;COND = davrek'avdi
+რეკავს	დარეკავდი	V;2;SG;COND = darek'avdi
+რეკავს	დარეკავდა	V;3;SG;COND = darek'avda
+რეკავს	დავრეკავდით	V;1;PL;COND = davrek'avdit
+რეკავს	დარეკავდით	V;2;PL;COND = darek'avdit
+რეკავს	დარეკავდნენ	V;3;PL;COND = darek'avdnen
+
+
+Screeve #6:
+რეკავს	დავრეკავდე	V;1;SG;SBJV;FUT = davrek'avde
+რეკავს	დარეკავდე	V;2;SG;SBJV;FUT = darek'avde
+რეკავს	დარეკავდეს	V;3;SG;SBJV;FUT = darek'avdes
+რეკავს	დავრეკავდეთ	V;1;PL;SBJV;FUT = davrek'avdet
+რეკავს	დარეკავდეთ	V;2;PL;SBJV;FUT = darek'avdet
+რეკავს	დარეკავდნენ	V;3;PL;SBJV;FUT = darek'avdnen
+
+
+Screeve #7:
+რეკავს	დავრეკე	V;1;SG;IND;PST;PFV = davrek'e
+რეკავს	დარეკე	V;2;SG;IND;PST;PFV = darek'e
+რეკავს	დარეკა	V;3;SG;IND;PST;PFV = darek'a
+რეკავს	დავრეკეთ	V;1;PL;IND;PST;PFV = davrek'et
+რეკავს	დარეკეთ	V;2;PL;IND;PST;PFV = darek'et
+რეკავს	დარეკეს	V;3;PL;IND;PST;PFV = darek'es
+
+რეკავს	დარეკე	V;2;SG;IMP = darek'e
+რეკავს	დარეკეთ	V;2;PL;IMP = darek'et
+
+
+Screeve #8:
+რეკავს	დავრეკო	V;1;SG;OPT = davrek'o
+რეკავს	დარეკო	V;2;SG;OPT = darek'o
+რეკავს	დარეკოს	V;3;SG;OPT = darek'os
+რეკავს	დავრეკოთ	V;1;PL;OPT = davrek'ot
+რეკავს	დარეკოთ	V;2;PL;OPT = darek'ot
+რეკავს	დარეკონ	V;3;PL;OPT = darek'on
+
+რეკავს	დავრეკოთ	V;1;PL;IMP = davrek'ot
+რეკავს	დარეკოს	V;3;SG;IMP = darek'os
+რეკავს	დარეკონ	V;3;PL;IMP = darek'on
+
+
+Screeve #9:
+რეკავს	დამირეკია	V;1;SG;IND;PRF = damirek'ia
+რეკავს	დაგირეკია	V;2;SG;IND;PRF = dagirek'ia
+რეკავს	დაურეკია	V;3;SG;IND;PRF = daurek'ia
+რეკავს	დაგვირეკია	V;1;PL;IND;PRF = dagvirek'ia
+რეკავს	დაგირეკიათ	V;2;PL;IND;PRF = dagirek'iat
+რეკავს	დაურეკიათ	V;3;PL;IND;PRF = daurek'iat
+
+
+Screeve #10:
+რეკავს	დამერეკა	V;1;SG;IND;PST;PRF = damerek'a
+რეკავს	დაგერეკა	V;2;SG;IND;PST;PRF = dagerek'a
+რეკავს	დაერეკა	V;3;SG;IND;PST;PRF = daerek'a
+რეკავს	დაგვერეკა	V;1;PL;IND;PST;PRF = dagverek'a
+რეკავს	დაგერეკათ	V;2;PL;IND;PST;PRF = dagerek'at
+რეკავს	დაერეკათ	V;3;PL;IND;PST;PRF = daerek'at
+
+
+Screeve #11:
+რეკავს	დამერეკოს	V;1;SG;SBJV;PRF = damerek'os
+რეკავს	დაგერეკოს	V;2;SG;SBJV;PRF = dagerek'os
+რეკავს	დაერეკოს	V;3;SG;SBJV;PRF = daerek'os
+რეკავს	დაგვერეკოს	V;1;PL;SBJV;PRF = dagverek'os
+რეკავს	დაგერეკოთ	V;2;PL;SBJV;PRF = dagerek'ot
+რეკავს	დაერეკოთ	V;3;PL;SBJV;PRF = daerek'ot
+
+
+რეკავს	დარეკვა	V;V.MSDR;PRF
+რეკავს	რეკვა	V;V.MSDR;IPFV

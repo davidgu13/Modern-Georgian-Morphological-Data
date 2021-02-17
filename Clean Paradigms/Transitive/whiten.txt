@@ -1,0 +1,108 @@
+#8 - ათეთრებს - whiten:
+Screeve #1:
+ათეთრებს	ვათეთრებ	V;1;SG;IND;PRS = vatetreb
+ათეთრებს	ათეთრებ	V;2;SG;IND;PRS = atetreb
+ათეთრებს	ათეთრებს	V;3;SG;IND;PRS = atetrebs
+ათეთრებს	ვათეთრებთ	V;1;PL;IND;PRS = vatetrebt
+ათეთრებს	ათეთრებთ	V;2;PL;IND;PRS = atetrebt
+ათეთრებს	ათეთრებენ	V;3;PL;IND;PRS = atetreben
+
+
+Screeve #2:
+ათეთრებს	ვათეთრებდი	V;1;SG;IND;IPFV = vatetrebdi
+ათეთრებს	ათეთრებდი	V;2;SG;IND;IPFV = atetrebdi
+ათეთრებს	ათეთრებდა	V;3;SG;IND;IPFV = atetrebda
+ათეთრებს	ვათეთრებდით	V;1;PL;IND;IPFV = vatetrebdit
+ათეთრებს	ათეთრებდით	V;2;PL;IND;IPFV = atetrebdit
+ათეთრებს	ათეთრებდნენ	V;3;PL;IND;IPFV = atetrebdnen
+
+
+Screeve #3:
+ათეთრებს	ვათეთრებდე	V;1;SG;SBJV;PRS = vatetrebde
+ათეთრებს	ათეთრებდე	V;2;SG;SBJV;PRS = atetrebde
+ათეთრებს	ათეთრებდეს	V;3;SG;SBJV;PRS = atetrebdes
+ათეთრებს	ვათეთრებდეთ	V;1;PL;SBJV;PRS = vatetrebdet
+ათეთრებს	ათეთრებდეთ	V;2;PL;SBJV;PRS = atetrebdet
+ათეთრებს	ათეთრებდნენ	V;3;PL;SBJV;PRS = atetrebdnen
+
+
+Screeve #4:
+ათეთრებს	გავათეთრებ	V;1;SG;IND;FUT = gavatetreb
+ათეთრებს	გაათეთრებ	V;2;SG;IND;FUT = gaatetreb
+ათეთრებს	გაათეთრებს	V;3;SG;IND;FUT = gaatetrebs
+ათეთრებს	გავათეთრებთ	V;1;PL;IND;FUT = gavatetrebt
+ათეთრებს	გაათეთრებთ	V;2;PL;IND;FUT = gaatetrebt
+ათეთრებს	გაათეთრებენ	V;3;PL;IND;FUT = gaatetreben
+
+
+Screeve #5:
+ათეთრებს	გავათეთრებდი	V;1;SG;COND = gavatetrebdi
+ათეთრებს	გაათეთრებდი	V;2;SG;COND = gaatetrebdi
+ათეთრებს	გაათეთრებდა	V;3;SG;COND = gaatetrebda
+ათეთრებს	გავათეთრებდით	V;1;PL;COND = gavatetrebdit
+ათეთრებს	გაათეთრებდით	V;2;PL;COND = gaatetrebdit
+ათეთრებს	გაათეთრებდნენ	V;3;PL;COND = gaatetrebdnen
+
+
+Screeve #6:
+ათეთრებს	გავათეთრებდე	V;1;SG;SBJV;FUT = gavatetrebde
+ათეთრებს	გაათეთრებდე	V;2;SG;SBJV;FUT = gaatetrebde
+ათეთრებს	გაათეთრებდეს	V;3;SG;SBJV;FUT = gaatetrebdes
+ათეთრებს	გავათეთრებდეთ	V;1;PL;SBJV;FUT = gavatetrebdet
+ათეთრებს	გაათეთრებდეთ	V;2;PL;SBJV;FUT = gaatetrebdet
+ათეთრებს	გაათეთრებდნენ	V;3;PL;SBJV;FUT = gaatetrebdnen
+
+
+Screeve #7:
+ათეთრებს	გავათეთრე	V;1;SG;IND;PST;PFV = gavatetre
+ათეთრებს	გაათეთრე	V;2;SG;IND;PST;PFV = gaatetre
+ათეთრებს	გაათეთრა	V;3;SG;IND;PST;PFV = gaatetra
+ათეთრებს	გავათეთრეთ	V;1;PL;IND;PST;PFV = gavatetret
+ათეთრებს	გაათეთრეთ	V;2;PL;IND;PST;PFV = gaatetret
+ათეთრებს	გაათეთრეს	V;3;PL;IND;PST;PFV = gaatetres
+
+ათეთრებს	გაათეთრე	V;2;SG;IMP = gaatetre
+ათეთრებს	გაათეთრეთ	V;2;PL;IMP = gaatetret
+
+
+Screeve #8:
+ათეთრებს	გავათეთრო	V;1;SG;OPT = gavatetro
+ათეთრებს	გაათეთრო	V;2;SG;OPT = gaatetro
+ათეთრებს	გაათეთროს	V;3;SG;OPT = gaatetros
+ათეთრებს	გავათეთროთ	V;1;PL;OPT = gavatetrot
+ათეთრებს	გაათეთროთ	V;2;PL;OPT = gaatetrot
+ათეთრებს	გაათეთრონ	V;3;PL;OPT = gaatetron
+
+ათეთრებს	გავათეთროთ	V;1;PL;IMP = gavatetrot
+ათეთრებს	გაათეთროს	V;3;SG;IMP = gaatetros
+ათეთრებს	გაათეთრონ	V;3;PL;IMP = gaatetron
+
+
+Screeve #9:
+ათეთრებს	გამითეთრებია	V;1;SG;IND;PRF = gamitetrebia
+ათეთრებს	გაგითეთრებია	V;2;SG;IND;PRF = gagitetrebia
+ათეთრებს	გაუთეთრებია	V;3;SG;IND;PRF = gautetrebia
+ათეთრებს	გაგვითეთრებია	V;1;PL;IND;PRF = gagvitetrebia
+ათეთრებს	გაგითეთრებიათ	V;2;PL;IND;PRF = gagitetrebiat
+ათეთრებს	გაუთეთრებიათ	V;3;PL;IND;PRF = gautetrebiat
+
+
+Screeve #10:
+ათეთრებს	გამეთეთრებინა	V;1;SG;IND;PST;PRF = gametetrebina
+ათეთრებს	გაგეთეთრებინა	V;2;SG;IND;PST;PRF = gagetetrebina
+ათეთრებს	გაეთეთრებინა	V;3;SG;IND;PST;PRF = gaetetrebina
+ათეთრებს	გაგვეთეთრებინა	V;1;PL;IND;PST;PRF = gagvetetrebina
+ათეთრებს	გაგეთეთრებინათ	V;2;PL;IND;PST;PRF = gagetetrebinat
+ათეთრებს	გაეთეთრებინათ	V;3;PL;IND;PST;PRF = gaetetrebinat
+
+
+Screeve #11:
+ათეთრებს	გამეთეთრებინოს	V;1;SG;SBJV;PRF = gametetrebinos
+ათეთრებს	გაგეთეთრებინოს	V;2;SG;SBJV;PRF = gagetetrebinos
+ათეთრებს	გაეთეთრებინოს	V;3;SG;SBJV;PRF = gaetetrebinos
+ათეთრებს	გაგვეთეთრებინოს	V;1;PL;SBJV;PRF = gagvetetrebinos
+ათეთრებს	გაგეთეთრებინოთ	V;2;PL;SBJV;PRF = gagetetrebinot
+ათეთრებს	გაეთეთრებინოთ	V;3;PL;SBJV;PRF = gaetetrebinot
+
+
+ათეთრებს	გათეთრება	V;V.MSDR;PRF

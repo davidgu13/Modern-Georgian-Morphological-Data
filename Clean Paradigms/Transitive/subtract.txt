@@ -1,0 +1,108 @@
+#26 - აკლებს - subtract:
+Screeve #1:
+აკლებს	ვაკლებ	V;1;SG;IND;PRS = vak'leb
+აკლებს	აკლებ	V;2;SG;IND;PRS = ak'leb
+აკლებს	აკლებს	V;3;SG;IND;PRS = ak'lebs
+აკლებს	ვაკლებთ	V;1;PL;IND;PRS = vak'lebt
+აკლებს	აკლებთ	V;2;PL;IND;PRS = ak'lebt
+აკლებს	აკლებენ	V;3;PL;IND;PRS = ak'leben
+
+
+Screeve #2:
+აკლებს	ვაკლებდი	V;1;SG;IND;IPFV = vak'lebdi
+აკლებს	აკლებდი	V;2;SG;IND;IPFV = ak'lebdi
+აკლებს	აკლებდა	V;3;SG;IND;IPFV = ak'lebda
+აკლებს	ვაკლებდით	V;1;PL;IND;IPFV = vak'lebdit
+აკლებს	აკლებდით	V;2;PL;IND;IPFV = ak'lebdit
+აკლებს	აკლებდნენ	V;3;PL;IND;IPFV = ak'lebdnen
+
+
+Screeve #3:
+აკლებს	ვაკლებდე	V;1;SG;SBJV;PRS = vak'lebde
+აკლებს	აკლებდე	V;2;SG;SBJV;PRS = ak'lebde
+აკლებს	აკლებდეს	V;3;SG;SBJV;PRS = ak'lebdes
+აკლებს	ვაკლებდეთ	V;1;PL;SBJV;PRS = vak'lebdet
+აკლებს	აკლებდეთ	V;2;PL;SBJV;PRS = ak'lebdet
+აკლებს	აკლებდნენ	V;3;PL;SBJV;PRS = ak'lebdnen
+
+
+Screeve #4:
+აკლებს	გამოვაკლებ	V;1;SG;IND;FUT = gamovak'leb
+აკლებს	გამოაკლებ	V;2;SG;IND;FUT = gamoak'leb
+აკლებს	გამოაკლებს	V;3;SG;IND;FUT = gamoak'lebs
+აკლებს	გამოვაკლებთ	V;1;PL;IND;FUT = gamovak'lebt
+აკლებს	გამოაკლებთ	V;2;PL;IND;FUT = gamoak'lebt
+აკლებს	გამოაკლებენ	V;3;PL;IND;FUT = gamoak'leben
+
+
+Screeve #5:
+აკლებს	გამოვაკლებდი	V;1;SG;COND = gamovak'lebdi
+აკლებს	გამოაკლებდი	V;2;SG;COND = gamoak'lebdi
+აკლებს	გამოაკლებდა	V;3;SG;COND = gamoak'lebda
+აკლებს	გამოვაკლებდით	V;1;PL;COND = gamovak'lebdit
+აკლებს	გამოაკლებდით	V;2;PL;COND = gamoak'lebdit
+აკლებს	გამოაკლებდნენ	V;3;PL;COND = gamoak'lebdnen
+
+
+Screeve #6:
+აკლებს	გამოვაკლებდე	V;1;SG;SBJV;FUT = gamovak'lebde
+აკლებს	გამოაკლებდე	V;2;SG;SBJV;FUT = gamoak'lebde
+აკლებს	გამოაკლებდეს	V;3;SG;SBJV;FUT = gamoak'lebdes
+აკლებს	გამოვაკლებდეთ	V;1;PL;SBJV;FUT = gamovak'lebdet
+აკლებს	გამოაკლებდეთ	V;2;PL;SBJV;FUT = gamoak'lebdet
+აკლებს	გამოაკლებდნენ	V;3;PL;SBJV;FUT = gamoak'lebdnen
+
+
+Screeve #7:
+აკლებს	გამოვაკელი	V;1;SG;IND;PST;PFV = gamovak'eli
+აკლებს	გამოაკელი	V;2;SG;IND;PST;PFV = gamoak'eli
+აკლებს	გამოაკლო	V;3;SG;IND;PST;PFV = gamoak'elo
+აკლებს	გამოვაკელით	V;1;PL;IND;PST;PFV = gamovak'elit
+აკლებს	გამოაკელით	V;2;PL;IND;PST;PFV = gamoak'elit
+აკლებს	გამოაკლეს	V;3;PL;IND;PST;PFV = gamoak'les
+
+აკლებს	გამოაკელი	V;2;SG;IMP = gamoak'le
+აკლებს	გამოაკელით	V;2;PL;IMP = gamoak'let
+
+
+Screeve #8:
+აკლებს	გამოვაკლო	V;1;SG;OPT = gamovak'lo
+აკლებს	გამოაკლო	V;2;SG;OPT = gamoak'lo
+აკლებს	გამოაკლოს	V;3;SG;OPT = gamoak'los
+აკლებს	გამოვაკლოთ	V;1;PL;OPT = gamovak'lot
+აკლებს	გამოაკლოთ	V;2;PL;OPT = gamoak'lot
+აკლებს	გამოაკლონ	V;3;PL;OPT = gamoak'lon
+
+აკლებს	გამოვაკლოთ	V;1;PL;IMP = gamovak'lot
+აკლებს	გამოაკლოს	V;3;SG;IMP = gamoak'los
+აკლებს	გამოაკლონ	V;3;PL;IMP = gamoak'lon
+
+
+Screeve #9:
+აკლებს	გამომიკლია	V;1;SG;IND;PRF = gamomik'lia
+აკლებს	გამოგიკლია	V;2;SG;IND;PRF = gamogik'lia
+აკლებს	გამოუკლია	V;3;SG;IND;PRF = gamouk'lia
+აკლებს	გამოგვიკლია	V;1;PL;IND;PRF = gamogvik'lia
+აკლებს	გამოგიკლიათ	V;2;PL;IND;PRF = gamogik'liat
+აკლებს	გამოუკლიათ	V;3;PL;IND;PRF = gamouk'liat
+
+
+Screeve #10:
+აკლებს	გამომეკლო	V;1;SG;IND;PST;PRF = gamomek'lo
+აკლებს	გამოგეკლო	V;2;SG;IND;PST;PRF = gamogek'lo
+აკლებს	გამოეკლო	V;3;SG;IND;PST;PRF = gamoek'lo
+აკლებს	გამოგვეკლო	V;1;PL;IND;PST;PRF = gamogvek'lo
+აკლებს	გამოგეკლოთ	V;2;PL;IND;PST;PRF = gamogek'lot
+აკლებს	გამოეკლოთ	V;3;PL;IND;PST;PRF = gamoek'lot
+
+
+Screeve #11:
+აკლებს	გამომეკლოს	V;1;SG;SBJV;PRF = gamomek'los
+აკლებს	გამოგეკლოს	V;2;SG;SBJV;PRF = gamogek'los
+აკლებს	გამოეკლოს	V;3;SG;SBJV;PRF = gamoek'los
+აკლებს	გამოგვეკლოს	V;1;PL;SBJV;PRF = gamogvek'los
+აკლებს	გამოგეკლოთ	V;2;PL;SBJV;PRF = gamogek'lot
+აკლებს	გამოეკლოთ	V;3;PL;SBJV;PRF = gamoek'lot
+
+
+აკლებს	გამოკლება	V;V.MSDR;PRF

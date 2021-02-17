@@ -1,0 +1,109 @@
+#22 - ყოფს - divide:
+Screeve #1:
+ყოფს	ვყოფ	V;1;SG;IND;PRS = vq'op
+ყოფს	ყოფ	V;2;SG;IND;PRS = q'op
+ყოფს	ყოფს	V;3;SG;IND;PRS = q'ops
+ყოფს	ვყოფთ	V;1;PL;IND;PRS = vq'opt
+ყოფს	ყოფთ	V;2;PL;IND;PRS = q'opt
+ყოფს	ყოფენ	V;3;PL;IND;PRS = q'open
+
+
+Screeve #2:
+ყოფს	ვყოფდი	V;1;SG;IND;IPFV = vq'opdi
+ყოფს	ყოფდი	V;2;SG;IND;IPFV = q'opdi
+ყოფს	ყოფდა	V;3;SG;IND;IPFV = q'opda
+ყოფს	ვყოფდით	V;1;PL;IND;IPFV = vq'opdit
+ყოფს	ყოფდით	V;2;PL;IND;IPFV = q'opdit
+ყოფს	ყოფდნენ	V;3;PL;IND;IPFV = q'opdnen
+
+
+Screeve #3:
+ყოფს	ვყოფდე	V;1;SG;SBJV;PRS = vq'opde
+ყოფს	ყოფდე	V;2;SG;SBJV;PRS = q'opde
+ყოფს	ყოფდეს	V;3;SG;SBJV;PRS = q'opdes
+ყოფს	ვყოფდეთ	V;1;PL;SBJV;PRS = vq'opdet
+ყოფს	ყოფდეთ	V;2;PL;SBJV;PRS = q'opdet
+ყოფს	ყოფდნენ	V;3;PL;SBJV;PRS = q'opdnen
+
+
+Screeve #4:
+ყოფს	გავყოფ	V;1;SG;IND;FUT = gavq'op
+ყოფს	გაყოფ	V;2;SG;IND;FUT = gaq'op
+ყოფს	გაყოფს	V;3;SG;IND;FUT = gaq'ops
+ყოფს	გავყოფთ	V;1;PL;IND;FUT = gavq'opt
+ყოფს	გაყოფთ	V;2;PL;IND;FUT = gaq'opt
+ყოფს	გაყოფენ	V;3;PL;IND;FUT = gaq'open
+
+
+Screeve #5:
+ყოფს	გავყოფდი	V;1;SG;COND = gavq'opdi
+ყოფს	გაყოფდი	V;2;SG;COND = gaq'opdi
+ყოფს	გაყოფდა	V;3;SG;COND = gaq'opda
+ყოფს	გავყოფდით	V;1;PL;COND = gavq'opdit
+ყოფს	გაყოფდით	V;2;PL;COND = gaq'opdit
+ყოფს	გაყოფდნენ	V;3;PL;COND = gaq'opdnen
+
+
+Screeve #6:
+ყოფს	გავყოფდე	V;1;SG;SBJV;FUT = gavq'opde
+ყოფს	გაყოფდე	V;2;SG;SBJV;FUT = gaq'opde
+ყოფს	გაყოფდეს	V;3;SG;SBJV;FUT = gaq'opdes
+ყოფს	გავყოფდეთ	V;1;PL;SBJV;FUT = gavq'opdet
+ყოფს	გაყოფდეთ	V;2;PL;SBJV;FUT = gaq'opdet
+ყოფს	გაყოფდნენ	V;3;PL;SBJV;FUT = gaq'opdnen
+
+
+Screeve #7:
+ყოფს	გავყავი	V;1;SG;IND;PST;PFV = gavq'avi
+ყოფს	გაყავი	V;2;SG;IND;PST;PFV = gaq'avi
+ყოფს	გაყო	V;3;SG;IND;PST;PFV = gaq'o
+ყოფს	გავყავით	V;1;PL;IND;PST;PFV = gavq'avit
+ყოფს	გაყავით	V;2;PL;IND;PST;PFV = gaq'avit
+ყოფს	გაყვეს	V;3;PL;IND;PST;PFV = gaq'ves
+
+ყოფს	გაყავი	V;2;SG;IMP = gaq'avi
+ყოფს	გაყავით	V;2;PL;IMP = gaq'avit
+
+
+Screeve #8:
+ყოფს	გავყო	V;1;SG;OPT = gavq'o
+ყოფს	გაყო	V;2;SG;OPT = gaq'o
+ყოფს	გაყოს	V;3;SG;OPT = gaq'os
+ყოფს	გავყოთ	V;1;PL;OPT = gavq'ot
+ყოფს	გაყოთ	V;2;PL;OPT = gaq'ot
+ყოფს	გაყონ	V;3;PL;OPT = gaq'on
+
+ყოფს	გავყოთ	V;1;PL;IMP = gavq'ot
+ყოფს	გაყოს	V;3;SG;IMP = gaq'os
+ყოფს	გაყონ	V;3;PL;IMP = gaq'on
+
+
+Screeve #9:
+ყოფს	გამიყვია	V;1;SG;IND;PRF = gamiq'via
+ყოფს	გაგიყია	V;2;SG;IND;PRF = gagiq'via
+ყოფს	გაუყია	V;3;SG;IND;PRF = gauq'via
+ყოფს	გაგვიყია	V;1;PL;IND;PRF = gagviq'via
+ყოფს	გაგიყვიათ	V;2;PL;IND;PRF = gagiq'viat
+ყოფს	გაუყვიათ	V;3;PL;IND;PRF = gauq'viat
+
+
+Screeve #10:
+ყოფს	გამეყო	V;1;SG;IND;PST;PRF = gameq'o
+ყოფს	გაგეყო	V;2;SG;IND;PST;PRF = gageq'o
+ყოფს	გაეყო	V;3;SG;IND;PST;PRF = gaeq'o
+ყოფს	გაგვეყო	V;1;PL;IND;PST;PRF = gagveq'o
+ყოფს	გაგეყოთ	V;2;PL;IND;PST;PRF = gageq'ot
+ყოფს	გაეყოთ	V;3;PL;IND;PST;PRF = gaeq'ot
+
+
+Screeve #11:
+ყოფს	გამეყოს	V;1;SG;SBJV;PRF = gameq'os
+ყოფს	გაგეყოს	V;2;SG;SBJV;PRF = gageq'os
+ყოფს	გაეყოს	V;3;SG;SBJV;PRF = gaeq'os
+ყოფს	გაგვეყოს	V;1;PL;SBJV;PRF = gagveq'os
+ყოფს	გაგეყოთ	V;2;PL;SBJV;PRF = gageq'ot
+ყოფს	გაეყოთ	V;3;PL;SBJV;PRF = gaeq'ot
+
+
+ყოფს	გაყოფა	V;V.MSDR;PRF
+ყოფს	ყოფა	V;V.MSDR;IPFV

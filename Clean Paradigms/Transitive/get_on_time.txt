@@ -1,0 +1,108 @@
+#27 - ასწრებს - get_on_time:
+Screeve #1:
+ასწრებს	ვასწრებ	V;1;SG;IND;PRS = vasc'reb
+ასწრებს	ასწრებ	V;2;SG;IND;PRS = asc'reb
+ასწრებს	ასწრებს	V;3;SG;IND;PRS = asc'rebs
+ასწრებს	ვასწრებთ	V;1;PL;IND;PRS = vasc'rebt
+ასწრებს	ასწრებთ	V;2;PL;IND;PRS = asc'rebt
+ასწრებს	ასწრებენ	V;3;PL;IND;PRS = asc'reben
+
+
+Screeve #2:
+ასწრებს	ვასწრებდი	V;1;SG;IND;IPFV = vasc'rebdi
+ასწრებს	ასწრებდი	V;2;SG;IND;IPFV = asc'rebdi
+ასწრებს	ასწრებდა	V;3;SG;IND;IPFV = asc'rebda
+ასწრებს	ვასწრებდით	V;1;PL;IND;IPFV = vasc'rebdit
+ასწრებს	ასწრებდით	V;2;PL;IND;IPFV = asc'rebdit
+ასწრებს	ასწრებდნენ	V;3;PL;IND;IPFV = asc'rebdnen
+
+
+Screeve #3:
+ასწრებს	ვასწრებდე	V;1;SG;SBJV;PRS = vasc'rebde
+ასწრებს	ასწრებდე	V;2;SG;SBJV;PRS = asc'rebde
+ასწრებს	ასწრებდეს	V;3;SG;SBJV;PRS = asc'rebdes
+ასწრებს	ვასწრებდეთ	V;1;PL;SBJV;PRS = vasc'rebdet
+ასწრებს	ასწრებდეთ	V;2;PL;SBJV;PRS = asc'rebdet
+ასწრებს	ასწრებდნენ	V;3;PL;SBJV;PRS = asc'rebdnen
+
+
+Screeve #4:
+ასწრებს	მოვასწრებ	V;1;SG;IND;FUT = movasc'reb
+ასწრებს	მოასწრებ	V;2;SG;IND;FUT = moasc'reb
+ასწრებს	მოასწრებს	V;3;SG;IND;FUT = moasc'rebs
+ასწრებს	მოვასწრებთ	V;1;PL;IND;FUT = movasc'rebt
+ასწრებს	მოასწრებთ	V;2;PL;IND;FUT = moasc'rebt
+ასწრებს	მოასწრებენ	V;3;PL;IND;FUT = moasc'reben
+
+
+Screeve #5:
+ასწრებს	მოვასწრებდი	V;1;SG;COND = movasc'rebdi
+ასწრებს	მოასწრებდი	V;2;SG;COND = moasc'rebdi
+ასწრებს	მოასწრებდა	V;3;SG;COND = moasc'rebda
+ასწრებს	მოვასწრებდით	V;1;PL;COND = movasc'rebdit
+ასწრებს	მოასწრებდით	V;2;PL;COND = moasc'rebdit
+ასწრებს	მოასწრებდნენ	V;3;PL;COND = moasc'rebdnen
+
+
+Screeve #6:
+ასწრებს	მოვასწრებდე	V;1;SG;SBJV;FUT = movasc'rebde
+ასწრებს	მოასწრებდე	V;2;SG;SBJV;FUT = moasc'rebde
+ასწრებს	მოასწრებდეს	V;3;SG;SBJV;FUT = moasc'rebdes
+ასწრებს	მოვასწრებდეთ	V;1;PL;SBJV;FUT = movasc'rebdet
+ასწრებს	მოასწრებდეთ	V;2;PL;SBJV;FUT = moasc'rebdet
+ასწრებს	მოასწრებდნენ	V;3;PL;SBJV;FUT = moasc'rebdnen
+
+
+Screeve #7:
+ასწრებს	მოვასწარი	V;1;SG;IND;PST;PFV = movasc'ari
+ასწრებს	მოასწარი	V;2;SG;IND;PST;PFV = moasc'ari
+ასწრებს	მოასწრო	V;3;SG;IND;PST;PFV = moasc'ro
+ასწრებს	მოვასწარით	V;1;PL;IND;PST;PFV = movasc'arit
+ასწრებს	მოასწარით	V;2;PL;IND;PST;PFV = moasc'arit
+ასწრებს	მოასწრეს	V;3;PL;IND;PST;PFV = moasc'res
+
+ასწრებს	მოასწარი	V;2;SG;IMP = moasc'ari
+ასწრებს	მოასწარით	V;2;PL;IMP = moasc'arit
+
+
+Screeve #8:
+ასწრებს	მოვასწრო	V;1;SG;OPT = movasc'ro
+ასწრებს	მოასწრო	V;2;SG;OPT = moasc'ro
+ასწრებს	მოასწროს	V;3;SG;OPT = moasc'ros
+ასწრებს	მოვასწროთ	V;1;PL;OPT = movasc'rot
+ასწრებს	მოასწროთ	V;2;PL;OPT = moasc'rot
+ასწრებს	მოასწრონ	V;3;PL;OPT = moasc'ron
+
+ასწრებს	მოვასწროთ	V;1;PL;IMP = movasc'rot
+ასწრებს	მოასწროს	V;3;SG;IMP = moasc'ros
+ასწრებს	მოასწრონ	V;3;PL;IMP = moasc'ron
+
+
+Screeve #9:
+ასწრებს	მომისწრია	V;1;SG;IND;PRF = momisc'ria
+ასწრებს	მოგისწრია	V;2;SG;IND;PRF = mogisc'ria
+ასწრებს	მოუსწრია	V;3;SG;IND;PRF = mousc'ria
+ასწრებს	მოგვისწრია	V;1;PL;IND;PRF = mogvisc'ria
+ასწრებს	მოგისწრიათ	V;2;PL;IND;PRF = mogisc'riat
+ასწრებს	მოუსწრიათ	V;3;PL;IND;PRF = mousc'riat
+
+
+Screeve #10:
+ასწრებს	მომესწრო	V;1;SG;IND;PST;PRF = momesc'ro
+ასწრებს	მოგესწრო	V;2;SG;IND;PST;PRF = mogesc'ro
+ასწრებს	მოესწრო	V;3;SG;IND;PST;PRF = moesc'ro
+ასწრებს	მოგვესწრო	V;1;PL;IND;PST;PRF = mogvesc'ro
+ასწრებს	მოგესწროთ	V;2;PL;IND;PST;PRF = mogesc'rot
+ასწრებს	მოესწროთ	V;3;PL;IND;PST;PRF = moesc'rot
+
+
+Screeve #11:
+ასწრებს	მომესწროს	V;1;SG;SBJV;PRF = momesc'ros
+ასწრებს	მოგესწროს	V;2;SG;SBJV;PRF = mogesc'ros
+ასწრებს	მოესწროს	V;3;SG;SBJV;PRF = moesc'ros
+ასწრებს	მოგვესწროს	V;1;PL;SBJV;PRF = mogvesc'ros
+ასწრებს	მოგესწროთ	V;2;PL;SBJV;PRF = mogesc'rot
+ასწრებს	მოესწროთ	V;3;PL;SBJV;PRF = moesc'rot
+
+
+ასწრებს	მოსწრება	V;V.MSDR;PRF

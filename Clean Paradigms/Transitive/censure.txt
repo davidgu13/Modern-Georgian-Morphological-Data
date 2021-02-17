@@ -1,0 +1,109 @@
+#19 - გმობს - censure:
+Screeve #1:
+გმობს	ვგმობ	V;1;SG;IND;PRS = vgmob
+გმობს	გმობ	V;2;SG;IND;PRS = gmob
+გმობს	გმობს	V;3;SG;IND;PRS = gmobs
+გმობს	ვგმობთ	V;1;PL;IND;PRS = vgmobt
+გმობს	გმობთ	V;2;PL;IND;PRS = gmobt
+გმობს	გმობენ	V;3;PL;IND;PRS = gmoben
+
+
+Screeve #2:
+გმობს	ვგმობდი	V;1;SG;IND;IPFV = vgmobdi
+გმობს	გმობდი	V;2;SG;IND;IPFV = gmobdi
+გმობს	გმობდა	V;3;SG;IND;IPFV = gmobda
+გმობს	ვგმობდით	V;1;PL;IND;IPFV = vgmobdit
+გმობს	გმობდით	V;2;PL;IND;IPFV = gmobdit
+გმობს	გმობდნენ	V;3;PL;IND;IPFV = gmobdnen
+
+
+Screeve #3:
+გმობს	ვგმობდე	V;1;SG;SBJV;PRS = vgmobde
+გმობს	გმობდე	V;2;SG;SBJV;PRS = gmobde
+გმობს	გმობდეს	V;3;SG;SBJV;PRS = gmobdes
+გმობს	ვგმობდეთ	V;1;PL;SBJV;PRS = vgmobdet
+გმობს	გმობდეთ	V;2;PL;SBJV;PRS = gmobdet
+გმობს	გმობდნენ	V;3;PL;SBJV;PRS = gmobdnen
+
+
+Screeve #4:
+გმობს	დავგმობ	V;1;SG;IND;FUT = davgmob
+გმობს	დაგმობ	V;2;SG;IND;FUT = dagmob
+გმობს	დაგმობს	V;3;SG;IND;FUT = dagmobs
+გმობს	დავგმობთ	V;1;PL;IND;FUT = davgmobt
+გმობს	დაგმობთ	V;2;PL;IND;FUT = dagmobt
+გმობს	დაგმობენ	V;3;PL;IND;FUT = dagmoben
+
+
+Screeve #5:
+გმობს	დავგმობდი	V;1;SG;COND = davgmobdi
+გმობს	დაგმობდი	V;2;SG;COND = dagmobdi
+გმობს	დაგმობდა	V;3;SG;COND = dagmobda
+გმობს	დავგმობდით	V;1;PL;COND = davgmobdit
+გმობს	დაგმობდით	V;2;PL;COND = dagmobdit
+გმობს	დაგმობდნენ	V;3;PL;COND = dagmobdnen
+
+
+Screeve #6:
+გმობს	დავგმობდე	V;1;SG;SBJV;FUT = davgmobde
+გმობს	დაგმობდე	V;2;SG;SBJV;FUT = dagmobde
+გმობს	დაგმობდეს	V;3;SG;SBJV;FUT = dagmobdes
+გმობს	დავგმობდეთ	V;1;PL;SBJV;FUT = davgmobdet
+გმობს	დაგმობდეთ	V;2;PL;SBJV;FUT = dagmobdet
+გმობს	დაგმობდნენ	V;3;PL;SBJV;FUT = dagmobdnen
+
+
+Screeve #7:
+გმობს	დავგმე	V;1;SG;IND;PST;PFV = davgme
+გმობს	დაგმე	V;2;SG;IND;PST;PFV = dagme
+გმობს	დაგმო	V;3;SG;IND;PST;PFV = dagmo
+გმობს	დავგმეთ	V;1;PL;IND;PST;PFV = davgmet
+გმობს	დაგმეთ	V;2;PL;IND;PST;PFV = dagmet
+გმობს	დაგმეს	V;3;PL;IND;PST;PFV = dagmes
+
+გმობს	დაგმე	V;2;SG;IMP = dagme
+გმობს	დაგმეთ	V;2;PL;IMP = dagmet
+
+
+Screeve #8:
+გმობს	დავგმო	V;1;SG;OPT = davgmo
+გმობს	დაგმო	V;2;SG;OPT = dagmo
+გმობს	დაგმოს	V;3;SG;OPT = dagmos
+გმობს	დავგმოთ	V;1;PL;OPT = davgmot
+გმობს	დაგმოთ	V;2;PL;OPT = dagmot
+გმობს	დაგმონ	V;3;PL;OPT = dagmon
+
+გმობს	დავგმოთ	V;1;PL;IMP = davgmot
+გმობს	დაგმოს	V;3;SG;IMP = dagmos
+გმობს	დაგმონ	V;3;PL;IMP = dagmon
+
+
+Screeve #9:
+გმობს	დამიგმია	V;1;SG;IND;PRF = damigmia
+გმობს	დაგიგმია	V;2;SG;IND;PRF = dagigmia
+გმობს	დაუგმია	V;3;SG;IND;PRF = daugmia
+გმობს	დაგვიგმია	V;1;PL;IND;PRF = dagvigmia
+გმობს	დაგიგმიათ	V;2;PL;IND;PRF = dagigmiat
+გმობს	დაუგმიათ	V;3;PL;IND;PRF = daugmiat
+
+
+Screeve #10:
+გმობს	დამეგმა	V;1;SG;IND;PST;PRF = damegma
+გმობს	დაგეგმა	V;2;SG;IND;PST;PRF = dagegma
+გმობს	დაეგმა	V;3;SG;IND;PST;PRF = daegma
+გმობს	დაგვეგმა	V;1;PL;IND;PST;PRF = dagvegma
+გმობს	დაგეგმათ	V;2;PL;IND;PST;PRF = dagegmat
+გმობს	დაეგმათ	V;3;PL;IND;PST;PRF = daegmat
+
+
+Screeve #11:
+გმობს	დამეგმოს	V;1;SG;SBJV;PRF = damegmos
+გმობს	დაგეგმოს	V;2;SG;SBJV;PRF = dagegmos
+გმობს	დაეგმოს	V;3;SG;SBJV;PRF = daegmos
+გმობს	დაგვეგმოს	V;1;PL;SBJV;PRF = dagvegmos
+გმობს	დაგეგმოთ	V;2;PL;SBJV;PRF = dagegmot
+გმობს	დაეგმოთ	V;3;PL;SBJV;PRF = daegmot
+
+
+გმობს	დაგმობა	V;V.MSDR;PRF
+გმობს	გმობა	V;V.MSDR;IPFV

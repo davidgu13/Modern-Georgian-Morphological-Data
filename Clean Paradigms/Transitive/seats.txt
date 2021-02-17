@@ -1,0 +1,108 @@
+#20 - სვამს - seats:
+Screeve #1:
+სვამს	ვსვამ	V;1;SG;IND;PRS = vsvam
+სვამს	სვამ	V;2;SG;IND;PRS = svam
+სვამს	სვამს	V;3;SG;IND;PRS = svams
+სვამს	ვსვამთ	V;1;PL;IND;PRS = vsvamt
+სვამს	სვამთ	V;2;PL;IND;PRS = svamt
+სვამს	სვამენ	V;3;PL;IND;PRS = svamen
+
+
+Screeve #2:
+სვამს	ვსვამდი	V;1;SG;IND;IPFV = vsvamdi
+სვამს	სვამდი	V;2;SG;IND;IPFV = svamdi
+სვამს	სვამდა	V;3;SG;IND;IPFV = svamda
+სვამს	ვსვამდით	V;1;PL;IND;IPFV = vsvamdit
+სვამს	სვამდით	V;2;PL;IND;IPFV = svamdit
+სვამს	სვამდნენ	V;3;PL;IND;IPFV = svamdnen
+
+
+Screeve #3:
+სვამს	ვსვამდე	V;1;SG;SBJV;PRS = vsvamde
+სვამს	სვამდე	V;2;SG;SBJV;PRS = svamde
+სვამს	სვამდეს	V;3;SG;SBJV;PRS = svamdes
+სვამს	ვსვამდეთ	V;1;PL;SBJV;PRS = vsvamdet
+სვამს	სვამდეთ	V;2;PL;SBJV;PRS = svamdet
+სვამს	სვამდნენ	V;3;PL;SBJV;PRS = svamdnen
+
+
+Screeve #4:
+სვამს	დავსვამ	V;1;SG;IND;FUT = davsvam
+სვამს	დასვამ	V;2;SG;IND;FUT = dasvam
+სვამს	დასვამს	V;3;SG;IND;FUT = dasvams
+სვამს	დავსვამთ	V;1;PL;IND;FUT = davsvamt
+სვამს	დასვამთ	V;2;PL;IND;FUT = dasvamt
+სვამს	დასვამენ	V;3;PL;IND;FUT = dasvamen
+
+
+Screeve #5:
+სვამს	დავსვამდი	V;1;SG;COND = davsvamdi
+სვამს	დასვამდი	V;2;SG;COND = dasvamdi
+სვამს	დასვამდა	V;3;SG;COND = dasvamda
+სვამს	დავსვამდით	V;1;PL;COND = davsvamdit
+სვამს	დასვამდით	V;2;PL;COND = dasvamdit
+სვამს	დასვამდნენ	V;3;PL;COND = dasvamdnen
+
+
+Screeve #6:
+სვამს	დავსვამდე	V;1;SG;SBJV;FUT = davsvamde
+სვამს	დასვამდე	V;2;SG;SBJV;FUT = dasvamde
+სვამს	დასვამდეს	V;3;SG;SBJV;FUT = dasvamdes
+სვამს	დავსვამდეთ	V;1;PL;SBJV;FUT = davsvamdet
+სვამს	დასვამდეთ	V;2;PL;SBJV;FUT = dasvamdet
+სვამს	დასვამდნენ	V;3;PL;SBJV;FUT = dasvamdnen
+
+
+Screeve #7:
+სვამს	დავსვი	V;1;SG;IND;PST;PFV = davsvi
+სვამს	დასვი	V;2;SG;IND;PST;PFV = dasvi
+სვამს	დასვა	V;3;SG;IND;PST;PFV = dasva
+სვამს	დავსვით	V;1;PL;IND;PST;PFV = davsvit
+სვამს	დასვით	V;2;PL;IND;PST;PFV = dasvit
+სვამს	დასვეს	V;3;PL;IND;PST;PFV = dasves
+
+სვამს	დასვი	V;2;SG;IMP = dasvi
+სვამს	დასვით	V;2;PL;IMP = dasvit
+
+
+Screeve #8:
+სვამს	დავსვა	V;1;SG;OPT = davsva
+სვამს	დასვა	V;2;SG;OPT = dasva
+სვამს	დასვას	V;3;SG;OPT = dasvas
+სვამს	დავსვათ	V;1;PL;OPT = davsvat
+სვამს	დასვათ	V;2;PL;OPT = dasvat
+სვამს	დასვან	V;3;PL;OPT = dasvan
+
+სვამს	დავსვათ	V;1;PL;IMP = davsvat
+სვამს	დასვას	V;3;SG;IMP = dasvas
+სვამს	დასვან	V;3;PL;IMP = dasvan
+
+
+Screeve #9:
+სვამს	დამისვია	V;1;SG;IND;PRF = damisvia
+სვამს	დაგისვია	V;2;SG;IND;PRF = dagisvia
+სვამს	დაუსვია	V;3;SG;IND;PRF = dausvia
+სვამს	დაგვისვია	V;1;PL;IND;PRF = dagvisvia
+სვამს	დაგისვიათ	V;2;PL;IND;PRF = dagisviat
+სვამს	დაუსვიათ	V;3;PL;IND;PRF = dausviat
+
+
+Screeve #10:
+სვამს	დამესვა	V;1;SG;IND;PST;PRF = damesva
+სვამს	დაგესვა	V;2;SG;IND;PST;PRF = dagesva
+სვამს	დაესვა	V;3;SG;IND;PST;PRF = daesva
+სვამს	დაგვესვა	V;1;PL;IND;PST;PRF = dagvesva
+სვამს	დაგესვათ	V;2;PL;IND;PST;PRF = dagesvat
+სვამს	დაესვათ	V;3;PL;IND;PST;PRF = daesvat
+
+
+Screeve #11:
+სვამს	დამესვას	V;1;SG;SBJV;PRF = damesvas
+სვამს	დაგესვას	V;2;SG;SBJV;PRF = dagesvas
+სვამს	დაესვას	V;3;SG;SBJV;PRF = daesvas
+სვამს	დაგვესვას	V;1;PL;SBJV;PRF = dagvesvas
+სვამს	დაგესვათ	V;2;PL;SBJV;PRF = dagesvat
+სვამს	დაესვათ	V;3;PL;SBJV;PRF = daesvat
+
+
+სვამს	დასმა	V;V.MSDR;PRF

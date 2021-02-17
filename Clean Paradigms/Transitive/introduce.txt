@@ -1,0 +1,108 @@
+#35 - აცნობს - introduce:
+Screeve #1:
+აცნობს	ვაცნობ	V;1;SG;IND;PRS = vacnob
+აცნობს	აცნობ	V;2;SG;IND;PRS = acnob
+აცნობს	აცნობს	V;3;SG;IND;PRS = acnobs
+აცნობს	ვაცნობთ	V;1;PL;IND;PRS = vacnobt
+აცნობს	აცნობთ	V;2;PL;IND;PRS = acnobt
+აცნობს	აცნობენ	V;3;PL;IND;PRS = acnoben
+
+
+Screeve #2:
+აცნობს	ვაცნობდი	V;1;SG;IND;IPFV = vacnobdi
+აცნობს	აცნობდი	V;2;SG;IND;IPFV = acnobdi
+აცნობს	აცნობდა	V;3;SG;IND;IPFV = acnobda
+აცნობს	ვაცნობდით	V;1;PL;IND;IPFV = vacnobdit
+აცნობს	აცნობდით	V;2;PL;IND;IPFV = acnobdit
+აცნობს	აცნობდნენ	V;3;PL;IND;IPFV = acnobdnen
+
+
+Screeve #3:
+აცნობს	ვაცნობდე	V;1;SG;SBJV;PRS = vacnobde
+აცნობს	აცნობდე	V;2;SG;SBJV;PRS = acnobde
+აცნობს	აცნობდეს	V;3;SG;SBJV;PRS = acnobdes
+აცნობს	ვაცნობდეთ	V;1;PL;SBJV;PRS = vacnobdet
+აცნობს	აცნობდეთ	V;2;PL;SBJV;PRS = acnobdet
+აცნობს	აცნობდნენ	V;3;PL;SBJV;PRS = acnobdnen
+
+
+Screeve #4:
+აცნობს	გავაცნობ	V;1;SG;IND;FUT = gavacnob
+აცნობს	გააცნობ	V;2;SG;IND;FUT = gaacnob
+აცნობს	გააცნობს	V;3;SG;IND;FUT = gaacnobs
+აცნობს	გავაცნობთ	V;1;PL;IND;FUT = gavacnobt
+აცნობს	გააცნობთ	V;2;PL;IND;FUT = gaacnobt
+აცნობს	გააცნობენ	V;3;PL;IND;FUT = gaacnoben
+
+
+Screeve #5:
+აცნობს	გავაცნობდი	V;1;SG;COND = gavacnobdi
+აცნობს	გააცნობდი	V;2;SG;COND = gaacnobdi
+აცნობს	გააცნობდა	V;3;SG;COND = gaacnobda
+აცნობს	გავაცნობდით	V;1;PL;COND = gavacnobdit
+აცნობს	გააცნობდით	V;2;PL;COND = gaacnobdit
+აცნობს	გააცნობდნენ	V;3;PL;COND = gaacnobdnen
+
+
+Screeve #6:
+აცნობს	გავაცნობდე	V;1;SG;SBJV;FUT = gavacnobde
+აცნობს	გააცნობდე	V;2;SG;SBJV;FUT = gaacnobde
+აცნობს	გააცნობდეს	V;3;SG;SBJV;FUT = gaacnobdes
+აცნობს	გავაცნობდეთ	V;1;PL;SBJV;FUT = gavacnobdet
+აცნობს	გააცნობდეთ	V;2;PL;SBJV;FUT = gaacnobdet
+აცნობს	გააცნობდნენ	V;3;PL;SBJV;FUT = gaacnobdnen
+
+
+Screeve #7:
+აცნობს	გავაცნე	V;1;SG;IND;PST;PFV = gavacne
+აცნობს	გააცნე	V;2;SG;IND;PST;PFV = gaacne
+აცნობს	გააცნო	V;3;SG;IND;PST;PFV = gaacno
+აცნობს	გავაცნეთ	V;1;PL;IND;PST;PFV = gavacnet
+აცნობს	გააცნეთ	V;2;PL;IND;PST;PFV = gaacnet
+აცნობს	გააცნეს	V;3;PL;IND;PST;PFV = gaacnes
+
+აცნობს	გააცნე	V;2;SG;IMP = gaacne
+აცნობს	გააცნეთ	V;2;PL;IMP = gaacnet
+
+
+Screeve #8:
+აცნობს	გავაცნო	V;1;SG;OPT = gavacno
+აცნობს	გააცნო	V;2;SG;OPT = gaacno
+აცნობს	გააცნოს	V;3;SG;OPT = gaacnos
+აცნობს	გავაცნოთ	V;1;PL;OPT = gavacnot
+აცნობს	გააცნოთ	V;2;PL;OPT = gaacnot
+აცნობს	გააცნონ	V;3;PL;OPT = gaacnon
+
+აცნობს	გავაცნოთ	V;1;PL;IMP = gavacnot
+აცნობს	გააცნოს	V;3;SG;IMP = gaacnos
+აცნობს	გააცნონ	V;3;PL;IMP = gaacnon
+
+
+Screeve #9:
+აცნობს	გამიცნია	V;1;SG;IND;PRF = gamicnia
+აცნობს	გაგიცნია	V;2;SG;IND;PRF = gagicnia
+აცნობს	გაუცნია	V;3;SG;IND;PRF = gaucnia
+აცნობს	გაგვიცნია	V;1;PL;IND;PRF = gagvicnia
+აცნობს	გაგიცნიათ	V;2;PL;IND;PRF = gagicniat
+აცნობს	გაუცნიათ	V;3;PL;IND;PRF = gaucniat
+
+
+Screeve #10:
+აცნობს	გამეცნო	V;1;SG;IND;PST;PRF = gamecno
+აცნობს	გაგეცნო	V;2;SG;IND;PST;PRF = gagecno
+აცნობს	გაეცნო	V;3;SG;IND;PST;PRF = gaecno
+აცნობს	გაგვეცნო	V;1;PL;IND;PST;PRF = gagvecno
+აცნობს	გაგეცნოთ	V;2;PL;IND;PST;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;IND;PST;PRF = gaecnot
+
+
+Screeve #11:
+აცნობს	გამეცნოს	V;1;SG;SBJV;PRF = gamecnos
+აცნობს	გაგეცნოს	V;2;SG;SBJV;PRF = gagecnos
+აცნობს	გაეცნოს	V;3;SG;SBJV;PRF = gaecnos
+აცნობს	გაგვეცნოს	V;1;PL;SBJV;PRF = gagvecnos
+აცნობს	გაგეცნოთ	V;2;PL;SBJV;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;SBJV;PRF = gaecnot
+
+
+აცნობს	გაცნობა	V;V.MSDR;PRF

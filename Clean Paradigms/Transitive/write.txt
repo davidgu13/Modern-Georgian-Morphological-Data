@@ -1,0 +1,109 @@
+#1 - წერს - write:
+Screeve #1:
+წერს	ვწერ	V;1;SG;IND;PRS = vc'er
+წერს	წერ	V;2;SG;IND;PRS = c'er
+წერს	წერს	V;3;SG;IND;PRS = c'ers
+წერს	ვწერთ	V;1;PL;IND;PRS = vc'ert
+წერს	წერთ	V;2;PL;IND;PRS = c'ert
+წერს	წერენ	V;3;PL;IND;PRS = c'eren
+
+
+Screeve #2:
+წერს	ვწერდი	V;1;SG;IND;IPFV = vc'erdi
+წერს	წერდი	V;2;SG;IND;IPFV = c'erdi
+წერს	წერდა	V;3;SG;IND;IPFV = c'erda
+წერს	ვწერდით	V;1;PL;IND;IPFV = vc'erdit
+წერს	წერდით	V;2;PL;IND;IPFV = c'erdit
+წერს	წერდნენ	V;3;PL;IND;IPFV = c'erdnen
+
+
+Screeve #3:
+წერს	ვწერდე	V;1;SG;SBJV;PRS = vc'erde
+წერს	წერდე	V;2;SG;SBJV;PRS = c'erde
+წერს	წერდეს	V;3;SG;SBJV;PRS = c'erdes
+წერს	ვწერდეთ	V;1;PL;SBJV;PRS = vc'erdet
+წერს	წერდეთ	V;2;PL;SBJV;PRS = c'erdet
+წერს	წერდნენ	V;3;PL;SBJV;PRS = c'erdnen
+
+
+Screeve #4:
+წერს	დავწერ	V;1;SG;IND;FUT = davc'er
+წერს	დაწერ	V;2;SG;IND;FUT = dac'er
+წერს	დაწერს	V;3;SG;IND;FUT = dac'ers
+წერს	დავწერთ	V;1;PL;IND;FUT = davc'ert
+წერს	დაწერთ	V;2;PL;IND;FUT = dac'ert
+წერს	დაწერენ	V;3;PL;IND;FUT = dac'eren
+
+
+Screeve #5:
+წერს	დავწერდი	V;1;SG;COND = davc'erdi
+წერს	დაწერდი	V;2;SG;COND = dac'erdi
+წერს	დაწერდა	V;3;SG;COND = dac'erda
+წერს	დავწერდით	V;1;PL;COND = davc'erdit
+წერს	დაწერდით	V;2;PL;COND = dac'erdit
+წერს	დაწერდნენ	V;3;PL;COND = dac'erdnen
+
+
+Screeve #6:
+წერს	დავწერდე	V;1;SG;SBJV;FUT = davc'erde
+წერს	დაწერდე	V;2;SG;SBJV;FUT = dac'erde
+წერს	დაწერდეს	V;3;SG;SBJV;FUT = dac'erdes
+წერს	დავწერდეთ	V;1;PL;SBJV;FUT = davc'erdet
+წერს	დაწერდეთ	V;2;PL;SBJV;FUT = dac'erdet
+წერს	დაწერდნენ	V;3;PL;SBJV;FUT = dac'erdnen
+
+
+Screeve #7:
+წერს	დავწერე	V;1;SG;IND;PST;PFV = davc'ere
+წერს	დაწერე	V;2;SG;IND;PST;PFV = dac'ere
+წერს	დაწერა	V;3;SG;IND;PST;PFV = dac'era
+წერს	დავწერეთ	V;1;PL;IND;PST;PFV = davc'eret
+წერს	დაწერეთ	V;2;PL;IND;PST;PFV = dac'eret
+წერს	დაწერეს	V;3;PL;IND;PST;PFV = dac'eres
+
+წერს	დაწერე	V;2;SG;IMP = dac'ere
+წერს	დაწერეთ	V;2;PL;IMP = dac'eret
+
+
+Screeve #8:
+წერს	დავწერო	V;1;SG;OPT = davc'ero
+წერს	დაწერო	V;2;SG;OPT = dac'ero
+წერს	დაწეროს	V;3;SG;OPT = dac'eros
+წერს	დავწეროთ	V;1;PL;OPT = davc'erot
+წერს	დაწეროთ	V;2;PL;OPT = dac'erot
+წერს	დაწერონ	V;3;PL;OPT = dac'eron
+
+წერს	დავწეროთ	V;1;PL;IMP = davc'erot
+წერს	დაწეროს	V;3;SG;IMP = dac'eros
+წერს	დაწერონ	V;3;PL;IMP = dac'eron
+
+
+Screeve #9:
+წერს	დამიწერია	V;1;SG;IND;PRF = damic'eria
+წერს	დაგიწერია	V;2;SG;IND;PRF = dagic'eria
+წერს	დაუწერია	V;3;SG;IND;PRF = dauc'eria
+წერს	დაგვიწერია	V;1;PL;IND;PRF = dagvic'eria
+წერს	დაგიწერიათ	V;2;PL;IND;PRF = dagic'eriat
+წერს	დაუწერიათ	V;3;PL;IND;PRF = dauc'eriat
+
+
+Screeve #10:
+წერს	დამეწერა	V;1;SG;IND;PST;PRF = damec'era
+წერს	დაგეწერა	V;2;SG;IND;PST;PRF = dagec'era
+წერს	დაეწერა	V;3;SG;IND;PST;PRF = daec'era
+წერს	დაგვეწერა	V;1;PL;IND;PST;PRF = dagvec'era
+წერს	დაგეწერათ	V;2;PL;IND;PST;PRF = dagec'erat
+წერს	დაეწერათ	V;3;PL;IND;PST;PRF = daec'erat
+
+
+Screeve #11:
+წერს	დამეწეროს	V;1;SG;SBJV;PRF = damec'eros
+წერს	დაგეწეროს	V;2;SG;SBJV;PRF = dagec'eros
+წერს	დაეწეროს	V;3;SG;SBJV;PRF = daec'eros
+წერს	დაგვეწეროს	V;1;PL;SBJV;PRF = dagvec'eros
+წერს	დაგეწეროთ	V;2;PL;SBJV;PRF = dagec'erot
+წერს	დაეწეროთ	V;3;PL;SBJV;PRF = daec'erot
+
+
+წერს	დაწერა	V;V.MSDR;PRF
+წერს	წერა	V;V.MSDR;IPFV

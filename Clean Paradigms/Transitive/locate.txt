@@ -1,0 +1,108 @@
+#25 - აგნებს - locate:
+Screeve #1:
+აგნებს	ვაგნებ	V;1;SG;IND;PRS = vagneb
+აგნებს	აგნებ	V;2;SG;IND;PRS = agneb
+აგნებს	აგნებს	V;3;SG;IND;PRS = agnebs
+აგნებს	ვაგნებთ	V;1;PL;IND;PRS = vagnebt
+აგნებს	აგნებთ	V;2;PL;IND;PRS = agnebt
+აგნებს	აგნებენ	V;3;PL;IND;PRS = agneben
+
+
+Screeve #2:
+აგნებს	ვაგნებდი	V;1;SG;IND;IPFV = vagnebdi
+აგნებს	აგნებდი	V;2;SG;IND;IPFV = agnebdi
+აგნებს	აგნებდა	V;3;SG;IND;IPFV = agnebda
+აგნებს	ვაგნებდით	V;1;PL;IND;IPFV = vagnebdit
+აგნებს	აგნებდით	V;2;PL;IND;IPFV = agnebdit
+აგნებს	აგნებდნენ	V;3;PL;IND;IPFV = agnebdnen
+
+
+Screeve #3:
+აგნებს	ვაგნებდე	V;1;SG;SBJV;PRS = vagnebde
+აგნებს	აგნებდე	V;2;SG;SBJV;PRS = agnebde
+აგნებს	აგნებდეს	V;3;SG;SBJV;PRS = agnebdes
+აგნებს	ვაგნებდეთ	V;1;PL;SBJV;PRS = vagnebdet
+აგნებს	აგნებდეთ	V;2;PL;SBJV;PRS = agnebdet
+აგნებს	აგნებდნენ	V;3;PL;SBJV;PRS = agnebdnen
+
+
+Screeve #4:
+აგნებს	მივაგნებ	V;1;SG;IND;FUT = mivagneb
+აგნებს	მიაგნებ	V;2;SG;IND;FUT = miagneb
+აგნებს	მიაგნებს	V;3;SG;IND;FUT = miagnebs
+აგნებს	მივაგნებთ	V;1;PL;IND;FUT = mivagnebt
+აგნებს	მიაგნებთ	V;2;PL;IND;FUT = miagnebt
+აგნებს	მიაგნებენ	V;3;PL;IND;FUT = miagneben
+
+
+Screeve #5:
+აგნებს	მივაგნებდი	V;1;SG;COND = mivagnebdi
+აგნებს	მიაგნებდი	V;2;SG;COND = miagnebdi
+აგნებს	მიაგნებდა	V;3;SG;COND = miagnebda
+აგნებს	მივაგნებდით	V;1;PL;COND = mivagnebdit
+აგნებს	მიაგნებდით	V;2;PL;COND = miagnebdit
+აგნებს	მიაგნებდნენ	V;3;PL;COND = miagnebdnen
+
+
+Screeve #6:
+აგნებს	მივაგნებდე	V;1;SG;SBJV;FUT = mivagnebde
+აგნებს	მიაგნებდე	V;2;SG;SBJV;FUT = miagnebde
+აგნებს	მიაგნებდეს	V;3;SG;SBJV;FUT = miagnebdes
+აგნებს	მივაგნებდეთ	V;1;PL;SBJV;FUT = mivagnebdet
+აგნებს	მიაგნებდეთ	V;2;PL;SBJV;FUT = miagnebdet
+აგნებს	მიაგნებდნენ	V;3;PL;SBJV;FUT = miagnebdnen
+
+
+Screeve #7:
+აგნებს	მივაგენი	V;1;SG;IND;PST;PFV = mivageni
+აგნებს	მიაგენი	V;2;SG;IND;PST;PFV = miageni
+აგნებს	მიაგნო	V;3;SG;IND;PST;PFV = miagno
+აგნებს	მივაგენით	V;1;PL;IND;PST;PFV = mivagenit
+აგნებს	მიაგენით	V;2;PL;IND;PST;PFV = miagenit
+აგნებს	მიაგნეს	V;3;PL;IND;PST;PFV = miagnes
+
+აგნებს	მიაგენი	V;2;SG;IMP = miageni
+აგნებს	მიაგენით	V;2;PL;IMP = miagenit
+
+
+Screeve #8:
+აგნებს	მივაგნო	V;1;SG;OPT = mivagno
+აგნებს	მიაგნო	V;2;SG;OPT = miagno
+აგნებს	მიაგნოს	V;3;SG;OPT = miagnos
+აგნებს	მივაგნოთ	V;1;PL;OPT = mivagnot
+აგნებს	მიაგნოთ	V;2;PL;OPT = miagnot
+აგნებს	მიაგნონ	V;3;PL;OPT = miagnon
+
+აგნებს	მივაგნოთ	V;1;PL;IMP = mivagnot
+აგნებს	მიაგნოს	V;3;SG;IMP = miagnos
+აგნებს	მიაგნონ	V;3;PL;IMP = miagnon
+
+
+Screeve #9:
+აგნებს	მიმიგნია	V;1;SG;IND;PRF = mimignia
+აგნებს	მიგიგნია	V;2;SG;IND;PRF = migignia
+აგნებს	მიუგნია	V;3;SG;IND;PRF = miugnia
+აგნებს	მიგვიგნია	V;1;PL;IND;PRF = migvignia
+აგნებს	მიგიგნიათ	V;2;PL;IND;PRF = migigniat
+აგნებს	მიუგნიათ	V;3;PL;IND;PRF = miugniat
+
+
+Screeve #10:
+აგნებს	მიმეგნო	V;1;SG;IND;PST;PRF = mimegno
+აგნებს	მიგეგნო	V;2;SG;IND;PST;PRF = migegno
+აგნებს	მიეგნო	V;3;SG;IND;PST;PRF = miegno
+აგნებს	მიგვეგნო	V;1;PL;IND;PST;PRF = migvegno
+აგნებს	მიგეგნოთ	V;2;PL;IND;PST;PRF = migegnot
+აგნებს	მიეგნოთ	V;3;PL;IND;PST;PRF = miegnot
+
+
+Screeve #11:
+აგნებს	მიმეგნოს	V;1;SG;SBJV;PRF = mimegnos
+აგნებს	მიგეგნოს	V;2;SG;SBJV;PRF = migegnos
+აგნებს	მიეგნოს	V;3;SG;SBJV;PRF = miegnos
+აგნებს	მიგვეგნოს	V;1;PL;SBJV;PRF = migvegnos
+აგნებს	მიგეგნოთ	V;2;PL;SBJV;PRF = migegnot
+აგნებს	მიეგნოთ	V;3;PL;SBJV;PRF = miegnot
+
+
+აგნებს	მიგნება	V;V.MSDR;PRF

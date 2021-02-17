@@ -1,0 +1,109 @@
+#39 - ამთავრებს - finish:
+Screeve #1:
+ამთავრებს	ვამთავრებ	V;1;SG;IND;PRS = vamtavreb
+ამთავრებს	ამთავრებ	V;2;SG;IND;PRS = amtavreb
+ამთავრებს	ამთავრებს	V;3;SG;IND;PRS = amtavrebs
+ამთავრებს	ვამთავრებთ	V;1;PL;IND;PRS = vamtavrebt
+ამთავრებს	ამთავრებთ	V;2;PL;IND;PRS = amtavrebt
+ამთავრებს	ამთავრებენ	V;3;PL;IND;PRS = amtavreben
+
+
+Screeve #2:
+ამთავრებს	ვამთავრებდი	V;1;SG;IND;IPFV = vamtavrebdi
+ამთავრებს	ამთავრებდი	V;2;SG;IND;IPFV = amtavrebdi
+ამთავრებს	ამთავრებდა	V;3;SG;IND;IPFV = amtavrebda
+ამთავრებს	ვამთავრებდით	V;1;PL;IND;IPFV = vamtavrebdit
+ამთავრებს	ამთავრებდით	V;2;PL;IND;IPFV = amtavrebdit
+ამთავრებს	ამთავრებდნენ	V;3;PL;IND;IPFV = amtavrebdnen
+
+
+Screeve #3:
+ამთავრებს	ვამთავრებდე	V;1;SG;SBJV;PRS = vamtavrebde
+ამთავრებს	ამთავრებდე	V;2;SG;SBJV;PRS = amtavrebde
+ამთავრებს	ამთავრებდეს	V;3;SG;SBJV;PRS = amtavrebdes
+ამთავრებს	ვამთავრებდეთ	V;1;PL;SBJV;PRS = vamtavrebdet
+ამთავრებს	ამთავრებდეთ	V;2;PL;SBJV;PRS = amtavrebdet
+ამთავრებს	ამთავრებდნენ	V;3;PL;SBJV;PRS = amtavrebdnen
+
+
+Screeve #4:
+ამთავრებს	დავამთავრებ	V;1;SG;IND;FUT = davamtavreb
+ამთავრებს	დაამთავრებ	V;2;SG;IND;FUT = daamtavreb
+ამთავრებს	დაამთავრებს	V;3;SG;IND;FUT = daamtavrebs
+ამთავრებს	დავამთავრებთ	V;1;PL;IND;FUT = davamtavrebt
+ამთავრებს	დაამთავრებთ	V;2;PL;IND;FUT = daamtavrebt
+ამთავრებს	დაამთავრებენ	V;3;PL;IND;FUT = daamtavreben
+
+
+Screeve #5:
+ამთავრებს	დავამთავრებდი	V;1;SG;COND = davamtavrebdi
+ამთავრებს	დაამთავრებდი	V;2;SG;COND = daamtavrebdi
+ამთავრებს	დაამთავრებდა	V;3;SG;COND = daamtavrebda
+ამთავრებს	დავამთავრებდით	V;1;PL;COND = davamtavrebdit
+ამთავრებს	დაამთავრებდით	V;2;PL;COND = daamtavrebdit
+ამთავრებს	დაამთავრებდნენ	V;3;PL;COND = daamtavrebdnen
+
+
+Screeve #6:
+ამთავრებს	დავამთავრებდე	V;1;SG;SBJV;FUT = davamtavrebde
+ამთავრებს	დაამთავრებდე	V;2;SG;SBJV;FUT = daamtavrebde
+ამთავრებს	დაამთავრებდეს	V;3;SG;SBJV;FUT = daamtavrebdes
+ამთავრებს	დავამთავრებდეთ	V;1;PL;SBJV;FUT = davamtavrebdet
+ამთავრებს	დაამთავრებდეთ	V;2;PL;SBJV;FUT = daamtavrebdet
+ამთავრებს	დაამთავრებდნენ	V;3;PL;SBJV;FUT = daamtavrebdnen
+
+
+Screeve #7:
+ამთავრებს	დავამთავრე	V;1;SG;IND;PST;PFV = davamtavre
+ამთავრებს	დაამთავრე	V;2;SG;IND;PST;PFV = daamtavre
+ამთავრებს	დაამთავრა	V;3;SG;IND;PST;PFV = daamtavra
+ამთავრებს	დავამთავრეთ	V;1;PL;IND;PST;PFV = davamtavret
+ამთავრებს	დაამთავრეთ	V;2;PL;IND;PST;PFV = daamtavret
+ამთავრებს	დაამთავრეს	V;3;PL;IND;PST;PFV = daamtavres
+
+ამთავრებს	დაამთავრე	V;2;SG;IMP = daamtavre
+ამთავრებს	დაამთავრეთ	V;2;PL;IMP = daamtavret
+
+
+Screeve #8:
+ამთავრებს	დავამთავრო	V;1;SG;OPT = davamtavro
+ამთავრებს	დაამთავრო	V;2;SG;OPT = daamtavro
+ამთავრებს	დაამთავროს	V;3;SG;OPT = daamtavros
+ამთავრებს	დავამთავროთ	V;1;PL;OPT = davamtavrot
+ამთავრებს	დაამთავროთ	V;2;PL;OPT = daamtavrot
+ამთავრებს	დაამთავრონ	V;3;PL;OPT = daamtavron
+
+ამთავრებს	დავამთავროთ	V;1;PL;IMP = davamtavrot
+ამთავრებს	დაამთავროს	V;3;SG;IMP = daamtavros
+ამთავრებს	დაამთავრონ	V;3;PL;IMP = daamtavron
+
+
+Screeve #9:
+ამთავრებს	დამიმთავრებია	V;1;SG;IND;PRF = damimtavrebia
+ამთავრებს	დაგიმთავრებია	V;2;SG;IND;PRF = dagimtavrebia
+ამთავრებს	დაუმთავრებია	V;3;SG;IND;PRF = daumtavrebia
+ამთავრებს	დაგვიმთავრებია	V;1;PL;IND;PRF = dagvimtavrebia
+ამთავრებს	დაგიმთავრებიათ	V;2;PL;IND;PRF = dagimtavrebiat
+ამთავრებს	დაუმთავრებიათ	V;3;PL;IND;PRF = daumtavrebiat
+
+
+Screeve #10:
+ამთავრებს	დამემთავრებინა	V;1;SG;IND;PST;PRF = damemtavrebina
+ამთავრებს	დაგემთავრებინა	V;2;SG;IND;PST;PRF = dagemtavrebina
+ამთავრებს	დაემთავრებინა	V;3;SG;IND;PST;PRF = daemtavrebina
+ამთავრებს	დაგვემთავრებინა	V;1;PL;IND;PST;PRF = dagvemtavrebina
+ამთავრებს	დაგემთავრებინათ	V;2;PL;IND;PST;PRF = dagemtavrebinat
+ამთავრებს	დაემთავრებინათ	V;3;PL;IND;PST;PRF = daemtavrebinat
+
+
+Screeve #11:
+ამთავრებს	დამემთავრებინოს	V;1;SG;SBJV;PRF = damemtavrebinos
+ამთავრებს	დაგემთავრებინოს	V;2;SG;SBJV;PRF = dagemtavrebinos
+ამთავრებს	დაემთავრებინოს	V;3;SG;SBJV;PRF = daemtavrebinos
+ამთავრებს	დაგვემთავრებინოს	V;1;PL;SBJV;PRF = dagvemtavrebinos
+ამთავრებს	დაგემთავრებინოთ	V;2;PL;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დაემთავრებინოთ	V;3;PL;SBJV;PRF = daemtavrebinot
+
+
+ამთავრებს	დამთავრება	V;V.MSDR;PRF
+ამთავრებს	მთავრება	V;V.MSDR;IPFV

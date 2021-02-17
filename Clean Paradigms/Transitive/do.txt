@@ -1,0 +1,109 @@
+#5 - აკეთებს - do:
+Screeve #1:
+აკეთებს	ვაკეთებ	V;1;SG;IND;PRS = vak'eteb
+აკეთებს	აკეთებ	V;2;SG;IND;PRS = ak'eteb
+აკეთებს	აკეთებს	V;3;SG;IND;PRS = ak'etebs
+აკეთებს	ვაკეთებთ	V;1;PL;IND;PRS = vak'etebt
+აკეთებს	აკეთებთ	V;2;PL;IND;PRS = ak'etebt
+აკეთებს	აკეთებენ	V;3;PL;IND;PRS = ak'eteben
+
+
+Screeve #2:
+აკეთებს	ვაკეთებდი	V;1;SG;IND;IPFV = vak'etebdi
+აკეთებს	აკეთებდი	V;2;SG;IND;IPFV = ak'etebdi
+აკეთებს	აკეთებდა	V;3;SG;IND;IPFV = ak'etebda
+აკეთებს	ვაკეთებდით	V;1;PL;IND;IPFV = vak'etebdit
+აკეთებს	აკეთებდით	V;2;PL;IND;IPFV = ak'etebdit
+აკეთებს	აკეთებდნენ	V;3;PL;IND;IPFV = ak'etebdnen
+
+
+Screeve #3:
+აკეთებს	ვაკეთებდე	V;1;SG;SBJV;PRS = vak'etebde
+აკეთებს	აკეთებდე	V;2;SG;SBJV;PRS = ak'etebde
+აკეთებს	აკეთებდეს	V;3;SG;SBJV;PRS = ak'etebdes
+აკეთებს	ვაკეთებდეთ	V;1;PL;SBJV;PRS = vak'etebdet
+აკეთებს	აკეთებდეთ	V;2;PL;SBJV;PRS = ak'etebdet
+აკეთებს	აკეთებდნენ	V;3;PL;SBJV;PRS = ak'etebdnen
+
+
+Screeve #4:
+აკეთებს	გავაკეთებ	V;1;SG;IND;FUT = gavak'eteb
+აკეთებს	გააკეთებ	V;2;SG;IND;FUT = gaak'eteb
+აკეთებს	გააკეთებს	V;3;SG;IND;FUT = gaak'etebs
+აკეთებს	გავაკეთებთ	V;1;PL;IND;FUT = gavak'etebt
+აკეთებს	გააკეთებთ	V;2;PL;IND;FUT = gaak'etebt
+აკეთებს	გააკეთებენ	V;3;PL;IND;FUT = gaak'eteben
+
+
+Screeve #5:
+აკეთებს	გავაკეთებდი	V;1;SG;COND = gavak'etebdi
+აკეთებს	გააკეთებდი	V;2;SG;COND = gaak'etebdi
+აკეთებს	გააკეთებდა	V;3;SG;COND = gaak'etebda
+აკეთებს	გავაკეთებდით	V;1;PL;COND = gavak'etebdit
+აკეთებს	გააკეთებდით	V;2;PL;COND = gaak'etebdit
+აკეთებს	გააკეთებდნენ	V;3;PL;COND = gaak'etebdnen
+
+
+Screeve #6:
+აკეთებს	გავაკეთებდე	V;1;SG;SBJV;FUT = gavak'etebde
+აკეთებს	გააკეთებდე	V;2;SG;SBJV;FUT = gaak'etebde
+აკეთებს	გააკეთებდეს	V;3;SG;SBJV;FUT = gaak'etebdes
+აკეთებს	გავაკეთებდეთ	V;1;PL;SBJV;FUT = gavak'etebdet
+აკეთებს	გააკეთებდეთ	V;2;PL;SBJV;FUT = gaak'etebdet
+აკეთებს	გააკეთებდნენ	V;3;PL;SBJV;FUT = gaak'etebdnen
+
+
+Screeve #7:
+აკეთებს	გავაკეთე	V;1;SG;IND;PST;PFV = gavak'ete
+აკეთებს	გააკეთე	V;2;SG;IND;PST;PFV = gaak'ete
+აკეთებს	გააკეთა	V;3;SG;IND;PST;PFV = gaak'eta
+აკეთებს	გავაკეთეთ	V;1;PL;IND;PST;PFV = gavak'etet
+აკეთებს	გააკეთეთ	V;2;PL;IND;PST;PFV = gaak'etet
+აკეთებს	გააკეთეს	V;3;PL;IND;PST;PFV = gaak'etes
+
+აკეთებს	გააკეთე	V;2;SG;IMP = gaak'ete
+აკეთებს	გააკეთეთ	V;2;PL;IMP = gaak'etet
+
+
+Screeve #8:
+აკეთებს	გავაკეთო	V;1;SG;OPT = gavak'eto
+აკეთებს	გააკეთო	V;2;SG;OPT = gaak'eto
+აკეთებს	გააკეთოს	V;3;SG;OPT = gaak'etos
+აკეთებს	გავაკეთოთ	V;1;PL;OPT = gavak'etot
+აკეთებს	გააკეთოთ	V;2;PL;OPT = gaak'etot
+აკეთებს	გააკეთონ	V;3;PL;OPT = gaak'eton
+
+აკეთებს	გავაკეთოთ	V;1;PL;IMP = gavak'etot
+აკეთებს	გააკეთოს	V;3;SG;IMP = gaak'etos
+აკეთებს	გააკეთონ	V;3;PL;IMP = gaak'eton
+
+
+Screeve #9:
+აკეთებს	გამიკეთებია	V;1;SG;IND;PRF = gamik'etebia
+აკეთებს	გაგიკეთებია	V;2;SG;IND;PRF = gagik'etebia
+აკეთებს	გაუკეთებია	V;3;SG;IND;PRF = gauk'etebia
+აკეთებს	გაგვიკეთებია	V;1;PL;IND;PRF = gagvik'etebia
+აკეთებს	გაგიკეთებიათ	V;2;PL;IND;PRF = gagik'etebiat
+აკეთებს	გაუკეთებიათ	V;3;PL;IND;PRF = gauk'etebiat
+
+
+Screeve #10:
+აკეთებს	გამეკეთებინა	V;1;SG;IND;PST;PRF = gamek'etebina
+აკეთებს	გაგეკეთებინა	V;2;SG;IND;PST;PRF = gagek'etebina
+აკეთებს	გაეკეთებინა	V;3;SG;IND;PST;PRF = gaek'etebina
+აკეთებს	გაგვეკეთებინა	V;1;PL;IND;PST;PRF = gagvek'etebina
+აკეთებს	გაგეკეთებინათ	V;2;PL;IND;PST;PRF = gagek'etebinat
+აკეთებს	გაეკეთებინათ	V;3;PL;IND;PST;PRF = gaek'etebinat
+
+
+Screeve #11:
+აკეთებს	გამეკეთებინოს	V;1;SG;SBJV;PRF = gamek'etebinos
+აკეთებს	გაგეკეთებინოს	V;2;SG;SBJV;PRF = gagek'etebinos
+აკეთებს	გაეკეთებინოს	V;3;SG;SBJV;PRF = gaek'etebinos
+აკეთებს	გაგვეკეთებინოს	V;1;PL;SBJV;PRF = gagvek'etebinos
+აკეთებს	გაგეკეთებინოთ	V;2;PL;SBJV;PRF = gagek'etebinot
+აკეთებს	გაეკეთებინოთ	V;3;PL;SBJV;PRF = gaek'etebinot
+
+
+აკეთებს	გაკეთება	V;V.MSDR;PRF
+აკეთებს	კეთება	V;V.MSDR;IPFV

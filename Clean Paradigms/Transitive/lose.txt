@@ -1,0 +1,108 @@
+#4 - კარგავს - lose:
+Screeve #1:
+კარგავს	ვკარგავ	V;1;SG;IND;PRS = vk'argav
+კარგავს	კარგავ	V;2;SG;IND;PRS = k'argav
+კარგავს	კარგავს	V;3;SG;IND;PRS = k'argavs
+კარგავს	ვკარგავთ	V;1;PL;IND;PRS = vk'argavt
+კარგავს	კარგავთ	V;2;PL;IND;PRS = k'argavt
+კარგავს	კარგავენ	V;3;PL;IND;PRS = k'argaven
+
+
+Screeve #2:
+კარგავს	ვკარგავდი	V;1;SG;IND;IPFV = vk'argavdi
+კარგავს	კარგავდი	V;2;SG;IND;IPFV = k'argavdi
+კარგავს	კარგავდა	V;3;SG;IND;IPFV = k'argavda
+კარგავს	ვკარგავდით	V;1;PL;IND;IPFV = vk'argavdit
+კარგავს	კარგავდით	V;2;PL;IND;IPFV = k'argavdit
+კარგავს	კარგავდნენ	V;3;PL;IND;IPFV = k'argavdnen
+
+
+Screeve #3:
+კარგავს	ვკარგავდე	V;1;SG;SBJV;PRS = vk'argavde
+კარგავს	კარგავდე	V;2;SG;SBJV;PRS = k'argavde
+კარგავს	კარგავდეს	V;3;SG;SBJV;PRS = k'argavdes
+კარგავს	ვკარგავდეთ	V;1;PL;SBJV;PRS = vk'argavdet
+კარგავს	კარგავდეთ	V;2;PL;SBJV;PRS = k'argavdet
+კარგავს	კარგავდნენ	V;3;PL;SBJV;PRS = k'argavdnen
+
+
+Screeve #4:
+კარგავს	დავკარგავ	V;1;SG;IND;FUT = davk'argav
+კარგავს	დაკარგავ	V;2;SG;IND;FUT = dak'argav
+კარგავს	დაკარგავს	V;3;SG;IND;FUT = dak'argavs
+კარგავს	დავკარგავთ	V;1;PL;IND;FUT = davk'argavt
+კარგავს	დაკარგავთ	V;2;PL;IND;FUT = dak'argavt
+კარგავს	დაკარგავენ	V;3;PL;IND;FUT = dak'argaven
+
+
+Screeve #5:
+კარგავს	დავკარგავდი	V;1;SG;COND = davk'argavdi
+კარგავს	დაკარგავდი	V;2;SG;COND = dak'argavdi
+კარგავს	დაკარგავდა	V;3;SG;COND = dak'argavda
+კარგავს	დავკარგავდით	V;1;PL;COND = davk'argavdit
+კარგავს	დაკარგავდით	V;2;PL;COND = dak'argavdit
+კარგავს	დაკარგავდნენ	V;3;PL;COND = dak'argavdnen
+
+
+Screeve #6:
+კარგავს	დავკარგავდე	V;1;SG;SBJV;FUT = davk'argavde
+კარგავს	დაკარგავდე	V;2;SG;SBJV;FUT = dak'argavde
+კარგავს	დაკარგავდეს	V;3;SG;SBJV;FUT = dak'argavdes
+კარგავს	დავკარგავდეთ	V;1;PL;SBJV;FUT = davk'argavdet
+კარგავს	დაკარგავდეთ	V;2;PL;SBJV;FUT = dak'argavdet
+კარგავს	დაკარგავდნენ	V;3;PL;SBJV;FUT = dak'argavdnen
+
+
+Screeve #7:
+კარგავს	დავკარგე	V;1;SG;IND;PST;PFV = davk'arge
+კარგავს	დაკარგე	V;2;SG;IND;PST;PFV = dak'arge
+კარგავს	დაკარგა	V;3;SG;IND;PST;PFV = dak'arga
+კარგავს	დავკარგეთ	V;1;PL;IND;PST;PFV = davk'arget
+კარგავს	დაკარგეთ	V;2;PL;IND;PST;PFV = dak'arget
+კარგავს	დაკარგეს	V;3;PL;IND;PST;PFV = dak'arges
+
+კარგავს	დაკარგე	V;2;SG;IMP = dak'arge
+კარგავს	დაკარგეთ	V;2;PL;IMP = dak'arget
+
+
+Screeve #8:
+კარგავს	დავკარგო	V;1;SG;OPT = davk'argo
+კარგავს	დაკარგო	V;2;SG;OPT = dak'argo
+კარგავს	დაკარგოს	V;3;SG;OPT = dak'argos
+კარგავს	დავკარგოთ	V;1;PL;OPT = davk'argot
+კარგავს	დაკარგოთ	V;2;PL;OPT = dak'argot
+კარგავს	დაკარგონ	V;3;PL;OPT = dak'argon
+
+კარგავს	დავკარგოთ	V;1;PL;IMP = davk'argot
+კარგავს	დაკარგოს	V;3;SG;IMP = dak'argos
+კარგავს	დაკარგონ	V;3;PL;IMP = dak'argon
+
+
+Screeve #9:
+კარგავს	დამიკარგია	V;1;SG;IND;PRF = damik'argia
+კარგავს	დაგიკარგია	V;2;SG;IND;PRF = dagik'argia
+კარგავს	დაუკარგია	V;3;SG;IND;PRF = dauk'argia
+კარგავს	დაგვიკარგია	V;1;PL;IND;PRF = dagvik'argia
+კარგავს	დაგიკარგიათ	V;2;PL;IND;PRF = dagik'argiat
+კარგავს	დაუკარგიათ	V;3;PL;IND;PRF = dauk'argiat
+
+
+Screeve #10:
+კარგავს	დამეკარგა	V;1;SG;IND;PST;PRF = damek'arga
+კარგავს	დაგეკარგა	V;2;SG;IND;PST;PRF = dagek'arga
+კარგავს	დაეკარგა	V;3;SG;IND;PST;PRF = daek'arga
+კარგავს	დაგვეკარგა	V;1;PL;IND;PST;PRF = dagvek'arga
+კარგავს	დაგეკარგათ	V;2;PL;IND;PST;PRF = dagek'argat
+კარგავს	დაეკარგათ	V;3;PL;IND;PST;PRF = daek'argat
+
+
+Screeve #11:
+კარგავს	დამეკარგოს	V;1;SG;SBJV;PRF = damek'argos
+კარგავს	დაგეკარგოს	V;2;SG;SBJV;PRF = dagek'argos
+კარგავს	დაეკარგოს	V;3;SG;SBJV;PRF = daek'argos
+კარგავს	დაგვეკარგოს	V;1;PL;SBJV;PRF = dagvek'argos
+კარგავს	დაგეკარგოთ	V;2;PL;SBJV;PRF = dagek'argot
+კარგავს	დაეკარგოთ	V;3;PL;SBJV;PRF = daek'argot
+
+
+კარგავს	დაკარგვა	V;V.MSDR;PRF

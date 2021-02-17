@@ -1,0 +1,109 @@
+#17 - ჭრის - cut:
+Screeve #1:
+ჭრის	ვჭრი	V;1;SG;IND;PRS = vč'ri
+ჭრის	ჭრი	V;2;SG;IND;PRS = č'ri
+ჭრის	ჭრის	V;3;SG;IND;PRS = č'ris
+ჭრის	ვჭრით	V;1;PL;IND;PRS = vč'rit
+ჭრის	ჭრით	V;2;PL;IND;PRS = č'rit
+ჭრის	ჭრიან	V;3;PL;IND;PRS = č'rian
+
+
+Screeve #2:
+ჭრის	ვჭრიდი	V;1;SG;IND;IPFV = vč'ridi
+ჭრის	ჭრიდი	V;2;SG;IND;IPFV = č'ridi
+ჭრის	ჭრიდა	V;3;SG;IND;IPFV = č'rida
+ჭრის	ვჭრიდით	V;1;PL;IND;IPFV = vč'ridit
+ჭრის	ჭრიდით	V;2;PL;IND;IPFV = č'ridit
+ჭრის	ჭრიდნენ	V;3;PL;IND;IPFV = č'ridnen
+
+
+Screeve #3:
+ჭრის	ვჭრიდე	V;1;SG;SBJV;PRS = vč'ride
+ჭრის	ჭრიდე	V;2;SG;SBJV;PRS = č'ride
+ჭრის	ჭრიდეს	V;3;SG;SBJV;PRS = č'rides
+ჭრის	ვჭრიდეთ	V;1;PL;SBJV;PRS = vč'ridet
+ჭრის	ჭრიდეთ	V;2;PL;SBJV;PRS = č'ridet
+ჭრის	ჭრიდნენ	V;3;PL;SBJV;PRS = č'ridnen
+
+
+Screeve #4:
+ჭრის	გავჭრი	V;1;SG;IND;FUT = gavč'ri
+ჭრის	გაჭრი	V;2;SG;IND;FUT = gač'ri
+ჭრის	გაჭრის	V;3;SG;IND;FUT = gač'ris
+ჭრის	გავჭრით	V;1;PL;IND;FUT = gavč'rit
+ჭრის	გაჭრით	V;2;PL;IND;FUT = gač'rit
+ჭრის	გაჭრიან	V;3;PL;IND;FUT = gač'rian
+
+
+Screeve #5:
+ჭრის	გავჭრიდი	V;1;SG;COND = gavč'ridi
+ჭრის	გაჭრიდი	V;2;SG;COND = gač'ridi
+ჭრის	გაჭრიდა	V;3;SG;COND = gač'rida
+ჭრის	გავჭრიდით	V;1;PL;COND = gavč'ridit
+ჭრის	გაჭრიდით	V;2;PL;COND = gač'ridit
+ჭრის	გაჭრიდნენ	V;3;PL;COND = gač'ridnen
+
+
+Screeve #6:
+ჭრის	გავჭრიდე	V;1;SG;SBJV;FUT = gavč'ride
+ჭრის	გაჭრიდე	V;2;SG;SBJV;FUT = gač'ride
+ჭრის	გაჭრიდეს	V;3;SG;SBJV;FUT = gač'rides
+ჭრის	გავჭრიდეთ	V;1;PL;SBJV;FUT = gavč'ridet
+ჭრის	გაჭრიდეთ	V;2;PL;SBJV;FUT = gač'ridet
+ჭრის	გაჭრიდნენ	V;3;PL;SBJV;FUT = gač'ridnen
+
+
+Screeve #7:
+ჭრის	გავჭერი	V;1;SG;IND;PST;PFV = gavč'eri
+ჭრის	გაჭერი	V;2;SG;IND;PST;PFV = gač'eri
+ჭრის	გაჭრა	V;3;SG;IND;PST;PFV = gač'ra
+ჭრის	გავჭერით	V;1;PL;IND;PST;PFV = gavč'erit
+ჭრის	გაჭერით	V;2;PL;IND;PST;PFV = gač'erit
+ჭრის	გაჭრეს	V;3;PL;IND;PST;PFV = gač'res
+
+ჭრის	გაჭერი	V;2;SG;IMP = gač'eri
+ჭრის	გაჭერით	V;2;PL;IMP = gač'erit
+
+
+Screeve #8:
+ჭრის	გავჭრა	V;1;SG;OPT = gavč'ra
+ჭრის	გაჭრა	V;2;SG;OPT = gač'ra
+ჭრის	გაჭრას	V;3;SG;OPT = gač'ras
+ჭრის	გავჭრათ	V;1;PL;OPT = gavč'rat
+ჭრის	გაჭრათ	V;2;PL;OPT = gač'rat
+ჭრის	გაჭრან	V;3;PL;OPT = gač'ran
+
+ჭრის	გავჭრათ	V;1;PL;IMP = gavč'rat
+ჭრის	გაჭრას	V;3;SG;IMP = gač'ras
+ჭრის	გაჭრან	V;3;PL;IMP = gač'ran
+
+
+Screeve #9:
+ჭრის	გამიჭრია	V;1;SG;IND;PRF = gamič'ria
+ჭრის	გაგიჭრია	V;2;SG;IND;PRF = gagič'ria
+ჭრის	გაუჭრია	V;3;SG;IND;PRF = gauč'ria
+ჭრის	გაგვიჭრია	V;1;PL;IND;PRF = gagvič'ria
+ჭრის	გაგიჭრიათ	V;2;PL;IND;PRF = gagič'riat
+ჭრის	გაუჭრიათ	V;3;PL;IND;PRF = gauč'riat
+
+
+Screeve #10:
+ჭრის	გამეჭრა	V;1;SG;IND;PST;PRF = gameč'ra
+ჭრის	გაგეჭრა	V;2;SG;IND;PST;PRF = gageč'ra
+ჭრის	გაეჭრა	V;3;SG;IND;PST;PRF = gaeč'ra
+ჭრის	გაგვეჭრა	V;1;PL;IND;PST;PRF = gagveč'ra
+ჭრის	გაგეჭრათ	V;2;PL;IND;PST;PRF = gageč'rat
+ჭრის	გაეჭრათ	V;3;PL;IND;PST;PRF = gaeč'rat
+
+
+Screeve #11:
+ჭრის	გამეჭრას	V;1;SG;SBJV;PRF = gameč'ras
+ჭრის	გაგეჭრას	V;2;SG;SBJV;PRF = gageč'ras
+ჭრის	გაეჭრას	V;3;SG;SBJV;PRF = gaeč'ras
+ჭრის	გაგვეჭრას	V;1;PL;SBJV;PRF = gagveč'ras
+ჭრის	გაგეჭრათ	V;2;PL;SBJV;PRF = gageč'rat
+ჭრის	გაეჭრათ	V;3;PL;SBJV;PRF = gaeč'rat
+
+
+ჭრის	გაჭრა	V;V.MSDR;PRF
+ჭრის	ჭრა	V;V.MSDR;IPFV

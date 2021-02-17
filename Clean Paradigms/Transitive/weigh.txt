@@ -1,0 +1,108 @@
+#16 - წონის - weigh:
+Screeve #1:
+წონის	ვწონი	V;1;SG;IND;PRS = vc'oni
+წონის	წონი	V;2;SG;IND;PRS = c'oni
+წონის	წონის	V;3;SG;IND;PRS = c'onis
+წონის	ვწონით	V;1;PL;IND;PRS = vc'onit
+წონის	წონით	V;2;PL;IND;PRS = c'onit
+წონის	წონიან	V;3;PL;IND;PRS = c'onian
+
+
+Screeve #2:
+წონის	ვწონიდი	V;1;SG;IND;IPFV = vc'onidi
+წონის	წონიდი	V;2;SG;IND;IPFV = c'onidi
+წონის	წონიდა	V;3;SG;IND;IPFV = c'onida
+წონის	ვწონიდით	V;1;PL;IND;IPFV = vc'onidit
+წონის	წონიდით	V;2;PL;IND;IPFV = c'onidit
+წონის	წონიდნენ	V;3;PL;IND;IPFV = c'onidnen
+
+
+Screeve #3:
+წონის	ვწონიდე	V;1;SG;SBJV;PRS = vc'onide
+წონის	წონიდე	V;2;SG;SBJV;PRS = c'onide
+წონის	წონიდეს	V;3;SG;SBJV;PRS = c'onides
+წონის	ვწონიდეთ	V;1;PL;SBJV;PRS = vc'onidet
+წონის	წონიდეთ	V;2;PL;SBJV;PRS = c'onidet
+წონის	წონიდნენ	V;3;PL;SBJV;PRS = c'onidnen
+
+
+Screeve #4:
+წონის	ავწონი	V;1;SG;IND;FUT = avc'oni
+წონის	აწონი	V;2;SG;IND;FUT = ac'oni
+წონის	აწონის	V;3;SG;IND;FUT = ac'onis
+წონის	ავწონით	V;1;PL;IND;FUT = avc'onit
+წონის	აწონით	V;2;PL;IND;FUT = ac'onit
+წონის	აწონიან	V;3;PL;IND;FUT = ac'onian
+
+
+Screeve #5:
+წონის	ავწონიდი	V;1;SG;COND = avc'onidi
+წონის	აწონიდი	V;2;SG;COND = ac'onidi
+წონის	აწონიდა	V;3;SG;COND = ac'onida
+წონის	ავწონიდით	V;1;PL;COND = avc'onidit
+წონის	აწონიდით	V;2;PL;COND = ac'onidit
+წონის	აწონიდნენ	V;3;PL;COND = ac'onidnen
+
+
+Screeve #6:
+წონის	ავწონიდე	V;1;SG;SBJV;FUT = avc'onide
+წონის	აწონიდე	V;2;SG;SBJV;FUT = ac'onide
+წონის	აწონიდეს	V;3;SG;SBJV;FUT = ac'onides
+წონის	ავწონიდეთ	V;1;PL;SBJV;FUT = avc'onidet
+წონის	აწონიდეთ	V;2;PL;SBJV;FUT = ac'onidet
+წონის	აწონიდნენ	V;3;PL;SBJV;FUT = ac'onidnen
+
+
+Screeve #7:
+წონის	ავწონე	V;1;SG;IND;PST;PFV = avc'one
+წონის	აწონე	V;2;SG;IND;PST;PFV = ac'one
+წონის	აწონა	V;3;SG;IND;PST;PFV = ac'ona
+წონის	ავწონეთ	V;1;PL;IND;PST;PFV = avc'onet
+წონის	აწონეთ	V;2;PL;IND;PST;PFV = ac'onet
+წონის	აწონეს	V;3;PL;IND;PST;PFV = ac'ones
+
+წონის	აწონე	V;2;SG;IMP = ac'one
+წონის	აწონეთ	V;2;PL;IMP = ac'onet
+
+
+Screeve #8:
+წონის	ავწონო	V;1;SG;OPT = avc'ono
+წონის	აწონო	V;2;SG;OPT = ac'ono
+წონის	აწონოს	V;3;SG;OPT = ac'onos
+წონის	ავწონოთ	V;1;PL;OPT = avc'onot
+წონის	აწონოთ	V;2;PL;OPT = ac'onot
+წონის	აწონონ	V;3;PL;OPT = ac'onon
+
+წონის	ავწონოთ	V;1;PL;IMP = avc'onot
+წონის	აწონოს	V;3;SG;IMP = ac'onos
+წონის	აწონონ	V;3;PL;IMP = ac'onon
+
+
+Screeve #9:
+წონის	ამიწონია	V;1;SG;IND;PRF = amic'onia
+წონის	აგიწონია	V;2;SG;IND;PRF = agic'onia
+წონის	აუწონია	V;3;SG;IND;PRF = auc'onia
+წონის	აგვიწონია	V;1;PL;IND;PRF = agvic'onia
+წონის	აგიწონიათ	V;2;PL;IND;PRF = agic'oniat
+წონის	აუწონიათ	V;3;PL;IND;PRF = auc'oniat
+
+
+Screeve #10:
+წონის	ამეწონა	V;1;SG;IND;PST;PRF = amec'ona
+წონის	აგეწონა	V;2;SG;IND;PST;PRF = agec'ona
+წონის	აეწონა	V;3;SG;IND;PST;PRF = aec'ona
+წონის	აგვეწონა	V;1;PL;IND;PST;PRF = agvec'ona
+წონის	აგეწონათ	V;2;PL;IND;PST;PRF = agec'onat
+წონის	აეწონათ	V;3;PL;IND;PST;PRF = aec'onat
+
+
+Screeve #11:
+წონის	ამეწონოს	V;1;SG;SBJV;PRF = amec'onos
+წონის	აგეწონოს	V;2;SG;SBJV;PRF = agec'onos
+წონის	აეწონოს	V;3;SG;SBJV;PRF = aec'onos
+წონის	აგვეწონოს	V;1;PL;SBJV;PRF = agvec'onos
+წონის	აგეწონოთ	V;2;PL;SBJV;PRF = agec'onot
+წონის	აეწონოთ	V;3;PL;SBJV;PRF = aec'onot
+
+
+წონის	აწონვა	V;V.MSDR;PRF

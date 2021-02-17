@@ -1,0 +1,109 @@
+#7 - ატარებს - let_pass:
+Screeve #1:
+ატარებს	ვატარებ	V;1;SG;IND;PRS = vat'areb
+ატარებს	ატარებ	V;2;SG;IND;PRS = at'areb
+ატარებს	ატარებს	V;3;SG;IND;PRS = at'arebs
+ატარებს	ვატარებთ	V;1;PL;IND;PRS = vat'arebt
+ატარებს	ატარებთ	V;2;PL;IND;PRS = at'arebt
+ატარებს	ატარებენ	V;3;PL;IND;PRS = at'areben
+
+
+Screeve #2:
+ატარებს	ვატარებდი	V;1;SG;IND;IPFV = vat'arebdi
+ატარებს	ატარებდი	V;2;SG;IND;IPFV = at'arebdi
+ატარებს	ატარებდა	V;3;SG;IND;IPFV = at'arebda
+ატარებს	ვატარებდით	V;1;PL;IND;IPFV = vat'arebdit
+ატარებს	ატარებდით	V;2;PL;IND;IPFV = at'arebdit
+ატარებს	ატარებდნენ	V;3;PL;IND;IPFV = at'arebdnen
+
+
+Screeve #3:
+ატარებს	ვატარებდე	V;1;SG;SBJV;PRS = vat'arebde
+ატარებს	ატარებდე	V;2;SG;SBJV;PRS = at'arebde
+ატარებს	ატარებდეს	V;3;SG;SBJV;PRS = at'arebdes
+ატარებს	ვატარებდეთ	V;1;PL;SBJV;PRS = vat'arebdet
+ატარებს	ატარებდეთ	V;2;PL;SBJV;PRS = at'arebdet
+ატარებს	ატარებდნენ	V;3;PL;SBJV;PRS = at'arebdnen
+
+
+Screeve #4:
+ატარებს	გავატარებ	V;1;SG;IND;FUT = gavat'areb
+ატარებს	გაატარებ	V;2;SG;IND;FUT = gaat'areb
+ატარებს	გაატარებს	V;3;SG;IND;FUT = gaat'arebs
+ატარებს	გავატარებთ	V;1;PL;IND;FUT = gavat'arebt
+ატარებს	გაატარებთ	V;2;PL;IND;FUT = gaat'arebt
+ატარებს	გაატარებენ	V;3;PL;IND;FUT = gaat'areben
+
+
+Screeve #5:
+ატარებს	გავატარებდი	V;1;SG;COND = gavat'arebdi
+ატარებს	გაატარებდი	V;2;SG;COND = gaat'arebdi
+ატარებს	გაატარებდა	V;3;SG;COND = gaat'arebda
+ატარებს	გავატარებდით	V;1;PL;COND = gavat'arebdit
+ატარებს	გაატარებდით	V;2;PL;COND = gaat'arebdit
+ატარებს	გაატარებდნენ	V;3;PL;COND = gaat'arebdnen
+
+
+Screeve #6:
+ატარებს	გავატარებდე	V;1;SG;SBJV;FUT = gavat'arebde
+ატარებს	გაატარებდე	V;2;SG;SBJV;FUT = gaat'arebde
+ატარებს	გაატარებდეს	V;3;SG;SBJV;FUT = gaat'arebdes
+ატარებს	გავატარებდეთ	V;1;PL;SBJV;FUT = gavat'arebdet
+ატარებს	გაატარებდეთ	V;2;PL;SBJV;FUT = gaat'arebdet
+ატარებს	გაატარებდნენ	V;3;PL;SBJV;FUT = gaat'arebdnen
+
+
+Screeve #7:
+ატარებს	გავატარე	V;1;SG;IND;PST;PFV = gavat'are
+ატარებს	გაატარე	V;2;SG;IND;PST;PFV = gaat'are
+ატარებს	გაატარა	V;3;SG;IND;PST;PFV = gaat'ara
+ატარებს	გავატარეთ	V;1;PL;IND;PST;PFV = gavat'aret
+ატარებს	გაატარეთ	V;2;PL;IND;PST;PFV = gaat'aret
+ატარებს	გაატარეს	V;3;PL;IND;PST;PFV = gaat'ares
+
+ატარებს	გაატარე	V;2;SG;IMP = gaat'are
+ატარებს	გაატარეთ	V;2;PL;IMP = gaat'aret
+
+
+Screeve #8:
+ატარებს	გავატარო	V;1;SG;OPT = gavat'aro
+ატარებს	გაატარო	V;2;SG;OPT = gaat'aro
+ატარებს	გაატაროს	V;3;SG;OPT = gaat'aros
+ატარებს	გავატაროთ	V;1;PL;OPT = gavat'arot
+ატარებს	გაატაროთ	V;2;PL;OPT = gaat'arot
+ატარებს	გაატარონ	V;3;PL;OPT = gaat'aron
+
+ატარებს	გავატაროთ	V;1;PL;IMP = gavat'arot
+ატარებს	გაატაროს	V;3;SG;IMP = gaat'aros
+ატარებს	გაატარონ	V;3;PL;IMP = gaat'aron
+
+
+Screeve #9:
+ატარებს	გამიტარებია	V;1;SG;IND;PRF = gamit'arebia
+ატარებს	გაგიტარებია	V;2;SG;IND;PRF = gagit'arebia
+ატარებს	გაუტარებია	V;3;SG;IND;PRF = gaut'arebia
+ატარებს	გაგვიტარებია	V;1;PL;IND;PRF = gagvit'arebia
+ატარებს	გაგიტარებიათ	V;2;PL;IND;PRF = gagit'arebiat
+ატარებს	გაუტარებიათ	V;3;PL;IND;PRF = gaut'arebiat
+
+
+Screeve #10:
+ატარებს	გამეტარებინა	V;1;SG;IND;PST;PRF = gamet'arebina
+ატარებს	გაგეტარებინა	V;2;SG;IND;PST;PRF = gaget'arebina
+ატარებს	გაეტარებინა	V;3;SG;IND;PST;PRF = gaet'arebina
+ატარებს	გაგვეტარებინა	V;1;PL;IND;PST;PRF = gagvet'arebina
+ატარებს	გაგეტარებინათ	V;2;PL;IND;PST;PRF = gaget'arebinat
+ატარებს	გაეტარებინათ	V;3;PL;IND;PST;PRF = gaet'arebinat
+
+
+Screeve #11:
+ატარებს	გამეტარებინოს	V;1;SG;SBJV;PRF = gamet'arebinos
+ატარებს	გაგეტარებინოს	V;2;SG;SBJV;PRF = gaget'arebinos
+ატარებს	გაეტარებინოს	V;3;SG;SBJV;PRF = gaet'arebinos
+ატარებს	გაგვეტარებინოს	V;1;PL;SBJV;PRF = gagvet'arebinos
+ატარებს	გაგეტარებინოთ	V;2;PL;SBJV;PRF = gaget'arebinot
+ატარებს	გაეტარებინოთ	V;3;PL;SBJV;PRF = gaet'arebinot
+
+
+ატარებს	გატარება	V;V.MSDR;PRF
+ატარებს	ტარება	V;V.MSDR;IPFV

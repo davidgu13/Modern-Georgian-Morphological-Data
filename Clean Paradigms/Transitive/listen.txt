@@ -1,0 +1,108 @@
+#6 - უსმენს - listen:
+Screeve #1:
+უსმენს	ვუსმენ	V;1;SG;IND;PRS = vusmen
+უსმენს	უსმენ	V;2;SG;IND;PRS = usmen
+უსმენს	უსმენს	V;3;SG;IND;PRS = usmens
+უსმენს	ვუსმენთ	V;1;PL;IND;PRS = vusment
+უსმენს	უსმენთ	V;2;PL;IND;PRS = usment
+უსმენს	უსმენენ	V;3;PL;IND;PRS = usmenen
+
+
+Screeve #2:
+უსმენს	ვუსმენდი	V;1;SG;IND;IPFV = vusmendi
+უსმენს	უსმენდი	V;2;SG;IND;IPFV = usmendi
+უსმენს	უსმენდა	V;3;SG;IND;IPFV = usmenda
+უსმენს	ვუსმენდით	V;1;PL;IND;IPFV = vusmendit
+უსმენს	უსმენდით	V;2;PL;IND;IPFV = usmendit
+უსმენს	უსმენდნენ	V;3;PL;IND;IPFV = usmendnen
+
+
+Screeve #3:
+უსმენს	ვუსმენდე	V;1;SG;SBJV;PRS = vusmende
+უსმენს	უსმენდე	V;2;SG;SBJV;PRS = usmende
+უსმენს	უსმენდეს	V;3;SG;SBJV;PRS = usmendes
+უსმენს	ვუსმენდეთ	V;1;PL;SBJV;PRS = vusmendet
+უსმენს	უსმენდეთ	V;2;PL;SBJV;PRS = usmendet
+უსმენს	უსმენდნენ	V;3;PL;SBJV;PRS = usmendnen
+
+
+Screeve #4:
+უსმენს	მოვუსმენ	V;1;SG;IND;FUT = movusmen
+უსმენს	მოუსმენ	V;2;SG;IND;FUT = mousmen
+უსმენს	მოუსმენს	V;3;SG;IND;FUT = mousmens
+უსმენს	მოვუსმენთ	V;1;PL;IND;FUT = movusment
+უსმენს	მოუსმენთ	V;2;PL;IND;FUT = mousment
+უსმენს	მოუსმენენ	V;3;PL;IND;FUT = mousmenen
+
+
+Screeve #5:
+უსმენს	მოვუსმენდი	V;1;SG;COND = movusmendi
+უსმენს	მოუსმენდი	V;2;SG;COND = mousmendi
+უსმენს	მოუსმენდა	V;3;SG;COND = mousmenda
+უსმენს	მოვუსმენდით	V;1;PL;COND = movusmendit
+უსმენს	მოუსმენდით	V;2;PL;COND = mousmendit
+უსმენს	მოუსმენდნენ	V;3;PL;COND = mousmendnen
+
+
+Screeve #6:
+უსმენს	მოვუსმენდე	V;1;SG;SBJV;FUT = movusmende
+უსმენს	მოუსმენდე	V;2;SG;SBJV;FUT = mousmende
+უსმენს	მოუსმენდეს	V;3;SG;SBJV;FUT = mousmendes
+უსმენს	მოვუსმენდეთ	V;1;PL;SBJV;FUT = movusmendet
+უსმენს	მოუსმენდეთ	V;2;PL;SBJV;FUT = mousmendet
+უსმენს	მოუსმენდნენ	V;3;PL;SBJV;FUT = mousmendnen
+
+
+Screeve #7:
+უსმენს	მოვუსმინე	V;1;SG;IND;PST;PFV = movusmine
+უსმენს	მოუსმინე	V;2;SG;IND;PST;PFV = mousmine
+უსმენს	მოუსმინა	V;3;SG;IND;PST;PFV = mousmina
+უსმენს	მოვუსმინეთ	V;1;PL;IND;PST;PFV = movusminet
+უსმენს	მოუსმინეთ	V;2;PL;IND;PST;PFV = mousminet
+უსმენს	მოუსმინეს	V;3;PL;IND;PST;PFV = mousmines
+
+უსმენს	მოუსმინე	V;2;SG;IMP = mousmine
+უსმენს	მოუსმინეთ	V;2;PL;IMP = mousminet
+
+
+Screeve #8:
+უსმენს	მოვუსმინო	V;1;SG;OPT = movusmino
+უსმენს	მოუსმინო	V;2;SG;OPT = mousmino
+უსმენს	მოუსმინოს	V;3;SG;OPT = mousminos
+უსმენს	მოვუსმინოთ	V;1;PL;OPT = movusminot
+უსმენს	მოუსმინოთ	V;2;PL;OPT = mousminot
+უსმენს	მოუსმინონ	V;3;PL;OPT = mousminon
+
+უსმენს	მოვუსმინოთ	V;1;PL;IMP = movusminot
+უსმენს	მოუსმინოს	V;3;SG;IMP = mousminos
+უსმენს	მოუსმინონ	V;3;PL;IMP = mousminon
+
+
+Screeve #9:
+უსმენს	მომისმენია	V;1;SG;IND;PRF = momismenia
+უსმენს	მოგისმენია	V;2;SG;IND;PRF = mogismenia
+უსმენს	მოუსმენია	V;3;SG;IND;PRF = mousmenia
+უსმენს	მოგვისმენია	V;1;PL;IND;PRF = mogvismenia
+უსმენს	მოგისმენიათ	V;2;PL;IND;PRF = mogismeniat
+უსმენს	მოუსმენიათ	V;3;PL;IND;PRF = mousmeniat
+
+
+Screeve #10:
+უსმენს	მომესმინა	V;1;SG;IND;PST;PRF = momesmina
+უსმენს	მოგესმინა	V;2;SG;IND;PST;PRF = mogesmina
+უსმენს	მოესმინა	V;3;SG;IND;PST;PRF = moesmina
+უსმენს	მოგვესმინა	V;1;PL;IND;PST;PRF = mogvesmina
+უსმენს	მოგესმინათ	V;2;PL;IND;PST;PRF = mogesminat
+უსმენს	მოესმინათ	V;3;PL;IND;PST;PRF = moesminat
+
+
+Screeve #11:
+უსმენს	მომესმინოს	V;1;SG;SBJV;PRF = momesminos
+უსმენს	მოგესმინოს	V;2;SG;SBJV;PRF = mogesminos
+უსმენს	მოესმინოს	V;3;SG;SBJV;PRF = moesminos
+უსმენს	მოგვესმინოს	V;1;PL;SBJV;PRF = mogvesminos
+უსმენს	მოგესმინოთ	V;2;PL;SBJV;PRF = mogesminot
+უსმენს	მოესმინოთ	V;3;PL;SBJV;PRF = moesminot
+
+
+უსმენს	მოსმენა	V;V.MSDR;PRF

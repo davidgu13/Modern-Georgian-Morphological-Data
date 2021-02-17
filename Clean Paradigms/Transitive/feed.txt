@@ -1,0 +1,108 @@
+#31 - აჭმევს - feed:
+Screeve #1:
+აჭმევს	ვაჭმევ	V;1;SG;IND;PRS = vač'mev
+აჭმევს	აჭმევ	V;2;SG;IND;PRS = ač'mev
+აჭმევს	აჭმევს	V;3;SG;IND;PRS = ač'mevs
+აჭმევს	ვაჭმევთ	V;1;PL;IND;PRS = vač'mevt
+აჭმევს	აჭმევთ	V;2;PL;IND;PRS = ač'mevt
+აჭმევს	აჭმევენ	V;3;PL;IND;PRS = ač'meven
+
+
+Screeve #2:
+აჭმევს	ვაჭმევდი	V;1;SG;IND;IPFV = vač'mevdi
+აჭმევს	აჭმევდი	V;2;SG;IND;IPFV = ač'mevdi
+აჭმევს	აჭმევდა	V;3;SG;IND;IPFV = ač'mevda
+აჭმევს	ვაჭმევდით	V;1;PL;IND;IPFV = vač'mevdit
+აჭმევს	აჭმევდით	V;2;PL;IND;IPFV = ač'mevdit
+აჭმევს	აჭმევდნენ	V;3;PL;IND;IPFV = ač'mevdnen
+
+
+Screeve #3:
+აჭმევს	ვაჭმევდე	V;1;SG;SBJV;PRS = vač'mevde
+აჭმევს	აჭმევდე	V;2;SG;SBJV;PRS = ač'mevde
+აჭმევს	აჭმევდეს	V;3;SG;SBJV;PRS = ač'mevdes
+აჭმევს	ვაჭმევდეთ	V;1;PL;SBJV;PRS = vač'mevdet
+აჭმევს	აჭმევდეთ	V;2;PL;SBJV;PRS = ač'mevdet
+აჭმევს	აჭმევდნენ	V;3;PL;SBJV;PRS = ač'mevdnen
+
+
+Screeve #4:
+აჭმევს	შევაჭმევ	V;1;SG;IND;FUT = ševač'mev
+აჭმევს	შეაჭმევ	V;2;SG;IND;FUT = šeač'mev
+აჭმევს	შეაჭმევს	V;3;SG;IND;FUT = šeač'mevs
+აჭმევს	შევაჭმევთ	V;1;PL;IND;FUT = ševač'mevt
+აჭმევს	შეაჭმევთ	V;2;PL;IND;FUT = šeač'mevt
+აჭმევს	შეაჭმევენ	V;3;PL;IND;FUT = šeač'meven
+
+
+Screeve #5:
+აჭმევს	შევაჭმევდი	V;1;SG;COND = ševač'mevdi
+აჭმევს	შეაჭმევდი	V;2;SG;COND = šeač'mevdi
+აჭმევს	შეაჭმევდა	V;3;SG;COND = šeač'mevda
+აჭმევს	შევაჭმევდით	V;1;PL;COND = ševač'mevdit
+აჭმევს	შეაჭმევდით	V;2;PL;COND = šeač'mevdit
+აჭმევს	შეაჭმევდნენ	V;3;PL;COND = šeač'mevdnen
+
+
+Screeve #6:
+აჭმევს	შევაჭმევდე	V;1;SG;SBJV;FUT = ševač'mevde
+აჭმევს	შეაჭმევდე	V;2;SG;SBJV;FUT = šeač'mevde
+აჭმევს	შეაჭმევდეს	V;3;SG;SBJV;FUT = šeač'mevdes
+აჭმევს	შევაჭმევდეთ	V;1;PL;SBJV;FUT = ševač'mevdet
+აჭმევს	შეაჭმევდეთ	V;2;PL;SBJV;FUT = šeač'mevdet
+აჭმევს	შეაჭმევდნენ	V;3;PL;SBJV;FUT = šeač'mevdnen
+
+
+Screeve #7:
+აჭმევს	ვაჭამე	V;1;SG;IND;PST;PFV = vač'ame
+აჭმევს	აჭამე	V;2;SG;IND;PST;PFV = ač'ame
+აჭმევს	აჭამა	V;3;SG;IND;PST;PFV = ač'ama
+აჭმევს	ვაჭამეთ	V;1;PL;IND;PST;PFV = vač'amet
+აჭმევს	აჭამეთ	V;2;PL;IND;PST;PFV = ač'amet
+აჭმევს	აჭამეს	V;3;PL;IND;PST;PFV = ač'ames
+
+აჭმევს	აჭამე	V;2;SG;IMP = šeač'ame
+აჭმევს	აჭამეთ	V;2;PL;IMP = šeač'amet
+
+
+Screeve #8:
+აჭმევს	ვაჭამო	V;1;SG;OPT = vač'amo
+აჭმევს	აჭამო	V;2;SG;OPT = ač'amo
+აჭმევს	აჭამოს	V;3;SG;OPT = ač'amos
+აჭმევს	ვაჭამოთ	V;1;PL;OPT = vač'amot
+აჭმევს	აჭამოთ	V;2;PL;OPT = ač'amot
+აჭმევს	აჭამონ	V;3;PL;OPT = ač'amon
+
+აჭმევს	ვაჭამოთ	V;1;PL;IMP = vač'mot
+აჭმევს	აჭამოს	V;3;SG;IMP = ač'mos
+აჭმევს	აჭამონ	V;3;PL;IMP = ač'mon
+
+
+Screeve #9:
+აჭმევს	მიჭმევია	V;1;SG;IND;PRF = mič'mevia
+აჭმევს	გიჭმევია	V;2;SG;IND;PRF = gič'mevia
+აჭმევს	უჭმევია	V;3;SG;IND;PRF = uč'mevia
+აჭმევს	გვიჭმევია	V;1;PL;IND;PRF = gvič'mevia
+აჭმევს	გიჭმევიათ	V;2;PL;IND;PRF = gič'meviat
+აჭმევს	უჭმევიათ	V;3;PL;IND;PRF = uč'meviat
+
+
+Screeve #10:
+აჭმევს	მეჭმია	V;1;SG;IND;PST;PRF = meč'mia
+აჭმევს	გეჭმია	V;2;SG;IND;PST;PRF = geč'mia
+აჭმევს	ეჭმია	V;3;SG;IND;PST;PRF = eč'mia
+აჭმევს	გვეჭმია	V;1;PL;IND;PST;PRF = gveč'mia
+აჭმევს	გეჭმიათ	V;2;PL;IND;PST;PRF = geč'miat
+აჭმევს	ეჭმიათ	V;3;PL;IND;PST;PRF = eč'miat
+
+
+Screeve #11:
+აჭმევს	მეჭმიოს	V;1;SG;SBJV;PRF = meč'mios
+აჭმევს	გეჭმიოს	V;2;SG;SBJV;PRF = geč'mios
+აჭმევს	ეჭმიოს	V;3;SG;SBJV;PRF = eč'mios
+აჭმევს	გვეჭმიოს	V;1;PL;SBJV;PRF = gveč'mios
+აჭმევს	გეჭმიოთ	V;2;PL;SBJV;PRF = geč'miot
+აჭმევს	ეჭმიოთ	V;3;PL;SBJV;PRF = eč'miot
+
+
+აჭმევს	ჭმევა	V;V.MSDR;IPFV
