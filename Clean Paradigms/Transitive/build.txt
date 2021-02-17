@@ -1,0 +1,109 @@
+#2 - აშენებს - build:
+Screeve #1:
+აშენებს	ვაშენებ	V;1;SG;IND;PRS = vašeneb
+აშენებს	აშენებ	V;2;SG;IND;PRS = ašeneb
+აშენებს	აშენებს	V;3;SG;IND;PRS = ašenebs
+აშენებს	ვაშენებთ	V;1;PL;IND;PRS = vašenebt
+აშენებს	აშენებთ	V;2;PL;IND;PRS = ašenebt
+აშენებს	აშენებენ	V;3;PL;IND;PRS = ašeneben
+
+
+Screeve #2:
+აშენებს	ვაშენებდი	V;1;SG;IND;IPFV = vašenebdi
+აშენებს	აშენებდი	V;2;SG;IND;IPFV = ašenebdi
+აშენებს	აშენებდა	V;3;SG;IND;IPFV = ašenebda
+აშენებს	ვაშენებდით	V;1;PL;IND;IPFV = vašenebdit
+აშენებს	აშენებდით	V;2;PL;IND;IPFV = ašenebdit
+აშენებს	აშენებდნენ	V;3;PL;IND;IPFV = ašenebdnen
+
+
+Screeve #3:
+აშენებს	ვაშენებდე	V;1;SG;SBJV;PRS = vašenebde
+აშენებს	აშენებდე	V;2;SG;SBJV;PRS = ašenebde
+აშენებს	აშენებდეს	V;3;SG;SBJV;PRS = ašenebdes
+აშენებს	ვაშენებდეთ	V;1;PL;SBJV;PRS = vašenebdet
+აშენებს	აშენებდეთ	V;2;PL;SBJV;PRS = ašenebdet
+აშენებს	აშენებდნენ	V;3;PL;SBJV;PRS = ašenebdnen
+
+
+Screeve #4:
+აშენებს	ავაშენებ	V;1;SG;IND;FUT = avašeneb
+აშენებს	ააშენებ	V;2;SG;IND;FUT = aašeneb
+აშენებს	ააშენებს	V;3;SG;IND;FUT = aašenebs
+აშენებს	ავაშენებთ	V;1;PL;IND;FUT = avašenebt
+აშენებს	ააშენებთ	V;2;PL;IND;FUT = aašenebt
+აშენებს	ააშენებენ	V;3;PL;IND;FUT = aašeneben
+
+
+Screeve #5:
+აშენებს	ავაშენებდი	V;1;SG;COND = avašenebdi
+აშენებს	ააშენებდი	V;2;SG;COND = aašenebdi
+აშენებს	ააშენებდა	V;3;SG;COND = aašenebda
+აშენებს	ავაშენებდით	V;1;PL;COND = avašenebdit
+აშენებს	ააშენებდით	V;2;PL;COND = aašenebdit
+აშენებს	ააშენებდნენ	V;3;PL;COND = aašenebdnen
+
+
+Screeve #6:
+აშენებს	ავაშენებდე	V;1;SG;SBJV;FUT = avašenebde
+აშენებს	ააშენებდე	V;2;SG;SBJV;FUT = aašenebde
+აშენებს	ააშენებდეს	V;3;SG;SBJV;FUT = aašenebdes
+აშენებს	ავაშენებდეთ	V;1;PL;SBJV;FUT = avašenebdet
+აშენებს	ააშენებდეთ	V;2;PL;SBJV;FUT = aašenebdet
+აშენებს	ააშენებდნენ	V;3;PL;SBJV;FUT = aašenebdnen
+
+
+Screeve #7:
+აშენებს	ავაშენე	V;1;SG;IND;PST;PFV = avašene
+აშენებს	ააშენე	V;2;SG;IND;PST;PFV = aašene
+აშენებს	ააშენა	V;3;SG;IND;PST;PFV = aašena
+აშენებს	ავაშენეთ	V;1;PL;IND;PST;PFV = avašenet
+აშენებს	ააშენეთ	V;2;PL;IND;PST;PFV = aašenet
+აშენებს	ააშენეს	V;3;PL;IND;PST;PFV = aašenes
+
+აშენებს	ააშენე	V;2;SG;IMP = aašene
+აშენებს	ააშენეთ	V;2;PL;IMP = aašenet
+
+
+Screeve #8:
+აშენებს	ავაშენო	V;1;SG;OPT = avašeno
+აშენებს	ააშენო	V;2;SG;OPT = aašeno
+აშენებს	ააშენოს	V;3;SG;OPT = aašenos
+აშენებს	ავაშენოთ	V;1;PL;OPT = avašenot
+აშენებს	ააშენოთ	V;2;PL;OPT = aašenot
+აშენებს	ააშენონ	V;3;PL;OPT = aašenon
+
+აშენებს	ავაშენოთ	V;1;PL;IMP = avašenot
+აშენებს	ააშენოს	V;3;SG;IMP = aašenos
+აშენებს	ააშენონ	V;3;PL;IMP = aašenon
+
+
+Screeve #9:
+აშენებს	ამიშენებია	V;1;SG;IND;PRF = amišenebia
+აშენებს	აგიშენებია	V;2;SG;IND;PRF = agišenebia
+აშენებს	აუშენებია	V;3;SG;IND;PRF = aušenebia
+აშენებს	აგვიშენებია	V;1;PL;IND;PRF = agvišenebia
+აშენებს	აგიშენებიათ	V;2;PL;IND;PRF = agišenebiat
+აშენებს	აუშენებიათ	V;3;PL;IND;PRF = aušenebiat
+
+
+Screeve #10:
+აშენებს	ამეშენებინა	V;1;SG;IND;PST;PRF = amešenebina
+აშენებს	აგეშენებინა	V;2;SG;IND;PST;PRF = agešenebina
+აშენებს	აეშენებინა	V;3;SG;IND;PST;PRF = aešenebina
+აშენებს	აგვეშენებინა	V;1;PL;IND;PST;PRF = agvešenebina
+აშენებს	აგეშენებინათ	V;2;PL;IND;PST;PRF = agešenebinat
+აშენებს	აეშენებინათ	V;3;PL;IND;PST;PRF = aešenebinat
+
+
+Screeve #11:
+აშენებს	ამეშენებინოს	V;1;SG;SBJV;PRF = amešenebinos
+აშენებს	აგეშენებინოს	V;2;SG;SBJV;PRF = agešenebinos
+აშენებს	აეშენებინოს	V;3;SG;SBJV;PRF = aešenebinos
+აშენებს	აგვეშენებინოს	V;1;PL;SBJV;PRF = agvešenebinos
+აშენებს	აგეშენებინოთ	V;2;PL;SBJV;PRF = agešenebinot
+აშენებს	აეშენებინოთ	V;3;PL;SBJV;PRF = aešenebinot
+
+
+აშენებს	აშენება	V;V.MSDR;PRF
+აშენებს	შენება	V;V.MSDR;IPFV
