@@ -68,7 +68,7 @@ class Intransitive_Lemma(Lemma):
         if self.valency==1:
             self.perfect_marker = perfect_marker
         elif self.valency==2:
-            assert perfects_3rd_IDO in {'', 'ს', 'ჰ'}
+            # assert perfects_3rd_IDO in {'', 'ს', 'ჰ'}
             self.perfects_3rd_IDO = perfects_3rd_IDO # should be
         else:
             raise Exception("Invalid valency for Intransitive class!")

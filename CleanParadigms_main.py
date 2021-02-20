@@ -29,14 +29,17 @@ if __name__=='__main__':
 
     transitive_class = Conjugation(define_Transitive_Screeves())
     TV_df = pd.read_excel(file_path, sheet_name=0)
+    TV_df = TV_df.drop(columns=TV_df.columns.tolist()[13:])
     TV_df.fillna('', inplace=True)
 
     intransitive_class = Conjugation(define_Intransitive_Screeves())
     ITV_df = pd.read_excel(file_path, sheet_name=1)
+    ITV_df = ITV_df.drop(columns=ITV_df.columns.tolist()[18:])
     ITV_df.fillna('', inplace=True)
 
     medial_class = Conjugation(define_Medial_Screeves())
     MED_df = pd.read_excel(file_path, sheet_name=2)
+    MED_df = MED_df.drop(columns=MED_df.columns.tolist()[10:])
     MED_df.fillna('', inplace=True)
 
     TV_lemmas_dict = {(idx+1):transitive_class.gen_lemma_object(row,'tv') for idx,row in TV_df.iterrows()}
@@ -85,17 +88,17 @@ if __name__=='__main__':
     assert 0 <= conjugation_choice < len(conjugations_names)
 
     if conjugation_choice==0:
-        example_lemma = TV_lemmas_dict[8]
+        example_lemma = TV_lemmas_dict[46]
         with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==1:
-        example_lemma = ITV_lemmas_dict[16]
+        example_lemma = ITV_lemmas_dict[21]
         with open(os.path.join("Clean Paradigms", conjugations_names[1], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==2:
-        example_lemma = MED_lemmas_dict[19]
+        example_lemma = MED_lemmas_dict[13]
         with open(os.path.join("Clean Paradigms", conjugations_names[2], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
