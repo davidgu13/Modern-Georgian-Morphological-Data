@@ -1,0 +1,108 @@
+#46 - ითმენს - hold_on:
+Screeve #1:
+ითმენს	ვითმენ	V;1;SG;IND;PRS = vitmen
+ითმენს	ითმენ	V;2;SG;IND;PRS = itmen
+ითმენს	ითმენს	V;3;SG;IND;PRS = itmens
+ითმენს	ვითმენთ	V;1;PL;IND;PRS = vitment
+ითმენს	ითმენთ	V;2;PL;IND;PRS = itment
+ითმენს	ითმენენ	V;3;PL;IND;PRS = itmenen
+
+
+Screeve #2:
+ითმენს	ვითმენდი	V;1;SG;IND;IPFV = vitmendi
+ითმენს	ითმენდი	V;2;SG;IND;IPFV = itmendi
+ითმენს	ითმენდა	V;3;SG;IND;IPFV = itmenda
+ითმენს	ვითმენდით	V;1;PL;IND;IPFV = vitmendit
+ითმენს	ითმენდით	V;2;PL;IND;IPFV = itmendit
+ითმენს	ითმენდნენ	V;3;PL;IND;IPFV = itmendnen
+
+
+Screeve #3:
+ითმენს	ვითმენდე	V;1;SG;SBJV;PRS = vitmende
+ითმენს	ითმენდე	V;2;SG;SBJV;PRS = itmende
+ითმენს	ითმენდეს	V;3;SG;SBJV;PRS = itmendes
+ითმენს	ვითმენდეთ	V;1;PL;SBJV;PRS = vitmendet
+ითმენს	ითმენდეთ	V;2;PL;SBJV;PRS = itmendet
+ითმენს	ითმენდნენ	V;3;PL;SBJV;PRS = itmendnen
+
+
+Screeve #4:
+ითმენს	მოვითმენ	V;1;SG;IND;FUT = movitmen
+ითმენს	მოითმენ	V;2;SG;IND;FUT = moitmen
+ითმენს	მოითმენს	V;3;SG;IND;FUT = moitmens
+ითმენს	მოვითმენთ	V;1;PL;IND;FUT = movitment
+ითმენს	მოითმენთ	V;2;PL;IND;FUT = moitment
+ითმენს	მოითმენენ	V;3;PL;IND;FUT = moitmenen
+
+
+Screeve #5:
+ითმენს	მოვითმენდი	V;1;SG;COND = movitmendi
+ითმენს	მოითმენდი	V;2;SG;COND = moitmendi
+ითმენს	მოითმენდა	V;3;SG;COND = moitmenda
+ითმენს	მოვითმენდით	V;1;PL;COND = movitmendit
+ითმენს	მოითმენდით	V;2;PL;COND = moitmendit
+ითმენს	მოითმენდნენ	V;3;PL;COND = moitmendnen
+
+
+Screeve #6:
+ითმენს	მოვითმენდე	V;1;SG;SBJV;FUT = movitmende
+ითმენს	მოითმენდე	V;2;SG;SBJV;FUT = moitmende
+ითმენს	მოითმენდეს	V;3;SG;SBJV;FUT = moitmendes
+ითმენს	მოვითმენდეთ	V;1;PL;SBJV;FUT = movitmendet
+ითმენს	მოითმენდეთ	V;2;PL;SBJV;FUT = moitmendet
+ითმენს	მოითმენდნენ	V;3;PL;SBJV;FUT = moitmendnen
+
+
+Screeve #7:
+ითმენს	მოვითმინე	V;1;SG;IND;PST;PFV = movitmine
+ითმენს	მოითმინე	V;2;SG;IND;PST;PFV = moitmine
+ითმენს	მოითმინა	V;3;SG;IND;PST;PFV = moitmina
+ითმენს	მოვითმინეთ	V;1;PL;IND;PST;PFV = movitminet
+ითმენს	მოითმინეთ	V;2;PL;IND;PST;PFV = moitminet
+ითმენს	მოითმინეს	V;3;PL;IND;PST;PFV = moitmines
+
+ითმენს	მოითმინე	V;2;SG;IMP = moitmine
+ითმენს	მოითმინეთ	V;2;PL;IMP = moitminet
+
+
+Screeve #8:
+ითმენს	მოვითმინო	V;1;SG;OPT = movitmino
+ითმენს	მოითმინო	V;2;SG;OPT = moitmino
+ითმენს	მოითმინოს	V;3;SG;OPT = moitminos
+ითმენს	მოვითმინოთ	V;1;PL;OPT = movitminot
+ითმენს	მოითმინოთ	V;2;PL;OPT = moitminot
+ითმენს	მოითმინონ	V;3;PL;OPT = moitminon
+
+ითმენს	მოვითმინოთ	V;1;PL;IMP = movitminot
+ითმენს	მოითმინოს	V;3;SG;IMP = moitminos
+ითმენს	მოითმინონ	V;3;PL;IMP = moitminon
+
+
+Screeve #9:
+ითმენს	მომითმენია	V;1;SG;IND;PRF = momitmenia
+ითმენს	მოგითმენია	V;2;SG;IND;PRF = mogitmenia
+ითმენს	მოუთმენია	V;3;SG;IND;PRF = moutmenia
+ითმენს	მოგვითმენია	V;1;PL;IND;PRF = mogvitmenia
+ითმენს	მოგითმენიათ	V;2;PL;IND;PRF = mogitmeniat
+ითმენს	მოუთმენიათ	V;3;PL;IND;PRF = moutmeniat
+
+
+Screeve #10:
+ითმენს	მომეთმინა	V;1;SG;IND;PST;PRF = mometmina
+ითმენს	მოგეთმინა	V;2;SG;IND;PST;PRF = mogetmina
+ითმენს	მოეთმინა	V;3;SG;IND;PST;PRF = moetmina
+ითმენს	მოგვეთმინა	V;1;PL;IND;PST;PRF = mogvetmina
+ითმენს	მოგეთმინათ	V;2;PL;IND;PST;PRF = mogetminat
+ითმენს	მოეთმინათ	V;3;PL;IND;PST;PRF = moetminat
+
+
+Screeve #11:
+ითმენს	მომეთმინოს	V;1;SG;SBJV;PRF = mometminos
+ითმენს	მოგეთმინოს	V;2;SG;SBJV;PRF = mogetminos
+ითმენს	მოეთმინოს	V;3;SG;SBJV;PRF = moetminos
+ითმენს	მოგვეთმინოს	V;1;PL;SBJV;PRF = mogvetminos
+ითმენს	მოგეთმინოთ	V;2;PL;SBJV;PRF = mogetminot
+ითმენს	მოეთმინოთ	V;3;PL;SBJV;PRF = moetminot
+
+
+ითმენს	მოთმენა	V;V.MSDR;PRF

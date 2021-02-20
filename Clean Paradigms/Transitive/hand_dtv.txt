@@ -1,0 +1,108 @@
+#44 - ართმევს - hand_dtv:
+Screeve #1:
+ართმევს	ვართმევ	V;1;SG;IND;PRS = vartmev
+ართმევს	ართმევ	V;2;SG;IND;PRS = artmev
+ართმევს	ართმევს	V;3;SG;IND;PRS = artmevs
+ართმევს	ვართმევთ	V;1;PL;IND;PRS = vartmevt
+ართმევს	ართმევთ	V;2;PL;IND;PRS = artmevt
+ართმევს	ართმევენ	V;3;PL;IND;PRS = artmeven
+
+
+Screeve #2:
+ართმევს	ვართმევდი	V;1;SG;IND;IPFV = vartmevdi
+ართმევს	ართმევდი	V;2;SG;IND;IPFV = artmevdi
+ართმევს	ართმევდა	V;3;SG;IND;IPFV = artmevda
+ართმევს	ვართმევდით	V;1;PL;IND;IPFV = vartmevdit
+ართმევს	ართმევდით	V;2;PL;IND;IPFV = artmevdit
+ართმევს	ართმევდნენ	V;3;PL;IND;IPFV = artmevdnen
+
+
+Screeve #3:
+ართმევს	ვართმევდე	V;1;SG;SBJV;PRS = vartmevde
+ართმევს	ართმევდე	V;2;SG;SBJV;PRS = artmevde
+ართმევს	ართმევდეს	V;3;SG;SBJV;PRS = artmevdes
+ართმევს	ვართმევდეთ	V;1;PL;SBJV;PRS = vartmevdet
+ართმევს	ართმევდეთ	V;2;PL;SBJV;PRS = artmevdet
+ართმევს	ართმევდნენ	V;3;PL;SBJV;PRS = artmevdnen
+
+
+Screeve #4:
+ართმევს	მივართმევ	V;1;SG;IND;FUT = mivartmev
+ართმევს	მიართმევ	V;2;SG;IND;FUT = miartmev
+ართმევს	მიართმევს	V;3;SG;IND;FUT = miartmevs
+ართმევს	მივართმევთ	V;1;PL;IND;FUT = mivartmevt
+ართმევს	მიართმევთ	V;2;PL;IND;FUT = miartmevt
+ართმევს	მიართმევენ	V;3;PL;IND;FUT = miartmeven
+
+
+Screeve #5:
+ართმევს	მივართმევდი	V;1;SG;COND = mivartmevdi
+ართმევს	მიართმევდი	V;2;SG;COND = miartmevdi
+ართმევს	მიართმევდა	V;3;SG;COND = miartmevda
+ართმევს	მივართმევდით	V;1;PL;COND = mivartmevdit
+ართმევს	მიართმევდით	V;2;PL;COND = miartmevdit
+ართმევს	მიართმევდნენ	V;3;PL;COND = miartmevdnen
+
+
+Screeve #6:
+ართმევს	მივართმევდე	V;1;SG;SBJV;FUT = mivartmevde
+ართმევს	მიართმევდე	V;2;SG;SBJV;FUT = miartmevde
+ართმევს	მიართმევდეს	V;3;SG;SBJV;FUT = miartmevdes
+ართმევს	მივართმევდეთ	V;1;PL;SBJV;FUT = mivartmevdet
+ართმევს	მიართმევდეთ	V;2;PL;SBJV;FUT = miartmevdet
+ართმევს	მიართმევდნენ	V;3;PL;SBJV;FUT = miartmevdnen
+
+
+Screeve #7:
+ართმევს	მივართვი	V;1;SG;IND;PST;PFV = mivartvi
+ართმევს	მიართვი	V;2;SG;IND;PST;PFV = miartvi
+ართმევს	მიართვა	V;3;SG;IND;PST;PFV = miartva
+ართმევს	მივართვით	V;1;PL;IND;PST;PFV = mivartvit
+ართმევს	მიართვით	V;2;PL;IND;PST;PFV = miartvit
+ართმევს	მიართვეს	V;3;PL;IND;PST;PFV = miartves
+
+ართმევს	მიართვი	V;2;SG;IMP = miartvi
+ართმევს	მიართვით	V;2;PL;IMP = miartvit
+
+
+Screeve #8:
+ართმევს	მივართვა	V;1;SG;OPT = mivartva
+ართმევს	მიართვა	V;2;SG;OPT = miartva
+ართმევს	მიართვას	V;3;SG;OPT = miartvas
+ართმევს	მივართვათ	V;1;PL;OPT = mivartvat
+ართმევს	მიართვათ	V;2;PL;OPT = miartvat
+ართმევს	მიართვან	V;3;PL;OPT = miartvan
+
+ართმევს	მივართვათ	V;1;PL;IMP = mivartvat
+ართმევს	მიართვას	V;3;SG;IMP = miartvas
+ართმევს	მიართვან	V;3;PL;IMP = miartvan
+
+
+Screeve #9:
+ართმევს	მიმირთმევია	V;1;SG;IND;PRF = mimirtmevia
+ართმევს	მიგირთმევია	V;2;SG;IND;PRF = migirtmevia
+ართმევს	მიურთმევია	V;3;SG;IND;PRF = miurtmevia
+ართმევს	მიგვირთმევია	V;1;PL;IND;PRF = migvirtmevia
+ართმევს	მიგირთმევიათ	V;2;PL;IND;PRF = migirtmeviat
+ართმევს	მიურთმევიათ	V;3;PL;IND;PRF = miurtmeviat
+
+
+Screeve #10:
+ართმევს	მიმერთვა	V;1;SG;IND;PST;PRF = mimertva
+ართმევს	მიგერთვა	V;2;SG;IND;PST;PRF = migertva
+ართმევს	მიერთვა	V;3;SG;IND;PST;PRF = miertva
+ართმევს	მიგვერთვა	V;1;PL;IND;PST;PRF = migvertva
+ართმევს	მიგერთვათ	V;2;PL;IND;PST;PRF = migertvat
+ართმევს	მიერთვათ	V;3;PL;IND;PST;PRF = miertvat
+
+
+Screeve #11:
+ართმევს	მიმერთვას	V;1;SG;SBJV;PRF = mimertvas
+ართმევს	მიგერთვას	V;2;SG;SBJV;PRF = migertvas
+ართმევს	მიერთვას	V;3;SG;SBJV;PRF = miertvas
+ართმევს	მიგვერთვას	V;1;PL;SBJV;PRF = migvertvas
+ართმევს	მიგერთვათ	V;2;PL;SBJV;PRF = migertvat
+ართმევს	მიერთვათ	V;3;PL;SBJV;PRF = miertvat
+
+
+ართმევს	მირთმევა	V;V.MSDR;PRF

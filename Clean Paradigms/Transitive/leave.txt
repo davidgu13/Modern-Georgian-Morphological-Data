@@ -1,0 +1,108 @@
+#41 - ტოვებს - leave:
+Screeve #1:
+ტოვებს	ვტოვებ	V;1;SG;IND;PRS = vt'oveb
+ტოვებს	ტოვებ	V;2;SG;IND;PRS = t'oveb
+ტოვებს	ტოვებს	V;3;SG;IND;PRS = t'ovebs
+ტოვებს	ვტოვებთ	V;1;PL;IND;PRS = vt'ovebt
+ტოვებს	ტოვებთ	V;2;PL;IND;PRS = t'ovebt
+ტოვებს	ტოვებენ	V;3;PL;IND;PRS = t'oveben
+
+
+Screeve #2:
+ტოვებს	ვტოვებდი	V;1;SG;IND;IPFV = vt'ovebdi
+ტოვებს	ტოვებდი	V;2;SG;IND;IPFV = t'ovebdi
+ტოვებს	ტოვებდა	V;3;SG;IND;IPFV = t'ovebda
+ტოვებს	ვტოვებდით	V;1;PL;IND;IPFV = vt'ovebdit
+ტოვებს	ტოვებდით	V;2;PL;IND;IPFV = t'ovebdit
+ტოვებს	ტოვებდნენ	V;3;PL;IND;IPFV = t'ovebdnen
+
+
+Screeve #3:
+ტოვებს	ვტოვებდე	V;1;SG;SBJV;PRS = vt'ovebde
+ტოვებს	ტოვებდე	V;2;SG;SBJV;PRS = t'ovebde
+ტოვებს	ტოვებდეს	V;3;SG;SBJV;PRS = t'ovebdes
+ტოვებს	ვტოვებდეთ	V;1;PL;SBJV;PRS = vt'ovebdet
+ტოვებს	ტოვებდეთ	V;2;PL;SBJV;PRS = t'ovebdet
+ტოვებს	ტოვებდნენ	V;3;PL;SBJV;PRS = t'ovebdnen
+
+
+Screeve #4:
+ტოვებს	დავტოვებ	V;1;SG;IND;FUT = davt'oveb
+ტოვებს	დატოვებ	V;2;SG;IND;FUT = dat'oveb
+ტოვებს	დატოვებს	V;3;SG;IND;FUT = dat'ovebs
+ტოვებს	დავტოვებთ	V;1;PL;IND;FUT = davt'ovebt
+ტოვებს	დატოვებთ	V;2;PL;IND;FUT = dat'ovebt
+ტოვებს	დატოვებენ	V;3;PL;IND;FUT = dat'oveben
+
+
+Screeve #5:
+ტოვებს	დავტოვებდი	V;1;SG;COND = davt'ovebdi
+ტოვებს	დატოვებდი	V;2;SG;COND = dat'ovebdi
+ტოვებს	დატოვებდა	V;3;SG;COND = dat'ovebda
+ტოვებს	დავტოვებდით	V;1;PL;COND = davt'ovebdit
+ტოვებს	დატოვებდით	V;2;PL;COND = dat'ovebdit
+ტოვებს	დატოვებდნენ	V;3;PL;COND = dat'ovebdnen
+
+
+Screeve #6:
+ტოვებს	დავტოვებდე	V;1;SG;SBJV;FUT = davt'ovebde
+ტოვებს	დატოვებდე	V;2;SG;SBJV;FUT = dat'ovebde
+ტოვებს	დატოვებდეს	V;3;SG;SBJV;FUT = dat'ovebdes
+ტოვებს	დავტოვებდეთ	V;1;PL;SBJV;FUT = davt'ovebdet
+ტოვებს	დატოვებდეთ	V;2;PL;SBJV;FUT = dat'ovebdet
+ტოვებს	დატოვებდნენ	V;3;PL;SBJV;FUT = dat'ovebdnen
+
+
+Screeve #7:
+ტოვებს	დავტოვე	V;1;SG;IND;PST;PFV = davt'ove
+ტოვებს	დატოვე	V;2;SG;IND;PST;PFV = dat'ove
+ტოვებს	დატოვა	V;3;SG;IND;PST;PFV = dat'ova
+ტოვებს	დავტოვეთ	V;1;PL;IND;PST;PFV = davt'ovet
+ტოვებს	დატოვეთ	V;2;PL;IND;PST;PFV = dat'ovet
+ტოვებს	დატოვეს	V;3;PL;IND;PST;PFV = dat'oves
+
+ტოვებს	დატოვე	V;2;SG;IMP = dat'ove
+ტოვებს	დატოვეთ	V;2;PL;IMP = dat'ovet
+
+
+Screeve #8:
+ტოვებს	დავტოვო	V;1;SG;OPT = davt'ovo
+ტოვებს	დატოვო	V;2;SG;OPT = dat'ovo
+ტოვებს	დატოვოს	V;3;SG;OPT = dat'ovos
+ტოვებს	დავტოვოთ	V;1;PL;OPT = davt'ovot
+ტოვებს	დატოვოთ	V;2;PL;OPT = dat'ovot
+ტოვებს	დატოვონ	V;3;PL;OPT = dat'ovon
+
+ტოვებს	დავტოვოთ	V;1;PL;IMP = davt'ovot
+ტოვებს	დატოვოს	V;3;SG;IMP = dat'ovos
+ტოვებს	დატოვონ	V;3;PL;IMP = dat'ovon
+
+
+Screeve #9:
+ტოვებს	დამიტოვებია	V;1;SG;IND;PRF = damit'ovebia
+ტოვებს	დაგიტოვებია	V;2;SG;IND;PRF = dagit'ovebia
+ტოვებს	დაუტოვებია	V;3;SG;IND;PRF = daut'ovebia
+ტოვებს	დაგვიტოვებია	V;1;PL;IND;PRF = dagvit'ovebia
+ტოვებს	დაგიტოვებიათ	V;2;PL;IND;PRF = dagit'ovebiat
+ტოვებს	დაუტოვებიათ	V;3;PL;IND;PRF = daut'ovebiat
+
+
+Screeve #10:
+ტოვებს	დამეტოვებინა	V;1;SG;IND;PST;PRF = damet'ovebina
+ტოვებს	დაგეტოვებინა	V;2;SG;IND;PST;PRF = daget'ovebina
+ტოვებს	დაეტოვებინა	V;3;SG;IND;PST;PRF = daet'ovebina
+ტოვებს	დაგვეტოვებინა	V;1;PL;IND;PST;PRF = dagvet'ovebina
+ტოვებს	დაგეტოვებინათ	V;2;PL;IND;PST;PRF = daget'ovebinat
+ტოვებს	დაეტოვებინათ	V;3;PL;IND;PST;PRF = daet'ovebinat
+
+
+Screeve #11:
+ტოვებს	დამეტოვებინოს	V;1;SG;SBJV;PRF = damet'ovebinos
+ტოვებს	დაგეტოვებინოს	V;2;SG;SBJV;PRF = daget'ovebinos
+ტოვებს	დაეტოვებინოს	V;3;SG;SBJV;PRF = daet'ovebinos
+ტოვებს	დაგვეტოვებინოს	V;1;PL;SBJV;PRF = dagvet'ovebinos
+ტოვებს	დაგეტოვებინოთ	V;2;PL;SBJV;PRF = daget'ovebinot
+ტოვებს	დაეტოვებინოთ	V;3;PL;SBJV;PRF = daet'ovebinot
+
+
+ტოვებს	დატოვება	V;V.MSDR;PRF

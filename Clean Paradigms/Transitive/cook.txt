@@ -1,0 +1,108 @@
+#40 - ხარშავს - cook:
+Screeve #1:
+ხარშავს	ვხარშავ	V;1;SG;IND;PRS = vxaršav
+ხარშავს	ხარშავ	V;2;SG;IND;PRS = xaršav
+ხარშავს	ხარშავს	V;3;SG;IND;PRS = xaršavs
+ხარშავს	ვხარშავთ	V;1;PL;IND;PRS = vxaršavt
+ხარშავს	ხარშავთ	V;2;PL;IND;PRS = xaršavt
+ხარშავს	ხარშავენ	V;3;PL;IND;PRS = xaršaven
+
+
+Screeve #2:
+ხარშავს	ვხარშავდი	V;1;SG;IND;IPFV = vxaršavdi
+ხარშავს	ხარშავდი	V;2;SG;IND;IPFV = xaršavdi
+ხარშავს	ხარშავდა	V;3;SG;IND;IPFV = xaršavda
+ხარშავს	ვხარშავდით	V;1;PL;IND;IPFV = vxaršavdit
+ხარშავს	ხარშავდით	V;2;PL;IND;IPFV = xaršavdit
+ხარშავს	ხარშავდნენ	V;3;PL;IND;IPFV = xaršavdnen
+
+
+Screeve #3:
+ხარშავს	ვხარშავდე	V;1;SG;SBJV;PRS = vxaršavde
+ხარშავს	ხარშავდე	V;2;SG;SBJV;PRS = xaršavde
+ხარშავს	ხარშავდეს	V;3;SG;SBJV;PRS = xaršavdes
+ხარშავს	ვხარშავდეთ	V;1;PL;SBJV;PRS = vxaršavdet
+ხარშავს	ხარშავდეთ	V;2;PL;SBJV;PRS = xaršavdet
+ხარშავს	ხარშავდნენ	V;3;PL;SBJV;PRS = xaršavdnen
+
+
+Screeve #4:
+ხარშავს	მოვხარშავ	V;1;SG;IND;FUT = movxaršav
+ხარშავს	მოხარშავ	V;2;SG;IND;FUT = moxaršav
+ხარშავს	მოხარშავს	V;3;SG;IND;FUT = moxaršavs
+ხარშავს	მოვხარშავთ	V;1;PL;IND;FUT = movxaršavt
+ხარშავს	მოხარშავთ	V;2;PL;IND;FUT = moxaršavt
+ხარშავს	მოხარშავენ	V;3;PL;IND;FUT = moxaršaven
+
+
+Screeve #5:
+ხარშავს	მოვხარშავდი	V;1;SG;COND = movxaršavdi
+ხარშავს	მოხარშავდი	V;2;SG;COND = moxaršavdi
+ხარშავს	მოხარშავდა	V;3;SG;COND = moxaršavda
+ხარშავს	მოვხარშავდით	V;1;PL;COND = movxaršavdit
+ხარშავს	მოხარშავდით	V;2;PL;COND = moxaršavdit
+ხარშავს	მოხარშავდნენ	V;3;PL;COND = moxaršavdnen
+
+
+Screeve #6:
+ხარშავს	მოვხარშავდე	V;1;SG;SBJV;FUT = movxaršavde
+ხარშავს	მოხარშავდე	V;2;SG;SBJV;FUT = moxaršavde
+ხარშავს	მოხარშავდეს	V;3;SG;SBJV;FUT = moxaršavdes
+ხარშავს	მოვხარშავდეთ	V;1;PL;SBJV;FUT = movxaršavdet
+ხარშავს	მოხარშავდეთ	V;2;PL;SBJV;FUT = moxaršavdet
+ხარშავს	მოხარშავდნენ	V;3;PL;SBJV;FUT = moxaršavdnen
+
+
+Screeve #7:
+ხარშავს	მოვხარშე	V;1;SG;IND;PST;PFV = movxarše
+ხარშავს	მოხარშე	V;2;SG;IND;PST;PFV = moxarše
+ხარშავს	მოხარშა	V;3;SG;IND;PST;PFV = moxarša
+ხარშავს	მოვხარშეთ	V;1;PL;IND;PST;PFV = movxaršet
+ხარშავს	მოხარშეთ	V;2;PL;IND;PST;PFV = moxaršet
+ხარშავს	მოხარშეს	V;3;PL;IND;PST;PFV = moxaršes
+
+ხარშავს	მოხარშე	V;2;SG;IMP = moxarše
+ხარშავს	მოხარშეთ	V;2;PL;IMP = moxaršet
+
+
+Screeve #8:
+ხარშავს	მოვხარშო	V;1;SG;OPT = movxaršo
+ხარშავს	მოხარშო	V;2;SG;OPT = moxaršo
+ხარშავს	მოხარშოს	V;3;SG;OPT = moxaršos
+ხარშავს	მოვხარშოთ	V;1;PL;OPT = movxaršot
+ხარშავს	მოხარშოთ	V;2;PL;OPT = moxaršot
+ხარშავს	მოხარშონ	V;3;PL;OPT = moxaršon
+
+ხარშავს	მოვხარშოთ	V;1;PL;IMP = movxaršot
+ხარშავს	მოხარშოს	V;3;SG;IMP = moxaršos
+ხარშავს	მოხარშონ	V;3;PL;IMP = moxaršon
+
+
+Screeve #9:
+ხარშავს	მომიხარშია	V;1;SG;IND;PRF = momixaršia
+ხარშავს	მოგიხარშია	V;2;SG;IND;PRF = mogixaršia
+ხარშავს	მოუხარშია	V;3;SG;IND;PRF = mouxaršia
+ხარშავს	მოგვიხარშია	V;1;PL;IND;PRF = mogvixaršia
+ხარშავს	მოგიხარშიათ	V;2;PL;IND;PRF = mogixaršiat
+ხარშავს	მოუხარშიათ	V;3;PL;IND;PRF = mouxaršiat
+
+
+Screeve #10:
+ხარშავს	მომეხარშა	V;1;SG;IND;PST;PRF = momexarša
+ხარშავს	მოგეხარშა	V;2;SG;IND;PST;PRF = mogexarša
+ხარშავს	მოეხარშა	V;3;SG;IND;PST;PRF = moexarša
+ხარშავს	მოგვეხარშა	V;1;PL;IND;PST;PRF = mogvexarša
+ხარშავს	მოგეხარშათ	V;2;PL;IND;PST;PRF = mogexaršat
+ხარშავს	მოეხარშათ	V;3;PL;IND;PST;PRF = moexaršat
+
+
+Screeve #11:
+ხარშავს	მომეხარშოს	V;1;SG;SBJV;PRF = momexaršos
+ხარშავს	მოგეხარშოს	V;2;SG;SBJV;PRF = mogexaršos
+ხარშავს	მოეხარშოს	V;3;SG;SBJV;PRF = moexaršos
+ხარშავს	მოგვეხარშოს	V;1;PL;SBJV;PRF = mogvexaršos
+ხარშავს	მოგეხარშოთ	V;2;PL;SBJV;PRF = mogexaršot
+ხარშავს	მოეხარშოთ	V;3;PL;SBJV;PRF = moexaršot
+
+
+ხარშავს	მოხარშვა	V;V.MSDR;PRF

@@ -1,0 +1,108 @@
+#45 - ასეირნებს - take_to_travel:
+Screeve #1:
+ასეირნებს	ვასეირნებ	V;1;SG;IND;PRS = vaseirneb
+ასეირნებს	ასეირნებ	V;2;SG;IND;PRS = aseirneb
+ასეირნებს	ასეირნებს	V;3;SG;IND;PRS = aseirnebs
+ასეირნებს	ვასეირნებთ	V;1;PL;IND;PRS = vaseirnebt
+ასეირნებს	ასეირნებთ	V;2;PL;IND;PRS = aseirnebt
+ასეირნებს	ასეირნებენ	V;3;PL;IND;PRS = aseirneben
+
+
+Screeve #2:
+ასეირნებს	ვასეირნებდი	V;1;SG;IND;IPFV = vaseirnebdi
+ასეირნებს	ასეირნებდი	V;2;SG;IND;IPFV = aseirnebdi
+ასეირნებს	ასეირნებდა	V;3;SG;IND;IPFV = aseirnebda
+ასეირნებს	ვასეირნებდით	V;1;PL;IND;IPFV = vaseirnebdit
+ასეირნებს	ასეირნებდით	V;2;PL;IND;IPFV = aseirnebdit
+ასეირნებს	ასეირნებდნენ	V;3;PL;IND;IPFV = aseirnebdnen
+
+
+Screeve #3:
+ასეირნებს	ვასეირნებდე	V;1;SG;SBJV;PRS = vaseirnebde
+ასეირნებს	ასეირნებდე	V;2;SG;SBJV;PRS = aseirnebde
+ასეირნებს	ასეირნებდეს	V;3;SG;SBJV;PRS = aseirnebdes
+ასეირნებს	ვასეირნებდეთ	V;1;PL;SBJV;PRS = vaseirnebdet
+ასეირნებს	ასეირნებდეთ	V;2;PL;SBJV;PRS = aseirnebdet
+ასეირნებს	ასეირნებდნენ	V;3;PL;SBJV;PRS = aseirnebdnen
+
+
+Screeve #4:
+ასეირნებს	გავასეირნებ	V;1;SG;IND;FUT = gavaseirneb
+ასეირნებს	გაასეირნებ	V;2;SG;IND;FUT = gaaseirneb
+ასეირნებს	გაასეირნებს	V;3;SG;IND;FUT = gaaseirnebs
+ასეირნებს	გავასეირნებთ	V;1;PL;IND;FUT = gavaseirnebt
+ასეირნებს	გაასეირნებთ	V;2;PL;IND;FUT = gaaseirnebt
+ასეირნებს	გაასეირნებენ	V;3;PL;IND;FUT = gaaseirneben
+
+
+Screeve #5:
+ასეირნებს	გავასეირნებდი	V;1;SG;COND = gavaseirnebdi
+ასეირნებს	გაასეირნებდი	V;2;SG;COND = gaaseirnebdi
+ასეირნებს	გაასეირნებდა	V;3;SG;COND = gaaseirnebda
+ასეირნებს	გავასეირნებდით	V;1;PL;COND = gavaseirnebdit
+ასეირნებს	გაასეირნებდით	V;2;PL;COND = gaaseirnebdit
+ასეირნებს	გაასეირნებდნენ	V;3;PL;COND = gaaseirnebdnen
+
+
+Screeve #6:
+ასეირნებს	გავასეირნებდე	V;1;SG;SBJV;FUT = gavaseirnebde
+ასეირნებს	გაასეირნებდე	V;2;SG;SBJV;FUT = gaaseirnebde
+ასეირნებს	გაასეირნებდეს	V;3;SG;SBJV;FUT = gaaseirnebdes
+ასეირნებს	გავასეირნებდეთ	V;1;PL;SBJV;FUT = gavaseirnebdet
+ასეირნებს	გაასეირნებდეთ	V;2;PL;SBJV;FUT = gaaseirnebdet
+ასეირნებს	გაასეირნებდნენ	V;3;PL;SBJV;FUT = gaaseirnebdnen
+
+
+Screeve #7:
+ასეირნებს	გავასეირნე	V;1;SG;IND;PST;PFV = gavaseirne
+ასეირნებს	გაასეირნე	V;2;SG;IND;PST;PFV = gaaseirne
+ასეირნებს	გაასეირნა	V;3;SG;IND;PST;PFV = gaaseirna
+ასეირნებს	გავასეირნეთ	V;1;PL;IND;PST;PFV = gavaseirnet
+ასეირნებს	გაასეირნეთ	V;2;PL;IND;PST;PFV = gaaseirnet
+ასეირნებს	გაასეირნეს	V;3;PL;IND;PST;PFV = gaaseirnes
+
+ასეირნებს	გაასეირნე	V;2;SG;IMP = gaaseirne
+ასეირნებს	გაასეირნეთ	V;2;PL;IMP = gaaseirnet
+
+
+Screeve #8:
+ასეირნებს	გავასეირნო	V;1;SG;OPT = gavaseirno
+ასეირნებს	გაასეირნო	V;2;SG;OPT = gaaseirno
+ასეირნებს	გაასეირნოს	V;3;SG;OPT = gaaseirnos
+ასეირნებს	გავასეირნოთ	V;1;PL;OPT = gavaseirnot
+ასეირნებს	გაასეირნოთ	V;2;PL;OPT = gaaseirnot
+ასეირნებს	გაასეირნონ	V;3;PL;OPT = gaaseirnon
+
+ასეირნებს	გავასეირნოთ	V;1;PL;IMP = gavaseirnot
+ასეირნებს	გაასეირნოს	V;3;SG;IMP = gaaseirnos
+ასეირნებს	გაასეირნონ	V;3;PL;IMP = gaaseirnon
+
+
+Screeve #9:
+ასეირნებს	გამისეირნებია	V;1;SG;IND;PRF = gamiseirnebia
+ასეირნებს	გაგისეირნებია	V;2;SG;IND;PRF = gagiseirnebia
+ასეირნებს	გაუსეირნებია	V;3;SG;IND;PRF = gauseirnebia
+ასეირნებს	გაგვისეირნებია	V;1;PL;IND;PRF = gagviseirnebia
+ასეირნებს	გაგისეირნებიათ	V;2;PL;IND;PRF = gagiseirnebiat
+ასეირნებს	გაუსეირნებიათ	V;3;PL;IND;PRF = gauseirnebiat
+
+
+Screeve #10:
+ასეირნებს	გამესეირნებინა	V;1;SG;IND;PST;PRF = gameseirnebina
+ასეირნებს	გაგესეირნებინა	V;2;SG;IND;PST;PRF = gageseirnebina
+ასეირნებს	გაესეირნებინა	V;3;SG;IND;PST;PRF = gaeseirnebina
+ასეირნებს	გაგვესეირნებინა	V;1;PL;IND;PST;PRF = gagveseirnebina
+ასეირნებს	გაგესეირნებინათ	V;2;PL;IND;PST;PRF = gageseirnebinat
+ასეირნებს	გაესეირნებინათ	V;3;PL;IND;PST;PRF = gaeseirnebinat
+
+
+Screeve #11:
+ასეირნებს	გამესეირნებინოს	V;1;SG;SBJV;PRF = gameseirnebinos
+ასეირნებს	გაგესეირნებინოს	V;2;SG;SBJV;PRF = gageseirnebinos
+ასეირნებს	გაესეირნებინოს	V;3;SG;SBJV;PRF = gaeseirnebinos
+ასეირნებს	გაგვესეირნებინოს	V;1;PL;SBJV;PRF = gagveseirnebinos
+ასეირნებს	გაგესეირნებინოთ	V;2;PL;SBJV;PRF = gageseirnebinot
+ასეირნებს	გაესეირნებინოთ	V;3;PL;SBJV;PRF = gaeseirnebinot
+
+
+ასეირნებს	გასეირნება	V;V.MSDR;PRF
