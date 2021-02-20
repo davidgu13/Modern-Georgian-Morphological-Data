@@ -1,0 +1,108 @@
+#25 - იმართება - straighten:
+Screeve #1:
+იმართება	ვიმართები	V;1;SG;IND;PRS = vimartebi
+იმართება	იმართები	V;2;SG;IND;PRS = imartebi
+იმართება	იმართება	V;3;SG;IND;PRS = imarteba
+იმართება	ვიმართებით	V;1;PL;IND;PRS = vimartebit
+იმართება	იმართებით	V;2;PL;IND;PRS = imartebit
+იმართება	იმართებიან	V;3;PL;IND;PRS = imartebian
+
+
+Screeve #2:
+იმართება	ვიმართებოდი	V;1;SG;IND;IPFV = vimartebodi
+იმართება	იმართებოდი	V;2;SG;IND;IPFV = imartebodi
+იმართება	იმართებოდა	V;3;SG;IND;IPFV = imarteboda
+იმართება	ვიმართებოდით	V;1;PL;IND;IPFV = vimartebodit
+იმართება	იმართებოდით	V;2;PL;IND;IPFV = imartebodit
+იმართება	იმართებოდნენ	V;3;PL;IND;IPFV = imartebodnen
+
+
+Screeve #3:
+იმართება	ვიმართებოდე	V;1;SG;SBJV;PRS = vimartebode
+იმართება	იმართებოდე	V;2;SG;SBJV;PRS = imartebode
+იმართება	იმართებოდეს	V;3;SG;SBJV;PRS = imartebodes
+იმართება	ვიმართებოდეთ	V;1;PL;SBJV;PRS = vimartebodet
+იმართება	იმართებოდეთ	V;2;PL;SBJV;PRS = imartebodet
+იმართება	იმართებოდნენ	V;3;PL;SBJV;PRS = imartebodnen
+
+
+Screeve #4:
+იმართება	გავიმართები	V;1;SG;IND;FUT = gavimartebi
+იმართება	გაიმართები	V;2;SG;IND;FUT = gaimartebi
+იმართება	გაიმართება	V;3;SG;IND;FUT = gaimarteba
+იმართება	გავიმართებით	V;1;PL;IND;FUT = gavimartebit
+იმართება	გაიმართებით	V;2;PL;IND;FUT = gaimartebit
+იმართება	გაიმართებიან	V;3;PL;IND;FUT = gaimartebian
+
+
+Screeve #5:
+იმართება	გავიმართებოდი	V;1;SG;COND = gavimartebodi
+იმართება	გაიმართებოდი	V;2;SG;COND = gaimartebodi
+იმართება	გაიმართებოდა	V;3;SG;COND = gaimarteboda
+იმართება	გავიმართებოდით	V;1;PL;COND = gavimartebodit
+იმართება	გაიმართებოდით	V;2;PL;COND = gaimartebodit
+იმართება	გაიმართებოდნენ	V;3;PL;COND = gaimartebodnen
+
+
+Screeve #6:
+იმართება	გავიმართებოდე	V;1;SG;SBJV;FUT = gavimartebode
+იმართება	გაიმართებოდე	V;2;SG;SBJV;FUT = gaimartebode
+იმართება	გაიმართებოდეს	V;3;SG;SBJV;FUT = gaimartebodes
+იმართება	გავიმართებოდეთ	V;1;PL;SBJV;FUT = gavimartebodet
+იმართება	გაიმართებოდეთ	V;2;PL;SBJV;FUT = gaimartebodet
+იმართება	გაიმართებოდნენ	V;3;PL;SBJV;FUT = gaimartebodnen
+
+
+Screeve #7:
+იმართება	გავიმართე	V;1;SG;IND;PST;PFV = gavimarte
+იმართება	გაიმართე	V;2;SG;IND;PST;PFV = gaimarte
+იმართება	გაიმართა	V;3;SG;IND;PST;PFV = gaimarta
+იმართება	გავიმართეთ	V;1;PL;IND;PST;PFV = gavimartet
+იმართება	გაიმართეთ	V;2;PL;IND;PST;PFV = gaimartet
+იმართება	გაიმართნენ	V;3;PL;IND;PST;PFV = gaimartnen
+
+იმართება	გაიმართე	V;2;SG;IMP = gaimarte
+იმართება	გაიმართეთ	V;2;PL;IMP = gaimartet
+
+
+Screeve #8:
+იმართება	გავიმართო	V;1;SG;OPT = gavimarto
+იმართება	გაიმართო	V;2;SG;OPT = gaimarto
+იმართება	გაიმართოს	V;3;SG;OPT = gaimartos
+იმართება	გავიმართოთ	V;1;PL;OPT = gavimartot
+იმართება	გაიმართოთ	V;2;PL;OPT = gaimartot
+იმართება	გაიმართონ	V;3;PL;OPT = gaimarton
+
+იმართება	გავიმართოთ	V;1;PL;IMP = gavimartot
+იმართება	გაიმართოს	V;3;SG;IMP = gaimartos
+იმართება	გაიმართონ	V;3;PL;IMP = gaimarton
+
+
+Screeve #9:
+იმართება	გავმართებულვარ	V;1;SG;IND;PRF = gavmartebulvar
+იმართება	გამართებულხარ	V;2;SG;IND;PRF = gamartebulxar
+იმართება	გამართებულა	V;3;SG;IND;PRF = gamartebula
+იმართება	გავმართებულვართ	V;1;PL;IND;PRF = gavmartebulvart
+იმართება	გამართებულხართ	V;2;PL;IND;PRF = gamartebulxart
+იმართება	გამართებულან	V;3;PL;IND;PRF = gamartebulan
+
+
+Screeve #10:
+იმართება	გავმართებულიყავი	V;1;SG;IND;PST;PRF = gavmartebuliq'avi
+იმართება	გამართებულიყავი	V;2;SG;IND;PST;PRF = gamartebuliq'avi
+იმართება	გამართებულიყო	V;3;SG;IND;PST;PRF = gamartebuliq'o
+იმართება	გავმართებულიყავით	V;1;PL;IND;PST;PRF = gavmartebuliq'avit
+იმართება	გამართებულიყავით	V;2;PL;IND;PST;PRF = gamartebuliq'avit
+იმართება	გამართებულიყვნენ	V;3;PL;IND;PST;PRF = gamartebuliq'vnen
+
+
+Screeve #11:
+იმართება	გავმართებულიყო	V;1;SG;SBJV;PRF = gavmartebuliq'o
+იმართება	გამართებულიყო	V;2;SG;SBJV;PRF = gamartebuliq'o
+იმართება	გამართებულიყოს	V;3;SG;SBJV;PRF = gamartebuliq'os
+იმართება	გავმართებულიყოთ	V;1;PL;SBJV;PRF = gavmartebuliq'ot
+იმართება	გამართებულიყოთ	V;2;PL;SBJV;PRF = gamartebuliq'ot
+იმართება	გამართებულიყონ	V;3;PL;SBJV;PRF = gamartebuliq'on
+
+
+იმართება	გამართვა	V;V.MSDR;PRF

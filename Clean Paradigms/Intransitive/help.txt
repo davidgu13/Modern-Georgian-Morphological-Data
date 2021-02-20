@@ -1,0 +1,108 @@
+#23 - ეხმარება - help:
+Screeve #1:
+ეხმარება	ვეხმარები	V;1;SG;IND;PRS = vexmarebi
+ეხმარება	ეხმარები	V;2;SG;IND;PRS = exmarebi
+ეხმარება	ეხმარება	V;3;SG;IND;PRS = exmareba
+ეხმარება	ვეხმარებით	V;1;PL;IND;PRS = vexmarebit
+ეხმარება	ეხმარებით	V;2;PL;IND;PRS = exmarebit
+ეხმარება	ეხმარებიან	V;3;PL;IND;PRS = exmarebian
+
+
+Screeve #2:
+ეხმარება	ვეხმარებოდი	V;1;SG;IND;IPFV = vexmarebodi
+ეხმარება	ეხმარებოდი	V;2;SG;IND;IPFV = exmarebodi
+ეხმარება	ეხმარებოდა	V;3;SG;IND;IPFV = exmareboda
+ეხმარება	ვეხმარებოდით	V;1;PL;IND;IPFV = vexmarebodit
+ეხმარება	ეხმარებოდით	V;2;PL;IND;IPFV = exmarebodit
+ეხმარება	ეხმარებოდნენ	V;3;PL;IND;IPFV = exmarebodnen
+
+
+Screeve #3:
+ეხმარება	ვეხმარებოდე	V;1;SG;SBJV;PRS = vexmarebode
+ეხმარება	ეხმარებოდე	V;2;SG;SBJV;PRS = exmarebode
+ეხმარება	ეხმარებოდეს	V;3;SG;SBJV;PRS = exmarebodes
+ეხმარება	ვეხმარებოდეთ	V;1;PL;SBJV;PRS = vexmarebodet
+ეხმარება	ეხმარებოდეთ	V;2;PL;SBJV;PRS = exmarebodet
+ეხმარება	ეხმარებოდნენ	V;3;PL;SBJV;PRS = exmarebodnen
+
+
+Screeve #4:
+ეხმარება	დავეხმარები	V;1;SG;IND;FUT = davexmarebi
+ეხმარება	დაეხმარები	V;2;SG;IND;FUT = daexmarebi
+ეხმარება	დაეხმარება	V;3;SG;IND;FUT = daexmareba
+ეხმარება	დავეხმარებით	V;1;PL;IND;FUT = davexmarebit
+ეხმარება	დაეხმარებით	V;2;PL;IND;FUT = daexmarebit
+ეხმარება	დაეხმარებიან	V;3;PL;IND;FUT = daexmarebian
+
+
+Screeve #5:
+ეხმარება	დავეხმარებოდი	V;1;SG;COND = davexmarebodi
+ეხმარება	დაეხმარებოდი	V;2;SG;COND = daexmarebodi
+ეხმარება	დაეხმარებოდა	V;3;SG;COND = daexmareboda
+ეხმარება	დავეხმარებოდით	V;1;PL;COND = davexmarebodit
+ეხმარება	დაეხმარებოდით	V;2;PL;COND = daexmarebodit
+ეხმარება	დაეხმარებოდნენ	V;3;PL;COND = daexmarebodnen
+
+
+Screeve #6:
+ეხმარება	დავეხმარებოდე	V;1;SG;SBJV;FUT = davexmarebode
+ეხმარება	დაეხმარებოდე	V;2;SG;SBJV;FUT = daexmarebode
+ეხმარება	დაეხმარებოდეს	V;3;SG;SBJV;FUT = daexmarebodes
+ეხმარება	დავეხმარებოდეთ	V;1;PL;SBJV;FUT = davexmarebodet
+ეხმარება	დაეხმარებოდეთ	V;2;PL;SBJV;FUT = daexmarebodet
+ეხმარება	დაეხმარებოდნენ	V;3;PL;SBJV;FUT = daexmarebodnen
+
+
+Screeve #7:
+ეხმარება	დავეხმარე	V;1;SG;IND;PST;PFV = davexmare
+ეხმარება	დაეხმარე	V;2;SG;IND;PST;PFV = daexmare
+ეხმარება	დაეხმარა	V;3;SG;IND;PST;PFV = daexmara
+ეხმარება	დავეხმარეთ	V;1;PL;IND;PST;PFV = davexmaret
+ეხმარება	დაეხმარეთ	V;2;PL;IND;PST;PFV = daexmaret
+ეხმარება	დაეხმარნენ	V;3;PL;IND;PST;PFV = daexmarnen
+
+ეხმარება	დაეხმარე	V;2;SG;IMP = daexmare
+ეხმარება	დაეხმარეთ	V;2;PL;IMP = daexmaret
+
+
+Screeve #8:
+ეხმარება	დავეხმარო	V;1;SG;OPT = davexmaro
+ეხმარება	დაეხმარო	V;2;SG;OPT = daexmaro
+ეხმარება	დაეხმაროს	V;3;SG;OPT = daexmaros
+ეხმარება	დავეხმაროთ	V;1;PL;OPT = davexmarot
+ეხმარება	დაეხმაროთ	V;2;PL;OPT = daexmarot
+ეხმარება	დაეხმარონ	V;3;PL;OPT = daexmaron
+
+ეხმარება	დავეხმაროთ	V;1;PL;IMP = davexmarot
+ეხმარება	დაეხმაროს	V;3;SG;IMP = daexmaros
+ეხმარება	დაეხმარონ	V;3;PL;IMP = daexmaron
+
+
+Screeve #9:
+ეხმარება	დავხმარებივარ	V;1;SG;IND;PRF = davxmarebivar
+ეხმარება	დახმარებიხარ	V;2;SG;IND;PRF = daxmarebixar
+ეხმარება	დახმარებია	V;3;SG;IND;PRF = daxmarebia
+ეხმარება	დავხმარებივართ	V;1;PL;IND;PRF = davxmarebivart
+ეხმარება	დახმარებიხართ	V;2;PL;IND;PRF = daxmarebixart
+ეხმარება	დახმარებიან	V;3;PL;IND;PRF = daxmarebian
+
+
+Screeve #10:
+ეხმარება	დავხმარებოდი	V;1;SG;IND;PST;PRF = davxmarebodi
+ეხმარება	დახმარებოდი	V;2;SG;IND;PST;PRF = daxmarebodi
+ეხმარება	დახმარებოდა	V;3;SG;IND;PST;PRF = daxmareboda
+ეხმარება	დავხმარებოდით	V;1;PL;IND;PST;PRF = davxmarebodit
+ეხმარება	დახმარებოდით	V;2;PL;IND;PST;PRF = daxmarebodit
+ეხმარება	დახმარებოდინენ	V;3;PL;IND;PST;PRF = daxmarebodinen
+
+
+Screeve #11:
+ეხმარება	დავხმარებოდე	V;1;SG;SBJV;PRF = davxmarebode
+ეხმარება	დახმარებოდე	V;2;SG;SBJV;PRF = daxmarebode
+ეხმარება	დახმარებოდეს	V;3;SG;SBJV;PRF = daxmarebodes
+ეხმარება	დავხმარებოდეთ	V;1;PL;SBJV;PRF = davxmarebodet
+ეხმარება	დახმარებოდეთ	V;2;PL;SBJV;PRF = daxmarebodet
+ეხმარება	დახმარებოდენენ	V;3;PL;SBJV;PRF = daxmarebodenen
+
+
+ეხმარება	დახმარება	V;V.MSDR;PRF

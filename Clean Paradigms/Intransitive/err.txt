@@ -1,0 +1,106 @@
+#7 - ცდება - err:
+Screeve #1:
+ცდება	ვცდები	V;1;SG;IND;PRS = vcdebi
+ცდება	ცდები	V;2;SG;IND;PRS = cdebi
+ცდება	ცდება	V;3;SG;IND;PRS = cdeba
+ცდება	ვცდებით	V;1;PL;IND;PRS = vcdebit
+ცდება	ცდებით	V;2;PL;IND;PRS = cdebit
+ცდება	ცდებიან	V;3;PL;IND;PRS = cdebian
+
+
+Screeve #2:
+ცდება	ვცდებოდი	V;1;SG;IND;IPFV = vcdebodi
+ცდება	ცდებოდი	V;2;SG;IND;IPFV = cdebodi
+ცდება	ცდებოდა	V;3;SG;IND;IPFV = cdeboda
+ცდება	ვცდებოდით	V;1;PL;IND;IPFV = vcdebodit
+ცდება	ცდებოდით	V;2;PL;IND;IPFV = cdebodit
+ცდება	ცდებოდნენ	V;3;PL;IND;IPFV = cdebodnen
+
+
+Screeve #3:
+ცდება	ვცდებოდე	V;1;SG;SBJV;PRS = vcdebode
+ცდება	ცდებოდე	V;2;SG;SBJV;PRS = cdebode
+ცდება	ცდებოდეს	V;3;SG;SBJV;PRS = cdebodes
+ცდება	ვცდებოდეთ	V;1;PL;SBJV;PRS = vcdebodet
+ცდება	ცდებოდეთ	V;2;PL;SBJV;PRS = cdebodet
+ცდება	ცდებოდნენ	V;3;PL;SBJV;PRS = cdebodnen
+
+
+Screeve #4:
+ცდება	შევცდები	V;1;SG;IND;FUT = ševcdebi
+ცდება	შეცდები	V;2;SG;IND;FUT = šecdebi
+ცდება	შეცდება	V;3;SG;IND;FUT = šecdeba
+ცდება	შევცდებით	V;1;PL;IND;FUT = ševcdebit
+ცდება	შეცდებით	V;2;PL;IND;FUT = šecdebit
+ცდება	შეცდებიან	V;3;PL;IND;FUT = šecdebian
+
+
+Screeve #5:
+ცდება	შევცდებოდი	V;1;SG;COND = ševcdebodi
+ცდება	შეცდებოდი	V;2;SG;COND = šecdebodi
+ცდება	შეცდებოდა	V;3;SG;COND = šecdeboda
+ცდება	შევცდებოდით	V;1;PL;COND = ševcdebodit
+ცდება	შეცდებოდით	V;2;PL;COND = šecdebodit
+ცდება	შეცდებოდნენ	V;3;PL;COND = šecdebodnen
+
+
+Screeve #6:
+ცდება	შევცდებოდე	V;1;SG;SBJV;FUT = ševcdebode
+ცდება	შეცდებოდე	V;2;SG;SBJV;FUT = šecdebode
+ცდება	შეცდებოდეს	V;3;SG;SBJV;FUT = šecdebodes
+ცდება	შევცდებოდეთ	V;1;PL;SBJV;FUT = ševcdebodet
+ცდება	შეცდებოდეთ	V;2;PL;SBJV;FUT = šecdebodet
+ცდება	შეცდებოდნენ	V;3;PL;SBJV;FUT = šecdebodnen
+
+
+Screeve #7:
+ცდება	შევცდი	V;1;SG;IND;PST;PFV = ševcdi
+ცდება	შეცდი	V;2;SG;IND;PST;PFV = šecdi
+ცდება	შეცდა	V;3;SG;IND;PST;PFV = šecda
+ცდება	შევცდით	V;1;PL;IND;PST;PFV = ševcdit
+ცდება	შეცდით	V;2;PL;IND;PST;PFV = šecdit
+ცდება	შეცდნენ	V;3;PL;IND;PST;PFV = šecdnen
+
+ცდება	შეცდი	V;2;SG;IMP = šecdi
+ცდება	შეცდით	V;2;PL;IMP = šecdit
+
+Screeve #8:
+ცდება	შევცდე	V;1;SG;OPT = ševcde
+ცდება	შეცდე	V;2;SG;OPT = šecde
+ცდება	შეცდეს	V;3;SG;OPT = šecdes
+ცდება	შევცდეთ	V;1;PL;OPT = ševcdet
+ცდება	შეცდეთ	V;2;PL;OPT = šecdet
+ცდება	შეცდნენ	V;3;PL;OPT = šecdnen
+
+ცდება	შევცდეთ	V;1;PL;IMP = ševcdet
+ცდება	შეცდეს	V;3;SG;IMP = šecdes
+ცდება	შეცდნენ	V;3;PL;IMP = šecdnen
+
+Screeve #9:
+ცდება	შევმცდარვარ	V;1;SG;IND;PRF = ševmcdarvar
+ცდება	შემცდარხარ	V;2;SG;IND;PRF = šemcdarxar
+ცდება	შემცდარა	V;3;SG;IND;PRF = šemcdara
+ცდება	შევმცდარვართ	V;1;PL;IND;PRF = ševmcdarvart
+ცდება	შემცდარხართ	V;2;PL;IND;PRF = šemcdarxart
+ცდება	შემცდარან	V;3;PL;IND;PRF = šemcdaran
+
+
+Screeve #10:
+ცდება	შევმცდარიყავი	V;1;SG;IND;PST;PRF = ševmcdariq'avi
+ცდება	შემცდარიყავი	V;2;SG;IND;PST;PRF = šemcdariq'avi
+ცდება	შემცდარიყო	V;3;SG;IND;PST;PRF = šemcdariq'o
+ცდება	შევმცდარიყავით	V;1;PL;IND;PST;PRF = ševmcdariq'avit
+ცდება	შემცდარიყავით	V;2;PL;IND;PST;PRF = šemcdariq'avit
+ცდება	შემცდარიყვნენ	V;3;PL;IND;PST;PRF = šemcdariq'vnen
+
+
+Screeve #11:
+ცდება	შევმცდარიყო	V;1;SG;SBJV;PRF = ševmcdariq'o
+ცდება	შემცდარიყო	V;2;SG;SBJV;PRF = šemcdariq'o
+ცდება	შემცდარიყოს	V;3;SG;SBJV;PRF = šemcdariq'os
+ცდება	შევმცდარიყოთ	V;1;PL;SBJV;PRF = ševmcdariq'ot
+ცდება	შემცდარიყოთ	V;2;PL;SBJV;PRF = šemcdariq'ot
+ცდება	შემცდარიყონ	V;3;PL;SBJV;PRF = šemcdariq'on
+
+
+ცდება	შეცდომა	V;V.MSDR;PRF

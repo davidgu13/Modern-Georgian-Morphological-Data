@@ -1,0 +1,108 @@
+#11 - რჩება - stay:
+Screeve #1:
+რჩება	ვრჩები	V;1;SG;IND;PRS = vrčebi
+რჩება	რჩები	V;2;SG;IND;PRS = rčebi
+რჩება	რჩება	V;3;SG;IND;PRS = rčeba
+რჩება	ვრჩებით	V;1;PL;IND;PRS = vrčebit
+რჩება	რჩებით	V;2;PL;IND;PRS = rčebit
+რჩება	რჩებიან	V;3;PL;IND;PRS = rčebian
+
+
+Screeve #2:
+რჩება	ვრჩებოდი	V;1;SG;IND;IPFV = vrčebodi
+რჩება	რჩებოდი	V;2;SG;IND;IPFV = rčebodi
+რჩება	რჩებოდა	V;3;SG;IND;IPFV = rčeboda
+რჩება	ვრჩებოდით	V;1;PL;IND;IPFV = vrčebodit
+რჩება	რჩებოდით	V;2;PL;IND;IPFV = rčebodit
+რჩება	რჩებოდნენ	V;3;PL;IND;IPFV = rčebodnen
+
+
+Screeve #3:
+რჩება	ვრჩებოდე	V;1;SG;SBJV;PRS = vrčebode
+რჩება	რჩებოდე	V;2;SG;SBJV;PRS = rčebode
+რჩება	რჩებოდეს	V;3;SG;SBJV;PRS = rčebodes
+რჩება	ვრჩებოდეთ	V;1;PL;SBJV;PRS = vrčebodet
+რჩება	რჩებოდეთ	V;2;PL;SBJV;PRS = rčebodet
+რჩება	რჩებოდნენ	V;3;PL;SBJV;PRS = rčebodnen
+
+
+Screeve #4:
+რჩება	დავრჩები	V;1;SG;IND;FUT = davrčebi
+რჩება	დარჩები	V;2;SG;IND;FUT = darčebi
+რჩება	დარჩება	V;3;SG;IND;FUT = darčeba
+რჩება	დავრჩებით	V;1;PL;IND;FUT = davrčebit
+რჩება	დარჩებით	V;2;PL;IND;FUT = darčebit
+რჩება	დარჩებიან	V;3;PL;IND;FUT = darčebian
+
+
+Screeve #5:
+რჩება	დავრჩებოდი	V;1;SG;COND = davrčebodi
+რჩება	დარჩებოდი	V;2;SG;COND = darčebodi
+რჩება	დარჩებოდა	V;3;SG;COND = darčeboda
+რჩება	დავრჩებოდით	V;1;PL;COND = davrčebodit
+რჩება	დარჩებოდით	V;2;PL;COND = darčebodit
+რჩება	დარჩებოდნენ	V;3;PL;COND = darčebodnen
+
+
+Screeve #6:
+რჩება	დავრჩებოდე	V;1;SG;SBJV;FUT = davrčebode
+რჩება	დარჩებოდე	V;2;SG;SBJV;FUT = darčebode
+რჩება	დარჩებოდეს	V;3;SG;SBJV;FUT = darčebodes
+რჩება	დავრჩებოდეთ	V;1;PL;SBJV;FUT = davrčebodet
+რჩება	დარჩებოდეთ	V;2;PL;SBJV;FUT = darčebodet
+რჩება	დარჩებოდნენ	V;3;PL;SBJV;FUT = darčebodnen
+
+
+Screeve #7:
+რჩება	დავრჩე	V;1;SG;IND;PST;PFV = davrče
+რჩება	დარჩე	V;2;SG;IND;PST;PFV = darče
+რჩება	დარჩა	V;3;SG;IND;PST;PFV = darča
+რჩება	დავრჩეთ	V;1;PL;IND;PST;PFV = davrčet
+რჩება	დარჩეთ	V;2;PL;IND;PST;PFV = darčet
+რჩება	დარჩნენ	V;3;PL;IND;PST;PFV = darčnen
+
+რჩება	დარჩე	V;2;SG;IMP = darče
+რჩება	დარჩეთ	V;2;PL;IMP = darčet
+
+
+Screeve #8:
+რჩება	დავრჩე	V;1;SG;OPT = davrče
+რჩება	დარჩე	V;2;SG;OPT = darče
+რჩება	დარჩეს	V;3;SG;OPT = darčes
+რჩება	დავრჩეთ	V;1;PL;OPT = davrčet
+რჩება	დარჩეთ	V;2;PL;OPT = darčet
+რჩება	დარჩნენ	V;3;PL;OPT = darčnen
+
+რჩება	დავრჩეთ	V;1;PL;IMP = davrčet
+რჩება	დარჩეს	V;3;SG;IMP = darčes
+რჩება	დარჩნენ	V;3;PL;IMP = darčnen
+
+
+Screeve #9:
+რჩება	დავრჩენილვარ	V;1;SG;IND;PRF = davrčenilvar
+რჩება	დარჩენილხარ	V;2;SG;IND;PRF = darčenilxar
+რჩება	დარჩენილა	V;3;SG;IND;PRF = darčenila
+რჩება	დავრჩენილვართ	V;1;PL;IND;PRF = davrčenilvart
+რჩება	დარჩენილხართ	V;2;PL;IND;PRF = darčenilxart
+რჩება	დარჩენილან	V;3;PL;IND;PRF = darčenilan
+
+
+Screeve #10:
+რჩება	დავრჩენილიყავი	V;1;SG;IND;PST;PRF = davrčeniliq'avi
+რჩება	დარჩენილიყავი	V;2;SG;IND;PST;PRF = darčeniliq'avi
+რჩება	დარჩენილიყო	V;3;SG;IND;PST;PRF = darčeniliq'o
+რჩება	დავრჩენილიყავით	V;1;PL;IND;PST;PRF = davrčeniliq'avit
+რჩება	დარჩენილიყავით	V;2;PL;IND;PST;PRF = darčeniliq'avit
+რჩება	დარჩენილიყვნენ	V;3;PL;IND;PST;PRF = darčeniliq'vnen
+
+
+Screeve #11:
+რჩება	დავრჩენილიყო	V;1;SG;SBJV;PRF = davrčeniliq'o
+რჩება	დარჩენილიყო	V;2;SG;SBJV;PRF = darčeniliq'o
+რჩება	დარჩენილიყოს	V;3;SG;SBJV;PRF = darčeniliq'os
+რჩება	დავრჩენილიყოთ	V;1;PL;SBJV;PRF = davrčeniliq'ot
+რჩება	დარჩენილიყოთ	V;2;PL;SBJV;PRF = darčeniliq'ot
+რჩება	დარჩენილიყონ	V;3;PL;SBJV;PRF = darčeniliq'on
+
+
+რჩება	დარჩენა	V;V.MSDR;PRF

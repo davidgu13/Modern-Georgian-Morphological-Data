@@ -1,0 +1,108 @@
+#3 - იღება - be_opened:
+Screeve #1:
+იღება	ვიღები	V;1;SG;IND;PRS = viġebi
+იღება	იღები	V;2;SG;IND;PRS = iġebi
+იღება	იღება	V;3;SG;IND;PRS = iġeba
+იღება	ვიღებით	V;1;PL;IND;PRS = viġebit
+იღება	იღებით	V;2;PL;IND;PRS = iġebit
+იღება	იღებიან	V;3;PL;IND;PRS = iġebian
+
+
+Screeve #2:
+იღება	ვიღებოდი	V;1;SG;IND;IPFV = viġebodi
+იღება	იღებოდი	V;2;SG;IND;IPFV = iġebodi
+იღება	იღებოდა	V;3;SG;IND;IPFV = iġeboda
+იღება	ვიღებოდით	V;1;PL;IND;IPFV = viġebodit
+იღება	იღებოდით	V;2;PL;IND;IPFV = iġebodit
+იღება	იღებოდნენ	V;3;PL;IND;IPFV = iġebodnen
+
+
+Screeve #3:
+იღება	ვიღებოდე	V;1;SG;SBJV;PRS = viġebode
+იღება	იღებოდე	V;2;SG;SBJV;PRS = iġebode
+იღება	იღებოდეს	V;3;SG;SBJV;PRS = iġebodes
+იღება	ვიღებოდეთ	V;1;PL;SBJV;PRS = viġebodet
+იღება	იღებოდეთ	V;2;PL;SBJV;PRS = iġebodet
+იღება	იღებოდნენ	V;3;PL;SBJV;PRS = iġebodnen
+
+
+Screeve #4:
+იღება	გავიღები	V;1;SG;IND;FUT = gaviġebi
+იღება	გაიღები	V;2;SG;IND;FUT = gaiġebi
+იღება	გაიღება	V;3;SG;IND;FUT = gaiġeba
+იღება	გავიღებით	V;1;PL;IND;FUT = gaviġebit
+იღება	გაიღებით	V;2;PL;IND;FUT = gaiġebit
+იღება	გაიღებიან	V;3;PL;IND;FUT = gaiġebian
+
+
+Screeve #5:
+იღება	გავიღებოდი	V;1;SG;COND = gaviġebodi
+იღება	გაიღებოდი	V;2;SG;COND = gaiġebodi
+იღება	გაიღებოდა	V;3;SG;COND = gaiġeboda
+იღება	გავიღებოდით	V;1;PL;COND = gaviġebodit
+იღება	გაიღებოდით	V;2;PL;COND = gaiġebodit
+იღება	გაიღებოდნენ	V;3;PL;COND = gaiġebodnen
+
+
+Screeve #6:
+იღება	გავიღებოდე	V;1;SG;SBJV;FUT = gaviġebode
+იღება	გაიღებოდე	V;2;SG;SBJV;FUT = gaiġebode
+იღება	გაიღებოდეს	V;3;SG;SBJV;FUT = gaiġebodes
+იღება	გავიღებოდეთ	V;1;PL;SBJV;FUT = gaviġebodet
+იღება	გაიღებოდეთ	V;2;PL;SBJV;FUT = gaiġebodet
+იღება	გაიღებოდნენ	V;3;PL;SBJV;FUT = gaiġebodnen
+
+
+Screeve #7:
+იღება	გავიღე	V;1;SG;IND;PST;PFV = gaviġe
+იღება	გაიღე	V;2;SG;IND;PST;PFV = gaiġe
+იღება	გაიღო	V;3;SG;IND;PST;PFV = gaiġo
+იღება	გავიღეთ	V;1;PL;IND;PST;PFV = gaviġet
+იღება	გაიღეთ	V;2;PL;IND;PST;PFV = gaiġet
+იღება	გაიღნენ	V;3;PL;IND;PST;PFV = gaiġnen
+
+იღება	გაიღე	V;2;SG;IMP = gaiġe
+იღება	გაიღეთ	V;2;PL;IMP = gaiġet
+
+
+Screeve #8:
+იღება	გავიღო	V;1;SG;OPT = gaviġo
+იღება	გაიღო	V;2;SG;OPT = gaiġo
+იღება	გაიღოს	V;3;SG;OPT = gaiġos
+იღება	გავიღოთ	V;1;PL;OPT = gaviġot
+იღება	გაიღოთ	V;2;PL;OPT = gaiġot
+იღება	გაიღონ	V;3;PL;OPT = gaiġon
+
+იღება	გავიღოთ	V;1;PL;IMP = gaviġot
+იღება	გაიღოს	V;3;SG;IMP = gaiġos
+იღება	გაიღონ	V;3;PL;IMP = gaiġon
+
+
+Screeve #9:
+იღება	გავღებულვარ	V;1;SG;IND;PRF = gavġebulvar
+იღება	გაღებულხარ	V;2;SG;IND;PRF = gaġebulxar
+იღება	გაღებულა	V;3;SG;IND;PRF = gaġebula
+იღება	გავღებულვართ	V;1;PL;IND;PRF = gavġebulvart
+იღება	გაღებულხართ	V;2;PL;IND;PRF = gaġebulxart
+იღება	გაღებულან	V;3;PL;IND;PRF = gaġebulan
+
+
+Screeve #10:
+იღება	გავღებულიყავი	V;1;SG;IND;PST;PRF = gavġebuliq'avi
+იღება	გაღებულიყავი	V;2;SG;IND;PST;PRF = gaġebuliq'avi
+იღება	გაღებულიყო	V;3;SG;IND;PST;PRF = gaġebuliq'o
+იღება	გავღებულიყავით	V;1;PL;IND;PST;PRF = gavġebuliq'avit
+იღება	გაღებულიყავით	V;2;PL;IND;PST;PRF = gaġebuliq'avit
+იღება	გაღებულიყვნენ	V;3;PL;IND;PST;PRF = gaġebuliq'vnen
+
+
+Screeve #11:
+იღება	გავღებულიყო	V;1;SG;SBJV;PRF = gavġebuliq'o
+იღება	გაღებულიყო	V;2;SG;SBJV;PRF = gaġebuliq'o
+იღება	გაღებულიყოს	V;3;SG;SBJV;PRF = gaġebuliq'os
+იღება	გავღებულიყოთ	V;1;PL;SBJV;PRF = gavġebuliq'ot
+იღება	გაღებულიყოთ	V;2;PL;SBJV;PRF = gaġebuliq'ot
+იღება	გაღებულიყონ	V;3;PL;SBJV;PRF = gaġebuliq'on
+
+
+იღება	გაღება	V;V.MSDR;PRF

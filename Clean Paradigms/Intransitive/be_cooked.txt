@@ -1,0 +1,108 @@
+#18 - იხარშება - be_cooked:
+Screeve #1:
+იხარშება	ვიხარშები	V;1;SG;IND;PRS = vixaršebi
+იხარშება	იხარშები	V;2;SG;IND;PRS = ixaršebi
+იხარშება	იხარშება	V;3;SG;IND;PRS = ixaršeba
+იხარშება	ვიხარშებით	V;1;PL;IND;PRS = vixaršebit
+იხარშება	იხარშებით	V;2;PL;IND;PRS = ixaršebit
+იხარშება	იხარშებიან	V;3;PL;IND;PRS = ixaršebian
+
+
+Screeve #2:
+იხარშება	ვიხარშებოდი	V;1;SG;IND;IPFV = vixaršebodi
+იხარშება	იხარშებოდი	V;2;SG;IND;IPFV = ixaršebodi
+იხარშება	იხარშებოდა	V;3;SG;IND;IPFV = ixaršeboda
+იხარშება	ვიხარშებოდით	V;1;PL;IND;IPFV = vixaršebodit
+იხარშება	იხარშებოდით	V;2;PL;IND;IPFV = ixaršebodit
+იხარშება	იხარშებოდნენ	V;3;PL;IND;IPFV = ixaršebodnen
+
+
+Screeve #3:
+იხარშება	ვიხარშებოდე	V;1;SG;SBJV;PRS = vixaršebode
+იხარშება	იხარშებოდე	V;2;SG;SBJV;PRS = ixaršebode
+იხარშება	იხარშებოდეს	V;3;SG;SBJV;PRS = ixaršebodes
+იხარშება	ვიხარშებოდეთ	V;1;PL;SBJV;PRS = vixaršebodet
+იხარშება	იხარშებოდეთ	V;2;PL;SBJV;PRS = ixaršebodet
+იხარშება	იხარშებოდნენ	V;3;PL;SBJV;PRS = ixaršebodnen
+
+
+Screeve #4:
+იხარშება	მოვიხარშები	V;1;SG;IND;FUT = movixaršebi
+იხარშება	მოიხარშები	V;2;SG;IND;FUT = moixaršebi
+იხარშება	მოიხარშება	V;3;SG;IND;FUT = moixaršeba
+იხარშება	მოვიხარშებით	V;1;PL;IND;FUT = movixaršebit
+იხარშება	მოიხარშებით	V;2;PL;IND;FUT = moixaršebit
+იხარშება	მოიხარშებიან	V;3;PL;IND;FUT = moixaršebian
+
+
+Screeve #5:
+იხარშება	მოვიხარშებოდი	V;1;SG;COND = movixaršebodi
+იხარშება	მოიხარშებოდი	V;2;SG;COND = moixaršebodi
+იხარშება	მოიხარშებოდა	V;3;SG;COND = moixaršeboda
+იხარშება	მოვიხარშებოდით	V;1;PL;COND = movixaršebodit
+იხარშება	მოიხარშებოდით	V;2;PL;COND = moixaršebodit
+იხარშება	მოიხარშებოდნენ	V;3;PL;COND = moixaršebodnen
+
+
+Screeve #6:
+იხარშება	მოვიხარშებოდე	V;1;SG;SBJV;FUT = movixaršebode
+იხარშება	მოიხარშებოდე	V;2;SG;SBJV;FUT = moixaršebode
+იხარშება	მოიხარშებოდეს	V;3;SG;SBJV;FUT = moixaršebodes
+იხარშება	მოვიხარშებოდეთ	V;1;PL;SBJV;FUT = movixaršebodet
+იხარშება	მოიხარშებოდეთ	V;2;PL;SBJV;FUT = moixaršebodet
+იხარშება	მოიხარშებოდნენ	V;3;PL;SBJV;FUT = moixaršebodnen
+
+
+Screeve #7:
+იხარშება	მოვიხარშე	V;1;SG;IND;PST;PFV = movixarše
+იხარშება	მოიხარშე	V;2;SG;IND;PST;PFV = moixarše
+იხარშება	მოიხარშა	V;3;SG;IND;PST;PFV = moixarša
+იხარშება	მოვიხარშეთ	V;1;PL;IND;PST;PFV = movixaršet
+იხარშება	მოიხარშეთ	V;2;PL;IND;PST;PFV = moixaršet
+იხარშება	მოიხარშნენ	V;3;PL;IND;PST;PFV = moixaršnen
+
+იხარშება	მოიხარშე	V;2;SG;IMP = moixarše
+იხარშება	მოიხარშეთ	V;2;PL;IMP = moixaršet
+
+
+Screeve #8:
+იხარშება	მოვიხარშო	V;1;SG;OPT = movixaršo
+იხარშება	მოიხარშო	V;2;SG;OPT = moixaršo
+იხარშება	მოიხარშოს	V;3;SG;OPT = moixaršos
+იხარშება	მოვიხარშოთ	V;1;PL;OPT = movixaršot
+იხარშება	მოიხარშოთ	V;2;PL;OPT = moixaršot
+იხარშება	მოიხარშონ	V;3;PL;OPT = moixaršon
+
+იხარშება	მოვიხარშოთ	V;1;PL;IMP = movixaršot
+იხარშება	მოიხარშოს	V;3;SG;IMP = moixaršos
+იხარშება	მოიხარშონ	V;3;PL;IMP = moixaršon
+
+
+Screeve #9:
+იხარშება	მოვხარშულვარ	V;1;SG;IND;PRF = movxaršulvar
+იხარშება	მოხარშულხარ	V;2;SG;IND;PRF = moxaršulxar
+იხარშება	მოხარშულა	V;3;SG;IND;PRF = moxaršula
+იხარშება	მოვხარშულვართ	V;1;PL;IND;PRF = movxaršulvart
+იხარშება	მოხარშულხართ	V;2;PL;IND;PRF = moxaršulxart
+იხარშება	მოხარშულან	V;3;PL;IND;PRF = moxaršulan
+
+
+Screeve #10:
+იხარშება	მოვხარშულიყავი	V;1;SG;IND;PST;PRF = movxaršuliq'avi
+იხარშება	მოხარშულიყავი	V;2;SG;IND;PST;PRF = moxaršuliq'avi
+იხარშება	მოხარშულიყო	V;3;SG;IND;PST;PRF = moxaršuliq'o
+იხარშება	მოვხარშულიყავით	V;1;PL;IND;PST;PRF = movxaršuliq'avit
+იხარშება	მოხარშულიყავით	V;2;PL;IND;PST;PRF = moxaršuliq'avit
+იხარშება	მოხარშულიყვნენ	V;3;PL;IND;PST;PRF = moxaršuliq'vnen
+
+
+Screeve #11:
+იხარშება	მოვხარშულიყო	V;1;SG;SBJV;PRF = movxaršuliq'o
+იხარშება	მოხარშულიყო	V;2;SG;SBJV;PRF = moxaršuliq'o
+იხარშება	მოხარშულიყოს	V;3;SG;SBJV;PRF = moxaršuliq'os
+იხარშება	მოვხარშულიყოთ	V;1;PL;SBJV;PRF = movxaršuliq'ot
+იხარშება	მოხარშულიყოთ	V;2;PL;SBJV;PRF = moxaršuliq'ot
+იხარშება	მოხარშულიყონ	V;3;PL;SBJV;PRF = moxaršuliq'on
+
+
+იხარშება	იხარშება	V;V.MSDR;IPFV

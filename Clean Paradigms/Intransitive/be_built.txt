@@ -1,0 +1,108 @@
+#26 - შენდება - be_built:
+Screeve #1:
+შენდება	ვშენდები	V;1;SG;IND;PRS = všendebi
+შენდება	შენდები	V;2;SG;IND;PRS = šendebi
+შენდება	შენდება	V;3;SG;IND;PRS = šendeba
+შენდება	ვშენდებით	V;1;PL;IND;PRS = všendebit
+შენდება	შენდებით	V;2;PL;IND;PRS = šendebit
+შენდება	შენდებიან	V;3;PL;IND;PRS = šendebian
+
+
+Screeve #2:
+შენდება	ვშენდებოდი	V;1;SG;IND;IPFV = všendebodi
+შენდება	შენდებოდი	V;2;SG;IND;IPFV = šendebodi
+შენდება	შენდებოდა	V;3;SG;IND;IPFV = šendeboda
+შენდება	ვშენდებოდით	V;1;PL;IND;IPFV = všendebodit
+შენდება	შენდებოდით	V;2;PL;IND;IPFV = šendebodit
+შენდება	შენდებოდნენ	V;3;PL;IND;IPFV = šendebodnen
+
+
+Screeve #3:
+შენდება	ვშენდებოდე	V;1;SG;SBJV;PRS = všendebode
+შენდება	შენდებოდე	V;2;SG;SBJV;PRS = šendebode
+შენდება	შენდებოდეს	V;3;SG;SBJV;PRS = šendebodes
+შენდება	ვშენდებოდეთ	V;1;PL;SBJV;PRS = všendebodet
+შენდება	შენდებოდეთ	V;2;PL;SBJV;PRS = šendebodet
+შენდება	შენდებოდნენ	V;3;PL;SBJV;PRS = šendebodnen
+
+
+Screeve #4:
+შენდება	ავშენდები	V;1;SG;IND;FUT = avšendebi
+შენდება	აშენდები	V;2;SG;IND;FUT = ašendebi
+შენდება	აშენდება	V;3;SG;IND;FUT = ašendeba
+შენდება	ავშენდებით	V;1;PL;IND;FUT = avšendebit
+შენდება	აშენდებით	V;2;PL;IND;FUT = ašendebit
+შენდება	აშენდებიან	V;3;PL;IND;FUT = ašendebian
+
+
+Screeve #5:
+შენდება	ავშენდებოდი	V;1;SG;COND = avšendebodi
+შენდება	აშენდებოდი	V;2;SG;COND = ašendebodi
+შენდება	აშენდებოდა	V;3;SG;COND = ašendeboda
+შენდება	ავშენდებოდით	V;1;PL;COND = avšendebodit
+შენდება	აშენდებოდით	V;2;PL;COND = ašendebodit
+შენდება	აშენდებოდნენ	V;3;PL;COND = ašendebodnen
+
+
+Screeve #6:
+შენდება	ავშენდებოდე	V;1;SG;SBJV;FUT = avšendebode
+შენდება	აშენდებოდე	V;2;SG;SBJV;FUT = ašendebode
+შენდება	აშენდებოდეს	V;3;SG;SBJV;FUT = ašendebodes
+შენდება	ავშენდებოდეთ	V;1;PL;SBJV;FUT = avšendebodet
+შენდება	აშენდებოდეთ	V;2;PL;SBJV;FUT = ašendebodet
+შენდება	აშენდებოდნენ	V;3;PL;SBJV;FUT = ašendebodnen
+
+
+Screeve #7:
+შენდება	ავშენდი	V;1;SG;IND;PST;PFV = avšendi
+შენდება	აშენდი	V;2;SG;IND;PST;PFV = ašendi
+შენდება	აშენდა	V;3;SG;IND;PST;PFV = ašenda
+შენდება	ავშენდით	V;1;PL;IND;PST;PFV = avšendit
+შენდება	აშენდით	V;2;PL;IND;PST;PFV = ašendit
+შენდება	აშენდნენ	V;3;PL;IND;PST;PFV = ašendnen
+
+შენდება	აშენდი	V;2;SG;IMP = ašendi
+შენდება	აშენდით	V;2;PL;IMP = ašendit
+
+
+Screeve #8:
+შენდება	ავშენდე	V;1;SG;OPT = avšende
+შენდება	აშენდე	V;2;SG;OPT = ašende
+შენდება	აშენდეს	V;3;SG;OPT = ašendes
+შენდება	ავშენდეთ	V;1;PL;OPT = avšendet
+შენდება	აშენდეთ	V;2;PL;OPT = ašendet
+შენდება	აშენდნენ	V;3;PL;OPT = ašendnen
+
+შენდება	ავშენდეთ	V;1;PL;IMP = avšendet
+შენდება	აშენდეს	V;3;SG;IMP = ašendes
+შენდება	აშენდნენ	V;3;PL;IMP = ašendnen
+
+
+Screeve #9:
+შენდება	ავშენებულვარ	V;1;SG;IND;PRF = avšenebulvar
+შენდება	აშენებულხარ	V;2;SG;IND;PRF = ašenebulxar
+შენდება	აშენებულა	V;3;SG;IND;PRF = ašenebula
+შენდება	ავშენებულვართ	V;1;PL;IND;PRF = avšenebulvart
+შენდება	აშენებულხართ	V;2;PL;IND;PRF = ašenebulxart
+შენდება	აშენებულან	V;3;PL;IND;PRF = ašenebulan
+
+
+Screeve #10:
+შენდება	ავშენებულიყავი	V;1;SG;IND;PST;PRF = avšenebuliq'avi
+შენდება	აშენებულიყავი	V;2;SG;IND;PST;PRF = ašenebuliq'avi
+შენდება	აშენებულიყო	V;3;SG;IND;PST;PRF = ašenebuliq'o
+შენდება	ავშენებულიყავით	V;1;PL;IND;PST;PRF = avšenebuliq'avit
+შენდება	აშენებულიყავით	V;2;PL;IND;PST;PRF = ašenebuliq'avit
+შენდება	აშენებულიყვნენ	V;3;PL;IND;PST;PRF = ašenebuliq'vnen
+
+
+Screeve #11:
+შენდება	ავშენებულიყო	V;1;SG;SBJV;PRF = avšenebuliq'o
+შენდება	აშენებულიყო	V;2;SG;SBJV;PRF = ašenebuliq'o
+შენდება	აშენებულიყოს	V;3;SG;SBJV;PRF = ašenebuliq'os
+შენდება	ავშენებულიყოთ	V;1;PL;SBJV;PRF = avšenebuliq'ot
+შენდება	აშენებულიყოთ	V;2;PL;SBJV;PRF = ašenebuliq'ot
+შენდება	აშენებულიყონ	V;3;PL;SBJV;PRF = ašenebuliq'on
+
+
+შენდება	აშენება	V;V.MSDR;PRF

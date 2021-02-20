@@ -1,0 +1,109 @@
+#9 - იხრჩობა - choke:
+Screeve #1:
+იხრჩობა	ვიხრჩობი	V;1;SG;IND;PRS = vixrčobi
+იხრჩობა	იხრჩობი	V;2;SG;IND;PRS = ixrčobi
+იხრჩობა	იხრჩობა	V;3;SG;IND;PRS = ixrčoba
+იხრჩობა	ვიხრჩობით	V;1;PL;IND;PRS = vixrčobit
+იხრჩობა	იხრჩობით	V;2;PL;IND;PRS = ixrčobit
+იხრჩობა	იხრჩობიან	V;3;PL;IND;PRS = ixrčobian
+
+
+Screeve #2:
+იხრჩობა	ვიხრჩობოდი	V;1;SG;IND;IPFV = vixrčobodi
+იხრჩობა	იხრჩობოდი	V;2;SG;IND;IPFV = ixrčobodi
+იხრჩობა	იხრჩობოდა	V;3;SG;IND;IPFV = ixrčoboda
+იხრჩობა	ვიხრჩობოდით	V;1;PL;IND;IPFV = vixrčobodit
+იხრჩობა	იხრჩობოდით	V;2;PL;IND;IPFV = ixrčobodit
+იხრჩობა	იხრჩობოდნენ	V;3;PL;IND;IPFV = ixrčobodnen
+
+
+Screeve #3:
+იხრჩობა	ვიხრჩობოდე	V;1;SG;SBJV;PRS = vixrčobode
+იხრჩობა	იხრჩობოდე	V;2;SG;SBJV;PRS = ixrčobode
+იხრჩობა	იხრჩობოდეს	V;3;SG;SBJV;PRS = ixrčobodes
+იხრჩობა	ვიხრჩობოდეთ	V;1;PL;SBJV;PRS = vixrčobodet
+იხრჩობა	იხრჩობოდეთ	V;2;PL;SBJV;PRS = ixrčobodet
+იხრჩობა	იხრჩობოდნენ	V;3;PL;SBJV;PRS = ixrčobodnen
+
+
+Screeve #4:
+იხრჩობა	დავიხრჩობი	V;1;SG;IND;FUT = davixrčobi
+იხრჩობა	დაიხრჩობი	V;2;SG;IND;FUT = daixrčobi
+იხრჩობა	დაიხრჩობა	V;3;SG;IND;FUT = daixrčoba
+იხრჩობა	დავიხრჩობით	V;1;PL;IND;FUT = davixrčobit
+იხრჩობა	დაიხრჩობით	V;2;PL;IND;FUT = daixrčobit
+იხრჩობა	დაიხრჩობიან	V;3;PL;IND;FUT = daixrčobian
+
+
+Screeve #5:
+იხრჩობა	დავიხრჩობოდი	V;1;SG;COND = davixrčobodi
+იხრჩობა	დაიხრჩობოდი	V;2;SG;COND = daixrčobodi
+იხრჩობა	დაიხრჩობოდა	V;3;SG;COND = daixrčoboda
+იხრჩობა	დავიხრჩობოდით	V;1;PL;COND = davixrčobodit
+იხრჩობა	დაიხრჩობოდით	V;2;PL;COND = daixrčobodit
+იხრჩობა	დაიხრჩობოდნენ	V;3;PL;COND = daixrčobodnen
+
+
+Screeve #6:
+იხრჩობა	დავიხრჩობოდე	V;1;SG;SBJV;FUT = davixrčobode
+იხრჩობა	დაიხრჩობოდე	V;2;SG;SBJV;FUT = daixrčobode
+იხრჩობა	დაიხრჩობოდეს	V;3;SG;SBJV;FUT = daixrčobodes
+იხრჩობა	დავიხრჩობოდეთ	V;1;PL;SBJV;FUT = davixrčobodet
+იხრჩობა	დაიხრჩობოდეთ	V;2;PL;SBJV;FUT = daixrčobodet
+იხრჩობა	დაიხრჩობოდნენ	V;3;PL;SBJV;FUT = daixrčobodnen
+
+
+Screeve #7:
+იხრჩობა	დავიხრჩე	V;1;SG;IND;PST;PFV = davixrče
+იხრჩობა	დაიხრჩე	V;2;SG;IND;PST;PFV = daixrče
+იხრჩობა	დაიხრჩო	V;3;SG;IND;PST;PFV = daixrčo
+იხრჩობა	დავიხრჩეთ	V;1;PL;IND;PST;PFV = davixrčet
+იხრჩობა	დაიხრჩეთ	V;2;PL;IND;PST;PFV = daixrčet
+იხრჩობა	დაიხრჩნენ	V;3;PL;IND;PST;PFV = daixrčnen
+
+იხრჩობა	დაიხრჩე	V;2;SG;IMP = daixrče
+იხრჩობა	დაიხრჩეთ	V;2;PL;IMP = daixrčet
+
+
+Screeve #8:
+იხრჩობა	დავიხრჩო	V;1;SG;OPT = davixrčo
+იხრჩობა	დაიხრჩო	V;2;SG;OPT = daixrčo
+იხრჩობა	დაიხრჩოს	V;3;SG;OPT = daixrčos
+იხრჩობა	დავიხრჩოთ	V;1;PL;OPT = davixrčot
+იხრჩობა	დაიხრჩოთ	V;2;PL;OPT = daixrčot
+იხრჩობა	დაიხრჩონ	V;3;PL;OPT = daixrčon
+
+იხრჩობა	დავიხრჩოთ	V;1;PL;IMP = davixrčot
+იხრჩობა	დაიხრჩოს	V;3;SG;IMP = daixrčos
+იხრჩობა	დაიხრჩონ	V;3;PL;IMP = daixrčon
+
+
+Screeve #9:
+იხრჩობა	დავხრჩობილვარ	V;1;SG;IND;PRF = davxrčobilvar
+იხრჩობა	დახრჩობილხარ	V;2;SG;IND;PRF = daxrčobilxar
+იხრჩობა	დახრჩობილა	V;3;SG;IND;PRF = daxrčobila
+იხრჩობა	დავხრჩობილვართ	V;1;PL;IND;PRF = davxrčobilvart
+იხრჩობა	დახრჩობილხართ	V;2;PL;IND;PRF = daxrčobilxart
+იხრჩობა	დახრჩობილან	V;3;PL;IND;PRF = daxrčobilan
+
+
+Screeve #10:
+იხრჩობა	დავხრჩობილიყავი	V;1;SG;IND;PST;PRF = davxrčobiliq'avi
+იხრჩობა	დახრჩობილიყავი	V;2;SG;IND;PST;PRF = daxrčobiliq'avi
+იხრჩობა	დახრჩობილიყო	V;3;SG;IND;PST;PRF = daxrčobiliq'o
+იხრჩობა	დავხრჩობილიყავით	V;1;PL;IND;PST;PRF = davxrčobiliq'avit
+იხრჩობა	დახრჩობილიყავით	V;2;PL;IND;PST;PRF = daxrčobiliq'avit
+იხრჩობა	დახრჩობილიყვნენ	V;3;PL;IND;PST;PRF = daxrčobiliq'vnen
+
+
+Screeve #11:
+იხრჩობა	დავხრჩობილიყო	V;1;SG;SBJV;PRF = davxrčobiliq'o
+იხრჩობა	დახრჩობილიყო	V;2;SG;SBJV;PRF = daxrčobiliq'o
+იხრჩობა	დახრჩობილიყოს	V;3;SG;SBJV;PRF = daxrčobiliq'os
+იხრჩობა	დავხრჩობილიყოთ	V;1;PL;SBJV;PRF = davxrčobiliq'ot
+იხრჩობა	დახრჩობილიყოთ	V;2;PL;SBJV;PRF = daxrčobiliq'ot
+იხრჩობა	დახრჩობილიყონ	V;3;PL;SBJV;PRF = daxrčobiliq'on
+
+
+იხრჩობა	დახრჩობა	V;V.MSDR;PRF
+იხრჩობა	ხრჩობა	V;V.MSDR;IPFV

@@ -1,0 +1,109 @@
+#19 - ელოდება - wait_tv:
+Screeve #1:
+ელოდება	ველოდები	V;1;SG;IND;PRS = velodebi
+ელოდება	ელოდები	V;2;SG;IND;PRS = elodebi
+ელოდება	ელოდება	V;3;SG;IND;PRS = elodeba
+ელოდება	ველოდებით	V;1;PL;IND;PRS = velodebit
+ელოდება	ელოდებით	V;2;PL;IND;PRS = elodebit
+ელოდება	ელოდებიან	V;3;PL;IND;PRS = elodebian
+
+
+Screeve #2:
+ელოდება	ველოდებოდი	V;1;SG;IND;IPFV = velodebodi
+ელოდება	ელოდებოდი	V;2;SG;IND;IPFV = elodebodi
+ელოდება	ელოდებოდა	V;3;SG;IND;IPFV = elodeboda
+ელოდება	ველოდებოდით	V;1;PL;IND;IPFV = velodebodit
+ელოდება	ელოდებოდით	V;2;PL;IND;IPFV = elodebodit
+ელოდება	ელოდებოდნენ	V;3;PL;IND;IPFV = elodebodnen
+
+
+Screeve #3:
+ელოდება	ველოდებოდე	V;1;SG;SBJV;PRS = velodebode
+ელოდება	ელოდებოდე	V;2;SG;SBJV;PRS = elodebode
+ელოდება	ელოდებოდეს	V;3;SG;SBJV;PRS = elodebodes
+ელოდება	ველოდებოდეთ	V;1;PL;SBJV;PRS = velodebodet
+ელოდება	ელოდებოდეთ	V;2;PL;SBJV;PRS = elodebodet
+ელოდება	ელოდებოდნენ	V;3;PL;SBJV;PRS = elodebodnen
+
+
+Screeve #4:
+ელოდება	დაველოდები	V;1;SG;IND;FUT = davelodebi
+ელოდება	დაელოდები	V;2;SG;IND;FUT = daelodebi
+ელოდება	დაელოდება	V;3;SG;IND;FUT = daelodeba
+ელოდება	დაველოდებით	V;1;PL;IND;FUT = davelodebit
+ელოდება	დაელოდებით	V;2;PL;IND;FUT = daelodebit
+ელოდება	დაელოდებიან	V;3;PL;IND;FUT = daelodebian
+
+
+Screeve #5:
+ელოდება	დაველოდებოდი	V;1;SG;COND = davelodebodi
+ელოდება	დაელოდებოდი	V;2;SG;COND = daelodebodi
+ელოდება	დაელოდებოდა	V;3;SG;COND = daelodeboda
+ელოდება	დაველოდებოდით	V;1;PL;COND = davelodebodit
+ელოდება	დაელოდებოდით	V;2;PL;COND = daelodebodit
+ელოდება	დაელოდებოდნენ	V;3;PL;COND = daelodebodnen
+
+
+Screeve #6:
+ელოდება	დაველოდებოდე	V;1;SG;SBJV;FUT = davelodebode
+ელოდება	დაელოდებოდე	V;2;SG;SBJV;FUT = daelodebode
+ელოდება	დაელოდებოდეს	V;3;SG;SBJV;FUT = daelodebodes
+ელოდება	დაველოდებოდეთ	V;1;PL;SBJV;FUT = davelodebodet
+ელოდება	დაელოდებოდეთ	V;2;PL;SBJV;FUT = daelodebodet
+ელოდება	დაელოდებოდნენ	V;3;PL;SBJV;FUT = daelodebodnen
+
+
+Screeve #7:
+ელოდება	დაველოდე	V;1;SG;IND;PST;PFV = davelode
+ელოდება	დაელოდე	V;2;SG;IND;PST;PFV = daelode
+ელოდება	დაელოდა	V;3;SG;IND;PST;PFV = daeloda
+ელოდება	დაველოდეთ	V;1;PL;IND;PST;PFV = davelodet
+ელოდება	დაელოდეთ	V;2;PL;IND;PST;PFV = daelodet
+ელოდება	დაელოდნენ	V;3;PL;IND;PST;PFV = daelodnen
+
+ელოდება	დაელოდე	V;2;SG;IMP = daelode
+ელოდება	დაელოდეთ	V;2;PL;IMP = daelodet
+
+
+Screeve #8:
+ელოდება	დაველოდო	V;1;SG;OPT = davelodo
+ელოდება	დაელოდო	V;2;SG;OPT = daelodo
+ელოდება	დაელოდოს	V;3;SG;OPT = daelodos
+ელოდება	დაველოდოთ	V;1;PL;OPT = davelodot
+ელოდება	დაელოდოთ	V;2;PL;OPT = daelodot
+ელოდება	დაელოდონ	V;3;PL;OPT = daelodon
+
+ელოდება	დაველოდოთ	V;1;PL;IMP = davelodot
+ელოდება	დაელოდოს	V;3;SG;IMP = daelodos
+ელოდება	დაელოდონ	V;3;PL;IMP = daelodon
+
+
+Screeve #9:
+ელოდება	დავლოდებულვარ	V;1;SG;IND;PRF = davlodebulvar
+ელოდება	დალოდებულხარ	V;2;SG;IND;PRF = dalodebulxar
+ელოდება	დალოდებულა	V;3;SG;IND;PRF = dalodebula
+ელოდება	დავლოდებულვართ	V;1;PL;IND;PRF = davlodebulvart
+ელოდება	დალოდებულხართ	V;2;PL;IND;PRF = dalodebulxart
+ელოდება	დალოდებულან	V;3;PL;IND;PRF = dalodebulan
+
+
+Screeve #10:
+ელოდება	დავლოდებულიყავი	V;1;SG;IND;PST;PRF = davlodebuliq'avi
+ელოდება	დალოდებულიყავი	V;2;SG;IND;PST;PRF = dalodebuliq'avi
+ელოდება	დალოდებულიყო	V;3;SG;IND;PST;PRF = dalodebuliq'o
+ელოდება	დავლოდებულიყავით	V;1;PL;IND;PST;PRF = davlodebuliq'avit
+ელოდება	დალოდებულიყავით	V;2;PL;IND;PST;PRF = dalodebuliq'avit
+ელოდება	დალოდებულიყვნენ	V;3;PL;IND;PST;PRF = dalodebuliq'vnen
+
+
+Screeve #11:
+ელოდება	დავლოდებულიყო	V;1;SG;SBJV;PRF = davlodebuliq'o
+ელოდება	დალოდებულიყო	V;2;SG;SBJV;PRF = dalodebuliq'o
+ელოდება	დალოდებულიყოს	V;3;SG;SBJV;PRF = dalodebuliq'os
+ელოდება	დავლოდებულიყოთ	V;1;PL;SBJV;PRF = davlodebuliq'ot
+ელოდება	დალოდებულიყოთ	V;2;PL;SBJV;PRF = dalodebuliq'ot
+ელოდება	დალოდებულიყონ	V;3;PL;SBJV;PRF = dalodebuliq'on
+
+
+ელოდება	დალოდება	V;V.MSDR;PRF
+ელოდება	ლოდინი	V;V.MSDR;IPFV

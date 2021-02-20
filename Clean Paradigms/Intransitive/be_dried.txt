@@ -1,0 +1,108 @@
+#20 - ხმება - be_dried:
+Screeve #1:
+ხმება	ვხმები	V;1;SG;IND;PRS = vxmebi
+ხმება	ხმები	V;2;SG;IND;PRS = xmebi
+ხმება	ხმება	V;3;SG;IND;PRS = xmeba
+ხმება	ვხმებით	V;1;PL;IND;PRS = vxmebit
+ხმება	ხმებით	V;2;PL;IND;PRS = xmebit
+ხმება	ხმებიან	V;3;PL;IND;PRS = xmebian
+
+
+Screeve #2:
+ხმება	ვხმებოდი	V;1;SG;IND;IPFV = vxmebodi
+ხმება	ხმებოდი	V;2;SG;IND;IPFV = xmebodi
+ხმება	ხმებოდა	V;3;SG;IND;IPFV = xmeboda
+ხმება	ვხმებოდით	V;1;PL;IND;IPFV = vxmebodit
+ხმება	ხმებოდით	V;2;PL;IND;IPFV = xmebodit
+ხმება	ხმებოდნენ	V;3;PL;IND;IPFV = xmebodnen
+
+
+Screeve #3:
+ხმება	ვხმებოდე	V;1;SG;SBJV;PRS = vxmebode
+ხმება	ხმებოდე	V;2;SG;SBJV;PRS = xmebode
+ხმება	ხმებოდეს	V;3;SG;SBJV;PRS = xmebodes
+ხმება	ვხმებოდეთ	V;1;PL;SBJV;PRS = vxmebodet
+ხმება	ხმებოდეთ	V;2;PL;SBJV;PRS = xmebodet
+ხმება	ხმებოდნენ	V;3;PL;SBJV;PRS = xmebodnen
+
+
+Screeve #4:
+ხმება	გავხმები	V;1;SG;IND;FUT = gavxmebi
+ხმება	გახმები	V;2;SG;IND;FUT = gaxmebi
+ხმება	გახმება	V;3;SG;IND;FUT = gaxmeba
+ხმება	გავხმებით	V;1;PL;IND;FUT = gavxmebit
+ხმება	გახმებით	V;2;PL;IND;FUT = gaxmebit
+ხმება	გახმებიან	V;3;PL;IND;FUT = gaxmebian
+
+
+Screeve #5:
+ხმება	გავხმებოდი	V;1;SG;COND = gavxmebodi
+ხმება	გახმებოდი	V;2;SG;COND = gaxmebodi
+ხმება	გახმებოდა	V;3;SG;COND = gaxmeboda
+ხმება	გავხმებოდით	V;1;PL;COND = gavxmebodit
+ხმება	გახმებოდით	V;2;PL;COND = gaxmebodit
+ხმება	გახმებოდნენ	V;3;PL;COND = gaxmebodnen
+
+
+Screeve #6:
+ხმება	გავხმებოდე	V;1;SG;SBJV;FUT = gavxmebode
+ხმება	გახმებოდე	V;2;SG;SBJV;FUT = gaxmebode
+ხმება	გახმებოდეს	V;3;SG;SBJV;FUT = gaxmebodes
+ხმება	გავხმებოდეთ	V;1;PL;SBJV;FUT = gavxmebodet
+ხმება	გახმებოდეთ	V;2;PL;SBJV;FUT = gaxmebodet
+ხმება	გახმებოდნენ	V;3;PL;SBJV;FUT = gaxmebodnen
+
+
+Screeve #7:
+ხმება	გავხმი	V;1;SG;IND;PST;PFV = gavxmi
+ხმება	გახმი	V;2;SG;IND;PST;PFV = gaxmi
+ხმება	გახმა	V;3;SG;IND;PST;PFV = gaxma
+ხმება	გავხმით	V;1;PL;IND;PST;PFV = gavxmit
+ხმება	გახმით	V;2;PL;IND;PST;PFV = gaxmit
+ხმება	გახმნენ	V;3;PL;IND;PST;PFV = gaxmnen
+
+ხმება	გახმი	V;2;SG;IMP = gaxmi
+ხმება	გახმით	V;2;PL;IMP = gaxmit
+
+
+Screeve #8:
+ხმება	გავხმე	V;1;SG;OPT = gavxme
+ხმება	გახმე	V;2;SG;OPT = gaxme
+ხმება	გახმეს	V;3;SG;OPT = gaxmes
+ხმება	გავხმეთ	V;1;PL;OPT = gavxmet
+ხმება	გახმეთ	V;2;PL;OPT = gaxmet
+ხმება	გახმენ	V;3;PL;OPT = gaxmen
+
+ხმება	გავხმეთ	V;1;PL;IMP = gavxmet
+ხმება	გახმეს	V;3;SG;IMP = gaxmes
+ხმება	გახმენ	V;3;PL;IMP = gaxmen
+
+
+Screeve #9:
+ხმება	გავმხმარვარ	V;1;SG;IND;PRF = gavmxmarvar
+ხმება	გამხმარხარ	V;2;SG;IND;PRF = gamxmarxar
+ხმება	გამხმარა	V;3;SG;IND;PRF = gamxmara
+ხმება	გავმხმარვართ	V;1;PL;IND;PRF = gavmxmarvart
+ხმება	გამხმარხართ	V;2;PL;IND;PRF = gamxmarxart
+ხმება	გამხმარან	V;3;PL;IND;PRF = gamxmaran
+
+
+Screeve #10:
+ხმება	გავმხმარიყავი	V;1;SG;IND;PST;PRF = gavmxmariq'avi
+ხმება	გამხმარიყავი	V;2;SG;IND;PST;PRF = gamxmariq'avi
+ხმება	გამხმარიყო	V;3;SG;IND;PST;PRF = gamxmariq'o
+ხმება	გავმხმარიყავით	V;1;PL;IND;PST;PRF = gavmxmariq'avit
+ხმება	გამხმარიყავით	V;2;PL;IND;PST;PRF = gamxmariq'avit
+ხმება	გამხმარიყვნენ	V;3;PL;IND;PST;PRF = gamxmariq'vnen
+
+
+Screeve #11:
+ხმება	გავმხმარიყო	V;1;SG;SBJV;PRF = gavmxmariq'o
+ხმება	გამხმარიყო	V;2;SG;SBJV;PRF = gamxmariq'o
+ხმება	გამხმარიყოს	V;3;SG;SBJV;PRF = gamxmariq'os
+ხმება	გავმხმარიყოთ	V;1;PL;SBJV;PRF = gavmxmariq'ot
+ხმება	გამხმარიყოთ	V;2;PL;SBJV;PRF = gamxmariq'ot
+ხმება	გამხმარიყონ	V;3;PL;SBJV;PRF = gamxmariq'on
+
+
+ხმება	გახმობა	V;V.MSDR;PRF

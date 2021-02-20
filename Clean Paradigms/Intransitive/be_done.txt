@@ -1,0 +1,108 @@
+#2 - კეთდება - be_done:
+Screeve #1:
+კეთდება	ვკეთდები	V;1;SG;IND;PRS = vk'etdebi
+კეთდება	კეთდები	V;2;SG;IND;PRS = k'etdebi
+კეთდება	კეთდება	V;3;SG;IND;PRS = k'etdeba
+კეთდება	ვკეთდებით	V;1;PL;IND;PRS = vk'etdebit
+კეთდება	კეთდებით	V;2;PL;IND;PRS = k'etdebit
+კეთდება	კეთდებიან	V;3;PL;IND;PRS = k'etdebian
+
+
+Screeve #2:
+კეთდება	ვკეთდებოდი	V;1;SG;IND;IPFV = vk'etdebodi
+კეთდება	კეთდებოდი	V;2;SG;IND;IPFV = k'etdebodi
+კეთდება	კეთდებოდა	V;3;SG;IND;IPFV = k'etdeboda
+კეთდება	ვკეთდებოდით	V;1;PL;IND;IPFV = vk'etdebodit
+კეთდება	კეთდებოდით	V;2;PL;IND;IPFV = k'etdebodit
+კეთდება	კეთდებოდნენ	V;3;PL;IND;IPFV = k'etdebodnen
+
+
+Screeve #3:
+კეთდება	ვკეთდებოდე	V;1;SG;SBJV;PRS = vk'etdebode
+კეთდება	კეთდებოდე	V;2;SG;SBJV;PRS = k'etdebode
+კეთდება	კეთდებოდეს	V;3;SG;SBJV;PRS = k'etdebodes
+კეთდება	ვკეთდებოდეთ	V;1;PL;SBJV;PRS = vk'etdebodet
+კეთდება	კეთდებოდეთ	V;2;PL;SBJV;PRS = k'etdebodet
+კეთდება	კეთდებოდნენ	V;3;PL;SBJV;PRS = k'etdebodnen
+
+
+Screeve #4:
+კეთდება	გავკეთდები	V;1;SG;IND;FUT = gavk'etdebi
+კეთდება	გაკეთდები	V;2;SG;IND;FUT = gak'etdebi
+კეთდება	გაკეთდება	V;3;SG;IND;FUT = gak'etdeba
+კეთდება	გავკეთდებით	V;1;PL;IND;FUT = gavk'etdebit
+კეთდება	გაკეთდებით	V;2;PL;IND;FUT = gak'etdebit
+კეთდება	გაკეთდებიან	V;3;PL;IND;FUT = gak'etdebian
+
+
+Screeve #5:
+კეთდება	გავკეთდებოდი	V;1;SG;COND = gavk'etdebodi
+კეთდება	გაკეთდებოდი	V;2;SG;COND = gak'etdebodi
+კეთდება	გაკეთდებოდა	V;3;SG;COND = gak'etdeboda
+კეთდება	გავკეთდებოდით	V;1;PL;COND = gavk'etdebodit
+კეთდება	გაკეთდებოდით	V;2;PL;COND = gak'etdebodit
+კეთდება	გაკეთდებოდნენ	V;3;PL;COND = gak'etdebodnen
+
+
+Screeve #6:
+კეთდება	გავკეთდებოდე	V;1;SG;SBJV;FUT = gavk'etdebode
+კეთდება	გაკეთდებოდე	V;2;SG;SBJV;FUT = gak'etdebode
+კეთდება	გაკეთდებოდეს	V;3;SG;SBJV;FUT = gak'etdebodes
+კეთდება	გავკეთდებოდეთ	V;1;PL;SBJV;FUT = gavk'etdebodet
+კეთდება	გაკეთდებოდეთ	V;2;PL;SBJV;FUT = gak'etdebodet
+კეთდება	გაკეთდებოდნენ	V;3;PL;SBJV;FUT = gak'etdebodnen
+
+
+Screeve #7:
+კეთდება	გავკეთდი	V;1;SG;IND;PST;PFV = gavk'etdi
+კეთდება	გაკეთდი	V;2;SG;IND;PST;PFV = gak'etdi
+კეთდება	გაკეთდა	V;3;SG;IND;PST;PFV = gak'etda
+კეთდება	გავკეთდით	V;1;PL;IND;PST;PFV = gavk'etdit
+კეთდება	გაკეთდით	V;2;PL;IND;PST;PFV = gak'etdit
+კეთდება	გაკეთდნენ	V;3;PL;IND;PST;PFV = gak'etdnen
+
+კეთდება	გაკეთდი	V;2;SG;IMP = gak'etdi
+კეთდება	გაკეთდით	V;2;PL;IMP = gak'etdit
+
+
+Screeve #8:
+კეთდება	გავკეთდე	V;1;SG;OPT = gavk'etde
+კეთდება	გაკეთდე	V;2;SG;OPT = gak'etde
+კეთდება	გაკეთდეს	V;3;SG;OPT = gak'etdes
+კეთდება	გავკეთდეთ	V;1;PL;OPT = gavk'etdet
+კეთდება	გაკეთდეთ	V;2;PL;OPT = gak'etdet
+კეთდება	გაკეთდნენ	V;3;PL;OPT = gak'etdnen
+
+კეთდება	გავკეთდეთ	V;1;PL;IMP = gavk'etdet
+კეთდება	გაკეთდეს	V;3;SG;IMP = gak'etdes
+კეთდება	გაკეთდნენ	V;3;PL;IMP = gak'etdnen
+
+
+Screeve #9:
+კეთდება	გავკეთებულვარ	V;1;SG;IND;PRF = gavk'etebulvar
+კეთდება	გაკეთებულხარ	V;2;SG;IND;PRF = gak'etebulxar
+კეთდება	გაკეთებულა	V;3;SG;IND;PRF = gak'etebula
+კეთდება	გავკეთებულვართ	V;1;PL;IND;PRF = gavk'etebulvart
+კეთდება	გაკეთებულხართ	V;2;PL;IND;PRF = gak'etebulxart
+კეთდება	გაკეთებულან	V;3;PL;IND;PRF = gak'etebulan
+
+
+Screeve #10:
+კეთდება	გავკეთებულიყავი	V;1;SG;IND;PST;PRF = gavk'etebuliq'avi
+კეთდება	გაკეთებულიყავი	V;2;SG;IND;PST;PRF = gak'etebuliq'avi
+კეთდება	გაკეთებულიყო	V;3;SG;IND;PST;PRF = gak'etebuliq'o
+კეთდება	გავკეთებულიყავით	V;1;PL;IND;PST;PRF = gavk'etebuliq'avit
+კეთდება	გაკეთებულიყავით	V;2;PL;IND;PST;PRF = gak'etebuliq'avit
+კეთდება	გაკეთებულიყვნენ	V;3;PL;IND;PST;PRF = gak'etebuliq'vnen
+
+
+Screeve #11:
+კეთდება	გავკეთებულიყო	V;1;SG;SBJV;PRF = gavk'etebuliq'o
+კეთდება	გაკეთებულიყო	V;2;SG;SBJV;PRF = gak'etebuliq'o
+კეთდება	გაკეთებულიყოს	V;3;SG;SBJV;PRF = gak'etebuliq'os
+კეთდება	გავკეთებულიყოთ	V;1;PL;SBJV;PRF = gavk'etebuliq'ot
+კეთდება	გაკეთებულიყოთ	V;2;PL;SBJV;PRF = gak'etebuliq'ot
+კეთდება	გაკეთებულიყონ	V;3;PL;SBJV;PRF = gak'etebuliq'on
+
+
+კეთდება	კეთება	V;V.MSDR;IPFV

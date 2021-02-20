@@ -1,0 +1,108 @@
+#15 - თეთრდება - be_whitened:
+Screeve #1:
+თეთრდება	ვთეთრდები	V;1;SG;IND;PRS = vtetrdebi
+თეთრდება	თეთრდები	V;2;SG;IND;PRS = tetrdebi
+თეთრდება	თეთრდება	V;3;SG;IND;PRS = tetrdeba
+თეთრდება	ვთეთრდებით	V;1;PL;IND;PRS = vtetrdebit
+თეთრდება	თეთრდებით	V;2;PL;IND;PRS = tetrdebit
+თეთრდება	თეთრდებიან	V;3;PL;IND;PRS = tetrdebian
+
+
+Screeve #2:
+თეთრდება	ვთეთრდებოდი	V;1;SG;IND;IPFV = vtetrdebodi
+თეთრდება	თეთრდებოდი	V;2;SG;IND;IPFV = tetrdebodi
+თეთრდება	თეთრდებოდა	V;3;SG;IND;IPFV = tetrdeboda
+თეთრდება	ვთეთრდებოდით	V;1;PL;IND;IPFV = vtetrdebodit
+თეთრდება	თეთრდებოდით	V;2;PL;IND;IPFV = tetrdebodit
+თეთრდება	თეთრდებოდნენ	V;3;PL;IND;IPFV = tetrdebodnen
+
+
+Screeve #3:
+თეთრდება	ვთეთრდებოდე	V;1;SG;SBJV;PRS = vtetrdebode
+თეთრდება	თეთრდებოდე	V;2;SG;SBJV;PRS = tetrdebode
+თეთრდება	თეთრდებოდეს	V;3;SG;SBJV;PRS = tetrdebodes
+თეთრდება	ვთეთრდებოდეთ	V;1;PL;SBJV;PRS = vtetrdebodet
+თეთრდება	თეთრდებოდეთ	V;2;PL;SBJV;PRS = tetrdebodet
+თეთრდება	თეთრდებოდნენ	V;3;PL;SBJV;PRS = tetrdebodnen
+
+
+Screeve #4:
+თეთრდება	გავთეთრდები	V;1;SG;IND;FUT = gavtetrdebi
+თეთრდება	გათეთრდები	V;2;SG;IND;FUT = gatetrdebi
+თეთრდება	გათეთრდება	V;3;SG;IND;FUT = gatetrdeba
+თეთრდება	გავთეთრდებით	V;1;PL;IND;FUT = gavtetrdebit
+თეთრდება	გათეთრდებით	V;2;PL;IND;FUT = gatetrdebit
+თეთრდება	გათეთრდებიან	V;3;PL;IND;FUT = gatetrdebian
+
+
+Screeve #5:
+თეთრდება	გავთეთრდებოდი	V;1;SG;COND = gavtetrdebodi
+თეთრდება	გათეთრდებოდი	V;2;SG;COND = gatetrdebodi
+თეთრდება	გათეთრდებოდა	V;3;SG;COND = gatetrdeboda
+თეთრდება	გავთეთრდებოდით	V;1;PL;COND = gavtetrdebodit
+თეთრდება	გათეთრდებოდით	V;2;PL;COND = gatetrdebodit
+თეთრდება	გათეთრდებოდნენ	V;3;PL;COND = gatetrdebodnen
+
+
+Screeve #6:
+თეთრდება	გავთეთრდებოდე	V;1;SG;SBJV;FUT = gavtetrdebode
+თეთრდება	გათეთრდებოდე	V;2;SG;SBJV;FUT = gatetrdebode
+თეთრდება	გათეთრდებოდეს	V;3;SG;SBJV;FUT = gatetrdebodes
+თეთრდება	გავთეთრდებოდეთ	V;1;PL;SBJV;FUT = gavtetrdebodet
+თეთრდება	გათეთრდებოდეთ	V;2;PL;SBJV;FUT = gatetrdebodet
+თეთრდება	გათეთრდებოდნენ	V;3;PL;SBJV;FUT = gatetrdebodnen
+
+
+Screeve #7:
+თეთრდება	გავთეთრდი	V;1;SG;IND;PST;PFV = gavtetrdi
+თეთრდება	გათეთრდი	V;2;SG;IND;PST;PFV = gatetrdi
+თეთრდება	გათეთრდა	V;3;SG;IND;PST;PFV = gatetrda
+თეთრდება	გავთეთრდით	V;1;PL;IND;PST;PFV = gavtetrdit
+თეთრდება	გათეთრდით	V;2;PL;IND;PST;PFV = gatetrdit
+თეთრდება	გათეთრდნენ	V;3;PL;IND;PST;PFV = gatetrdnen
+
+თეთრდება	გათეთრდი	V;2;SG;IMP = gatetrdi
+თეთრდება	გათეთრდით	V;2;PL;IMP = gatetrdit
+
+
+Screeve #8:
+თეთრდება	გავთეთრდე	V;1;SG;OPT = gavtetrde
+თეთრდება	გათეთრდე	V;2;SG;OPT = gatetrde
+თეთრდება	გათეთრდეს	V;3;SG;OPT = gatetrdes
+თეთრდება	გავთეთრდეთ	V;1;PL;OPT = gavtetrdet
+თეთრდება	გათეთრდეთ	V;2;PL;OPT = gatetrdet
+თეთრდება	გათეთრდნენ	V;3;PL;OPT = gatetrdnen
+
+თეთრდება	გავთეთრდეთ	V;1;PL;IMP = gavtetrdet
+თეთრდება	გათეთრდეს	V;3;SG;IMP = gatetrdes
+თეთრდება	გათეთრდნენ	V;3;PL;IMP = gatetrdnen
+
+
+Screeve #9:
+თეთრდება	გავთეთრებულვარ	V;1;SG;IND;PRF = gavtetrebulvar
+თეთრდება	გათეთრებულხარ	V;2;SG;IND;PRF = gatetrebulxar
+თეთრდება	გათეთრებულა	V;3;SG;IND;PRF = gatetrebula
+თეთრდება	გავთეთრებულვართ	V;1;PL;IND;PRF = gavtetrebulvart
+თეთრდება	გათეთრებულხართ	V;2;PL;IND;PRF = gatetrebulxart
+თეთრდება	გათეთრებულან	V;3;PL;IND;PRF = gatetrebulan
+
+
+Screeve #10:
+თეთრდება	გავთეთრებულიყავი	V;1;SG;IND;PST;PRF = gavtetrebuliq'avi
+თეთრდება	გათეთრებულიყავი	V;2;SG;IND;PST;PRF = gatetrebuliq'avi
+თეთრდება	გათეთრებულიყო	V;3;SG;IND;PST;PRF = gatetrebuliq'o
+თეთრდება	გავთეთრებულიყავით	V;1;PL;IND;PST;PRF = gavtetrebuliq'avit
+თეთრდება	გათეთრებულიყავით	V;2;PL;IND;PST;PRF = gatetrebuliq'avit
+თეთრდება	გათეთრებულიყვნენ	V;3;PL;IND;PST;PRF = gatetrebuliq'vnen
+
+
+Screeve #11:
+თეთრდება	გავთეთრებულიყო	V;1;SG;SBJV;PRF = gavtetrebuliq'o
+თეთრდება	გათეთრებულიყო	V;2;SG;SBJV;PRF = gatetrebuliq'o
+თეთრდება	გათეთრებულიყოს	V;3;SG;SBJV;PRF = gatetrebuliq'os
+თეთრდება	გავთეთრებულიყოთ	V;1;PL;SBJV;PRF = gavtetrebuliq'ot
+თეთრდება	გათეთრებულიყოთ	V;2;PL;SBJV;PRF = gatetrebuliq'ot
+თეთრდება	გათეთრებულიყონ	V;3;PL;SBJV;PRF = gatetrebuliq'on
+
+
+თეთრდება	გათეთრა	V;V.MSDR;PRF

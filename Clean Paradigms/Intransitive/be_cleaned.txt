@@ -1,0 +1,108 @@
+#6 - იწმინდება - be_cleaned:
+Screeve #1:
+იწმინდება	ვიწმინდები	V;1;SG;IND;PRS = vic'mindebi
+იწმინდება	იწმინდები	V;2;SG;IND;PRS = ic'mindebi
+იწმინდება	იწმინდება	V;3;SG;IND;PRS = ic'mindeba
+იწმინდება	ვიწმინდებით	V;1;PL;IND;PRS = vic'mindebit
+იწმინდება	იწმინდებით	V;2;PL;IND;PRS = ic'mindebit
+იწმინდება	იწმინდებიან	V;3;PL;IND;PRS = ic'mindebian
+
+
+Screeve #2:
+იწმინდება	ვიწმინდებოდი	V;1;SG;IND;IPFV = vic'mindebodi
+იწმინდება	იწმინდებოდი	V;2;SG;IND;IPFV = ic'mindebodi
+იწმინდება	იწმინდებოდა	V;3;SG;IND;IPFV = ic'mindeboda
+იწმინდება	ვიწმინდებოდით	V;1;PL;IND;IPFV = vic'mindebodit
+იწმინდება	იწმინდებოდით	V;2;PL;IND;IPFV = ic'mindebodit
+იწმინდება	იწმინდებოდნენ	V;3;PL;IND;IPFV = ic'mindebodnen
+
+
+Screeve #3:
+იწმინდება	ვიწმინდებოდე	V;1;SG;SBJV;PRS = vic'mindebode
+იწმინდება	იწმინდებოდე	V;2;SG;SBJV;PRS = ic'mindebode
+იწმინდება	იწმინდებოდეს	V;3;SG;SBJV;PRS = ic'mindebodes
+იწმინდება	ვიწმინდებოდეთ	V;1;PL;SBJV;PRS = vic'mindebodet
+იწმინდება	იწმინდებოდეთ	V;2;PL;SBJV;PRS = ic'mindebodet
+იწმინდება	იწმინდებოდნენ	V;3;PL;SBJV;PRS = ic'mindebodnen
+
+
+Screeve #4:
+იწმინდება	გავიწმინდები	V;1;SG;IND;FUT = gavic'mindebi
+იწმინდება	გაიწმინდები	V;2;SG;IND;FUT = gaic'mindebi
+იწმინდება	გაიწმინდება	V;3;SG;IND;FUT = gaic'mindeba
+იწმინდება	გავიწმინდებით	V;1;PL;IND;FUT = gavic'mindebit
+იწმინდება	გაიწმინდებით	V;2;PL;IND;FUT = gaic'mindebit
+იწმინდება	გაიწმინდებიან	V;3;PL;IND;FUT = gaic'mindebian
+
+
+Screeve #5:
+იწმინდება	გავიწმინდებოდი	V;1;SG;COND = gavic'mindebodi
+იწმინდება	გაიწმინდებოდი	V;2;SG;COND = gaic'mindebodi
+იწმინდება	გაიწმინდებოდა	V;3;SG;COND = gaic'mindeboda
+იწმინდება	გავიწმინდებოდით	V;1;PL;COND = gavic'mindebodit
+იწმინდება	გაიწმინდებოდით	V;2;PL;COND = gaic'mindebodit
+იწმინდება	გაიწმინდებოდნენ	V;3;PL;COND = gaic'mindebodnen
+
+
+Screeve #6:
+იწმინდება	გავიწმინდებოდე	V;1;SG;SBJV;FUT = gavic'mindebode
+იწმინდება	გაიწმინდებოდე	V;2;SG;SBJV;FUT = gaic'mindebode
+იწმინდება	გაიწმინდებოდეს	V;3;SG;SBJV;FUT = gaic'mindebodes
+იწმინდება	გავიწმინდებოდეთ	V;1;PL;SBJV;FUT = gavic'mindebodet
+იწმინდება	გაიწმინდებოდეთ	V;2;PL;SBJV;FUT = gaic'mindebodet
+იწმინდება	გაიწმინდებოდნენ	V;3;PL;SBJV;FUT = gaic'mindebodnen
+
+
+Screeve #7:
+იწმინდება	გავიწმინდე	V;1;SG;IND;PST;PFV = gavic'minde
+იწმინდება	გაიწმინდე	V;2;SG;IND;PST;PFV = gaic'minde
+იწმინდება	გაიწმინდა	V;3;SG;IND;PST;PFV = gaic'minda
+იწმინდება	გავიწმინდეთ	V;1;PL;IND;PST;PFV = gavic'mindet
+იწმინდება	გაიწმინდეთ	V;2;PL;IND;PST;PFV = gaic'mindet
+იწმინდება	გაიწმინდნენ	V;3;PL;IND;PST;PFV = gaic'mindnen
+
+იწმინდება	გაიწმინდე	V;2;SG;IMP = gaic'minde
+იწმინდება	გაიწმინდეთ	V;2;PL;IMP = gaic'mindet
+
+
+Screeve #8:
+იწმინდება	გავიწმინდო	V;1;SG;OPT = gavic'mindo
+იწმინდება	გაიწმინდო	V;2;SG;OPT = gaic'mindo
+იწმინდება	გაიწმინდოს	V;3;SG;OPT = gaic'mindos
+იწმინდება	გავიწმინდოთ	V;1;PL;OPT = gavic'mindot
+იწმინდება	გაიწმინდოთ	V;2;PL;OPT = gaic'mindot
+იწმინდება	გაიწმინდონ	V;3;PL;OPT = gaic'mindon
+
+იწმინდება	გავიწმინდოთ	V;1;PL;IMP = gavic'mindot
+იწმინდება	გაიწმინდოს	V;3;SG;IMP = gaic'mindos
+იწმინდება	გაიწმინდონ	V;3;PL;IMP = gaic'mindon
+
+
+Screeve #9:
+იწმინდება	გავწმენდილვარ	V;1;SG;IND;PRF = gavc'mendilvar
+იწმინდება	გაწმენდილხარ	V;2;SG;IND;PRF = gac'mendilxar
+იწმინდება	გაწმენდილა	V;3;SG;IND;PRF = gac'mendila
+იწმინდება	გავწმენდილვართ	V;1;PL;IND;PRF = gavc'mendilvart
+იწმინდება	გაწმენდილხართ	V;2;PL;IND;PRF = gac'mendilxart
+იწმინდება	გაწმენდილან	V;3;PL;IND;PRF = gac'mendilan
+
+
+Screeve #10:
+იწმინდება	გავწმენდილიყავი	V;1;SG;IND;PST;PRF = gavc'mendiliq'avi
+იწმინდება	გაწმენდილიყავი	V;2;SG;IND;PST;PRF = gac'mendiliq'avi
+იწმინდება	გაწმენდილიყო	V;3;SG;IND;PST;PRF = gac'mendiliq'o
+იწმინდება	გავწმენდილიყავით	V;1;PL;IND;PST;PRF = gavc'mendiliq'avit
+იწმინდება	გაწმენდილიყავით	V;2;PL;IND;PST;PRF = gac'mendiliq'avit
+იწმინდება	გაწმენდილიყვნენ	V;3;PL;IND;PST;PRF = gac'mendiliq'vnen
+
+
+Screeve #11:
+იწმინდება	გავწმენდილიყო	V;1;SG;SBJV;PRF = gavc'mendiliq'o
+იწმინდება	გაწმენდილიყო	V;2;SG;SBJV;PRF = gac'mendiliq'o
+იწმინდება	გაწმენდილიყოს	V;3;SG;SBJV;PRF = gac'mendiliq'os
+იწმინდება	გავწმენდილიყოთ	V;1;PL;SBJV;PRF = gavc'mendiliq'ot
+იწმინდება	გაწმენდილიყოთ	V;2;PL;SBJV;PRF = gac'mendiliq'ot
+იწმინდება	გაწმენდილიყონ	V;3;PL;SBJV;PRF = gac'mendiliq'on
+
+
+იწმინდება	წმინდება	V;V.MSDR;IPFV

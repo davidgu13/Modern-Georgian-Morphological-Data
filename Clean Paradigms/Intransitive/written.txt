@@ -1,0 +1,108 @@
+#5 - იწერება - written:
+Screeve #1:
+იწერება	ვიწერები	V;1;SG;IND;PRS = vic'erebi
+იწერება	იწერები	V;2;SG;IND;PRS = ic'erebi
+იწერება	იწერება	V;3;SG;IND;PRS = ic'ereba
+იწერება	ვიწერებით	V;1;PL;IND;PRS = vic'erebit
+იწერება	იწერებით	V;2;PL;IND;PRS = ic'erebit
+იწერება	იწერებიან	V;3;PL;IND;PRS = ic'erebian
+
+
+Screeve #2:
+იწერება	ვიწერებოდი	V;1;SG;IND;IPFV = vic'erebodi
+იწერება	იწერებოდი	V;2;SG;IND;IPFV = ic'erebodi
+იწერება	იწერებოდა	V;3;SG;IND;IPFV = ic'ereboda
+იწერება	ვიწერებოდით	V;1;PL;IND;IPFV = vic'erebodit
+იწერება	იწერებოდით	V;2;PL;IND;IPFV = ic'erebodit
+იწერება	იწერებოდნენ	V;3;PL;IND;IPFV = ic'erebodnen
+
+
+Screeve #3:
+იწერება	ვიწერებოდე	V;1;SG;SBJV;PRS = vic'erebode
+იწერება	იწერებოდე	V;2;SG;SBJV;PRS = ic'erebode
+იწერება	იწერებოდეს	V;3;SG;SBJV;PRS = ic'erebodes
+იწერება	ვიწერებოდეთ	V;1;PL;SBJV;PRS = vic'erebodet
+იწერება	იწერებოდეთ	V;2;PL;SBJV;PRS = ic'erebodet
+იწერება	იწერებოდნენ	V;3;PL;SBJV;PRS = ic'erebodnen
+
+
+Screeve #4:
+იწერება	დავიწერები	V;1;SG;IND;FUT = davic'erebi
+იწერება	დაიწერები	V;2;SG;IND;FUT = daic'erebi
+იწერება	დაიწერება	V;3;SG;IND;FUT = daic'ereba
+იწერება	დავიწერებით	V;1;PL;IND;FUT = davic'erebit
+იწერება	დაიწერებით	V;2;PL;IND;FUT = daic'erebit
+იწერება	დაიწერებიან	V;3;PL;IND;FUT = daic'erebian
+
+
+Screeve #5:
+იწერება	დავიწერებოდი	V;1;SG;COND = davic'erebodi
+იწერება	დაიწერებოდი	V;2;SG;COND = daic'erebodi
+იწერება	დაიწერებოდა	V;3;SG;COND = daic'ereboda
+იწერება	დავიწერებოდით	V;1;PL;COND = davic'erebodit
+იწერება	დაიწერებოდით	V;2;PL;COND = daic'erebodit
+იწერება	დაიწერებოდნენ	V;3;PL;COND = daic'erebodnen
+
+
+Screeve #6:
+იწერება	დავიწერებოდე	V;1;SG;SBJV;FUT = davic'erebode
+იწერება	დაიწერებოდე	V;2;SG;SBJV;FUT = daic'erebode
+იწერება	დაიწერებოდეს	V;3;SG;SBJV;FUT = daic'erebodes
+იწერება	დავიწერებოდეთ	V;1;PL;SBJV;FUT = davic'erebodet
+იწერება	დაიწერებოდეთ	V;2;PL;SBJV;FUT = daic'erebodet
+იწერება	დაიწერებოდნენ	V;3;PL;SBJV;FUT = daic'erebodnen
+
+
+Screeve #7:
+იწერება	დავიწერე	V;1;SG;IND;PST;PFV = davic'ere
+იწერება	დაიწერე	V;2;SG;IND;PST;PFV = daic'ere
+იწერება	დაიწერა	V;3;SG;IND;PST;PFV = daic'era
+იწერება	დავიწერეთ	V;1;PL;IND;PST;PFV = davic'eret
+იწერება	დაიწერეთ	V;2;PL;IND;PST;PFV = daic'eret
+იწერება	დაიწერნენ	V;3;PL;IND;PST;PFV = daic'ernen
+
+იწერება	დაიწერე	V;2;SG;IMP = daic'ere
+იწერება	დაიწერეთ	V;2;PL;IMP = daic'eret
+
+
+Screeve #8:
+იწერება	დავიწერო	V;1;SG;OPT = davic'ero
+იწერება	დაიწერო	V;2;SG;OPT = daic'ero
+იწერება	დაიწეროს	V;3;SG;OPT = daic'eros
+იწერება	დავიწეროთ	V;1;PL;OPT = davic'erot
+იწერება	დაიწეროთ	V;2;PL;OPT = daic'erot
+იწერება	დაიწერონ	V;3;PL;OPT = daic'eron
+
+იწერება	დავიწეროთ	V;1;PL;IMP = davic'erot
+იწერება	დაიწეროს	V;3;SG;IMP = daic'eros
+იწერება	დაიწერონ	V;3;PL;IMP = daic'eron
+
+
+Screeve #9:
+იწერება	დავწერილვარ	V;1;SG;IND;PRF = davc'erilvar
+იწერება	დაწერილხარ	V;2;SG;IND;PRF = dac'erilxar
+იწერება	დაწერილა	V;3;SG;IND;PRF = dac'erila
+იწერება	დავწერილვართ	V;1;PL;IND;PRF = davc'erilvart
+იწერება	დაწერილხართ	V;2;PL;IND;PRF = dac'erilxart
+იწერება	დაწერილან	V;3;PL;IND;PRF = dac'erilan
+
+
+Screeve #10:
+იწერება	დავწერილიყავი	V;1;SG;IND;PST;PRF = davc'eriliq'avi
+იწერება	დაწერილიყავი	V;2;SG;IND;PST;PRF = dac'eriliq'avi
+იწერება	დაწერილიყო	V;3;SG;IND;PST;PRF = dac'eriliq'o
+იწერება	დავწერილიყავით	V;1;PL;IND;PST;PRF = davc'eriliq'avit
+იწერება	დაწერილიყავით	V;2;PL;IND;PST;PRF = dac'eriliq'avit
+იწერება	დაწერილიყვნენ	V;3;PL;IND;PST;PRF = dac'eriliq'vnen
+
+
+Screeve #11:
+იწერება	დავწერილიყო	V;1;SG;SBJV;PRF = davc'eriliq'o
+იწერება	დაწერილიყო	V;2;SG;SBJV;PRF = dac'eriliq'o
+იწერება	დაწერილიყოს	V;3;SG;SBJV;PRF = dac'eriliq'os
+იწერება	დავწერილიყოთ	V;1;PL;SBJV;PRF = davc'eriliq'ot
+იწერება	დაწერილიყოთ	V;2;PL;SBJV;PRF = dac'eriliq'ot
+იწერება	დაწერილიყონ	V;3;PL;SBJV;PRF = dac'eriliq'on
+
+
+იწერება	დაწერა	V;V.MSDR;IPFV

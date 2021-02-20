@@ -1,0 +1,108 @@
+#13 - იჭმევა - eaten:
+Screeve #1:
+იჭმევა	ვიჭმევი	V;1;SG;IND;PRS = vič'mevi
+იჭმევა	იჭმევი	V;2;SG;IND;PRS = ič'mevi
+იჭმევა	იჭმევა	V;3;SG;IND;PRS = ič'meva
+იჭმევა	ვიჭმევით	V;1;PL;IND;PRS = vič'mevit
+იჭმევა	იჭმევით	V;2;PL;IND;PRS = ič'mevit
+იჭმევა	იჭმევიან	V;3;PL;IND;PRS = ič'mevian
+
+
+Screeve #2:
+იჭმევა	ვიჭმევოდი	V;1;SG;IND;IPFV = vič'mevodi
+იჭმევა	იჭმევოდი	V;2;SG;IND;IPFV = ič'mevodi
+იჭმევა	იჭმევოდა	V;3;SG;IND;IPFV = ič'mevoda
+იჭმევა	ვიჭმევოდით	V;1;PL;IND;IPFV = vič'mevodit
+იჭმევა	იჭმევოდით	V;2;PL;IND;IPFV = ič'mevodit
+იჭმევა	იჭმევოდნენ	V;3;PL;IND;IPFV = ič'mevodnen
+
+
+Screeve #3:
+იჭმევა	ვიჭმევოდე	V;1;SG;SBJV;PRS = vič'mevode
+იჭმევა	იჭმევოდე	V;2;SG;SBJV;PRS = ič'mevode
+იჭმევა	იჭმევოდეს	V;3;SG;SBJV;PRS = ič'mevodes
+იჭმევა	ვიჭმევოდეთ	V;1;PL;SBJV;PRS = vič'mevodet
+იჭმევა	იჭმევოდეთ	V;2;PL;SBJV;PRS = ič'mevodet
+იჭმევა	იჭმევოდნენ	V;3;PL;SBJV;PRS = ič'mevodnen
+
+
+Screeve #4:
+იჭმევა	შევიჭმევი	V;1;SG;IND;FUT = ševič'mevi
+იჭმევა	შეიჭმევი	V;2;SG;IND;FUT = šeič'mevi
+იჭმევა	შეიჭმევა	V;3;SG;IND;FUT = šeič'meva
+იჭმევა	შევიჭმევით	V;1;PL;IND;FUT = ševič'mevit
+იჭმევა	შეიჭმევით	V;2;PL;IND;FUT = šeič'mevit
+იჭმევა	შეიჭმევიან	V;3;PL;IND;FUT = šeič'mevian
+
+
+Screeve #5:
+იჭმევა	შევიჭმევოდი	V;1;SG;COND = ševič'mevodi
+იჭმევა	შეიჭმევოდი	V;2;SG;COND = šeič'mevodi
+იჭმევა	შეიჭმევოდა	V;3;SG;COND = šeič'mevoda
+იჭმევა	შევიჭმევოდით	V;1;PL;COND = ševič'mevodit
+იჭმევა	შეიჭმევოდით	V;2;PL;COND = šeič'mevodit
+იჭმევა	შეიჭმევოდნენ	V;3;PL;COND = šeič'mevodnen
+
+
+Screeve #6:
+იჭმევა	შევიჭმევოდე	V;1;SG;SBJV;FUT = ševič'mevode
+იჭმევა	შეიჭმევოდე	V;2;SG;SBJV;FUT = šeič'mevode
+იჭმევა	შეიჭმევოდეს	V;3;SG;SBJV;FUT = šeič'mevodes
+იჭმევა	შევიჭმევოდეთ	V;1;PL;SBJV;FUT = ševič'mevodet
+იჭმევა	შეიჭმევოდეთ	V;2;PL;SBJV;FUT = šeič'mevodet
+იჭმევა	შეიჭმევოდნენ	V;3;PL;SBJV;FUT = šeič'mevodnen
+
+
+Screeve #7:
+იჭმევა	შევიჭამე	V;1;SG;IND;PST;PFV = ševič'ame
+იჭმევა	შეიჭამე	V;2;SG;IND;PST;PFV = šeič'ame
+იჭმევა	შეიჭამა	V;3;SG;IND;PST;PFV = šeič'ama
+იჭმევა	შევიჭამეთ	V;1;PL;IND;PST;PFV = ševič'amet
+იჭმევა	შეიჭამეთ	V;2;PL;IND;PST;PFV = šeič'amet
+იჭმევა	შეიჭამნენ	V;3;PL;IND;PST;PFV = šeič'amnen
+
+იჭმევა	შეიჭამე	V;2;SG;IMP = šeič'ame
+იჭმევა	შეიჭამეთ	V;2;PL;IMP = šeič'amet
+
+
+Screeve #8:
+იჭმევა	შევიჭამო	V;1;SG;OPT = ševič'amo
+იჭმევა	შეიჭამო	V;2;SG;OPT = šeič'amo
+იჭმევა	შეიჭამოს	V;3;SG;OPT = šeič'amos
+იჭმევა	შევიჭამოთ	V;1;PL;OPT = ševič'amot
+იჭმევა	შეიჭამოთ	V;2;PL;OPT = šeič'amot
+იჭმევა	შეიჭამონ	V;3;PL;OPT = šeič'amon
+
+იჭმევა	შევიჭამოთ	V;1;PL;IMP = ševič'amot
+იჭმევა	შეიჭამოს	V;3;SG;IMP = šeič'amos
+იჭმევა	შეიჭამონ	V;3;PL;IMP = šeič'amon
+
+
+Screeve #9:
+იჭმევა	შევჭმულვარ	V;1;SG;IND;PRF = ševč'mulvar
+იჭმევა	შეჭმულხარ	V;2;SG;IND;PRF = šeč'mulxar
+იჭმევა	შეჭმულა	V;3;SG;IND;PRF = šeč'mula
+იჭმევა	შევჭმულვართ	V;1;PL;IND;PRF = ševč'mulvart
+იჭმევა	შეჭმულხართ	V;2;PL;IND;PRF = šeč'mulxart
+იჭმევა	შეჭმულან	V;3;PL;IND;PRF = šeč'mulan
+
+
+Screeve #10:
+იჭმევა	შევჭმულიყავი	V;1;SG;IND;PST;PRF = ševč'muliq'avi
+იჭმევა	შეჭმულიყავი	V;2;SG;IND;PST;PRF = šeč'muliq'avi
+იჭმევა	შეჭმულიყო	V;3;SG;IND;PST;PRF = šeč'muliq'o
+იჭმევა	შევჭმულიყავით	V;1;PL;IND;PST;PRF = ševč'muliq'avit
+იჭმევა	შეჭმულიყავით	V;2;PL;IND;PST;PRF = šeč'muliq'avit
+იჭმევა	შეჭმულიყვნენ	V;3;PL;IND;PST;PRF = šeč'muliq'vnen
+
+
+Screeve #11:
+იჭმევა	შევჭმულიყო	V;1;SG;SBJV;PRF = ševč'muliq'o
+იჭმევა	შეჭმულიყო	V;2;SG;SBJV;PRF = šeč'muliq'o
+იჭმევა	შეჭმულიყოს	V;3;SG;SBJV;PRF = šeč'muliq'os
+იჭმევა	შევჭმულიყოთ	V;1;PL;SBJV;PRF = ševč'muliq'ot
+იჭმევა	შეჭმულიყოთ	V;2;PL;SBJV;PRF = šeč'muliq'ot
+იჭმევა	შეჭმულიყონ	V;3;PL;SBJV;PRF = šeč'muliq'on
+
+
+იჭმევა	შეჭმა	V;V.MSDR;PRF

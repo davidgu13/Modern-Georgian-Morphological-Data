@@ -1,0 +1,109 @@
+#8 - იმალება - hide:
+Screeve #1:
+იმალება	ვიმალები	V;1;SG;IND;PRS = vimalebi
+იმალება	იმალები	V;2;SG;IND;PRS = imalebi
+იმალება	იმალება	V;3;SG;IND;PRS = imaleba
+იმალება	ვიმალებით	V;1;PL;IND;PRS = vimalebit
+იმალება	იმალებით	V;2;PL;IND;PRS = imalebit
+იმალება	იმალებიან	V;3;PL;IND;PRS = imalebian
+
+
+Screeve #2:
+იმალება	ვიმალებოდი	V;1;SG;IND;IPFV = vimalebodi
+იმალება	იმალებოდი	V;2;SG;IND;IPFV = imalebodi
+იმალება	იმალებოდა	V;3;SG;IND;IPFV = imaleboda
+იმალება	ვიმალებოდით	V;1;PL;IND;IPFV = vimalebodit
+იმალება	იმალებოდით	V;2;PL;IND;IPFV = imalebodit
+იმალება	იმალებოდნენ	V;3;PL;IND;IPFV = imalebodnen
+
+
+Screeve #3:
+იმალება	ვიმალებოდე	V;1;SG;SBJV;PRS = vimalebode
+იმალება	იმალებოდე	V;2;SG;SBJV;PRS = imalebode
+იმალება	იმალებოდეს	V;3;SG;SBJV;PRS = imalebodes
+იმალება	ვიმალებოდეთ	V;1;PL;SBJV;PRS = vimalebodet
+იმალება	იმალებოდეთ	V;2;PL;SBJV;PRS = imalebodet
+იმალება	იმალებოდნენ	V;3;PL;SBJV;PRS = imalebodnen
+
+
+Screeve #4:
+იმალება	დავიმალები	V;1;SG;IND;FUT = davimalebi
+იმალება	დაიმალები	V;2;SG;IND;FUT = daimalebi
+იმალება	დაიმალება	V;3;SG;IND;FUT = daimaleba
+იმალება	დავიმალებით	V;1;PL;IND;FUT = davimalebit
+იმალება	დაიმალებით	V;2;PL;IND;FUT = daimalebit
+იმალება	დაიმალებიან	V;3;PL;IND;FUT = daimalebian
+
+
+Screeve #5:
+იმალება	დავიმალებოდი	V;1;SG;COND = davimalebodi
+იმალება	დაიმალებოდი	V;2;SG;COND = daimalebodi
+იმალება	დაიმალებოდა	V;3;SG;COND = daimaleboda
+იმალება	დავიმალებოდით	V;1;PL;COND = davimalebodit
+იმალება	დაიმალებოდით	V;2;PL;COND = daimalebodit
+იმალება	დაიმალებოდნენ	V;3;PL;COND = daimalebodnen
+
+
+Screeve #6:
+იმალება	დავიმალებოდე	V;1;SG;SBJV;FUT = davimalebode
+იმალება	დაიმალებოდე	V;2;SG;SBJV;FUT = daimalebode
+იმალება	დაიმალებოდეს	V;3;SG;SBJV;FUT = daimalebodes
+იმალება	დავიმალებოდეთ	V;1;PL;SBJV;FUT = davimalebodet
+იმალება	დაიმალებოდეთ	V;2;PL;SBJV;FUT = daimalebodet
+იმალება	დაიმალებოდნენ	V;3;PL;SBJV;FUT = daimalebodnen
+
+
+Screeve #7:
+იმალება	დავიმალე	V;1;SG;IND;PST;PFV = davimale
+იმალება	დაიმალე	V;2;SG;IND;PST;PFV = daimale
+იმალება	დაიმალა	V;3;SG;IND;PST;PFV = daimala
+იმალება	დავიმალეთ	V;1;PL;IND;PST;PFV = davimalet
+იმალება	დაიმალეთ	V;2;PL;IND;PST;PFV = daimalet
+იმალება	დაიმალნენ	V;3;PL;IND;PST;PFV = daimalnen
+
+იმალება	დაიმალე	V;2;SG;IMP = daimale
+იმალება	დაიმალეთ	V;2;PL;IMP = daimalet
+
+
+Screeve #8:
+იმალება	დავიმალო	V;1;SG;OPT = davimalo
+იმალება	დაიმალო	V;2;SG;OPT = daimalo
+იმალება	დაიმალოს	V;3;SG;OPT = daimalos
+იმალება	დავიმალოთ	V;1;PL;OPT = davimalot
+იმალება	დაიმალოთ	V;2;PL;OPT = daimalot
+იმალება	დაიმალონ	V;3;PL;OPT = daimalon
+
+იმალება	დავიმალოთ	V;1;PL;IMP = davimalot
+იმალება	დაიმალოს	V;3;SG;IMP = daimalos
+იმალება	დაიმალონ	V;3;PL;IMP = daimalon
+
+
+Screeve #9:
+იმალება	დავმალულვარ	V;1;SG;IND;PRF = davmalulvar
+იმალება	დამალულხარ	V;2;SG;IND;PRF = damalulxar
+იმალება	დამალულა	V;3;SG;IND;PRF = damalula
+იმალება	დავმალულვართ	V;1;PL;IND;PRF = davmalulvart
+იმალება	დამალულხართ	V;2;PL;IND;PRF = damalulxart
+იმალება	დამალულან	V;3;PL;IND;PRF = damalulan
+
+
+Screeve #10:
+იმალება	დავმალულიყავი	V;1;SG;IND;PST;PRF = davmaluliq'avi
+იმალება	დამალულიყავი	V;2;SG;IND;PST;PRF = damaluliq'avi
+იმალება	დამალულიყო	V;3;SG;IND;PST;PRF = damaluliq'o
+იმალება	დავმალულიყავით	V;1;PL;IND;PST;PRF = davmaluliq'avit
+იმალება	დამალულიყავით	V;2;PL;IND;PST;PRF = damaluliq'avit
+იმალება	დამალულიყვნენ	V;3;PL;IND;PST;PRF = damaluliq'vnen
+
+
+Screeve #11:
+იმალება	დავმალულიყო	V;1;SG;SBJV;PRF = davmaluliq'o
+იმალება	დამალულიყო	V;2;SG;SBJV;PRF = damaluliq'o
+იმალება	დამალულიყოს	V;3;SG;SBJV;PRF = damaluliq'os
+იმალება	დავმალულიყოთ	V;1;PL;SBJV;PRF = davmaluliq'ot
+იმალება	დამალულიყოთ	V;2;PL;SBJV;PRF = damaluliq'ot
+იმალება	დამალულიყონ	V;3;PL;SBJV;PRF = damaluliq'on
+
+
+იმალება	დამალვა	V;V.MSDR;PRF
+იმალება	მალვა	V;V.MSDR;IPFV

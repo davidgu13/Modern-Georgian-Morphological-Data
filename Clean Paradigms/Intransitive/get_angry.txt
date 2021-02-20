@@ -1,0 +1,108 @@
+#22 - ბრაზდება - get_angry:
+Screeve #1:
+ბრაზდება	ვბრაზდები	V;1;SG;IND;PRS = vbrazdebi
+ბრაზდება	ბრაზდები	V;2;SG;IND;PRS = brazdebi
+ბრაზდება	ბრაზდება	V;3;SG;IND;PRS = brazdeba
+ბრაზდება	ვბრაზდებით	V;1;PL;IND;PRS = vbrazdebit
+ბრაზდება	ბრაზდებით	V;2;PL;IND;PRS = brazdebit
+ბრაზდება	ბრაზდებიან	V;3;PL;IND;PRS = brazdebian
+
+
+Screeve #2:
+ბრაზდება	ვბრაზდებოდი	V;1;SG;IND;IPFV = vbrazdebodi
+ბრაზდება	ბრაზდებოდი	V;2;SG;IND;IPFV = brazdebodi
+ბრაზდება	ბრაზდებოდა	V;3;SG;IND;IPFV = brazdeboda
+ბრაზდება	ვბრაზდებოდით	V;1;PL;IND;IPFV = vbrazdebodit
+ბრაზდება	ბრაზდებოდით	V;2;PL;IND;IPFV = brazdebodit
+ბრაზდება	ბრაზდებოდნენ	V;3;PL;IND;IPFV = brazdebodnen
+
+
+Screeve #3:
+ბრაზდება	ვბრაზდებოდე	V;1;SG;SBJV;PRS = vbrazdebode
+ბრაზდება	ბრაზდებოდე	V;2;SG;SBJV;PRS = brazdebode
+ბრაზდება	ბრაზდებოდეს	V;3;SG;SBJV;PRS = brazdebodes
+ბრაზდება	ვბრაზდებოდეთ	V;1;PL;SBJV;PRS = vbrazdebodet
+ბრაზდება	ბრაზდებოდეთ	V;2;PL;SBJV;PRS = brazdebodet
+ბრაზდება	ბრაზდებოდნენ	V;3;PL;SBJV;PRS = brazdebodnen
+
+
+Screeve #4:
+ბრაზდება	გავბრაზდები	V;1;SG;IND;FUT = gavbrazdebi
+ბრაზდება	გაბრაზდები	V;2;SG;IND;FUT = gabrazdebi
+ბრაზდება	გაბრაზდება	V;3;SG;IND;FUT = gabrazdeba
+ბრაზდება	გავბრაზდებით	V;1;PL;IND;FUT = gavbrazdebit
+ბრაზდება	გაბრაზდებით	V;2;PL;IND;FUT = gabrazdebit
+ბრაზდება	გაბრაზდებიან	V;3;PL;IND;FUT = gabrazdebian
+
+
+Screeve #5:
+ბრაზდება	გავბრაზდებოდი	V;1;SG;COND = gavbrazdebodi
+ბრაზდება	გაბრაზდებოდი	V;2;SG;COND = gabrazdebodi
+ბრაზდება	გაბრაზდებოდა	V;3;SG;COND = gabrazdeboda
+ბრაზდება	გავბრაზდებოდით	V;1;PL;COND = gavbrazdebodit
+ბრაზდება	გაბრაზდებოდით	V;2;PL;COND = gabrazdebodit
+ბრაზდება	გაბრაზდებოდნენ	V;3;PL;COND = gabrazdebodnen
+
+
+Screeve #6:
+ბრაზდება	გავბრაზდებოდე	V;1;SG;SBJV;FUT = gavbrazdebode
+ბრაზდება	გაბრაზდებოდე	V;2;SG;SBJV;FUT = gabrazdebode
+ბრაზდება	გაბრაზდებოდეს	V;3;SG;SBJV;FUT = gabrazdebodes
+ბრაზდება	გავბრაზდებოდეთ	V;1;PL;SBJV;FUT = gavbrazdebodet
+ბრაზდება	გაბრაზდებოდეთ	V;2;PL;SBJV;FUT = gabrazdebodet
+ბრაზდება	გაბრაზდებოდნენ	V;3;PL;SBJV;FUT = gabrazdebodnen
+
+
+Screeve #7:
+ბრაზდება	გავბრაზდი	V;1;SG;IND;PST;PFV = gavbrazdi
+ბრაზდება	გაბრაზდი	V;2;SG;IND;PST;PFV = gabrazdi
+ბრაზდება	გაბრაზდა	V;3;SG;IND;PST;PFV = gabrazda
+ბრაზდება	გავბრაზდით	V;1;PL;IND;PST;PFV = gavbrazdit
+ბრაზდება	გაბრაზდით	V;2;PL;IND;PST;PFV = gabrazdit
+ბრაზდება	გაბრაზდნენ	V;3;PL;IND;PST;PFV = gabrazdnen
+
+ბრაზდება	გაბრაზდი	V;2;SG;IMP = gabrazdi
+ბრაზდება	გაბრაზდით	V;2;PL;IMP = gabrazdit
+
+
+Screeve #8:
+ბრაზდება	გავბრაზდე	V;1;SG;OPT = gavbrazde
+ბრაზდება	გაბრაზდე	V;2;SG;OPT = gabrazde
+ბრაზდება	გაბრაზდეს	V;3;SG;OPT = gabrazdes
+ბრაზდება	გავბრაზდეთ	V;1;PL;OPT = gavbrazdet
+ბრაზდება	გაბრაზდეთ	V;2;PL;OPT = gabrazdet
+ბრაზდება	გაბრაზდნენ	V;3;PL;OPT = gabrazdnen
+
+ბრაზდება	გავბრაზდეთ	V;1;PL;IMP = gavbrazdet
+ბრაზდება	გაბრაზდეს	V;3;SG;IMP = gabrazdes
+ბრაზდება	გაბრაზდნენ	V;3;PL;IMP = gabrazdnen
+
+
+Screeve #9:
+ბრაზდება	გავბრაზებულვარ	V;1;SG;IND;PRF = gavbrazebulvar
+ბრაზდება	გაბრაზებულხარ	V;2;SG;IND;PRF = gabrazebulxar
+ბრაზდება	გაბრაზებულა	V;3;SG;IND;PRF = gabrazebula
+ბრაზდება	გავბრაზებულვართ	V;1;PL;IND;PRF = gavbrazebulvart
+ბრაზდება	გაბრაზებულხართ	V;2;PL;IND;PRF = gabrazebulxart
+ბრაზდება	გაბრაზებულან	V;3;PL;IND;PRF = gabrazebulan
+
+
+Screeve #10:
+ბრაზდება	გავბრაზებულიყავი	V;1;SG;IND;PST;PRF = gavbrazebuliq'avi
+ბრაზდება	გაბრაზებულიყავი	V;2;SG;IND;PST;PRF = gabrazebuliq'avi
+ბრაზდება	გაბრაზებულიყო	V;3;SG;IND;PST;PRF = gabrazebuliq'o
+ბრაზდება	გავბრაზებულიყავით	V;1;PL;IND;PST;PRF = gavbrazebuliq'avit
+ბრაზდება	გაბრაზებულიყავით	V;2;PL;IND;PST;PRF = gabrazebuliq'avit
+ბრაზდება	გაბრაზებულიყვნენ	V;3;PL;IND;PST;PRF = gabrazebuliq'vnen
+
+
+Screeve #11:
+ბრაზდება	გავბრაზებულიყო	V;1;SG;SBJV;PRF = gavbrazebuliq'o
+ბრაზდება	გაბრაზებულიყო	V;2;SG;SBJV;PRF = gabrazebuliq'o
+ბრაზდება	გაბრაზებულიყოს	V;3;SG;SBJV;PRF = gabrazebuliq'os
+ბრაზდება	გავბრაზებულიყოთ	V;1;PL;SBJV;PRF = gavbrazebuliq'ot
+ბრაზდება	გაბრაზებულიყოთ	V;2;PL;SBJV;PRF = gabrazebuliq'ot
+ბრაზდება	გაბრაზებულიყონ	V;3;PL;SBJV;PRF = gabrazebuliq'on
+
+
+ბრაზდება	გაბრაზება	V;V.MSDR;PRF

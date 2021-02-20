@@ -1,0 +1,109 @@
+#1 - წითლდება - blush:
+Screeve #1:
+წითლდება	ვწითლდები	V;1;SG;IND;PRS = vc'itldebi
+წითლდება	წითლდები	V;2;SG;IND;PRS = c'itldebi
+წითლდება	წითლდება	V;3;SG;IND;PRS = c'itldeba
+წითლდება	ვწითლდებით	V;1;PL;IND;PRS = vc'itldebit
+წითლდება	წითლდებით	V;2;PL;IND;PRS = c'itldebit
+წითლდება	წითლდებიან	V;3;PL;IND;PRS = c'itldebian
+
+
+Screeve #2:
+წითლდება	ვწითლდებოდი	V;1;SG;IND;IPFV = vc'itldebodi
+წითლდება	წითლდებოდი	V;2;SG;IND;IPFV = c'itldebodi
+წითლდება	წითლდებოდა	V;3;SG;IND;IPFV = c'itldeboda
+წითლდება	ვწითლდებოდით	V;1;PL;IND;IPFV = vc'itldebodit
+წითლდება	წითლდებოდით	V;2;PL;IND;IPFV = c'itldebodit
+წითლდება	წითლდებოდნენ	V;3;PL;IND;IPFV = c'itldebodnen
+
+
+Screeve #3:
+წითლდება	ვწითლდებოდე	V;1;SG;SBJV;PRS = vc'itldebode
+წითლდება	წითლდებოდე	V;2;SG;SBJV;PRS = c'itldebode
+წითლდება	წითლდებოდეს	V;3;SG;SBJV;PRS = c'itldebodes
+წითლდება	ვწითლდებოდეთ	V;1;PL;SBJV;PRS = vc'itldebodet
+წითლდება	წითლდებოდეთ	V;2;PL;SBJV;PRS = c'itldebodet
+წითლდება	წითლდებოდნენ	V;3;PL;SBJV;PRS = c'itldebodnen
+
+
+Screeve #4:
+წითლდება	გავწითლდები	V;1;SG;IND;FUT = gavc'itldebi
+წითლდება	გაწითლდები	V;2;SG;IND;FUT = gac'itldebi
+წითლდება	გაწითლდება	V;3;SG;IND;FUT = gac'itldeba
+წითლდება	გავწითლდებით	V;1;PL;IND;FUT = gavc'itldebit
+წითლდება	გაწითლდებით	V;2;PL;IND;FUT = gac'itldebit
+წითლდება	გაწითლდებიან	V;3;PL;IND;FUT = gac'itldebian
+
+
+Screeve #5:
+წითლდება	გავწითლდებოდი	V;1;SG;COND = gavc'itldebodi
+წითლდება	გაწითლდებოდი	V;2;SG;COND = gac'itldebodi
+წითლდება	გაწითლდებოდა	V;3;SG;COND = gac'itldeboda
+წითლდება	გავწითლდებოდით	V;1;PL;COND = gavc'itldebodit
+წითლდება	გაწითლდებოდით	V;2;PL;COND = gac'itldebodit
+წითლდება	გაწითლდებოდნენ	V;3;PL;COND = gac'itldebodnen
+
+
+Screeve #6:
+წითლდება	გავწითლდებოდე	V;1;SG;SBJV;FUT = gavc'itldebode
+წითლდება	გაწითლდებოდე	V;2;SG;SBJV;FUT = gac'itldebode
+წითლდება	გაწითლდებოდეს	V;3;SG;SBJV;FUT = gac'itldebodes
+წითლდება	გავწითლდებოდეთ	V;1;PL;SBJV;FUT = gavc'itldebodet
+წითლდება	გაწითლდებოდეთ	V;2;PL;SBJV;FUT = gac'itldebodet
+წითლდება	გაწითლდებოდნენ	V;3;PL;SBJV;FUT = gac'itldebodnen
+
+
+Screeve #7:
+წითლდება	გავწითლდი	V;1;SG;IND;PST;PFV = gavc'itldi
+წითლდება	გაწითლდი	V;2;SG;IND;PST;PFV = gac'itldi
+წითლდება	გაწითლდა	V;3;SG;IND;PST;PFV = gac'itlda
+წითლდება	გავწითლდით	V;1;PL;IND;PST;PFV = gavc'itldit
+წითლდება	გაწითლდით	V;2;PL;IND;PST;PFV = gac'itldit
+წითლდება	გაწითლდნენ	V;3;PL;IND;PST;PFV = gac'itldnen
+
+წითლდება	გაწითლდი	V;2;SG;IMP = gac'itldi
+წითლდება	გაწითლდით	V;2;PL;IMP = gac'itldit
+
+
+Screeve #8:
+წითლდება	გავწითლდე	V;1;SG;OPT = gavc'itlde
+წითლდება	გაწითლდე	V;2;SG;OPT = gac'itlde
+წითლდება	გაწითლდეს	V;3;SG;OPT = gac'itldes
+წითლდება	გავწითლდეთ	V;1;PL;OPT = gavc'itldet
+წითლდება	გაწითლდეთ	V;2;PL;OPT = gac'itldet
+წითლდება	გაწითლდნენ	V;3;PL;OPT = gac'itldnen
+
+წითლდება	გავწითლდეთ	V;1;PL;IMP = gavc'itldet
+წითლდება	გაწითლდეს	V;3;SG;IMP = gac'itldes
+წითლდება	გაწითლდნენ	V;3;PL;IMP = gac'itldnen
+
+
+Screeve #9:
+წითლდება	გავწითლებულვარ	V;1;SG;IND;PRF = gavc'itlebulvar
+წითლდება	გაწითლებულხარ	V;2;SG;IND;PRF = gac'itlebulxar
+წითლდება	გაწითლებულა	V;3;SG;IND;PRF = gac'itlebula
+წითლდება	გავწითლებულვართ	V;1;PL;IND;PRF = gavc'itlebulvart
+წითლდება	გაწითლებულხართ	V;2;PL;IND;PRF = gac'itlebulxart
+წითლდება	გაწითლებულან	V;3;PL;IND;PRF = gac'itlebulan
+
+
+Screeve #10:
+წითლდება	გავწითლებულიყავი	V;1;SG;IND;PST;PRF = gavc'itlebuliq'avi
+წითლდება	გაწითლებულიყავი	V;2;SG;IND;PST;PRF = gac'itlebuliq'avi
+წითლდება	გაწითლებულიყო	V;3;SG;IND;PST;PRF = gac'itlebuliq'o
+წითლდება	გავწითლებულიყავით	V;1;PL;IND;PST;PRF = gavc'itlebuliq'avit
+წითლდება	გაწითლებულიყავით	V;2;PL;IND;PST;PRF = gac'itlebuliq'avit
+წითლდება	გაწითლებულიყვნენ	V;3;PL;IND;PST;PRF = gac'itlebuliq'vnen
+
+
+Screeve #11:
+წითლდება	გავწითლებულიყო	V;1;SG;SBJV;PRF = gavc'itlebuliq'o
+წითლდება	გაწითლებულიყო	V;2;SG;SBJV;PRF = gac'itlebuliq'o
+წითლდება	გაწითლებულიყოს	V;3;SG;SBJV;PRF = gac'itlebuliq'os
+წითლდება	გავწითლებულიყოთ	V;1;PL;SBJV;PRF = gavc'itlebuliq'ot
+წითლდება	გაწითლებულიყოთ	V;2;PL;SBJV;PRF = gac'itlebuliq'ot
+წითლდება	გაწითლებულიყონ	V;3;PL;SBJV;PRF = gac'itlebuliq'on
+
+
+წითლდება	გაწითლება	V;V.MSDR;PRF
+წითლდება	წითლება	V;V.MSDR;IPFV

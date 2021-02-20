@@ -1,0 +1,108 @@
+#12 - იბადება - be_born:
+Screeve #1:
+იბადება	ვიბადები	V;1;SG;IND;PRS = vibadebi
+იბადება	იბადები	V;2;SG;IND;PRS = ibadebi
+იბადება	იბადება	V;3;SG;IND;PRS = ibadeba
+იბადება	ვიბადებით	V;1;PL;IND;PRS = vibadebit
+იბადება	იბადებით	V;2;PL;IND;PRS = ibadebit
+იბადება	იბადებიან	V;3;PL;IND;PRS = ibadebian
+
+
+Screeve #2:
+იბადება	ვიბადებოდი	V;1;SG;IND;IPFV = vibadebodi
+იბადება	იბადებოდი	V;2;SG;IND;IPFV = ibadebodi
+იბადება	იბადებოდა	V;3;SG;IND;IPFV = ibadeboda
+იბადება	ვიბადებოდით	V;1;PL;IND;IPFV = vibadebodit
+იბადება	იბადებოდით	V;2;PL;IND;IPFV = ibadebodit
+იბადება	იბადებოდნენ	V;3;PL;IND;IPFV = ibadebodnen
+
+
+Screeve #3:
+იბადება	ვიბადებოდე	V;1;SG;SBJV;PRS = vibadebode
+იბადება	იბადებოდე	V;2;SG;SBJV;PRS = ibadebode
+იბადება	იბადებოდეს	V;3;SG;SBJV;PRS = ibadebodes
+იბადება	ვიბადებოდეთ	V;1;PL;SBJV;PRS = vibadebodet
+იბადება	იბადებოდეთ	V;2;PL;SBJV;PRS = ibadebodet
+იბადება	იბადებოდნენ	V;3;PL;SBJV;PRS = ibadebodnen
+
+
+Screeve #4:
+იბადება	დავიბადები	V;1;SG;IND;FUT = davibadebi
+იბადება	დაიბადები	V;2;SG;IND;FUT = daibadebi
+იბადება	დაიბადება	V;3;SG;IND;FUT = daibadeba
+იბადება	დავიბადებით	V;1;PL;IND;FUT = davibadebit
+იბადება	დაიბადებით	V;2;PL;IND;FUT = daibadebit
+იბადება	დაიბადებიან	V;3;PL;IND;FUT = daibadebian
+
+
+Screeve #5:
+იბადება	დავიბადებოდი	V;1;SG;COND = davibadebodi
+იბადება	დაიბადებოდი	V;2;SG;COND = daibadebodi
+იბადება	დაიბადებოდა	V;3;SG;COND = daibadeboda
+იბადება	დავიბადებოდით	V;1;PL;COND = davibadebodit
+იბადება	დაიბადებოდით	V;2;PL;COND = daibadebodit
+იბადება	დაიბადებოდნენ	V;3;PL;COND = daibadebodnen
+
+
+Screeve #6:
+იბადება	დავიბადებოდე	V;1;SG;SBJV;FUT = davibadebode
+იბადება	დაიბადებოდე	V;2;SG;SBJV;FUT = daibadebode
+იბადება	დაიბადებოდეს	V;3;SG;SBJV;FUT = daibadebodes
+იბადება	დავიბადებოდეთ	V;1;PL;SBJV;FUT = davibadebodet
+იბადება	დაიბადებოდეთ	V;2;PL;SBJV;FUT = daibadebodet
+იბადება	დაიბადებოდნენ	V;3;PL;SBJV;FUT = daibadebodnen
+
+
+Screeve #7:
+იბადება	დავიბადე	V;1;SG;IND;PST;PFV = davibade
+იბადება	დაიბადე	V;2;SG;IND;PST;PFV = daibade
+იბადება	დაიბადა	V;3;SG;IND;PST;PFV = daibada
+იბადება	დავიბადეთ	V;1;PL;IND;PST;PFV = davibadet
+იბადება	დაიბადეთ	V;2;PL;IND;PST;PFV = daibadet
+იბადება	დაიბადნენ	V;3;PL;IND;PST;PFV = daibadnen
+
+იბადება	დაიბადე	V;2;SG;IMP = daibade
+იბადება	დაიბადეთ	V;2;PL;IMP = daibadet
+
+
+Screeve #8:
+იბადება	დავიბადო	V;1;SG;OPT = davibado
+იბადება	დაიბადო	V;2;SG;OPT = daibado
+იბადება	დაიბადოს	V;3;SG;OPT = daibados
+იბადება	დავიბადოთ	V;1;PL;OPT = davibadot
+იბადება	დაიბადოთ	V;2;PL;OPT = daibadot
+იბადება	დაიბადონ	V;3;PL;OPT = daibadon
+
+იბადება	დავიბადოთ	V;1;PL;IMP = davibadot
+იბადება	დაიბადოს	V;3;SG;IMP = daibados
+იბადება	დაიბადონ	V;3;PL;IMP = daibadon
+
+
+Screeve #9:
+იბადება	დავბადებულვარ	V;1;SG;IND;PRF = davbadebulvar
+იბადება	დაბადებულხარ	V;2;SG;IND;PRF = dabadebulxar
+იბადება	დაბადებულა	V;3;SG;IND;PRF = dabadebula
+იბადება	დავბადებულვართ	V;1;PL;IND;PRF = davbadebulvart
+იბადება	დაბადებულხართ	V;2;PL;IND;PRF = dabadebulxart
+იბადება	დაბადებულან	V;3;PL;IND;PRF = dabadebulan
+
+
+Screeve #10:
+იბადება	დავბადებულიყავი	V;1;SG;IND;PST;PRF = davbadebuliq'avi
+იბადება	დაბადებულიყავი	V;2;SG;IND;PST;PRF = dabadebuliq'avi
+იბადება	დაბადებულიყო	V;3;SG;IND;PST;PRF = dabadebuliq'o
+იბადება	დავბადებულიყავით	V;1;PL;IND;PST;PRF = davbadebuliq'avit
+იბადება	დაბადებულიყავით	V;2;PL;IND;PST;PRF = dabadebuliq'avit
+იბადება	დაბადებულიყვნენ	V;3;PL;IND;PST;PRF = dabadebuliq'vnen
+
+
+Screeve #11:
+იბადება	დავბადებულიყო	V;1;SG;SBJV;PRF = davbadebuliq'o
+იბადება	დაბადებულიყო	V;2;SG;SBJV;PRF = dabadebuliq'o
+იბადება	დაბადებულიყოს	V;3;SG;SBJV;PRF = dabadebuliq'os
+იბადება	დავბადებულიყოთ	V;1;PL;SBJV;PRF = davbadebuliq'ot
+იბადება	დაბადებულიყოთ	V;2;PL;SBJV;PRF = dabadebuliq'ot
+იბადება	დაბადებულიყონ	V;3;PL;SBJV;PRF = dabadebuliq'on
+
+
+იბადება	დაბადება	V;V.MSDR;PRF
