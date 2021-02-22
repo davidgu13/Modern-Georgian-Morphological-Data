@@ -38,3 +38,5 @@ def format_pronouns(key): return "{};{}".format(key[2],str.upper(key[:2]))
 def zip_paas(vals): return dict(zip(['pref','suff'], vals))
 def zip_pronouns_paas(vals): return dict(zip(['sg1','sg2','sg3','pl1','pl2','pl3'],[zip_paas(paa) for paa in vals]))
 def zip_pronouns(vals): return dict(zip(['sg1', 'sg2', 'sg3', 'pl1', 'pl2', 'pl3'], vals))
+
+SUBJECTIVE_VERSION = zip_pronouns(['ი', 'ი', 'უ', 'ი', 'ი', 'უ'])
