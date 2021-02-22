@@ -83,8 +83,27 @@ class Intransitive_Lemma(Lemma):
 
 class Medial_Lemma(Lemma):
     def __init__(self, idx: int, translation: str, version:str, root:str, ts:str, future_ts:str, alternative_root='', masdar_prf='', masdar_imprf='', lemma_form=''):
-        super(Medial_Lemma, self).__init__(idx, translation, '', version, root, ts, alternative_root, masdar_prf, masdar_imprf, lemma_form) # preverb=''
+        super(Medial_Lemma, self).__init__(idx, translation, '', version, root, ts, 'ა', alternative_root, masdar_prf, masdar_imprf, lemma_form) # preverb=''
         self.future_ts = future_ts
 
         self.perfect_version = zip_pronouns(['ი','ი','უ','ი','ი','უ']) # if it is not always correct, then modify manuaaly or copy from Transitive_class
         self.pluperfect_version = zip_pronouns(['ე']*6)
+
+
+class Indirect_Lemma(Lemma):
+    """
+    Very different from Transitive/Intransitive class:
+    - Preverb is always optional
+    - Series 2 almost never exists!
+    - The root and TS can change "arbitrarily", so we define independent properties for them.
+    - There is always Inversion, and objects are marked with copula (not with set B affixes).
+    """
+    def __init__(self, idx: int, translation: str, preverb: str, version: str, root_pres: str, ts_pres: str, pres_S_3sg_pref:str, pres_IDO_3sg_suffix:str, root_fut: str, ts_fut: str, root_perf:str, ts_perf:str, d_or_od:str):
+        super().__init__(idx, translation, preverb, version, root_pres, ts_pres, '', 'OV', 'IOV')
+        self.root_fut = root_fut
+        self.ts_fut = ts_fut
+        self.pres_S_3sg_pref = pres_S_3sg_pref
+        self.pres_IDO_3sg_suffix = pres_IDO_3sg_suffix
+        self.root_perf = root_perf
+        self.ts_perf = ts_perf
+        self.passive_marker = d_or_od

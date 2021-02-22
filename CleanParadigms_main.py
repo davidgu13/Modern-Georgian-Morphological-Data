@@ -18,6 +18,8 @@ class Conjugation:
             obj = Intransitive_Lemma(*row.tolist())
         elif conj=='med':
             obj = Medial_Lemma(*row.tolist())
+        elif conj=='ind':
+            obj = Indirect_Lemma(*row.tolist())
         else:
             raise Exception("Unknown Conjugation class!")
         return obj
@@ -42,9 +44,15 @@ if __name__=='__main__':
     MED_df = MED_df.drop(columns=MED_df.columns.tolist()[10:])
     MED_df.fillna('', inplace=True)
 
+    indirect_class = Conjugation(define_Indirect_Screeves())
+    IND_df = pd.read_excel(file_path, sheet_name=3)
+    IND_df = IND_df.drop(columns=IND_df.columns.tolist()[13:])
+    IND_df.fillna('', inplace=True)
+
     TV_lemmas_dict = {(idx+1):transitive_class.gen_lemma_object(row,'tv') for idx,row in TV_df.iterrows()}
     ITV_lemmas_dict = {(idx+1):intransitive_class.gen_lemma_object(row,'itv') for idx,row in ITV_df.iterrows()}
-    MED_lemmas_dict = {(idx+1):intransitive_class.gen_lemma_object(row,'med') for idx,row in MED_df.iterrows()}
+    MED_lemmas_dict = {(idx+1):medial_class.gen_lemma_object(row,'med') for idx,row in MED_df.iterrows()}
+    IND_lemmas_dict = {(idx+1):indirect_class.gen_lemma_object(row,'ind') for idx,row in IND_df.iterrows()}
 
 
     # region transitive_verbs
@@ -98,15 +106,15 @@ if __name__=='__main__':
             intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==2:
-        example_lemma = MED_lemmas_dict[13]
+        example_lemma = MED_lemmas_dict[18] # when not used, always put 0,-1, or empty, to avoid overriding existing (manually-edited) data!
         with open(os.path.join("Clean Paradigms", conjugations_names[2], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==3:
-        example_lemma = TV_lemmas_dict[10]
+        example_lemma = IND_lemmas_dict[1]
         with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice],
                                example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
-            transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
+            indirect_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     else: raise Exception("Invalid conjugation choice!")
 
