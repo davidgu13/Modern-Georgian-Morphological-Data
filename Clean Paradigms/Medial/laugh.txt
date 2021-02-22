@@ -1,0 +1,108 @@
+#10 - იცინის - laugh:
+Screeve #1:
+იცინის	ვიცინი	V;1;SG;IND;PRS = vicini
+იცინის	იცინი	V;2;SG;IND;PRS = icini
+იცინის	იცინის	V;3;SG;IND;PRS = icinis
+იცინის	ვიცინით	V;1;PL;IND;PRS = vicinit
+იცინის	იცინით	V;2;PL;IND;PRS = icinit
+იცინის	იცინიან	V;3;PL;IND;PRS = icinian
+
+
+Screeve #2:
+იცინის	ვიცინიდი	V;1;SG;IND;IPFV = vicinidi
+იცინის	იცინიდი	V;2;SG;IND;IPFV = icinidi
+იცინის	იცინიდა	V;3;SG;IND;IPFV = icinida
+იცინის	ვიცინიდით	V;1;PL;IND;IPFV = vicinidit
+იცინის	იცინიდით	V;2;PL;IND;IPFV = icinidit
+იცინის	იცინიდნენ	V;3;PL;IND;IPFV = icinidnen
+
+
+Screeve #3:
+იცინის	ვიცინიდე	V;1;SG;SBJV;PRS = vicinide
+იცინის	იცინიდე	V;2;SG;SBJV;PRS = icinide
+იცინის	იცინიდეს	V;3;SG;SBJV;PRS = icinides
+იცინის	ვიცინიდეთ	V;1;PL;SBJV;PRS = vicinidet
+იცინის	იცინიდეთ	V;2;PL;SBJV;PRS = icinidet
+იცინის	იცინიდნენ	V;3;PL;SBJV;PRS = icinidnen
+
+
+Screeve #4:
+იცინის	ვიცინებ	V;1;SG;IND;FUT = vicineb
+იცინის	იცინებ	V;2;SG;IND;FUT = icineb
+იცინის	იცინებს	V;3;SG;IND;FUT = icinebs
+იცინის	ვიცინებთ	V;1;PL;IND;FUT = vicinebt
+იცინის	იცინებთ	V;2;PL;IND;FUT = icinebt
+იცინის	იცინებენ	V;3;PL;IND;FUT = icineben
+
+
+Screeve #5:
+იცინის	ვიცინებდი	V;1;SG;COND = vicinebdi
+იცინის	იცინებდი	V;2;SG;COND = icinebdi
+იცინის	იცინებდა	V;3;SG;COND = icinebda
+იცინის	ვიცინებდით	V;1;PL;COND = vicinebdit
+იცინის	იცინებდით	V;2;PL;COND = icinebdit
+იცინის	იცინებდნენ	V;3;PL;COND = icinebdnen
+
+
+Screeve #6:
+იცინის	ვიცინებდე	V;1;SG;SBJV;FUT = vicinebde
+იცინის	იცინებდე	V;2;SG;SBJV;FUT = icinebde
+იცინის	იცინებდეს	V;3;SG;SBJV;FUT = icinebdes
+იცინის	ვიცინებდეთ	V;1;PL;SBJV;FUT = vicinebdet
+იცინის	იცინებდეთ	V;2;PL;SBJV;FUT = icinebdet
+იცინის	იცინებდნენ	V;3;PL;SBJV;FUT = icinebdnen
+
+
+Screeve #7:
+იცინის	ვიცინე	V;1;SG;IND;PST;PFV = vicine
+იცინის	იცინე	V;2;SG;IND;PST;PFV = icine
+იცინის	იცინა	V;3;SG;IND;PST;PFV = icina
+იცინის	ვიცინეთ	V;1;PL;IND;PST;PFV = vicinet
+იცინის	იცინეთ	V;2;PL;IND;PST;PFV = icinet
+იცინის	იცინეს	V;3;PL;IND;PST;PFV = icines
+
+იცინის	იცინე	V;2;SG;IMP = icine
+იცინის	იცინეთ	V;2;PL;IMP = icinet
+
+
+Screeve #8:
+იცინის	ვიცინო	V;1;SG;OPT = vicino
+იცინის	იცინო	V;2;SG;OPT = icino
+იცინის	იცინოს	V;3;SG;OPT = icinos
+იცინის	ვიცინოთ	V;1;PL;OPT = vicinot
+იცინის	იცინოთ	V;2;PL;OPT = icinot
+იცინის	იცინონ	V;3;PL;OPT = icinon
+
+იცინის	ვიცინოთ	V;1;PL;IMP = vicinot
+იცინის	იცინოს	V;3;SG;IMP = icinos
+იცინის	იცინონ	V;3;PL;IMP = icinon
+
+
+Screeve #9:
+იცინის	მიცინია	V;1;SG;IND;PRF = micinia
+იცინის	გიცინია	V;2;SG;IND;PRF = gicinia
+იცინის	უცინია	V;3;SG;IND;PRF = ucinia
+იცინის	გვიცინია	V;1;PL;IND;PRF = gvicinia
+იცინის	გიცინიათ	V;2;PL;IND;PRF = giciniat
+იცინის	უცინიათ	V;3;PL;IND;PRF = uciniat
+
+
+Screeve #10:
+იცინის	მეცინა	V;1;SG;IND;PST;PRF = mecina
+იცინის	გეცინა	V;2;SG;IND;PST;PRF = gecina
+იცინის	ეცინა	V;3;SG;IND;PST;PRF = ecina
+იცინის	გვეცინა	V;1;PL;IND;PST;PRF = gvecina
+იცინის	გეცინათ	V;2;PL;IND;PST;PRF = gecinat
+იცინის	ეცინათ	V;3;PL;IND;PST;PRF = ecinat
+
+
+Screeve #11:
+იცინის	მეცინოს	V;1;SG;SBJV;PRF = mecinos
+იცინის	გეცინოს	V;2;SG;SBJV;PRF = gecinos
+იცინის	ეცინოს	V;3;SG;SBJV;PRF = ecinos
+იცინის	გვეცინოს	V;1;PL;SBJV;PRF = gvecinos
+იცინის	გეცინოთ	V;2;PL;SBJV;PRF = gecinot
+იცინის	ეცინოთ	V;3;PL;SBJV;PRF = ecinot
+
+
+იცინის	სიცილი	V;V.MSDR;IPFV

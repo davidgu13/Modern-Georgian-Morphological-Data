@@ -1,0 +1,108 @@
+#8 - ჩქარობს - hurry:
+Screeve #1:
+ჩქარობს	ვჩქარობ	V;1;SG;IND;PRS = včkarob
+ჩქარობს	ჩქარობ	V;2;SG;IND;PRS = čkarob
+ჩქარობს	ჩქარობს	V;3;SG;IND;PRS = čkarobs
+ჩქარობს	ვჩქარობთ	V;1;PL;IND;PRS = včkarobt
+ჩქარობს	ჩქარობთ	V;2;PL;IND;PRS = čkarobt
+ჩქარობს	ჩქარობენ	V;3;PL;IND;PRS = čkaroben
+
+
+Screeve #2:
+ჩქარობს	ვჩქარობდი	V;1;SG;IND;IPFV = včkarobdi
+ჩქარობს	ჩქარობდი	V;2;SG;IND;IPFV = čkarobdi
+ჩქარობს	ჩქარობდა	V;3;SG;IND;IPFV = čkarobda
+ჩქარობს	ვჩქარობდით	V;1;PL;IND;IPFV = včkarobdit
+ჩქარობს	ჩქარობდით	V;2;PL;IND;IPFV = čkarobdit
+ჩქარობს	ჩქარობდნენ	V;3;PL;IND;IPFV = čkarobdnen
+
+
+Screeve #3:
+ჩქარობს	ვჩქარობდე	V;1;SG;SBJV;PRS = včkarobde
+ჩქარობს	ჩქარობდე	V;2;SG;SBJV;PRS = čkarobde
+ჩქარობს	ჩქარობდეს	V;3;SG;SBJV;PRS = čkarobdes
+ჩქარობს	ვჩქარობდეთ	V;1;PL;SBJV;PRS = včkarobdet
+ჩქარობს	ჩქარობდეთ	V;2;PL;SBJV;PRS = čkarobdet
+ჩქარობს	ჩქარობდნენ	V;3;PL;SBJV;PRS = čkarobdnen
+
+
+Screeve #4:
+ჩქარობს	ვიჩქარებ	V;1;SG;IND;FUT = vičkareb
+ჩქარობს	იჩქარებ	V;2;SG;IND;FUT = ičkareb
+ჩქარობს	იჩქარებს	V;3;SG;IND;FUT = ičkarebs
+ჩქარობს	ვიჩქარებთ	V;1;PL;IND;FUT = vičkarebt
+ჩქარობს	იჩქარებთ	V;2;PL;IND;FUT = ičkarebt
+ჩქარობს	იჩქარებენ	V;3;PL;IND;FUT = ičkareben
+
+
+Screeve #5:
+ჩქარობს	ვიჩქარებდი	V;1;SG;COND = vičkarebdi
+ჩქარობს	იჩქარებდი	V;2;SG;COND = ičkarebdi
+ჩქარობს	იჩქარებდა	V;3;SG;COND = ičkarebda
+ჩქარობს	ვიჩქარებდით	V;1;PL;COND = vičkarebdit
+ჩქარობს	იჩქარებდით	V;2;PL;COND = ičkarebdit
+ჩქარობს	იჩქარებდნენ	V;3;PL;COND = ičkarebdnen
+
+
+Screeve #6:
+ჩქარობს	ვიჩქარებდე	V;1;SG;SBJV;FUT = vičkarebde
+ჩქარობს	იჩქარებდე	V;2;SG;SBJV;FUT = ičkarebde
+ჩქარობს	იჩქარებდეს	V;3;SG;SBJV;FUT = ičkarebdes
+ჩქარობს	ვიჩქარებდეთ	V;1;PL;SBJV;FUT = vičkarebdet
+ჩქარობს	იჩქარებდეთ	V;2;PL;SBJV;FUT = ičkarebdet
+ჩქარობს	იჩქარებდნენ	V;3;PL;SBJV;FUT = ičkarebdnen
+
+
+Screeve #7:
+ჩქარობს	ვიჩქარე	V;1;SG;IND;PST;PFV = vičkare
+ჩქარობს	იჩქარე	V;2;SG;IND;PST;PFV = ičkare
+ჩქარობს	იჩქარა	V;3;SG;IND;PST;PFV = ičkara
+ჩქარობს	ვიჩქარეთ	V;1;PL;IND;PST;PFV = vičkaret
+ჩქარობს	იჩქარეთ	V;2;PL;IND;PST;PFV = ičkaret
+ჩქარობს	იჩქარეს	V;3;PL;IND;PST;PFV = ičkares
+
+ჩქარობს	იჩქარე	V;2;SG;IMP = ičkare
+ჩქარობს	იჩქარეთ	V;2;PL;IMP = ičkaret
+
+
+Screeve #8:
+ჩქარობს	ვიჩქარო	V;1;SG;OPT = vičkaro
+ჩქარობს	იჩქარო	V;2;SG;OPT = ičkaro
+ჩქარობს	იჩქაროს	V;3;SG;OPT = ičkaros
+ჩქარობს	ვიჩქაროთ	V;1;PL;OPT = vičkarot
+ჩქარობს	იჩქაროთ	V;2;PL;OPT = ičkarot
+ჩქარობს	იჩქარონ	V;3;PL;OPT = ičkaron
+
+ჩქარობს	ვიჩქაროთ	V;1;PL;IMP = vičkarot
+ჩქარობს	იჩქაროს	V;3;SG;IMP = ičkaros
+ჩქარობს	იჩქარონ	V;3;PL;IMP = ičkaron
+
+
+Screeve #9:
+ჩქარობს	მიჩქარია	V;1;SG;IND;PRF = mičkaria
+ჩქარობს	გიჩქარია	V;2;SG;IND;PRF = gičkaria
+ჩქარობს	უჩქარია	V;3;SG;IND;PRF = učkaria
+ჩქარობს	გვიჩქარია	V;1;PL;IND;PRF = gvičkaria
+ჩქარობს	გიჩქარიათ	V;2;PL;IND;PRF = gičkariat
+ჩქარობს	უჩქარიათ	V;3;PL;IND;PRF = učkariat
+
+
+Screeve #10:
+ჩქარობს	მეჩქარა	V;1;SG;IND;PST;PRF = mečkara
+ჩქარობს	გეჩქარა	V;2;SG;IND;PST;PRF = gečkara
+ჩქარობს	ეჩქარა	V;3;SG;IND;PST;PRF = ečkara
+ჩქარობს	გვეჩქარა	V;1;PL;IND;PST;PRF = gvečkara
+ჩქარობს	გეჩქარათ	V;2;PL;IND;PST;PRF = gečkarat
+ჩქარობს	ეჩქარათ	V;3;PL;IND;PST;PRF = ečkarat
+
+
+Screeve #11:
+ჩქარობს	მეჩქაროს	V;1;SG;SBJV;PRF = mečkaros
+ჩქარობს	გეჩქაროს	V;2;SG;SBJV;PRF = gečkaros
+ჩქარობს	ეჩქაროს	V;3;SG;SBJV;PRF = ečkaros
+ჩქარობს	გვეჩქაროს	V;1;PL;SBJV;PRF = gvečkaros
+ჩქარობს	გეჩქაროთ	V;2;PL;SBJV;PRF = gečkarot
+ჩქარობს	ეჩქაროთ	V;3;PL;SBJV;PRF = ečkarot
+
+
+ჩქარობს	ჩქარობა	V;V.MSDR;IPFV

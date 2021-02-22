@@ -1,0 +1,108 @@
+#16 - სწავლობს - study:
+Screeve #1:
+სწავლობს	ვსწავლობ	V;1;SG;IND;PRS = vsc'avlob
+სწავლობს	სწავლობ	V;2;SG;IND;PRS = sc'avlob
+სწავლობს	სწავლობს	V;3;SG;IND;PRS = sc'avlobs
+სწავლობს	ვსწავლობთ	V;1;PL;IND;PRS = vsc'avlobt
+სწავლობს	სწავლობთ	V;2;PL;IND;PRS = sc'avlobt
+სწავლობს	სწავლობენ	V;3;PL;IND;PRS = sc'avloben
+
+
+Screeve #2:
+სწავლობს	ვსწავლობდი	V;1;SG;IND;IPFV = vsc'avlobdi
+სწავლობს	სწავლობდი	V;2;SG;IND;IPFV = sc'avlobdi
+სწავლობს	სწავლობდა	V;3;SG;IND;IPFV = sc'avlobda
+სწავლობს	ვსწავლობდით	V;1;PL;IND;IPFV = vsc'avlobdit
+სწავლობს	სწავლობდით	V;2;PL;IND;IPFV = sc'avlobdit
+სწავლობს	სწავლობდნენ	V;3;PL;IND;IPFV = sc'avlobdnen
+
+
+Screeve #3:
+სწავლობს	ვსწავლობდე	V;1;SG;SBJV;PRS = vsc'avlobde
+სწავლობს	სწავლობდე	V;2;SG;SBJV;PRS = sc'avlobde
+სწავლობს	სწავლობდეს	V;3;SG;SBJV;PRS = sc'avlobdes
+სწავლობს	ვსწავლობდეთ	V;1;PL;SBJV;PRS = vsc'avlobdet
+სწავლობს	სწავლობდეთ	V;2;PL;SBJV;PRS = sc'avlobdet
+სწავლობს	სწავლობდნენ	V;3;PL;SBJV;PRS = sc'avlobdnen
+
+
+Screeve #4:
+სწავლობს	ვისწავლი	V;1;SG;IND;FUT = visc'avli
+სწავლობს	ისწავლი	V;2;SG;IND;FUT = isc'avli
+სწავლობს	ისწავლის	V;3;SG;IND;FUT = isc'avlis
+სწავლობს	ვისწავლით	V;1;PL;IND;FUT = visc'avlit
+სწავლობს	ისწავლით	V;2;PL;IND;FUT = isc'avlit
+სწავლობს	ისწავლიენ	V;3;PL;IND;FUT = isc'avlien
+
+
+Screeve #5:
+სწავლობს	ვისწავლიდი	V;1;SG;COND = visc'avlidi
+სწავლობს	ისწავლიდი	V;2;SG;COND = isc'avlidi
+სწავლობს	ისწავლიდა	V;3;SG;COND = isc'avlida
+სწავლობს	ვისწავლიდით	V;1;PL;COND = visc'avlidit
+სწავლობს	ისწავლიდით	V;2;PL;COND = isc'avlidit
+სწავლობს	ისწავლიდნენ	V;3;PL;COND = isc'avlidnen
+
+
+Screeve #6:
+სწავლობს	ვისწავლიდე	V;1;SG;SBJV;FUT = visc'avlide
+სწავლობს	ისწავლიდე	V;2;SG;SBJV;FUT = isc'avlide
+სწავლობს	ისწავლიდეს	V;3;SG;SBJV;FUT = isc'avlides
+სწავლობს	ვისწავლიდეთ	V;1;PL;SBJV;FUT = visc'avlidet
+სწავლობს	ისწავლიდეთ	V;2;PL;SBJV;FUT = isc'avlidet
+სწავლობს	ისწავლიდნენ	V;3;PL;SBJV;FUT = isc'avlidnen
+
+
+Screeve #7:
+სწავლობს	ვისწავლე	V;1;SG;IND;PST;PFV = visc'avle
+სწავლობს	ისწავლე	V;2;SG;IND;PST;PFV = isc'avle
+სწავლობს	ისწავლა	V;3;SG;IND;PST;PFV = isc'avla
+სწავლობს	ვისწავლეთ	V;1;PL;IND;PST;PFV = visc'avlet
+სწავლობს	ისწავლეთ	V;2;PL;IND;PST;PFV = isc'avlet
+სწავლობს	ისწავლეს	V;3;PL;IND;PST;PFV = isc'avles
+
+სწავლობს	ისწავლე	V;2;SG;IMP = isc'avle
+სწავლობს	ისწავლეთ	V;2;PL;IMP = isc'avlet
+
+
+Screeve #8:
+სწავლობს	ვისწავლო	V;1;SG;OPT = visc'avlo
+სწავლობს	ისწავლო	V;2;SG;OPT = isc'avlo
+სწავლობს	ისწავლოს	V;3;SG;OPT = isc'avlos
+სწავლობს	ვისწავლოთ	V;1;PL;OPT = visc'avlot
+სწავლობს	ისწავლოთ	V;2;PL;OPT = isc'avlot
+სწავლობს	ისწავლონ	V;3;PL;OPT = isc'avlon
+
+სწავლობს	ვისწავლოთ	V;1;PL;IMP = visc'avlot
+სწავლობს	ისწავლოს	V;3;SG;IMP = isc'avlos
+სწავლობს	ისწავლონ	V;3;PL;IMP = isc'avlon
+
+
+Screeve #9:
+სწავლობს	მისწავლია	V;1;SG;IND;PRF = misc'avlia
+სწავლობს	გისწავლია	V;2;SG;IND;PRF = gisc'avlia
+სწავლობს	უსწავლია	V;3;SG;IND;PRF = usc'avlia
+სწავლობს	გვისწავლია	V;1;PL;IND;PRF = gvisc'avlia
+სწავლობს	გისწავლიათ	V;2;PL;IND;PRF = gisc'avliat
+სწავლობს	უსწავლიათ	V;3;PL;IND;PRF = usc'avliat
+
+
+Screeve #10:
+სწავლობს	მესწავლა	V;1;SG;IND;PST;PRF = mesc'avla
+სწავლობს	გესწავლა	V;2;SG;IND;PST;PRF = gesc'avla
+სწავლობს	ესწავლა	V;3;SG;IND;PST;PRF = esc'avla
+სწავლობს	გვესწავლა	V;1;PL;IND;PST;PRF = gvesc'avla
+სწავლობს	გესწავლათ	V;2;PL;IND;PST;PRF = gesc'avlat
+სწავლობს	ესწავლათ	V;3;PL;IND;PST;PRF = esc'avlat
+
+
+Screeve #11:
+სწავლობს	მესწავლოს	V;1;SG;SBJV;PRF = mesc'avlos
+სწავლობს	გესწავლოს	V;2;SG;SBJV;PRF = gesc'avlos
+სწავლობს	ესწავლოს	V;3;SG;SBJV;PRF = esc'avlos
+სწავლობს	გვესწავლოს	V;1;PL;SBJV;PRF = gvesc'avlos
+სწავლობს	გესწავლოთ	V;2;PL;SBJV;PRF = gesc'avlot
+სწავლობს	ესწავლოთ	V;3;PL;SBJV;PRF = esc'avlot
+
+
+სწავლობს	სწავლა	V;V.MSDR;IPFV

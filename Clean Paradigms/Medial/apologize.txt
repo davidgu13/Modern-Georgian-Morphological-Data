@@ -1,0 +1,108 @@
+#29 - ბოდიშობს - apologize:
+Screeve #1:
+ბოდიშობს	ვბოდიშობ	V;1;SG;IND;PRS = vbodišob
+ბოდიშობს	ბოდიშობ	V;2;SG;IND;PRS = bodišob
+ბოდიშობს	ბოდიშობს	V;3;SG;IND;PRS = bodišobs
+ბოდიშობს	ვბოდიშობთ	V;1;PL;IND;PRS = vbodišobt
+ბოდიშობს	ბოდიშობთ	V;2;PL;IND;PRS = bodišobt
+ბოდიშობს	ბოდიშობენ	V;3;PL;IND;PRS = bodišoben
+
+
+Screeve #2:
+ბოდიშობს	ვბოდიშობდი	V;1;SG;IND;IPFV = vbodišobdi
+ბოდიშობს	ბოდიშობდი	V;2;SG;IND;IPFV = bodišobdi
+ბოდიშობს	ბოდიშობდა	V;3;SG;IND;IPFV = bodišobda
+ბოდიშობს	ვბოდიშობდით	V;1;PL;IND;IPFV = vbodišobdit
+ბოდიშობს	ბოდიშობდით	V;2;PL;IND;IPFV = bodišobdit
+ბოდიშობს	ბოდიშობდნენ	V;3;PL;IND;IPFV = bodišobdnen
+
+
+Screeve #3:
+ბოდიშობს	ვბოდიშობდე	V;1;SG;SBJV;PRS = vbodišobde
+ბოდიშობს	ბოდიშობდე	V;2;SG;SBJV;PRS = bodišobde
+ბოდიშობს	ბოდიშობდეს	V;3;SG;SBJV;PRS = bodišobdes
+ბოდიშობს	ვბოდიშობდეთ	V;1;PL;SBJV;PRS = vbodišobdet
+ბოდიშობს	ბოდიშობდეთ	V;2;PL;SBJV;PRS = bodišobdet
+ბოდიშობს	ბოდიშობდნენ	V;3;PL;SBJV;PRS = bodišobdnen
+
+
+Screeve #4:
+ბოდიშობს	ვიბოდიშებ	V;1;SG;IND;FUT = vibodišeb
+ბოდიშობს	იბოდიშებ	V;2;SG;IND;FUT = ibodišeb
+ბოდიშობს	იბოდიშებს	V;3;SG;IND;FUT = ibodišebs
+ბოდიშობს	ვიბოდიშებთ	V;1;PL;IND;FUT = vibodišebt
+ბოდიშობს	იბოდიშებთ	V;2;PL;IND;FUT = ibodišebt
+ბოდიშობს	იბოდიშებენ	V;3;PL;IND;FUT = ibodišeben
+
+
+Screeve #5:
+ბოდიშობს	ვიბოდიშებდი	V;1;SG;COND = vibodišebdi
+ბოდიშობს	იბოდიშებდი	V;2;SG;COND = ibodišebdi
+ბოდიშობს	იბოდიშებდა	V;3;SG;COND = ibodišebda
+ბოდიშობს	ვიბოდიშებდით	V;1;PL;COND = vibodišebdit
+ბოდიშობს	იბოდიშებდით	V;2;PL;COND = ibodišebdit
+ბოდიშობს	იბოდიშებდნენ	V;3;PL;COND = ibodišebdnen
+
+
+Screeve #6:
+ბოდიშობს	ვიბოდიშებდე	V;1;SG;SBJV;FUT = vibodišebde
+ბოდიშობს	იბოდიშებდე	V;2;SG;SBJV;FUT = ibodišebde
+ბოდიშობს	იბოდიშებდეს	V;3;SG;SBJV;FUT = ibodišebdes
+ბოდიშობს	ვიბოდიშებდეთ	V;1;PL;SBJV;FUT = vibodišebdet
+ბოდიშობს	იბოდიშებდეთ	V;2;PL;SBJV;FUT = ibodišebdet
+ბოდიშობს	იბოდიშებდნენ	V;3;PL;SBJV;FUT = ibodišebdnen
+
+
+Screeve #7:
+ბოდიშობს	ვიბოდიშე	V;1;SG;IND;PST;PFV = vibodiše
+ბოდიშობს	იბოდიშე	V;2;SG;IND;PST;PFV = ibodiše
+ბოდიშობს	იბოდიშა	V;3;SG;IND;PST;PFV = ibodiša
+ბოდიშობს	ვიბოდიშეთ	V;1;PL;IND;PST;PFV = vibodišet
+ბოდიშობს	იბოდიშეთ	V;2;PL;IND;PST;PFV = ibodišet
+ბოდიშობს	იბოდიშეს	V;3;PL;IND;PST;PFV = ibodišes
+
+ბოდიშობს	იბოდიშე	V;2;SG;IMP = ibodiše
+ბოდიშობს	იბოდიშეთ	V;2;PL;IMP = ibodišet
+
+
+Screeve #8:
+ბოდიშობს	ვიბოდიშო	V;1;SG;OPT = vibodišo
+ბოდიშობს	იბოდიშო	V;2;SG;OPT = ibodišo
+ბოდიშობს	იბოდიშოს	V;3;SG;OPT = ibodišos
+ბოდიშობს	ვიბოდიშოთ	V;1;PL;OPT = vibodišot
+ბოდიშობს	იბოდიშოთ	V;2;PL;OPT = ibodišot
+ბოდიშობს	იბოდიშონ	V;3;PL;OPT = ibodišon
+
+ბოდიშობს	ვიბოდიშოთ	V;1;PL;IMP = vibodišot
+ბოდიშობს	იბოდიშოს	V;3;SG;IMP = ibodišos
+ბოდიშობს	იბოდიშონ	V;3;PL;IMP = ibodišon
+
+
+Screeve #9:
+ბოდიშობს	მიბოდიშია	V;1;SG;IND;PRF = mibodišia
+ბოდიშობს	გიბოდიშია	V;2;SG;IND;PRF = gibodišia
+ბოდიშობს	უბოდიშია	V;3;SG;IND;PRF = ubodišia
+ბოდიშობს	გვიბოდიშია	V;1;PL;IND;PRF = gvibodišia
+ბოდიშობს	გიბოდიშიათ	V;2;PL;IND;PRF = gibodišiat
+ბოდიშობს	უბოდიშიათ	V;3;PL;IND;PRF = ubodišiat
+
+
+Screeve #10:
+ბოდიშობს	მებოდიშა	V;1;SG;IND;PST;PRF = mebodiša
+ბოდიშობს	გებოდიშა	V;2;SG;IND;PST;PRF = gebodiša
+ბოდიშობს	ებოდიშა	V;3;SG;IND;PST;PRF = ebodiša
+ბოდიშობს	გვებოდიშა	V;1;PL;IND;PST;PRF = gvebodiša
+ბოდიშობს	გებოდიშათ	V;2;PL;IND;PST;PRF = gebodišat
+ბოდიშობს	ებოდიშათ	V;3;PL;IND;PST;PRF = ebodišat
+
+
+Screeve #11:
+ბოდიშობს	მებოდიშოს	V;1;SG;SBJV;PRF = mebodišos
+ბოდიშობს	გებოდიშოს	V;2;SG;SBJV;PRF = gebodišos
+ბოდიშობს	ებოდიშოს	V;3;SG;SBJV;PRF = ebodišos
+ბოდიშობს	გვებოდიშოს	V;1;PL;SBJV;PRF = gvebodišos
+ბოდიშობს	გებოდიშოთ	V;2;PL;SBJV;PRF = gebodišot
+ბოდიშობს	ებოდიშოთ	V;3;PL;SBJV;PRF = ebodišot
+
+
+ბოდიშობს	ბოდიშობა	V;V.MSDR;IPFV

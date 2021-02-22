@@ -1,0 +1,108 @@
+#47 - ხმაურობს - make_sound:
+Screeve #1:
+ხმაურობს	ვხმაურობ	V;1;SG;IND;PRS = vxmaurob
+ხმაურობს	ხმაურობ	V;2;SG;IND;PRS = xmaurob
+ხმაურობს	ხმაურობს	V;3;SG;IND;PRS = xmaurobs
+ხმაურობს	ვხმაურობთ	V;1;PL;IND;PRS = vxmaurobt
+ხმაურობს	ხმაურობთ	V;2;PL;IND;PRS = xmaurobt
+ხმაურობს	ხმაურობენ	V;3;PL;IND;PRS = xmauroben
+
+
+Screeve #2:
+ხმაურობს	ვხმაურობდი	V;1;SG;IND;IPFV = vxmaurobdi
+ხმაურობს	ხმაურობდი	V;2;SG;IND;IPFV = xmaurobdi
+ხმაურობს	ხმაურობდა	V;3;SG;IND;IPFV = xmaurobda
+ხმაურობს	ვხმაურობდით	V;1;PL;IND;IPFV = vxmaurobdit
+ხმაურობს	ხმაურობდით	V;2;PL;IND;IPFV = xmaurobdit
+ხმაურობს	ხმაურობდნენ	V;3;PL;IND;IPFV = xmaurobdnen
+
+
+Screeve #3:
+ხმაურობს	ვხმაურობდე	V;1;SG;SBJV;PRS = vxmaurobde
+ხმაურობს	ხმაურობდე	V;2;SG;SBJV;PRS = xmaurobde
+ხმაურობს	ხმაურობდეს	V;3;SG;SBJV;PRS = xmaurobdes
+ხმაურობს	ვხმაურობდეთ	V;1;PL;SBJV;PRS = vxmaurobdet
+ხმაურობს	ხმაურობდეთ	V;2;PL;SBJV;PRS = xmaurobdet
+ხმაურობს	ხმაურობდნენ	V;3;PL;SBJV;PRS = xmaurobdnen
+
+
+Screeve #4:
+ხმაურობს	ვიხმაურებ	V;1;SG;IND;FUT = vixmaureb
+ხმაურობს	იხმაურებ	V;2;SG;IND;FUT = ixmaureb
+ხმაურობს	იხმაურებს	V;3;SG;IND;FUT = ixmaurebs
+ხმაურობს	ვიხმაურებთ	V;1;PL;IND;FUT = vixmaurebt
+ხმაურობს	იხმაურებთ	V;2;PL;IND;FUT = ixmaurebt
+ხმაურობს	იხმაურებენ	V;3;PL;IND;FUT = ixmaureben
+
+
+Screeve #5:
+ხმაურობს	ვიხმაურებდი	V;1;SG;COND = vixmaurebdi
+ხმაურობს	იხმაურებდი	V;2;SG;COND = ixmaurebdi
+ხმაურობს	იხმაურებდა	V;3;SG;COND = ixmaurebda
+ხმაურობს	ვიხმაურებდით	V;1;PL;COND = vixmaurebdit
+ხმაურობს	იხმაურებდით	V;2;PL;COND = ixmaurebdit
+ხმაურობს	იხმაურებდნენ	V;3;PL;COND = ixmaurebdnen
+
+
+Screeve #6:
+ხმაურობს	ვიხმაურებდე	V;1;SG;SBJV;FUT = vixmaurebde
+ხმაურობს	იხმაურებდე	V;2;SG;SBJV;FUT = ixmaurebde
+ხმაურობს	იხმაურებდეს	V;3;SG;SBJV;FUT = ixmaurebdes
+ხმაურობს	ვიხმაურებდეთ	V;1;PL;SBJV;FUT = vixmaurebdet
+ხმაურობს	იხმაურებდეთ	V;2;PL;SBJV;FUT = ixmaurebdet
+ხმაურობს	იხმაურებდნენ	V;3;PL;SBJV;FUT = ixmaurebdnen
+
+
+Screeve #7:
+ხმაურობს	ვიხმაურე	V;1;SG;IND;PST;PFV = vixmaure
+ხმაურობს	იხმაურე	V;2;SG;IND;PST;PFV = ixmaure
+ხმაურობს	იხმაურა	V;3;SG;IND;PST;PFV = ixmaura
+ხმაურობს	ვიხმაურეთ	V;1;PL;IND;PST;PFV = vixmauret
+ხმაურობს	იხმაურეთ	V;2;PL;IND;PST;PFV = ixmauret
+ხმაურობს	იხმაურეს	V;3;PL;IND;PST;PFV = ixmaures
+
+ხმაურობს	იხმაურე	V;2;SG;IMP = ixmaure
+ხმაურობს	იხმაურეთ	V;2;PL;IMP = ixmauret
+
+
+Screeve #8:
+ხმაურობს	ვიხმაურო	V;1;SG;OPT = vixmauro
+ხმაურობს	იხმაურო	V;2;SG;OPT = ixmauro
+ხმაურობს	იხმაუროს	V;3;SG;OPT = ixmauros
+ხმაურობს	ვიხმაუროთ	V;1;PL;OPT = vixmaurot
+ხმაურობს	იხმაუროთ	V;2;PL;OPT = ixmaurot
+ხმაურობს	იხმაურონ	V;3;PL;OPT = ixmauron
+
+ხმაურობს	ვიხმაუროთ	V;1;PL;IMP = vixmaurot
+ხმაურობს	იხმაუროს	V;3;SG;IMP = ixmauros
+ხმაურობს	იხმაურონ	V;3;PL;IMP = ixmauron
+
+
+Screeve #9:
+ხმაურობს	მიხმაურია	V;1;SG;IND;PRF = mixmauria
+ხმაურობს	გიხმაურია	V;2;SG;IND;PRF = gixmauria
+ხმაურობს	უხმაურია	V;3;SG;IND;PRF = uxmauria
+ხმაურობს	გვიხმაურია	V;1;PL;IND;PRF = gvixmauria
+ხმაურობს	გიხმაურიათ	V;2;PL;IND;PRF = gixmauriat
+ხმაურობს	უხმაურიათ	V;3;PL;IND;PRF = uxmauriat
+
+
+Screeve #10:
+ხმაურობს	მეხმაურა	V;1;SG;IND;PST;PRF = mexmaura
+ხმაურობს	გეხმაურა	V;2;SG;IND;PST;PRF = gexmaura
+ხმაურობს	ეხმაურა	V;3;SG;IND;PST;PRF = exmaura
+ხმაურობს	გვეხმაურა	V;1;PL;IND;PST;PRF = gvexmaura
+ხმაურობს	გეხმაურათ	V;2;PL;IND;PST;PRF = gexmaurat
+ხმაურობს	ეხმაურათ	V;3;PL;IND;PST;PRF = exmaurat
+
+
+Screeve #11:
+ხმაურობს	მეხმაუროს	V;1;SG;SBJV;PRF = mexmauros
+ხმაურობს	გეხმაუროს	V;2;SG;SBJV;PRF = gexmauros
+ხმაურობს	ეხმაუროს	V;3;SG;SBJV;PRF = exmauros
+ხმაურობს	გვეხმაუროს	V;1;PL;SBJV;PRF = gvexmauros
+ხმაურობს	გეხმაუროთ	V;2;PL;SBJV;PRF = gexmaurot
+ხმაურობს	ეხმაუროთ	V;3;PL;SBJV;PRF = exmaurot
+
+
+ხმაურობს	ხმაურობა	V;V.MSDR;IPFV

@@ -1,0 +1,108 @@
+#5 - ცეკვავს - dance:
+Screeve #1:
+ცეკვავს	ვცეკვავ	V;1;SG;IND;PRS = vcek'vav
+ცეკვავს	ცეკვავ	V;2;SG;IND;PRS = cek'vav
+ცეკვავს	ცეკვავს	V;3;SG;IND;PRS = cek'vavs
+ცეკვავს	ვცეკვავთ	V;1;PL;IND;PRS = vcek'vavt
+ცეკვავს	ცეკვავთ	V;2;PL;IND;PRS = cek'vavt
+ცეკვავს	ცეკვავენ	V;3;PL;IND;PRS = cek'vaven
+
+
+Screeve #2:
+ცეკვავს	ვცეკვავდი	V;1;SG;IND;IPFV = vcek'vavdi
+ცეკვავს	ცეკვავდი	V;2;SG;IND;IPFV = cek'vavdi
+ცეკვავს	ცეკვავდა	V;3;SG;IND;IPFV = cek'vavda
+ცეკვავს	ვცეკვავდით	V;1;PL;IND;IPFV = vcek'vavdit
+ცეკვავს	ცეკვავდით	V;2;PL;IND;IPFV = cek'vavdit
+ცეკვავს	ცეკვავდნენ	V;3;PL;IND;IPFV = cek'vavdnen
+
+
+Screeve #3:
+ცეკვავს	ვცეკვავდე	V;1;SG;SBJV;PRS = vcek'vavde
+ცეკვავს	ცეკვავდე	V;2;SG;SBJV;PRS = cek'vavde
+ცეკვავს	ცეკვავდეს	V;3;SG;SBJV;PRS = cek'vavdes
+ცეკვავს	ვცეკვავდეთ	V;1;PL;SBJV;PRS = vcek'vavdet
+ცეკვავს	ცეკვავდეთ	V;2;PL;SBJV;PRS = cek'vavdet
+ცეკვავს	ცეკვავდნენ	V;3;PL;SBJV;PRS = cek'vavdnen
+
+
+Screeve #4:
+ცეკვავს	ვიცეკვებ	V;1;SG;IND;FUT = vicek'veb
+ცეკვავს	იცეკვებ	V;2;SG;IND;FUT = icek'veb
+ცეკვავს	იცეკვებს	V;3;SG;IND;FUT = icek'vebs
+ცეკვავს	ვიცეკვებთ	V;1;PL;IND;FUT = vicek'vebt
+ცეკვავს	იცეკვებთ	V;2;PL;IND;FUT = icek'vebt
+ცეკვავს	იცეკვებენ	V;3;PL;IND;FUT = icek'veben
+
+
+Screeve #5:
+ცეკვავს	ვიცეკვებდი	V;1;SG;COND = vicek'vebdi
+ცეკვავს	იცეკვებდი	V;2;SG;COND = icek'vebdi
+ცეკვავს	იცეკვებდა	V;3;SG;COND = icek'vebda
+ცეკვავს	ვიცეკვებდით	V;1;PL;COND = vicek'vebdit
+ცეკვავს	იცეკვებდით	V;2;PL;COND = icek'vebdit
+ცეკვავს	იცეკვებდნენ	V;3;PL;COND = icek'vebdnen
+
+
+Screeve #6:
+ცეკვავს	ვიცეკვებდე	V;1;SG;SBJV;FUT = vicek'vebde
+ცეკვავს	იცეკვებდე	V;2;SG;SBJV;FUT = icek'vebde
+ცეკვავს	იცეკვებდეს	V;3;SG;SBJV;FUT = icek'vebdes
+ცეკვავს	ვიცეკვებდეთ	V;1;PL;SBJV;FUT = vicek'vebdet
+ცეკვავს	იცეკვებდეთ	V;2;PL;SBJV;FUT = icek'vebdet
+ცეკვავს	იცეკვებდნენ	V;3;PL;SBJV;FUT = icek'vebdnen
+
+
+Screeve #7:
+ცეკვავს	ვიცეკვე	V;1;SG;IND;PST;PFV = vicek've
+ცეკვავს	იცეკვე	V;2;SG;IND;PST;PFV = icek've
+ცეკვავს	იცეკვა	V;3;SG;IND;PST;PFV = icek'va
+ცეკვავს	ვიცეკვეთ	V;1;PL;IND;PST;PFV = vicek'vet
+ცეკვავს	იცეკვეთ	V;2;PL;IND;PST;PFV = icek'vet
+ცეკვავს	იცეკვეს	V;3;PL;IND;PST;PFV = icek'ves
+
+ცეკვავს	იცეკვე	V;2;SG;IMP = icek've
+ცეკვავს	იცეკვეთ	V;2;PL;IMP = icek'vet
+
+
+Screeve #8:
+ცეკვავს	ვიცეკვო	V;1;SG;OPT = vicek'vo
+ცეკვავს	იცეკვო	V;2;SG;OPT = icek'vo
+ცეკვავს	იცეკვოს	V;3;SG;OPT = icek'vos
+ცეკვავს	ვიცეკვოთ	V;1;PL;OPT = vicek'vot
+ცეკვავს	იცეკვოთ	V;2;PL;OPT = icek'vot
+ცეკვავს	იცეკვონ	V;3;PL;OPT = icek'von
+
+ცეკვავს	ვიცეკვოთ	V;1;PL;IMP = vicek'vot
+ცეკვავს	იცეკვოს	V;3;SG;IMP = icek'vos
+ცეკვავს	იცეკვონ	V;3;PL;IMP = icek'von
+
+
+Screeve #9:
+ცეკვავს	მიცეკვია	V;1;SG;IND;PRF = micek'via
+ცეკვავს	გიცეკვია	V;2;SG;IND;PRF = gicek'via
+ცეკვავს	უცეკვია	V;3;SG;IND;PRF = ucek'via
+ცეკვავს	გვიცეკვია	V;1;PL;IND;PRF = gvicek'via
+ცეკვავს	გიცეკვიათ	V;2;PL;IND;PRF = gicek'viat
+ცეკვავს	უცეკვიათ	V;3;PL;IND;PRF = ucek'viat
+
+
+Screeve #10:
+ცეკვავს	მეცეკვა	V;1;SG;IND;PST;PRF = mecek'va
+ცეკვავს	გეცეკვა	V;2;SG;IND;PST;PRF = gecek'va
+ცეკვავს	ეცეკვა	V;3;SG;IND;PST;PRF = ecek'va
+ცეკვავს	გვეცეკვა	V;1;PL;IND;PST;PRF = gvecek'va
+ცეკვავს	გეცეკვათ	V;2;PL;IND;PST;PRF = gecek'vat
+ცეკვავს	ეცეკვათ	V;3;PL;IND;PST;PRF = ecek'vat
+
+
+Screeve #11:
+ცეკვავს	მეცეკვოს	V;1;SG;SBJV;PRF = mecek'vos
+ცეკვავს	გეცეკვოს	V;2;SG;SBJV;PRF = gecek'vos
+ცეკვავს	ეცეკვოს	V;3;SG;SBJV;PRF = ecek'vos
+ცეკვავს	გვეცეკვოს	V;1;PL;SBJV;PRF = gvecek'vos
+ცეკვავს	გეცეკვოთ	V;2;PL;SBJV;PRF = gecek'vot
+ცეკვავს	ეცეკვოთ	V;3;PL;SBJV;PRF = ecek'vot
+
+
+ცეკვავს	ცეკვაV;V.MSDR;IPFV

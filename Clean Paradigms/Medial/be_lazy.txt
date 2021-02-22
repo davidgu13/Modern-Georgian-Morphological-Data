@@ -1,0 +1,108 @@
+#25 - ზარმაცობს - be_lazy:
+Screeve #1:
+ზარმაცობს	ვზარმაცობ	V;1;SG;IND;PRS = vzarmacob
+ზარმაცობს	ზარმაცობ	V;2;SG;IND;PRS = zarmacob
+ზარმაცობს	ზარმაცობს	V;3;SG;IND;PRS = zarmacobs
+ზარმაცობს	ვზარმაცობთ	V;1;PL;IND;PRS = vzarmacobt
+ზარმაცობს	ზარმაცობთ	V;2;PL;IND;PRS = zarmacobt
+ზარმაცობს	ზარმაცობენ	V;3;PL;IND;PRS = zarmacoben
+
+
+Screeve #2:
+ზარმაცობს	ვზარმაცობდი	V;1;SG;IND;IPFV = vzarmacobdi
+ზარმაცობს	ზარმაცობდი	V;2;SG;IND;IPFV = zarmacobdi
+ზარმაცობს	ზარმაცობდა	V;3;SG;IND;IPFV = zarmacobda
+ზარმაცობს	ვზარმაცობდით	V;1;PL;IND;IPFV = vzarmacobdit
+ზარმაცობს	ზარმაცობდით	V;2;PL;IND;IPFV = zarmacobdit
+ზარმაცობს	ზარმაცობდნენ	V;3;PL;IND;IPFV = zarmacobdnen
+
+
+Screeve #3:
+ზარმაცობს	ვზარმაცობდე	V;1;SG;SBJV;PRS = vzarmacobde
+ზარმაცობს	ზარმაცობდე	V;2;SG;SBJV;PRS = zarmacobde
+ზარმაცობს	ზარმაცობდეს	V;3;SG;SBJV;PRS = zarmacobdes
+ზარმაცობს	ვზარმაცობდეთ	V;1;PL;SBJV;PRS = vzarmacobdet
+ზარმაცობს	ზარმაცობდეთ	V;2;PL;SBJV;PRS = zarmacobdet
+ზარმაცობს	ზარმაცობდნენ	V;3;PL;SBJV;PRS = zarmacobdnen
+
+
+Screeve #4:
+ზარმაცობს	ვიზარმაცებ	V;1;SG;IND;FUT = vizarmaceb
+ზარმაცობს	იზარმაცებ	V;2;SG;IND;FUT = izarmaceb
+ზარმაცობს	იზარმაცებს	V;3;SG;IND;FUT = izarmacebs
+ზარმაცობს	ვიზარმაცებთ	V;1;PL;IND;FUT = vizarmacebt
+ზარმაცობს	იზარმაცებთ	V;2;PL;IND;FUT = izarmacebt
+ზარმაცობს	იზარმაცებენ	V;3;PL;IND;FUT = izarmaceben
+
+
+Screeve #5:
+ზარმაცობს	ვიზარმაცებდი	V;1;SG;COND = vizarmacebdi
+ზარმაცობს	იზარმაცებდი	V;2;SG;COND = izarmacebdi
+ზარმაცობს	იზარმაცებდა	V;3;SG;COND = izarmacebda
+ზარმაცობს	ვიზარმაცებდით	V;1;PL;COND = vizarmacebdit
+ზარმაცობს	იზარმაცებდით	V;2;PL;COND = izarmacebdit
+ზარმაცობს	იზარმაცებდნენ	V;3;PL;COND = izarmacebdnen
+
+
+Screeve #6:
+ზარმაცობს	ვიზარმაცებდე	V;1;SG;SBJV;FUT = vizarmacebde
+ზარმაცობს	იზარმაცებდე	V;2;SG;SBJV;FUT = izarmacebde
+ზარმაცობს	იზარმაცებდეს	V;3;SG;SBJV;FUT = izarmacebdes
+ზარმაცობს	ვიზარმაცებდეთ	V;1;PL;SBJV;FUT = vizarmacebdet
+ზარმაცობს	იზარმაცებდეთ	V;2;PL;SBJV;FUT = izarmacebdet
+ზარმაცობს	იზარმაცებდნენ	V;3;PL;SBJV;FUT = izarmacebdnen
+
+
+Screeve #7:
+ზარმაცობს	ვიზარმაცე	V;1;SG;IND;PST;PFV = vizarmace
+ზარმაცობს	იზარმაცე	V;2;SG;IND;PST;PFV = izarmace
+ზარმაცობს	იზარმაცა	V;3;SG;IND;PST;PFV = izarmaca
+ზარმაცობს	ვიზარმაცეთ	V;1;PL;IND;PST;PFV = vizarmacet
+ზარმაცობს	იზარმაცეთ	V;2;PL;IND;PST;PFV = izarmacet
+ზარმაცობს	იზარმაცეს	V;3;PL;IND;PST;PFV = izarmaces
+
+ზარმაცობს	იზარმაცე	V;2;SG;IMP = izarmace
+ზარმაცობს	იზარმაცეთ	V;2;PL;IMP = izarmacet
+
+
+Screeve #8:
+ზარმაცობს	ვიზარმაცო	V;1;SG;OPT = vizarmaco
+ზარმაცობს	იზარმაცო	V;2;SG;OPT = izarmaco
+ზარმაცობს	იზარმაცოს	V;3;SG;OPT = izarmacos
+ზარმაცობს	ვიზარმაცოთ	V;1;PL;OPT = vizarmacot
+ზარმაცობს	იზარმაცოთ	V;2;PL;OPT = izarmacot
+ზარმაცობს	იზარმაცონ	V;3;PL;OPT = izarmacon
+
+ზარმაცობს	ვიზარმაცოთ	V;1;PL;IMP = vizarmacot
+ზარმაცობს	იზარმაცოს	V;3;SG;IMP = izarmacos
+ზარმაცობს	იზარმაცონ	V;3;PL;IMP = izarmacon
+
+
+Screeve #9:
+ზარმაცობს	მიზარმაცია	V;1;SG;IND;PRF = mizarmacia
+ზარმაცობს	გიზარმაცია	V;2;SG;IND;PRF = gizarmacia
+ზარმაცობს	უზარმაცია	V;3;SG;IND;PRF = uzarmacia
+ზარმაცობს	გვიზარმაცია	V;1;PL;IND;PRF = gvizarmacia
+ზარმაცობს	გიზარმაციათ	V;2;PL;IND;PRF = gizarmaciat
+ზარმაცობს	უზარმაციათ	V;3;PL;IND;PRF = uzarmaciat
+
+
+Screeve #10:
+ზარმაცობს	მეზარმაცა	V;1;SG;IND;PST;PRF = mezarmaca
+ზარმაცობს	გეზარმაცა	V;2;SG;IND;PST;PRF = gezarmaca
+ზარმაცობს	ეზარმაცა	V;3;SG;IND;PST;PRF = ezarmaca
+ზარმაცობს	გვეზარმაცა	V;1;PL;IND;PST;PRF = gvezarmaca
+ზარმაცობს	გეზარმაცათ	V;2;PL;IND;PST;PRF = gezarmacat
+ზარმაცობს	ეზარმაცათ	V;3;PL;IND;PST;PRF = ezarmacat
+
+
+Screeve #11:
+ზარმაცობს	მეზარმაცოს	V;1;SG;SBJV;PRF = mezarmacos
+ზარმაცობს	გეზარმაცოს	V;2;SG;SBJV;PRF = gezarmacos
+ზარმაცობს	ეზარმაცოს	V;3;SG;SBJV;PRF = ezarmacos
+ზარმაცობს	გვეზარმაცოს	V;1;PL;SBJV;PRF = gvezarmacos
+ზარმაცობს	გეზარმაცოთ	V;2;PL;SBJV;PRF = gezarmacot
+ზარმაცობს	ეზარმაცოთ	V;3;PL;SBJV;PRF = ezarmacot
+
+
+ზარმაცობს	ზარმაცობა	V;V.MSDR;IPFV

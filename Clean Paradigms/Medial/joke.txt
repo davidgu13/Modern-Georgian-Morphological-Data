@@ -1,0 +1,108 @@
+#9 - ხუმრობს - joke:
+Screeve #1:
+ხუმრობს	ვხუმრობ	V;1;SG;IND;PRS = vxumrob
+ხუმრობს	ხუმრობ	V;2;SG;IND;PRS = xumrob
+ხუმრობს	ხუმრობს	V;3;SG;IND;PRS = xumrobs
+ხუმრობს	ვხუმრობთ	V;1;PL;IND;PRS = vxumrobt
+ხუმრობს	ხუმრობთ	V;2;PL;IND;PRS = xumrobt
+ხუმრობს	ხუმრობენ	V;3;PL;IND;PRS = xumroben
+
+
+Screeve #2:
+ხუმრობს	ვხუმრობდი	V;1;SG;IND;IPFV = vxumrobdi
+ხუმრობს	ხუმრობდი	V;2;SG;IND;IPFV = xumrobdi
+ხუმრობს	ხუმრობდა	V;3;SG;IND;IPFV = xumrobda
+ხუმრობს	ვხუმრობდით	V;1;PL;IND;IPFV = vxumrobdit
+ხუმრობს	ხუმრობდით	V;2;PL;IND;IPFV = xumrobdit
+ხუმრობს	ხუმრობდნენ	V;3;PL;IND;IPFV = xumrobdnen
+
+
+Screeve #3:
+ხუმრობს	ვხუმრობდე	V;1;SG;SBJV;PRS = vxumrobde
+ხუმრობს	ხუმრობდე	V;2;SG;SBJV;PRS = xumrobde
+ხუმრობს	ხუმრობდეს	V;3;SG;SBJV;PRS = xumrobdes
+ხუმრობს	ვხუმრობდეთ	V;1;PL;SBJV;PRS = vxumrobdet
+ხუმრობს	ხუმრობდეთ	V;2;PL;SBJV;PRS = xumrobdet
+ხუმრობს	ხუმრობდნენ	V;3;PL;SBJV;PRS = xumrobdnen
+
+
+Screeve #4:
+ხუმრობს	ვიხუმრებ	V;1;SG;IND;FUT = vixumreb
+ხუმრობს	იხუმრებ	V;2;SG;IND;FUT = ixumreb
+ხუმრობს	იხუმრებს	V;3;SG;IND;FUT = ixumrebs
+ხუმრობს	ვიხუმრებთ	V;1;PL;IND;FUT = vixumrebt
+ხუმრობს	იხუმრებთ	V;2;PL;IND;FUT = ixumrebt
+ხუმრობს	იხუმრებენ	V;3;PL;IND;FUT = ixumreben
+
+
+Screeve #5:
+ხუმრობს	ვიხუმრებდი	V;1;SG;COND = vixumrebdi
+ხუმრობს	იხუმრებდი	V;2;SG;COND = ixumrebdi
+ხუმრობს	იხუმრებდა	V;3;SG;COND = ixumrebda
+ხუმრობს	ვიხუმრებდით	V;1;PL;COND = vixumrebdit
+ხუმრობს	იხუმრებდით	V;2;PL;COND = ixumrebdit
+ხუმრობს	იხუმრებდნენ	V;3;PL;COND = ixumrebdnen
+
+
+Screeve #6:
+ხუმრობს	ვიხუმრებდე	V;1;SG;SBJV;FUT = vixumrebde
+ხუმრობს	იხუმრებდე	V;2;SG;SBJV;FUT = ixumrebde
+ხუმრობს	იხუმრებდეს	V;3;SG;SBJV;FUT = ixumrebdes
+ხუმრობს	ვიხუმრებდეთ	V;1;PL;SBJV;FUT = vixumrebdet
+ხუმრობს	იხუმრებდეთ	V;2;PL;SBJV;FUT = ixumrebdet
+ხუმრობს	იხუმრებდნენ	V;3;PL;SBJV;FUT = ixumrebdnen
+
+
+Screeve #7:
+ხუმრობს	ვიხუმრე	V;1;SG;IND;PST;PFV = vixumre
+ხუმრობს	იხუმრე	V;2;SG;IND;PST;PFV = ixumre
+ხუმრობს	იხუმრა	V;3;SG;IND;PST;PFV = ixumra
+ხუმრობს	ვიხუმრეთ	V;1;PL;IND;PST;PFV = vixumret
+ხუმრობს	იხუმრეთ	V;2;PL;IND;PST;PFV = ixumret
+ხუმრობს	იხუმრეს	V;3;PL;IND;PST;PFV = ixumres
+
+ხუმრობს	იხუმრე	V;2;SG;IMP = ixumre
+ხუმრობს	იხუმრეთ	V;2;PL;IMP = ixumret
+
+
+Screeve #8:
+ხუმრობს	ვიხუმრო	V;1;SG;OPT = vixumro
+ხუმრობს	იხუმრო	V;2;SG;OPT = ixumro
+ხუმრობს	იხუმროს	V;3;SG;OPT = ixumros
+ხუმრობს	ვიხუმროთ	V;1;PL;OPT = vixumrot
+ხუმრობს	იხუმროთ	V;2;PL;OPT = ixumrot
+ხუმრობს	იხუმრონ	V;3;PL;OPT = ixumron
+
+ხუმრობს	ვიხუმროთ	V;1;PL;IMP = vixumrot
+ხუმრობს	იხუმროს	V;3;SG;IMP = ixumros
+ხუმრობს	იხუმრონ	V;3;PL;IMP = ixumron
+
+
+Screeve #9:
+ხუმრობს	მიხუმრია	V;1;SG;IND;PRF = mixumria
+ხუმრობს	გიხუმრია	V;2;SG;IND;PRF = gixumria
+ხუმრობს	უხუმრია	V;3;SG;IND;PRF = uxumria
+ხუმრობს	გვიხუმრია	V;1;PL;IND;PRF = gvixumria
+ხუმრობს	გიხუმრიათ	V;2;PL;IND;PRF = gixumriat
+ხუმრობს	უხუმრიათ	V;3;PL;IND;PRF = uxumriat
+
+
+Screeve #10:
+ხუმრობს	მეხუმრა	V;1;SG;IND;PST;PRF = mexumra
+ხუმრობს	გეხუმრა	V;2;SG;IND;PST;PRF = gexumra
+ხუმრობს	ეხუმრა	V;3;SG;IND;PST;PRF = exumra
+ხუმრობს	გვეხუმრა	V;1;PL;IND;PST;PRF = gvexumra
+ხუმრობს	გეხუმრათ	V;2;PL;IND;PST;PRF = gexumrat
+ხუმრობს	ეხუმრათ	V;3;PL;IND;PST;PRF = exumrat
+
+
+Screeve #11:
+ხუმრობს	მეხუმროს	V;1;SG;SBJV;PRF = mexumros
+ხუმრობს	გეხუმროს	V;2;SG;SBJV;PRF = gexumros
+ხუმრობს	ეხუმროს	V;3;SG;SBJV;PRF = exumros
+ხუმრობს	გვეხუმროს	V;1;PL;SBJV;PRF = gvexumros
+ხუმრობს	გეხუმროთ	V;2;PL;SBJV;PRF = gexumrot
+ხუმრობს	ეხუმროთ	V;3;PL;SBJV;PRF = exumrot
+
+
+ხუმრობს	ხუმრობა	V;V.MSDR;IPFV

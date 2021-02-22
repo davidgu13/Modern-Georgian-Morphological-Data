@@ -1,0 +1,107 @@
+#21 - მუშავობს - work:
+Screeve #1:
+მუშაობს	ვმუშაობ	V;1;SG;IND;PRS = vmušaob
+მუშაობს	მუშაობ	V;2;SG;IND;PRS = mušaob
+მუშაობს	მუშაობს	V;3;SG;IND;PRS = mušaobs
+მუშაობს	ვმუშაობთ	V;1;PL;IND;PRS = vmušaobt
+მუშაობს	მუშაობთ	V;2;PL;IND;PRS = mušaobt
+მუშაობს	მუშაობენ	V;3;PL;IND;PRS = mušaoben
+
+
+Screeve #2:
+მუშაობს	ვმუშაობდი	V;1;SG;IND;IPFV = vmušaobdi
+მუშაობს	მუშაობდი	V;2;SG;IND;IPFV = mušaobdi
+მუშაობს	მუშაობდა	V;3;SG;IND;IPFV = mušaobda
+მუშაობს	ვმუშაობდით	V;1;PL;IND;IPFV = vmušaobdit
+მუშაობს	მუშაობდით	V;2;PL;IND;IPFV = mušaobdit
+მუშაობს	მუშაობდნენ	V;3;PL;IND;IPFV = mušaobdnen
+
+
+Screeve #3:
+მუშაობს	ვმუშაობდე	V;1;SG;SBJV;PRS = vmušaobde
+მუშაობს	მუშაობდე	V;2;SG;SBJV;PRS = mušaobde
+მუშაობს	მუშაობდეს	V;3;SG;SBJV;PRS = mušaobdes
+მუშაობს	ვმუშაობდეთ	V;1;PL;SBJV;PRS = vmušaobdet
+მუშაობს	მუშაობდეთ	V;2;PL;SBJV;PRS = mušaobdet
+მუშაობს	მუშაობდნენ	V;3;PL;SBJV;PRS = mušaobdnen
+
+
+Screeve #4:
+მუშაობს	ვიმუშავებ	V;1;SG;IND;FUT = vimušaveb
+მუშაობს	იმუშავებ	V;2;SG;IND;FUT = imušaveb
+მუშაობს	იმუშავებს	V;3;SG;IND;FUT = imušavebs
+მუშაობს	ვიმუშავებთ	V;1;PL;IND;FUT = vimušavebt
+მუშაობს	იმუშავებთ	V;2;PL;IND;FUT = imušavebt
+მუშაობს	იმუშავებენ	V;3;PL;IND;FUT = imušaveben
+
+
+Screeve #5:
+მუშაობს	ვიმუშავებდი	V;1;SG;COND = vimušavebdi
+მუშაობს	იმუშავებდი	V;2;SG;COND = imušavebdi
+მუშაობს	იმუშავებდა	V;3;SG;COND = imušavebda
+მუშაობს	ვიმუშავებდით	V;1;PL;COND = vimušavebdit
+მუშაობს	იმუშავებდით	V;2;PL;COND = imušavebdit
+მუშაობს	იმუშავებდნენ	V;3;PL;COND = imušavebdnen
+
+
+Screeve #6:
+მუშაობს	ვიმუშავებდე	V;1;SG;SBJV;FUT = vimušavebde
+მუშაობს	იმუშავებდე	V;2;SG;SBJV;FUT = imušavebde
+მუშაობს	იმუშავებდეს	V;3;SG;SBJV;FUT = imušavebdes
+მუშაობს	ვიმუშავებდეთ	V;1;PL;SBJV;FUT = vimušavebdet
+მუშაობს	იმუშავებდეთ	V;2;PL;SBJV;FUT = imušavebdet
+მუშაობს	იმუშავებდნენ	V;3;PL;SBJV;FUT = imušavebdnen
+
+
+Screeve #7:
+მუშაობს	ვიმუშავე	V;1;SG;IND;PST;PFV = vimušave
+მუშაობს	იმუშავე	V;2;SG;IND;PST;PFV = imušave
+მუშაობს	იმუშავა	V;3;SG;IND;PST;PFV = imušava
+მუშაობს	ვიმუშავეთ	V;1;PL;IND;PST;PFV = vimušavet
+მუშაობს	იმუშავეთ	V;2;PL;IND;PST;PFV = imušavet
+მუშაობს	იმუშავეს	V;3;PL;IND;PST;PFV = imušaves
+
+მუშაობს	იმუშავე	V;2;SG;IMP = imušave
+მუშაობს	იმუშავეთ	V;2;PL;IMP = imušavet
+
+
+Screeve #8:
+მუშაობს	ვიმუშაო	V;1;SG;OPT = vimušao
+მუშაობს	იმუშაო	V;2;SG;OPT = imušao
+მუშაობს	იმუშაოს	V;3;SG;OPT = imušaos
+მუშაობს	ვიმუშაოთ	V;1;PL;OPT = vimušaot
+მუშაობს	იმუშაოთ	V;2;PL;OPT = imušaot
+მუშაობს	იმუშაონ	V;3;PL;OPT = imušaon
+
+მუშაობს	ვიმუშაოთ	V;1;PL;IMP = vimušaot
+მუშაობს	იმუშაოს	V;3;SG;IMP = imušaos
+მუშაობს	იმუშაონ	V;3;PL;IMP = imušaon
+
+
+Screeve #9:
+მუშაობს	მიმუშავია	V;1;SG;IND;PRF = mimušavia
+მუშაობს	გიმუშავია	V;2;SG;IND;PRF = gimušavia
+მუშაობს	უმუშავია	V;3;SG;IND;PRF = umušavia
+მუშაობს	გვიმუშავია	V;1;PL;IND;PRF = gvimušavia
+მუშაობს	გიმუშავიათ	V;2;PL;IND;PRF = gimušaviat
+მუშაობს	უმუშავიათ	V;3;PL;IND;PRF = umušaviat
+
+
+Screeve #10:
+მუშაობს	მემუშავა	V;1;SG;IND;PST;PRF = memušava
+მუშაობს	გემუშავა	V;2;SG;IND;PST;PRF = gemušava
+მუშაობს	ემუშავა	V;3;SG;IND;PST;PRF = emušava
+მუშაობს	გვემუშავა	V;1;PL;IND;PST;PRF = gvemušava
+მუშაობს	გემუშავათ	V;2;PL;IND;PST;PRF = gemušavat
+მუშაობს	ემუშავათ	V;3;PL;IND;PST;PRF = emušavat
+
+
+Screeve #11:
+მუშაობს	მემუშაოს	V;1;SG;SBJV;PRF = memušaos
+მუშაობს	გემუშაოს	V;2;SG;SBJV;PRF = gemušaos
+მუშაობს	ემუშაოს	V;3;SG;SBJV;PRF = emušaos
+მუშაობს	გვემუშაოს	V;1;PL;SBJV;PRF = gvemušaos
+მუშაობს	გემუშაოთ	V;2;PL;SBJV;PRF = gemušaot
+მუშაობს	ემუშაოთ	V;3;PL;SBJV;PRF = emušaot
+
+მუშაობს	მუშაობა	V;V.MSDR;IPFV

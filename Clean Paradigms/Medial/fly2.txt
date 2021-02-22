@@ -1,0 +1,108 @@
+#49 - ფრინავს - fly2:
+Screeve #1:
+ფრინავს	ვფრინავ	V;1;SG;IND;PRS = vprinav
+ფრინავს	ფრინავ	V;2;SG;IND;PRS = prinav
+ფრინავს	ფრინავს	V;3;SG;IND;PRS = prinavs
+ფრინავს	ვფრინავთ	V;1;PL;IND;PRS = vprinavt
+ფრინავს	ფრინავთ	V;2;PL;IND;PRS = prinavt
+ფრინავს	ფრინავენ	V;3;PL;IND;PRS = prinaven
+
+
+Screeve #2:
+ფრინავს	ვფრინავდი	V;1;SG;IND;IPFV = vprinavdi
+ფრინავს	ფრინავდი	V;2;SG;IND;IPFV = prinavdi
+ფრინავს	ფრინავდა	V;3;SG;IND;IPFV = prinavda
+ფრინავს	ვფრინავდით	V;1;PL;IND;IPFV = vprinavdit
+ფრინავს	ფრინავდით	V;2;PL;IND;IPFV = prinavdit
+ფრინავს	ფრინავდნენ	V;3;PL;IND;IPFV = prinavdnen
+
+
+Screeve #3:
+ფრინავს	ვფრინავდე	V;1;SG;SBJV;PRS = vprinavde
+ფრინავს	ფრინავდე	V;2;SG;SBJV;PRS = prinavde
+ფრინავს	ფრინავდეს	V;3;SG;SBJV;PRS = prinavdes
+ფრინავს	ვფრინავდეთ	V;1;PL;SBJV;PRS = vprinavdet
+ფრინავს	ფრინავდეთ	V;2;PL;SBJV;PRS = prinavdet
+ფრინავს	ფრინავდნენ	V;3;PL;SBJV;PRS = prinavdnen
+
+
+Screeve #4:
+ფრინავს	ვიფრენ	V;1;SG;IND;FUT = vipren
+ფრენს	იფრენ	V;2;SG;IND;FUT = ipren
+ფრინავს	იფრენს	V;3;SG;IND;FUT = iprens
+ფრინავს	ვიფრენთ	V;1;PL;IND;FUT = viprent
+ფრინავს	იფრენთ	V;2;PL;IND;FUT = iprent
+ფრინავს	იფრენენ	V;3;PL;IND;FUT = iprenen
+
+
+Screeve #5:
+ფრინავს	ვიფრენდი	V;1;SG;COND = viprendi
+ფრინავს	იფრენდი	V;2;SG;COND = iprendi
+ფრინავს	იფრენდა	V;3;SG;COND = iprenda
+ფრინავს	ვიფრენდით	V;1;PL;COND = viprendit
+ფრინავს	იფრენდით	V;2;PL;COND = iprendit
+ფრინავს	იფრენდნენ	V;3;PL;COND = iprendnen
+
+
+Screeve #6:
+ფრინავს	ვიფრენდე	V;1;SG;SBJV;FUT = viprende
+ფრინავს	იფრენდე	V;2;SG;SBJV;FUT = iprende
+ფრინავს	იფრენდეს	V;3;SG;SBJV;FUT = iprendes
+ფრინავს	ვიფრენდეთ	V;1;PL;SBJV;FUT = viprendet
+ფრინავს	იფრენდეთ	V;2;PL;SBJV;FUT = iprendet
+ფრინავს	იფრენდნენ	V;3;PL;SBJV;FUT = iprendnen
+
+
+Screeve #7:
+ფრინავს	ვიფრინე	V;1;SG;IND;PST;PFV = viprine
+ფრინავს	იფრინე	V;2;SG;IND;PST;PFV = iprine
+ფრინავს	იფრინა	V;3;SG;IND;PST;PFV = iprina
+ფრინავს	ვიფრინეთ	V;1;PL;IND;PST;PFV = viprinet
+ფრინავს	იფრინეთ	V;2;PL;IND;PST;PFV = iprinet
+ფრინავს	იფრინეს	V;3;PL;IND;PST;PFV = iprines
+
+ფრინავს	იფრინე	V;2;SG;IMP = iprine
+ფრინავს	იფრინეთ	V;2;PL;IMP = iprinet
+
+
+Screeve #8:
+ფრინავს	ვიფრინო	V;1;SG;OPT = viprino
+ფრინავს	იფრინო	V;2;SG;OPT = iprino
+ფრინავს	იფრინოს	V;3;SG;OPT = iprinos
+ფრინავს	ვიფრინოთ	V;1;PL;OPT = viprinot
+ფრინავს	იფრინოთ	V;2;PL;OPT = iprinot
+ფრინავს	იფრინონ	V;3;PL;OPT = iprinon
+
+ფრინავს	ვიფრინოთ	V;1;PL;IMP = viprinot
+ფრინავს	იფრინოს	V;3;SG;IMP = iprinos
+ფრინავს	იფრინონ	V;3;PL;IMP = iprinon
+
+
+Screeve #9:
+ფრინავს	მიფრინავია	V;1;SG;IND;PRF = miprinavia
+ფრინავს	გიფრინავია	V;2;SG;IND;PRF = giprinavia
+ფრინავს	უფრინავია	V;3;SG;IND;PRF = uprinavia
+ფრინავს	გვიფრინავია	V;1;PL;IND;PRF = gviprinavia
+ფრინავს	გიფრინავიათ	V;2;PL;IND;PRF = giprinaviat
+ფრინავს	უფრინავიათ	V;3;PL;IND;PRF = uprinaviat
+
+
+Screeve #10:
+ფრინავს	მეფრინა	V;1;SG;IND;PST;PRF = meprina
+ფრინავს	გეფრინა	V;2;SG;IND;PST;PRF = geprina
+ფრინავს	ეფრინა	V;3;SG;IND;PST;PRF = eprina
+ფრინავს	გვეფრინა	V;1;PL;IND;PST;PRF = gveprina
+ფრინავს	გეფრინათ	V;2;PL;IND;PST;PRF = geprinat
+ფრინავს	ეფრინათ	V;3;PL;IND;PST;PRF = eprinat
+
+
+Screeve #11:
+ფრინავს	მეფრინოს	V;1;SG;SBJV;PRF = meprinos
+ფრინავს	გეფრინოს	V;2;SG;SBJV;PRF = geprinos
+ფრინავს	ეფრინოს	V;3;SG;SBJV;PRF = eprinos
+ფრინავს	გვეფრინოს	V;1;PL;SBJV;PRF = gveprinos
+ფრინავს	გეფრინოთ	V;2;PL;SBJV;PRF = geprinot
+ფრინავს	ეფრინოთ	V;3;PL;SBJV;PRF = eprinot
+
+
+ფრინავს	ფრენა	V;V.MSDR;IPFV

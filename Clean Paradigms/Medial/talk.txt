@@ -1,0 +1,108 @@
+#19 - ლაპარაკობს - talk:
+Screeve #1:
+ლაპარაკობს	ვლაპარაკობ	V;1;SG;IND;PRS = vlap'arak'ob
+ლაპარაკობს	ლაპარაკობ	V;2;SG;IND;PRS = lap'arak'ob
+ლაპარაკობს	ლაპარაკობს	V;3;SG;IND;PRS = lap'arak'obs
+ლაპარაკობს	ვლაპარაკობთ	V;1;PL;IND;PRS = vlap'arak'obt
+ლაპარაკობს	ლაპარაკობთ	V;2;PL;IND;PRS = lap'arak'obt
+ლაპარაკობს	ლაპარაკობენ	V;3;PL;IND;PRS = lap'arak'oben
+
+
+Screeve #2:
+ლაპარაკობს	ვლაპარაკობდი	V;1;SG;IND;IPFV = vlap'arak'obdi
+ლაპარაკობს	ლაპარაკობდი	V;2;SG;IND;IPFV = lap'arak'obdi
+ლაპარაკობს	ლაპარაკობდა	V;3;SG;IND;IPFV = lap'arak'obda
+ლაპარაკობს	ვლაპარაკობდით	V;1;PL;IND;IPFV = vlap'arak'obdit
+ლაპარაკობს	ლაპარაკობდით	V;2;PL;IND;IPFV = lap'arak'obdit
+ლაპარაკობს	ლაპარაკობდნენ	V;3;PL;IND;IPFV = lap'arak'obdnen
+
+
+Screeve #3:
+ლაპარაკობს	ვლაპარაკობდე	V;1;SG;SBJV;PRS = vlap'arak'obde
+ლაპარაკობს	ლაპარაკობდე	V;2;SG;SBJV;PRS = lap'arak'obde
+ლაპარაკობს	ლაპარაკობდეს	V;3;SG;SBJV;PRS = lap'arak'obdes
+ლაპარაკობს	ვლაპარაკობდეთ	V;1;PL;SBJV;PRS = vlap'arak'obdet
+ლაპარაკობს	ლაპარაკობდეთ	V;2;PL;SBJV;PRS = lap'arak'obdet
+ლაპარაკობს	ლაპარაკობდნენ	V;3;PL;SBJV;PRS = lap'arak'obdnen
+
+
+Screeve #4:
+ლაპარაკობს	ვილაპარაკებ	V;1;SG;IND;FUT = vilap'arak'eb
+ლაპარაკობს	ილაპარაკებ	V;2;SG;IND;FUT = ilap'arak'eb
+ლაპარაკობს	ილაპარაკებს	V;3;SG;IND;FUT = ilap'arak'ebs
+ლაპარაკობს	ვილაპარაკებთ	V;1;PL;IND;FUT = vilap'arak'ebt
+ლაპარაკობს	ილაპარაკებთ	V;2;PL;IND;FUT = ilap'arak'ebt
+ლაპარაკობს	ილაპარაკებენ	V;3;PL;IND;FUT = ilap'arak'eben
+
+
+Screeve #5:
+ლაპარაკობს	ვილაპარაკებდი	V;1;SG;COND = vilap'arak'ebdi
+ლაპარაკობს	ილაპარაკებდი	V;2;SG;COND = ilap'arak'ebdi
+ლაპარაკობს	ილაპარაკებდა	V;3;SG;COND = ilap'arak'ebda
+ლაპარაკობს	ვილაპარაკებდით	V;1;PL;COND = vilap'arak'ebdit
+ლაპარაკობს	ილაპარაკებდით	V;2;PL;COND = ilap'arak'ebdit
+ლაპარაკობს	ილაპარაკებდნენ	V;3;PL;COND = ilap'arak'ebdnen
+
+
+Screeve #6:
+ლაპარაკობს	ვილაპარაკებდე	V;1;SG;SBJV;FUT = vilap'arak'ebde
+ლაპარაკობს	ილაპარაკებდე	V;2;SG;SBJV;FUT = ilap'arak'ebde
+ლაპარაკობს	ილაპარაკებდეს	V;3;SG;SBJV;FUT = ilap'arak'ebdes
+ლაპარაკობს	ვილაპარაკებდეთ	V;1;PL;SBJV;FUT = vilap'arak'ebdet
+ლაპარაკობს	ილაპარაკებდეთ	V;2;PL;SBJV;FUT = ilap'arak'ebdet
+ლაპარაკობს	ილაპარაკებდნენ	V;3;PL;SBJV;FUT = ilap'arak'ebdnen
+
+
+Screeve #7:
+ლაპარაკობს	ვილაპარაკე	V;1;SG;IND;PST;PFV = vilap'arak'e
+ლაპარაკობს	ილაპარაკე	V;2;SG;IND;PST;PFV = ilap'arak'e
+ლაპარაკობს	ილაპარაკა	V;3;SG;IND;PST;PFV = ilap'arak'a
+ლაპარაკობს	ვილაპარაკეთ	V;1;PL;IND;PST;PFV = vilap'arak'et
+ლაპარაკობს	ილაპარაკეთ	V;2;PL;IND;PST;PFV = ilap'arak'et
+ლაპარაკობს	ილაპარაკეს	V;3;PL;IND;PST;PFV = ilap'arak'es
+
+ლაპარაკობს	ილაპარაკე	V;2;SG;IMP = ilap'arak'e
+ლაპარაკობს	ილაპარაკეთ	V;2;PL;IMP = ilap'arak'et
+
+
+Screeve #8:
+ლაპარაკობს	ვილაპარაკო	V;1;SG;OPT = vilap'arak'o
+ლაპარაკობს	ილაპარაკო	V;2;SG;OPT = ilap'arak'o
+ლაპარაკობს	ილაპარაკოს	V;3;SG;OPT = ilap'arak'os
+ლაპარაკობს	ვილაპარაკოთ	V;1;PL;OPT = vilap'arak'ot
+ლაპარაკობს	ილაპარაკოთ	V;2;PL;OPT = ilap'arak'ot
+ლაპარაკობს	ილაპარაკონ	V;3;PL;OPT = ilap'arak'on
+
+ლაპარაკობს	ვილაპარაკოთ	V;1;PL;IMP = vilap'arak'ot
+ლაპარაკობს	ილაპარაკოს	V;3;SG;IMP = ilap'arak'os
+ლაპარაკობს	ილაპარაკონ	V;3;PL;IMP = ilap'arak'on
+
+
+Screeve #9:
+ლაპარაკობს	მილაპარაკია	V;1;SG;IND;PRF = milap'arak'ia
+ლაპარაკობს	გილაპარაკია	V;2;SG;IND;PRF = gilap'arak'ia
+ლაპარაკობს	ულაპარაკია	V;3;SG;IND;PRF = ulap'arak'ia
+ლაპარაკობს	გვილაპარაკია	V;1;PL;IND;PRF = gvilap'arak'ia
+ლაპარაკობს	გილაპარაკიათ	V;2;PL;IND;PRF = gilap'arak'iat
+ლაპარაკობს	ულაპარაკიათ	V;3;PL;IND;PRF = ulap'arak'iat
+
+
+Screeve #10:
+ლაპარაკობს	მელაპარაკა	V;1;SG;IND;PST;PRF = melap'arak'a
+ლაპარაკობს	გელაპარაკა	V;2;SG;IND;PST;PRF = gelap'arak'a
+ლაპარაკობს	ელაპარაკა	V;3;SG;IND;PST;PRF = elap'arak'a
+ლაპარაკობს	გველაპარაკა	V;1;PL;IND;PST;PRF = gvelap'arak'a
+ლაპარაკობს	გელაპარაკათ	V;2;PL;IND;PST;PRF = gelap'arak'at
+ლაპარაკობს	ელაპარაკათ	V;3;PL;IND;PST;PRF = elap'arak'at
+
+
+Screeve #11:
+ლაპარაკობს	მელაპარაკოს	V;1;SG;SBJV;PRF = melap'arak'os
+ლაპარაკობს	გელაპარაკოს	V;2;SG;SBJV;PRF = gelap'arak'os
+ლაპარაკობს	ელაპარაკოს	V;3;SG;SBJV;PRF = elap'arak'os
+ლაპარაკობს	გველაპარაკოს	V;1;PL;SBJV;PRF = gvelap'arak'os
+ლაპარაკობს	გელაპარაკოთ	V;2;PL;SBJV;PRF = gelap'arak'ot
+ლაპარაკობს	ელაპარაკოთ	V;3;PL;SBJV;PRF = elap'arak'ot
+
+
+ლაპარაკობს	ლაპარაკი	V;V.MSDR;IPFV

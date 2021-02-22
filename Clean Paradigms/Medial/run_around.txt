@@ -1,0 +1,108 @@
+#14 - დარბის - run_around:
+Screeve #1:
+დარბის	ვდარბივარ	V;1;SG;IND;PRS = vdarbivar
+დარბის	დარბიხარ	V;2;SG;IND;PRS = darbixar
+დარბის	დარბის	V;3;SG;IND;PRS = darbis
+დარბის	ვდარბივართ	V;1;PL;IND;PRS = vdarbivart
+დარბის	დარბიხართ	V;2;PL;IND;PRS = darbixart
+დარბის	დარბიან	V;3;PL;IND;PRS = darbian
+
+
+Screeve #2:
+დარბის	ვდარბოდი	V;1;SG;IND;IPFV = vdarbodi
+დარბის	დარბოდი	V;2;SG;IND;IPFV = darbodi
+დარბის	დარბოდა	V;3;SG;IND;IPFV = darboda
+დარბის	ვდარბოდით	V;1;PL;IND;IPFV = vdarbodit
+დარბის	დარბოდით	V;2;PL;IND;IPFV = darbodit
+დარბის	დარბოდნენ	V;3;PL;IND;IPFV = darbodnen
+
+
+Screeve #3:
+დარბის	ვდარბოდე	V;1;SG;SBJV;PRS = vdarbode
+დარბის	დარბოდე	V;2;SG;SBJV;PRS = darbode
+დარბის	დარბოდეს	V;3;SG;SBJV;PRS = darbodes
+დარბის	ვდარბოდეთ	V;1;PL;SBJV;PRS = vdarbodet
+დარბის	დარბოდეთ	V;2;PL;SBJV;PRS = darbodet
+დარბის	დარბოდნენ	V;3;PL;SBJV;PRS = darbodnen
+
+
+Screeve #4:
+დარბის	ვირბენ	V;1;SG;IND;FUT = virben
+დარბის	ირბენ	V;2;SG;IND;FUT = irben
+დარბის	ირბენს	V;3;SG;IND;FUT = irbens
+დარბის	ვირბენთ	V;1;PL;IND;FUT = virbent
+დარბის	ირბენთ	V;2;PL;IND;FUT = irbent
+დარბის	ირბენენ	V;3;PL;IND;FUT = irbenen
+
+
+Screeve #5:
+დარბის	ვირბენდი	V;1;SG;COND = virbendi
+დარბის	ირბენდი	V;2;SG;COND = irbendi
+დარბის	ირბენდა	V;3;SG;COND = irbenda
+დარბის	ვირბენდით	V;1;PL;COND = virbendit
+დარბის	ირბენდით	V;2;PL;COND = irbendit
+დარბის	ირბენდნენ	V;3;PL;COND = irbendnen
+
+
+Screeve #6:
+დარბის	ვირბენდე	V;1;SG;SBJV;FUT = virbende
+დარბის	ირბენდე	V;2;SG;SBJV;FUT = irbende
+დარბის	ირბენდეს	V;3;SG;SBJV;FUT = irbendes
+დარბის	ვირბენდეთ	V;1;PL;SBJV;FUT = virbendet
+დარბის	ირბენდეთ	V;2;PL;SBJV;FUT = irbendet
+დარბის	ირბენდნენ	V;3;PL;SBJV;FUT = irbendnen
+
+
+Screeve #7:
+დარბის	ვირბინე	V;1;SG;IND;PST;PFV = virbine
+დარბის	ირბინე	V;2;SG;IND;PST;PFV = irbine
+დარბის	ირბინა	V;3;SG;IND;PST;PFV = irbina
+დარბის	ვირბინეთ	V;1;PL;IND;PST;PFV = virbinet
+დარბის	ირბინეთ	V;2;PL;IND;PST;PFV = irbinet
+დარბის	ირბინეს	V;3;PL;IND;PST;PFV = irbines
+
+დარბის	ირბინე	V;2;SG;IMP = irbine
+დარბის	ირბინეთ	V;2;PL;IMP = irbinet
+
+
+Screeve #8:
+დარბის	ვირბინო	V;1;SG;OPT = virbino
+დარბის	ირბინო	V;2;SG;OPT = irbino
+დარბის	ირბინოს	V;3;SG;OPT = irbinos
+დარბის	ვირბინოთ	V;1;PL;OPT = virbinot
+დარბის	ირბინოთ	V;2;PL;OPT = irbinot
+დარბის	ირბინონ	V;3;PL;OPT = irbinon
+
+დარბის	ვირბინოთ	V;1;PL;IMP = virbinot
+დარბის	ირბინოს	V;3;SG;IMP = irbinos
+დარბის	ირბინონ	V;3;PL;IMP = irbinon
+
+
+Screeve #9:
+დარბის	მირბენია	V;1;SG;IND;PRF = mirbenia
+დარბის	გირბენია	V;2;SG;IND;PRF = girbenia
+დარბის	ურბენია	V;3;SG;IND;PRF = urbenia
+დარბის	გვირბენია	V;1;PL;IND;PRF = gvirbenia
+დარბის	გირბენიათ	V;2;PL;IND;PRF = girbeniat
+დარბის	ურბენიათ	V;3;PL;IND;PRF = urbeniat
+
+
+Screeve #10:
+დარბის	მერბინა	V;1;SG;IND;PST;PRF = merbina
+დარბის	გერბინა	V;2;SG;IND;PST;PRF = gerbina
+დარბის	ერბინა	V;3;SG;IND;PST;PRF = erbina
+დარბის	გვერბინა	V;1;PL;IND;PST;PRF = gverbina
+დარბის	გერბინათ	V;2;PL;IND;PST;PRF = gerbinat
+დარბის	ერბინათ	V;3;PL;IND;PST;PRF = erbinat
+
+
+Screeve #11:
+დარბის	მერბინოს	V;1;SG;SBJV;PRF = merbinos
+დარბის	გერბინოს	V;2;SG;SBJV;PRF = gerbinos
+დარბის	ერბინოს	V;3;SG;SBJV;PRF = erbinos
+დარბის	გვერბინოს	V;1;PL;SBJV;PRF = gverbinos
+დარბის	გერბინოთ	V;2;PL;SBJV;PRF = gerbinot
+დარბის	ერბინოთ	V;3;PL;SBJV;PRF = erbinot
+
+
+დარბის	სირბილი	V;V.MSDR;IPFV

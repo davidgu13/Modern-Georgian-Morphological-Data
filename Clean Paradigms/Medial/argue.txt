@@ -1,0 +1,108 @@
+#30 - კამათობს - argue:
+Screeve #1:
+კამათობს	ვკამათობ	V;1;SG;IND;PRS = vk'amatob
+კამათობს	კამათობ	V;2;SG;IND;PRS = k'amatob
+კამათობს	კამათობს	V;3;SG;IND;PRS = k'amatobs
+კამათობს	ვკამათობთ	V;1;PL;IND;PRS = vk'amatobt
+კამათობს	კამათობთ	V;2;PL;IND;PRS = k'amatobt
+კამათობს	კამათობენ	V;3;PL;IND;PRS = k'amatoben
+
+
+Screeve #2:
+კამათობს	ვკამათობდი	V;1;SG;IND;IPFV = vk'amatobdi
+კამათობს	კამათობდი	V;2;SG;IND;IPFV = k'amatobdi
+კამათობს	კამათობდა	V;3;SG;IND;IPFV = k'amatobda
+კამათობს	ვკამათობდით	V;1;PL;IND;IPFV = vk'amatobdit
+კამათობს	კამათობდით	V;2;PL;IND;IPFV = k'amatobdit
+კამათობს	კამათობდნენ	V;3;PL;IND;IPFV = k'amatobdnen
+
+
+Screeve #3:
+კამათობს	ვკამათობდე	V;1;SG;SBJV;PRS = vk'amatobde
+კამათობს	კამათობდე	V;2;SG;SBJV;PRS = k'amatobde
+კამათობს	კამათობდეს	V;3;SG;SBJV;PRS = k'amatobdes
+კამათობს	ვკამათობდეთ	V;1;PL;SBJV;PRS = vk'amatobdet
+კამათობს	კამათობდეთ	V;2;PL;SBJV;PRS = k'amatobdet
+კამათობს	კამათობდნენ	V;3;PL;SBJV;PRS = k'amatobdnen
+
+
+Screeve #4:
+კამათობს	ვიკამათებ	V;1;SG;IND;FUT = vik'amateb
+კამათობს	იკამათებ	V;2;SG;IND;FUT = ik'amateb
+კამათობს	იკამათებს	V;3;SG;IND;FUT = ik'amatebs
+კამათობს	ვიკამათებთ	V;1;PL;IND;FUT = vik'amatebt
+კამათობს	იკამათებთ	V;2;PL;IND;FUT = ik'amatebt
+კამათობს	იკამათებენ	V;3;PL;IND;FUT = ik'amateben
+
+
+Screeve #5:
+კამათობს	ვიკამათებდი	V;1;SG;COND = vik'amatebdi
+კამათობს	იკამათებდი	V;2;SG;COND = ik'amatebdi
+კამათობს	იკამათებდა	V;3;SG;COND = ik'amatebda
+კამათობს	ვიკამათებდით	V;1;PL;COND = vik'amatebdit
+კამათობს	იკამათებდით	V;2;PL;COND = ik'amatebdit
+კამათობს	იკამათებდნენ	V;3;PL;COND = ik'amatebdnen
+
+
+Screeve #6:
+კამათობს	ვიკამათებდე	V;1;SG;SBJV;FUT = vik'amatebde
+კამათობს	იკამათებდე	V;2;SG;SBJV;FUT = ik'amatebde
+კამათობს	იკამათებდეს	V;3;SG;SBJV;FUT = ik'amatebdes
+კამათობს	ვიკამათებდეთ	V;1;PL;SBJV;FUT = vik'amatebdet
+კამათობს	იკამათებდეთ	V;2;PL;SBJV;FUT = ik'amatebdet
+კამათობს	იკამათებდნენ	V;3;PL;SBJV;FUT = ik'amatebdnen
+
+
+Screeve #7:
+კამათობს	ვიკამათე	V;1;SG;IND;PST;PFV = vik'amate
+კამათობს	იკამათე	V;2;SG;IND;PST;PFV = ik'amate
+კამათობს	იკამათა	V;3;SG;IND;PST;PFV = ik'amata
+კამათობს	ვიკამათეთ	V;1;PL;IND;PST;PFV = vik'amatet
+კამათობს	იკამათეთ	V;2;PL;IND;PST;PFV = ik'amatet
+კამათობს	იკამათეს	V;3;PL;IND;PST;PFV = ik'amates
+
+კამათობს	იკამათე	V;2;SG;IMP = ik'amate
+კამათობს	იკამათეთ	V;2;PL;IMP = ik'amatet
+
+
+Screeve #8:
+კამათობს	ვიკამათო	V;1;SG;OPT = vik'amato
+კამათობს	იკამათო	V;2;SG;OPT = ik'amato
+კამათობს	იკამათოს	V;3;SG;OPT = ik'amatos
+კამათობს	ვიკამათოთ	V;1;PL;OPT = vik'amatot
+კამათობს	იკამათოთ	V;2;PL;OPT = ik'amatot
+კამათობს	იკამათონ	V;3;PL;OPT = ik'amaton
+
+კამათობს	ვიკამათოთ	V;1;PL;IMP = vik'amatot
+კამათობს	იკამათოს	V;3;SG;IMP = ik'amatos
+კამათობს	იკამათონ	V;3;PL;IMP = ik'amaton
+
+
+Screeve #9:
+კამათობს	მიკამათია	V;1;SG;IND;PRF = mik'amatia
+კამათობს	გიკამათია	V;2;SG;IND;PRF = gik'amatia
+კამათობს	უკამათია	V;3;SG;IND;PRF = uk'amatia
+კამათობს	გვიკამათია	V;1;PL;IND;PRF = gvik'amatia
+კამათობს	გიკამათიათ	V;2;PL;IND;PRF = gik'amatiat
+კამათობს	უკამათიათ	V;3;PL;IND;PRF = uk'amatiat
+
+
+Screeve #10:
+კამათობს	მეკამათა	V;1;SG;IND;PST;PRF = mek'amata
+კამათობს	გეკამათა	V;2;SG;IND;PST;PRF = gek'amata
+კამათობს	ეკამათა	V;3;SG;IND;PST;PRF = ek'amata
+კამათობს	გვეკამათა	V;1;PL;IND;PST;PRF = gvek'amata
+კამათობს	გეკამათათ	V;2;PL;IND;PST;PRF = gek'amatat
+კამათობს	ეკამათათ	V;3;PL;IND;PST;PRF = ek'amatat
+
+
+Screeve #11:
+კამათობს	მეკამათოს	V;1;SG;SBJV;PRF = mek'amatos
+კამათობს	გეკამათოს	V;2;SG;SBJV;PRF = gek'amatos
+კამათობს	ეკამათოს	V;3;SG;SBJV;PRF = ek'amatos
+კამათობს	გვეკამათოს	V;1;PL;SBJV;PRF = gvek'amatos
+კამათობს	გეკამათოთ	V;2;PL;SBJV;PRF = gek'amatot
+კამათობს	ეკამათოთ	V;3;PL;SBJV;PRF = ek'amatot
+
+
+კამათობს	კამათობა	V;V.MSDR;IPFV

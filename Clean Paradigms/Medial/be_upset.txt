@@ -1,0 +1,108 @@
+#1 - წუხს - be_upset:
+Screeve #1:
+წუხს	ვწუხვარ	V;1;SG;IND;PRS = vc'uxvar
+წუხს	წუხხარ	V;2;SG;IND;PRS = c'uxxar
+წუხს	წუხს	V;3;SG;IND;PRS = c'uxs
+წუხს	ვწუხთვართ	V;1;PL;IND;PRS = vc'uxvart
+წუხს	წუხხართ	V;2;PL;IND;PRS = c'uxxart
+წუხს	წუხან	V;3;PL;IND;PRS = c'uxan
+
+
+Screeve #2:
+წუხს	ვწუხდი	V;1;SG;IND;IPFV = vc'uxdi
+წუხს	წუხდი	V;2;SG;IND;IPFV = c'uxdi
+წუხს	წუხდა	V;3;SG;IND;IPFV = c'uxda
+წუხს	ვწუხდით	V;1;PL;IND;IPFV = vc'uxdit
+წუხს	წუხდით	V;2;PL;IND;IPFV = c'uxdit
+წუხს	წუხდნენ	V;3;PL;IND;IPFV = c'uxdnen
+
+
+Screeve #3:
+წუხს	ვწუხდე	V;1;SG;SBJV;PRS = vc'uxde
+წუხს	წუხდე	V;2;SG;SBJV;PRS = c'uxde
+წუხს	წუხდეს	V;3;SG;SBJV;PRS = c'uxdes
+წუხს	ვწუხდეთ	V;1;PL;SBJV;PRS = vc'uxdet
+წუხს	წუხდეთ	V;2;PL;SBJV;PRS = c'uxdet
+წუხს	წუხდნენ	V;3;PL;SBJV;PRS = c'uxdnen
+
+
+Screeve #4:
+წუხს	ვიწუხებ	V;1;SG;IND;FUT = vic'uxeb
+წუხს	იწუხებ	V;2;SG;IND;FUT = ic'uxeb
+წუხს	იწუხებს	V;3;SG;IND;FUT = ic'uxebs
+წუხს	ვიწუხებთ	V;1;PL;IND;FUT = vic'uxebt
+წუხს	იწუხებთ	V;2;PL;IND;FUT = ic'uxebt
+წუხს	იწუხებენ	V;3;PL;IND;FUT = ic'uxeben
+
+
+Screeve #5:
+წუხს	ვიწუხებდი	V;1;SG;COND = vic'uxebdi
+წუხს	იწუხებდი	V;2;SG;COND = ic'uxebdi
+წუხს	იწუხებდა	V;3;SG;COND = ic'uxebda
+წუხს	ვიწუხებდით	V;1;PL;COND = vic'uxebdit
+წუხს	იწუხებდით	V;2;PL;COND = ic'uxebdit
+წუხს	იწუხებდნენ	V;3;PL;COND = ic'uxebdnen
+
+
+Screeve #6:
+წუხს	ვიწუხებდე	V;1;SG;SBJV;FUT = vic'uxebde
+წუხს	იწუხებდე	V;2;SG;SBJV;FUT = ic'uxebde
+წუხს	იწუხებდეს	V;3;SG;SBJV;FUT = ic'uxebdes
+წუხს	ვიწუხებდეთ	V;1;PL;SBJV;FUT = vic'uxebdet
+წუხს	იწუხებდეთ	V;2;PL;SBJV;FUT = ic'uxebdet
+წუხს	იწუხებდნენ	V;3;PL;SBJV;FUT = ic'uxebdnen
+
+
+Screeve #7:
+წუხს	ვიწუხე	V;1;SG;IND;PST;PFV = vic'uxe
+წუხს	იწუხე	V;2;SG;IND;PST;PFV = ic'uxe
+წუხს	იწუხა	V;3;SG;IND;PST;PFV = ic'uxa
+წუხს	ვიწუხეთ	V;1;PL;IND;PST;PFV = vic'uxet
+წუხს	იწუხეთ	V;2;PL;IND;PST;PFV = ic'uxet
+წუხს	იწუხეს	V;3;PL;IND;PST;PFV = ic'uxes
+
+წუხს	იწუხე	V;2;SG;IMP = ic'uxe
+წუხს	იწუხეთ	V;2;PL;IMP = ic'uxet
+
+
+Screeve #8:
+წუხს	ვიწუხო	V;1;SG;OPT = vic'uxo
+წუხს	იწუხო	V;2;SG;OPT = ic'uxo
+წუხს	იწუხოს	V;3;SG;OPT = ic'uxos
+წუხს	ვიწუხოთ	V;1;PL;OPT = vic'uxot
+წუხს	იწუხოთ	V;2;PL;OPT = ic'uxot
+წუხს	იწუხონ	V;3;PL;OPT = ic'uxon
+
+წუხს	ვიწუხოთ	V;1;PL;IMP = vic'uxot
+წუხს	იწუხოს	V;3;SG;IMP = ic'uxos
+წუხს	იწუხონ	V;3;PL;IMP = ic'uxon
+
+
+Screeve #9:
+წუხს	მიწუხია	V;1;SG;IND;PRF = mic'uxia
+წუხს	გიწუხია	V;2;SG;IND;PRF = gic'uxia
+წუხს	უწუხია	V;3;SG;IND;PRF = uc'uxia
+წუხს	გვიწუხია	V;1;PL;IND;PRF = gvic'uxia
+წუხს	გიწუხიათ	V;2;PL;IND;PRF = gic'uxiat
+წუხს	უწუხიათ	V;3;PL;IND;PRF = uc'uxiat
+
+
+Screeve #10:
+წუხს	მეწუხა	V;1;SG;IND;PST;PRF = mec'uxa
+წუხს	გეწუხა	V;2;SG;IND;PST;PRF = gec'uxa
+წუხს	ეწუხა	V;3;SG;IND;PST;PRF = ec'uxa
+წუხს	გვეწუხა	V;1;PL;IND;PST;PRF = gvec'uxa
+წუხს	გეწუხათ	V;2;PL;IND;PST;PRF = gec'uxat
+წუხს	ეწუხათ	V;3;PL;IND;PST;PRF = ec'uxat
+
+
+Screeve #11:
+წუხს	მეწუხოს	V;1;SG;SBJV;PRF = mec'uxos
+წუხს	გეწუხოს	V;2;SG;SBJV;PRF = gec'uxos
+წუხს	ეწუხოს	V;3;SG;SBJV;PRF = ec'uxos
+წუხს	გვეწუხოს	V;1;PL;SBJV;PRF = gvec'uxos
+წუხს	გეწუხოთ	V;2;PL;SBJV;PRF = gec'uxot
+წუხს	ეწუხოთ	V;3;PL;SBJV;PRF = ec'uxot
+
+
+წუხს	წუხილი	V;V.MSDR;IPFV

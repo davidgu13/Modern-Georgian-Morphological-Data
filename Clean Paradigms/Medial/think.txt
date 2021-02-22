@@ -1,0 +1,108 @@
+#42 - ფიქრობს - think:
+Screeve #1:
+ფიქრობს	ვფიქრობ	V;1;SG;IND;PRS = vpikrob
+ფიქრობს	ფიქრობ	V;2;SG;IND;PRS = pikrob
+ფიქრობს	ფიქრობს	V;3;SG;IND;PRS = pikrobs
+ფიქრობს	ვფიქრობთ	V;1;PL;IND;PRS = vpikrobt
+ფიქრობს	ფიქრობთ	V;2;PL;IND;PRS = pikrobt
+ფიქრობს	ფიქრობენ	V;3;PL;IND;PRS = pikroben
+
+
+Screeve #2:
+ფიქრობს	ვფიქრობდი	V;1;SG;IND;IPFV = vpikrobdi
+ფიქრობს	ფიქრობდი	V;2;SG;IND;IPFV = pikrobdi
+ფიქრობს	ფიქრობდა	V;3;SG;IND;IPFV = pikrobda
+ფიქრობს	ვფიქრობდით	V;1;PL;IND;IPFV = vpikrobdit
+ფიქრობს	ფიქრობდით	V;2;PL;IND;IPFV = pikrobdit
+ფიქრობს	ფიქრობდნენ	V;3;PL;IND;IPFV = pikrobdnen
+
+
+Screeve #3:
+ფიქრობს	ვფიქრობდე	V;1;SG;SBJV;PRS = vpikrobde
+ფიქრობს	ფიქრობდე	V;2;SG;SBJV;PRS = pikrobde
+ფიქრობს	ფიქრობდეს	V;3;SG;SBJV;PRS = pikrobdes
+ფიქრობს	ვფიქრობდეთ	V;1;PL;SBJV;PRS = vpikrobdet
+ფიქრობს	ფიქრობდეთ	V;2;PL;SBJV;PRS = pikrobdet
+ფიქრობს	ფიქრობდნენ	V;3;PL;SBJV;PRS = pikrobdnen
+
+
+Screeve #4:
+ფიქრობს	ვიფიქრებ	V;1;SG;IND;FUT = vipikreb
+ფიქრობს	იფიქრებ	V;2;SG;IND;FUT = ipikreb
+ფიქრობს	იფიქრებს	V;3;SG;IND;FUT = ipikrebs
+ფიქრობს	ვიფიქრებთ	V;1;PL;IND;FUT = vipikrebt
+ფიქრობს	იფიქრებთ	V;2;PL;IND;FUT = ipikrebt
+ფიქრობს	იფიქრებენ	V;3;PL;IND;FUT = ipikreben
+
+
+Screeve #5:
+ფიქრობს	ვიფიქრებდი	V;1;SG;COND = vipikrebdi
+ფიქრობს	იფიქრებდი	V;2;SG;COND = ipikrebdi
+ფიქრობს	იფიქრებდა	V;3;SG;COND = ipikrebda
+ფიქრობს	ვიფიქრებდით	V;1;PL;COND = vipikrebdit
+ფიქრობს	იფიქრებდით	V;2;PL;COND = ipikrebdit
+ფიქრობს	იფიქრებდნენ	V;3;PL;COND = ipikrebdnen
+
+
+Screeve #6:
+ფიქრობს	ვიფიქრებდე	V;1;SG;SBJV;FUT = vipikrebde
+ფიქრობს	იფიქრებდე	V;2;SG;SBJV;FUT = ipikrebde
+ფიქრობს	იფიქრებდეს	V;3;SG;SBJV;FUT = ipikrebdes
+ფიქრობს	ვიფიქრებდეთ	V;1;PL;SBJV;FUT = vipikrebdet
+ფიქრობს	იფიქრებდეთ	V;2;PL;SBJV;FUT = ipikrebdet
+ფიქრობს	იფიქრებდნენ	V;3;PL;SBJV;FUT = ipikrebdnen
+
+
+Screeve #7:
+ფიქრობს	ვიფიქრე	V;1;SG;IND;PST;PFV = vipikre
+ფიქრობს	იფიქრე	V;2;SG;IND;PST;PFV = ipikre
+ფიქრობს	იფიქრა	V;3;SG;IND;PST;PFV = ipikra
+ფიქრობს	ვიფიქრეთ	V;1;PL;IND;PST;PFV = vipikret
+ფიქრობს	იფიქრეთ	V;2;PL;IND;PST;PFV = ipikret
+ფიქრობს	იფიქრეს	V;3;PL;IND;PST;PFV = ipikres
+
+ფიქრობს	იფიქრე	V;2;SG;IMP = ipikre
+ფიქრობს	იფიქრეთ	V;2;PL;IMP = ipikret
+
+
+Screeve #8:
+ფიქრობს	ვიფიქრო	V;1;SG;OPT = vipikro
+ფიქრობს	იფიქრო	V;2;SG;OPT = ipikro
+ფიქრობს	იფიქროს	V;3;SG;OPT = ipikros
+ფიქრობს	ვიფიქროთ	V;1;PL;OPT = vipikrot
+ფიქრობს	იფიქროთ	V;2;PL;OPT = ipikrot
+ფიქრობს	იფიქრონ	V;3;PL;OPT = ipikron
+
+ფიქრობს	ვიფიქროთ	V;1;PL;IMP = vipikrot
+ფიქრობს	იფიქროს	V;3;SG;IMP = ipikros
+ფიქრობს	იფიქრონ	V;3;PL;IMP = ipikron
+
+
+Screeve #9:
+ფიქრობს	მიფიქრია	V;1;SG;IND;PRF = mipikria
+ფიქრობს	გიფიქრია	V;2;SG;IND;PRF = gipikria
+ფიქრობს	უფიქრია	V;3;SG;IND;PRF = upikria
+ფიქრობს	გვიფიქრია	V;1;PL;IND;PRF = gvipikria
+ფიქრობს	გიფიქრიათ	V;2;PL;IND;PRF = gipikriat
+ფიქრობს	უფიქრიათ	V;3;PL;IND;PRF = upikriat
+
+
+Screeve #10:
+ფიქრობს	მეფიქრა	V;1;SG;IND;PST;PRF = mepikra
+ფიქრობს	გეფიქრა	V;2;SG;IND;PST;PRF = gepikra
+ფიქრობს	ეფიქრა	V;3;SG;IND;PST;PRF = epikra
+ფიქრობს	გვეფიქრა	V;1;PL;IND;PST;PRF = gvepikra
+ფიქრობს	გეფიქრათ	V;2;PL;IND;PST;PRF = gepikrat
+ფიქრობს	ეფიქრათ	V;3;PL;IND;PST;PRF = epikrat
+
+
+Screeve #11:
+ფიქრობს	მეფიქროს	V;1;SG;SBJV;PRF = mepikros
+ფიქრობს	გეფიქროს	V;2;SG;SBJV;PRF = gepikros
+ფიქრობს	ეფიქროს	V;3;SG;SBJV;PRF = epikros
+ფიქრობს	გვეფიქროს	V;1;PL;SBJV;PRF = gvepikros
+ფიქრობს	გეფიქროთ	V;2;PL;SBJV;PRF = gepikrot
+ფიქრობს	ეფიქროთ	V;3;PL;SBJV;PRF = epikrot
+
+
+ფიქრობს	ფიქრი	V;V.MSDR;IPFV

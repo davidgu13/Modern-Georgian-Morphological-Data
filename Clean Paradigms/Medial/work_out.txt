@@ -1,0 +1,108 @@
+#22 - ვარჯიშობს - work_out:
+Screeve #1:
+ვარჯიშობს	ვვარჯიშობ	V;1;SG;IND;PRS = vvarǰišob
+ვარჯიშობს	ვარჯიშობ	V;2;SG;IND;PRS = varǰišob
+ვარჯიშობს	ვარჯიშობს	V;3;SG;IND;PRS = varǰišobs
+ვარჯიშობს	ვვარჯიშობთ	V;1;PL;IND;PRS = vvarǰišobt
+ვარჯიშობს	ვარჯიშობთ	V;2;PL;IND;PRS = varǰišobt
+ვარჯიშობს	ვარჯიშობენ	V;3;PL;IND;PRS = varǰišoben
+
+
+Screeve #2:
+ვარჯიშობს	ვვარჯიშობდი	V;1;SG;IND;IPFV = vvarǰišobdi
+ვარჯიშობს	ვარჯიშობდი	V;2;SG;IND;IPFV = varǰišobdi
+ვარჯიშობს	ვარჯიშობდა	V;3;SG;IND;IPFV = varǰišobda
+ვარჯიშობს	ვვარჯიშობდით	V;1;PL;IND;IPFV = vvarǰišobdit
+ვარჯიშობს	ვარჯიშობდით	V;2;PL;IND;IPFV = varǰišobdit
+ვარჯიშობს	ვარჯიშობდნენ	V;3;PL;IND;IPFV = varǰišobdnen
+
+
+Screeve #3:
+ვარჯიშობს	ვვარჯიშობდე	V;1;SG;SBJV;PRS = vvarǰišobde
+ვარჯიშობს	ვარჯიშობდე	V;2;SG;SBJV;PRS = varǰišobde
+ვარჯიშობს	ვარჯიშობდეს	V;3;SG;SBJV;PRS = varǰišobdes
+ვარჯიშობს	ვვარჯიშობდეთ	V;1;PL;SBJV;PRS = vvarǰišobdet
+ვარჯიშობს	ვარჯიშობდეთ	V;2;PL;SBJV;PRS = varǰišobdet
+ვარჯიშობს	ვარჯიშობდნენ	V;3;PL;SBJV;PRS = varǰišobdnen
+
+
+Screeve #4:
+ვარჯიშობს	ვივარჯიშებ	V;1;SG;IND;FUT = vivarǰišeb
+ვარჯიშობს	ივარჯიშებ	V;2;SG;IND;FUT = ivarǰišeb
+ვარჯიშობს	ივარჯიშებს	V;3;SG;IND;FUT = ivarǰišebs
+ვარჯიშობს	ვივარჯიშებთ	V;1;PL;IND;FUT = vivarǰišebt
+ვარჯიშობს	ივარჯიშებთ	V;2;PL;IND;FUT = ivarǰišebt
+ვარჯიშობს	ივარჯიშებენ	V;3;PL;IND;FUT = ivarǰišeben
+
+
+Screeve #5:
+ვარჯიშობს	ვივარჯიშებდი	V;1;SG;COND = vivarǰišebdi
+ვარჯიშობს	ივარჯიშებდი	V;2;SG;COND = ivarǰišebdi
+ვარჯიშობს	ივარჯიშებდა	V;3;SG;COND = ivarǰišebda
+ვარჯიშობს	ვივარჯიშებდით	V;1;PL;COND = vivarǰišebdit
+ვარჯიშობს	ივარჯიშებდით	V;2;PL;COND = ivarǰišebdit
+ვარჯიშობს	ივარჯიშებდნენ	V;3;PL;COND = ivarǰišebdnen
+
+
+Screeve #6:
+ვარჯიშობს	ვივარჯიშებდე	V;1;SG;SBJV;FUT = vivarǰišebde
+ვარჯიშობს	ივარჯიშებდე	V;2;SG;SBJV;FUT = ivarǰišebde
+ვარჯიშობს	ივარჯიშებდეს	V;3;SG;SBJV;FUT = ivarǰišebdes
+ვარჯიშობს	ვივარჯიშებდეთ	V;1;PL;SBJV;FUT = vivarǰišebdet
+ვარჯიშობს	ივარჯიშებდეთ	V;2;PL;SBJV;FUT = ivarǰišebdet
+ვარჯიშობს	ივარჯიშებდნენ	V;3;PL;SBJV;FUT = ivarǰišebdnen
+
+
+Screeve #7:
+ვარჯიშობს	ვივარჯიშე	V;1;SG;IND;PST;PFV = vivarǰiše
+ვარჯიშობს	ივარჯიშე	V;2;SG;IND;PST;PFV = ivarǰiše
+ვარჯიშობს	ივარჯიშა	V;3;SG;IND;PST;PFV = ivarǰiša
+ვარჯიშობს	ვივარჯიშეთ	V;1;PL;IND;PST;PFV = vivarǰišet
+ვარჯიშობს	ივარჯიშეთ	V;2;PL;IND;PST;PFV = ivarǰišet
+ვარჯიშობს	ივარჯიშეს	V;3;PL;IND;PST;PFV = ivarǰišes
+
+ვარჯიშობს	ივარჯიშე	V;2;SG;IMP = ivarǰiše
+ვარჯიშობს	ივარჯიშეთ	V;2;PL;IMP = ivarǰišet
+
+
+Screeve #8:
+ვარჯიშობს	ვივარჯიშო	V;1;SG;OPT = vivarǰišo
+ვარჯიშობს	ივარჯიშო	V;2;SG;OPT = ivarǰišo
+ვარჯიშობს	ივარჯიშოს	V;3;SG;OPT = ivarǰišos
+ვარჯიშობს	ვივარჯიშოთ	V;1;PL;OPT = vivarǰišot
+ვარჯიშობს	ივარჯიშოთ	V;2;PL;OPT = ivarǰišot
+ვარჯიშობს	ივარჯიშონ	V;3;PL;OPT = ivarǰišon
+
+ვარჯიშობს	ვივარჯიშოთ	V;1;PL;IMP = vivarǰišot
+ვარჯიშობს	ივარჯიშოს	V;3;SG;IMP = ivarǰišos
+ვარჯიშობს	ივარჯიშონ	V;3;PL;IMP = ivarǰišon
+
+
+Screeve #9:
+ვარჯიშობს	მივარჯიშია	V;1;SG;IND;PRF = mivarǰišia
+ვარჯიშობს	გივარჯიშია	V;2;SG;IND;PRF = givarǰišia
+ვარჯიშობს	უვარჯიშია	V;3;SG;IND;PRF = uvarǰišia
+ვარჯიშობს	გვივარჯიშია	V;1;PL;IND;PRF = gvivarǰišia
+ვარჯიშობს	გივარჯიშიათ	V;2;PL;IND;PRF = givarǰišiat
+ვარჯიშობს	უვარჯიშიათ	V;3;PL;IND;PRF = uvarǰišiat
+
+
+Screeve #10:
+ვარჯიშობს	მევარჯიშა	V;1;SG;IND;PST;PRF = mevarǰiša
+ვარჯიშობს	გევარჯიშა	V;2;SG;IND;PST;PRF = gevarǰiša
+ვარჯიშობს	ევარჯიშა	V;3;SG;IND;PST;PRF = evarǰiša
+ვარჯიშობს	გვევარჯიშა	V;1;PL;IND;PST;PRF = gvevarǰiša
+ვარჯიშობს	გევარჯიშათ	V;2;PL;IND;PST;PRF = gevarǰišat
+ვარჯიშობს	ევარჯიშათ	V;3;PL;IND;PST;PRF = evarǰišat
+
+
+Screeve #11:
+ვარჯიშობს	მევარჯიშოს	V;1;SG;SBJV;PRF = mevarǰišos
+ვარჯიშობს	გევარჯიშოს	V;2;SG;SBJV;PRF = gevarǰišos
+ვარჯიშობს	ევარჯიშოს	V;3;SG;SBJV;PRF = evarǰišos
+ვარჯიშობს	გვევარჯიშოს	V;1;PL;SBJV;PRF = gvevarǰišos
+ვარჯიშობს	გევარჯიშოთ	V;2;PL;SBJV;PRF = gevarǰišot
+ვარჯიშობს	ევარჯიშოთ	V;3;PL;SBJV;PRF = evarǰišot
+
+
+ვარჯიშობს	ვარჯიშობა	V;V.MSDR;IPFV

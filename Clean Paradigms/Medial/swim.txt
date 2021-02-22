@@ -1,0 +1,108 @@
+#18 - ცურავს - swim:
+Screeve #1:
+ცურავს	ვცურავ	V;1;SG;IND;PRS = vcurav
+ცურავს	ცურავ	V;2;SG;IND;PRS = curav
+ცურავს	ცურავს	V;3;SG;IND;PRS = curavs
+ცურავს	ვცურავთ	V;1;PL;IND;PRS = vcuravt
+ცურავს	ცურავთ	V;2;PL;IND;PRS = curavt
+ცურავს	ცურავენ	V;3;PL;IND;PRS = curaven
+
+
+Screeve #2:
+ცურავს	ვცურავდი	V;1;SG;IND;IPFV = vcuravdi
+ცურავს	ცურავდი	V;2;SG;IND;IPFV = curavdi
+ცურავს	ცურავდა	V;3;SG;IND;IPFV = curavda
+ცურავს	ვცურავდით	V;1;PL;IND;IPFV = vcuravdit
+ცურავს	ცურავდით	V;2;PL;IND;IPFV = curavdit
+ცურავს	ცურავდნენ	V;3;PL;IND;IPFV = curavdnen
+
+
+Screeve #3:
+ცურავს	ვცურავდე	V;1;SG;SBJV;PRS = vcuravde
+ცურავს	ცურავდე	V;2;SG;SBJV;PRS = curavde
+ცურავს	ცურავდეს	V;3;SG;SBJV;PRS = curavdes
+ცურავს	ვცურავდეთ	V;1;PL;SBJV;PRS = vcuravdet
+ცურავს	ცურავდეთ	V;2;PL;SBJV;PRS = curavdet
+ცურავს	ცურავდნენ	V;3;PL;SBJV;PRS = curavdnen
+
+
+Screeve #4:
+ცურავს	ვიცურავებ	V;1;SG;IND;FUT = vicuraveb
+ცურავს	იცურავებ	V;2;SG;IND;FUT = icuraveb
+ცურავს	იცურავებს	V;3;SG;IND;FUT = icuravebs
+ცურავს	ვიცურავებთ	V;1;PL;IND;FUT = vicuravebt
+ცურავს	იცურავებთ	V;2;PL;IND;FUT = icuravebt
+ცურავს	იცურავებენ	V;3;PL;IND;FUT = icuraveben
+
+
+Screeve #5:
+ცურავს	ვიცურავებდი	V;1;SG;COND = vicuravebdi
+ცურავს	იცურავებდი	V;2;SG;COND = icuravebdi
+ცურავს	იცურავებდა	V;3;SG;COND = icuravebda
+ცურავს	ვიცურავებდით	V;1;PL;COND = vicuravebdit
+ცურავს	იცურავებდით	V;2;PL;COND = icuravebdit
+ცურავს	იცურავებდნენ	V;3;PL;COND = icuravebdnen
+
+
+Screeve #6:
+ცურავს	ვიცურავებდე	V;1;SG;SBJV;FUT = vicuravebde
+ცურავს	იცურავებდე	V;2;SG;SBJV;FUT = icuravebde
+ცურავს	იცურავებდეს	V;3;SG;SBJV;FUT = icuravebdes
+ცურავს	ვიცურავებდეთ	V;1;PL;SBJV;FUT = vicuravebdet
+ცურავს	იცურავებდეთ	V;2;PL;SBJV;FUT = icuravebdet
+ცურავს	იცურავებდნენ	V;3;PL;SBJV;FUT = icuravebdnen
+
+
+Screeve #7:
+ცურავს	ვიცურავე	V;1;SG;IND;PST;PFV = vicurave
+ცურავს	იცურავე	V;2;SG;IND;PST;PFV = icurave
+ცურავს	იცურავა	V;3;SG;IND;PST;PFV = icurava
+ცურავს	ვიცურავეთ	V;1;PL;IND;PST;PFV = vicuravet
+ცურავს	იცურავეთ	V;2;PL;IND;PST;PFV = icuravet
+ცურავს	იცურავეს	V;3;PL;IND;PST;PFV = icuraves
+
+ცურავს	იცურავე	V;2;SG;IMP = icurave
+ცურავს	იცურავეთ	V;2;PL;IMP = icuravet
+
+
+Screeve #8:
+ცურავს	ვიცურავო	V;1;SG;OPT = vicuravo
+ცურავს	იცურავო	V;2;SG;OPT = icuravo
+ცურავს	იცურავოს	V;3;SG;OPT = icuravos
+ცურავს	ვიცურავოთ	V;1;PL;OPT = vicuravot
+ცურავს	იცურავოთ	V;2;PL;OPT = icuravot
+ცურავს	იცურავონ	V;3;PL;OPT = icuravon
+
+ცურავს	ვიცურავოთ	V;1;PL;IMP = vicuravot
+ცურავს	იცურავოს	V;3;SG;IMP = icuravos
+ცურავს	იცურავონ	V;3;PL;IMP = icuravon
+
+
+Screeve #9:
+ცურავს	მიცურავია	V;1;SG;IND;PRF = micuravia
+ცურავს	გიცურავია	V;2;SG;IND;PRF = gicuravia
+ცურავს	უცურავია	V;3;SG;IND;PRF = ucuravia
+ცურავს	გვიცურავია	V;1;PL;IND;PRF = gvicuravia
+ცურავს	გიცურავიათ	V;2;PL;IND;PRF = gicuraviat
+ცურავს	უცურავიათ	V;3;PL;IND;PRF = ucuraviat
+
+
+Screeve #10:
+ცურავს	მეცურავა	V;1;SG;IND;PST;PRF = mecurava
+ცურავს	გეცურავა	V;2;SG;IND;PST;PRF = gecurava
+ცურავს	ეცურავა	V;3;SG;IND;PST;PRF = ecurava
+ცურავს	გვეცურავა	V;1;PL;IND;PST;PRF = gvecurava
+ცურავს	გეცურავათ	V;2;PL;IND;PST;PRF = gecuravat
+ცურავს	ეცურავათ	V;3;PL;IND;PST;PRF = ecuravat
+
+
+Screeve #11:
+ცურავს	მეცურავოს	V;1;SG;SBJV;PRF = mecuravos
+ცურავს	გეცურავოს	V;2;SG;SBJV;PRF = gecuravos
+ცურავს	ეცურავოს	V;3;SG;SBJV;PRF = ecuravos
+ცურავს	გვეცურავოს	V;1;PL;SBJV;PRF = gvecuravos
+ცურავს	გეცურავოთ	V;2;PL;SBJV;PRF = gecuravot
+ცურავს	ეცურავოთ	V;3;PL;SBJV;PRF = ecuravot
+
+
+ცურავს	ცურვა	V;V.MSDR;IPFV

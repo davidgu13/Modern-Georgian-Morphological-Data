@@ -1,0 +1,108 @@
+#26 - სადილობს - eat_lunch:
+Screeve #1:
+სადილობს	ვსადილობ	V;1;SG;IND;PRS = vsadilob
+სადილობს	სადილობ	V;2;SG;IND;PRS = sadilob
+სადილობს	სადილობს	V;3;SG;IND;PRS = sadilobs
+სადილობს	ვსადილობთ	V;1;PL;IND;PRS = vsadilobt
+სადილობს	სადილობთ	V;2;PL;IND;PRS = sadilobt
+სადილობს	სადილობენ	V;3;PL;IND;PRS = sadiloben
+
+
+Screeve #2:
+სადილობს	ვსადილობდი	V;1;SG;IND;IPFV = vsadilobdi
+სადილობს	სადილობდი	V;2;SG;IND;IPFV = sadilobdi
+სადილობს	სადილობდა	V;3;SG;IND;IPFV = sadilobda
+სადილობს	ვსადილობდით	V;1;PL;IND;IPFV = vsadilobdit
+სადილობს	სადილობდით	V;2;PL;IND;IPFV = sadilobdit
+სადილობს	სადილობდნენ	V;3;PL;IND;IPFV = sadilobdnen
+
+
+Screeve #3:
+სადილობს	ვსადილობდე	V;1;SG;SBJV;PRS = vsadilobde
+სადილობს	სადილობდე	V;2;SG;SBJV;PRS = sadilobde
+სადილობს	სადილობდეს	V;3;SG;SBJV;PRS = sadilobdes
+სადილობს	ვსადილობდეთ	V;1;PL;SBJV;PRS = vsadilobdet
+სადილობს	სადილობდეთ	V;2;PL;SBJV;PRS = sadilobdet
+სადილობს	სადილობდნენ	V;3;PL;SBJV;PRS = sadilobdnen
+
+
+Screeve #4:
+სადილობს	ვისადილებ	V;1;SG;IND;FUT = visadileb
+სადილობს	ისადილებ	V;2;SG;IND;FUT = isadileb
+სადილობს	ისადილებს	V;3;SG;IND;FUT = isadilebs
+სადილობს	ვისადილებთ	V;1;PL;IND;FUT = visadilebt
+სადილობს	ისადილებთ	V;2;PL;IND;FUT = isadilebt
+სადილობს	ისადილებენ	V;3;PL;IND;FUT = isadileben
+
+
+Screeve #5:
+სადილობს	ვისადილებდი	V;1;SG;COND = visadilebdi
+სადილობს	ისადილებდი	V;2;SG;COND = isadilebdi
+სადილობს	ისადილებდა	V;3;SG;COND = isadilebda
+სადილობს	ვისადილებდით	V;1;PL;COND = visadilebdit
+სადილობს	ისადილებდით	V;2;PL;COND = isadilebdit
+სადილობს	ისადილებდნენ	V;3;PL;COND = isadilebdnen
+
+
+Screeve #6:
+სადილობს	ვისადილებდე	V;1;SG;SBJV;FUT = visadilebde
+სადილობს	ისადილებდე	V;2;SG;SBJV;FUT = isadilebde
+სადილობს	ისადილებდეს	V;3;SG;SBJV;FUT = isadilebdes
+სადილობს	ვისადილებდეთ	V;1;PL;SBJV;FUT = visadilebdet
+სადილობს	ისადილებდეთ	V;2;PL;SBJV;FUT = isadilebdet
+სადილობს	ისადილებდნენ	V;3;PL;SBJV;FUT = isadilebdnen
+
+
+Screeve #7:
+სადილობს	ვისადილე	V;1;SG;IND;PST;PFV = visadile
+სადილობს	ისადილე	V;2;SG;IND;PST;PFV = isadile
+სადილობს	ისადილა	V;3;SG;IND;PST;PFV = isadila
+სადილობს	ვისადილეთ	V;1;PL;IND;PST;PFV = visadilet
+სადილობს	ისადილეთ	V;2;PL;IND;PST;PFV = isadilet
+სადილობს	ისადილეს	V;3;PL;IND;PST;PFV = isadiles
+
+სადილობს	ისადილე	V;2;SG;IMP = isadile
+სადილობს	ისადილეთ	V;2;PL;IMP = isadilet
+
+
+Screeve #8:
+სადილობს	ვისადილო	V;1;SG;OPT = visadilo
+სადილობს	ისადილო	V;2;SG;OPT = isadilo
+სადილობს	ისადილოს	V;3;SG;OPT = isadilos
+სადილობს	ვისადილოთ	V;1;PL;OPT = visadilot
+სადილობს	ისადილოთ	V;2;PL;OPT = isadilot
+სადილობს	ისადილონ	V;3;PL;OPT = isadilon
+
+სადილობს	ვისადილოთ	V;1;PL;IMP = visadilot
+სადილობს	ისადილოს	V;3;SG;IMP = isadilos
+სადილობს	ისადილონ	V;3;PL;IMP = isadilon
+
+
+Screeve #9:
+სადილობს	მისადილია	V;1;SG;IND;PRF = misadilia
+სადილობს	გისადილია	V;2;SG;IND;PRF = gisadilia
+სადილობს	უსადილია	V;3;SG;IND;PRF = usadilia
+სადილობს	გვისადილია	V;1;PL;IND;PRF = gvisadilia
+სადილობს	გისადილიათ	V;2;PL;IND;PRF = gisadiliat
+სადილობს	უსადილიათ	V;3;PL;IND;PRF = usadiliat
+
+
+Screeve #10:
+სადილობს	მესადილა	V;1;SG;IND;PST;PRF = mesadila
+სადილობს	გესადილა	V;2;SG;IND;PST;PRF = gesadila
+სადილობს	ესადილა	V;3;SG;IND;PST;PRF = esadila
+სადილობს	გვესადილა	V;1;PL;IND;PST;PRF = gvesadila
+სადილობს	გესადილათ	V;2;PL;IND;PST;PRF = gesadilat
+სადილობს	ესადილათ	V;3;PL;IND;PST;PRF = esadilat
+
+
+Screeve #11:
+სადილობს	მესადილოს	V;1;SG;SBJV;PRF = mesadilos
+სადილობს	გესადილოს	V;2;SG;SBJV;PRF = gesadilos
+სადილობს	ესადილოს	V;3;SG;SBJV;PRF = esadilos
+სადილობს	გვესადილოს	V;1;PL;SBJV;PRF = gvesadilos
+სადილობს	გესადილოთ	V;2;PL;SBJV;PRF = gesadilot
+სადილობს	ესადილოთ	V;3;PL;SBJV;PRF = esadilot
+
+
+სადილობს	სადილობა	V;V.MSDR;IPFV

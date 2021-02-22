@@ -1,0 +1,108 @@
+#46 - ნადირობს - hunt:
+Screeve #1:
+ნადირობს	ვნადირობ	V;1;SG;IND;PRS = vnadirob
+ნადირობს	ნადირობ	V;2;SG;IND;PRS = nadirob
+ნადირობს	ნადირობს	V;3;SG;IND;PRS = nadirobs
+ნადირობს	ვნადირობთ	V;1;PL;IND;PRS = vnadirobt
+ნადირობს	ნადირობთ	V;2;PL;IND;PRS = nadirobt
+ნადირობს	ნადირობენ	V;3;PL;IND;PRS = nadiroben
+
+
+Screeve #2:
+ნადირობს	ვნადირობდი	V;1;SG;IND;IPFV = vnadirobdi
+ნადირობს	ნადირობდი	V;2;SG;IND;IPFV = nadirobdi
+ნადირობს	ნადირობდა	V;3;SG;IND;IPFV = nadirobda
+ნადირობს	ვნადირობდით	V;1;PL;IND;IPFV = vnadirobdit
+ნადირობს	ნადირობდით	V;2;PL;IND;IPFV = nadirobdit
+ნადირობს	ნადირობდნენ	V;3;PL;IND;IPFV = nadirobdnen
+
+
+Screeve #3:
+ნადირობს	ვნადირობდე	V;1;SG;SBJV;PRS = vnadirobde
+ნადირობს	ნადირობდე	V;2;SG;SBJV;PRS = nadirobde
+ნადირობს	ნადირობდეს	V;3;SG;SBJV;PRS = nadirobdes
+ნადირობს	ვნადირობდეთ	V;1;PL;SBJV;PRS = vnadirobdet
+ნადირობს	ნადირობდეთ	V;2;PL;SBJV;PRS = nadirobdet
+ნადირობს	ნადირობდნენ	V;3;PL;SBJV;PRS = nadirobdnen
+
+
+Screeve #4:
+ნადირობს	ვინადირებ	V;1;SG;IND;FUT = vinadireb
+ნადირობს	ინადირებ	V;2;SG;IND;FUT = inadireb
+ნადირობს	ინადირებს	V;3;SG;IND;FUT = inadirebs
+ნადირობს	ვინადირებთ	V;1;PL;IND;FUT = vinadirebt
+ნადირობს	ინადირებთ	V;2;PL;IND;FUT = inadirebt
+ნადირობს	ინადირებენ	V;3;PL;IND;FUT = inadireben
+
+
+Screeve #5:
+ნადირობს	ვინადირებდი	V;1;SG;COND = vinadirebdi
+ნადირობს	ინადირებდი	V;2;SG;COND = inadirebdi
+ნადირობს	ინადირებდა	V;3;SG;COND = inadirebda
+ნადირობს	ვინადირებდით	V;1;PL;COND = vinadirebdit
+ნადირობს	ინადირებდით	V;2;PL;COND = inadirebdit
+ნადირობს	ინადირებდნენ	V;3;PL;COND = inadirebdnen
+
+
+Screeve #6:
+ნადირობს	ვინადირებდე	V;1;SG;SBJV;FUT = vinadirebde
+ნადირობს	ინადირებდე	V;2;SG;SBJV;FUT = inadirebde
+ნადირობს	ინადირებდეს	V;3;SG;SBJV;FUT = inadirebdes
+ნადირობს	ვინადირებდეთ	V;1;PL;SBJV;FUT = vinadirebdet
+ნადირობს	ინადირებდეთ	V;2;PL;SBJV;FUT = inadirebdet
+ნადირობს	ინადირებდნენ	V;3;PL;SBJV;FUT = inadirebdnen
+
+
+Screeve #7:
+ნადირობს	ვინადირე	V;1;SG;IND;PST;PFV = vinadire
+ნადირობს	ინადირე	V;2;SG;IND;PST;PFV = inadire
+ნადირობს	ინადირა	V;3;SG;IND;PST;PFV = inadira
+ნადირობს	ვინადირეთ	V;1;PL;IND;PST;PFV = vinadiret
+ნადირობს	ინადირეთ	V;2;PL;IND;PST;PFV = inadiret
+ნადირობს	ინადირეს	V;3;PL;IND;PST;PFV = inadires
+
+ნადირობს	ინადირე	V;2;SG;IMP = inadire
+ნადირობს	ინადირეთ	V;2;PL;IMP = inadiret
+
+
+Screeve #8:
+ნადირობს	ვინადირო	V;1;SG;OPT = vinadiro
+ნადირობს	ინადირო	V;2;SG;OPT = inadiro
+ნადირობს	ინადიროს	V;3;SG;OPT = inadiros
+ნადირობს	ვინადიროთ	V;1;PL;OPT = vinadirot
+ნადირობს	ინადიროთ	V;2;PL;OPT = inadirot
+ნადირობს	ინადირონ	V;3;PL;OPT = inadiron
+
+ნადირობს	ვინადიროთ	V;1;PL;IMP = vinadirot
+ნადირობს	ინადიროს	V;3;SG;IMP = inadiros
+ნადირობს	ინადირონ	V;3;PL;IMP = inadiron
+
+
+Screeve #9:
+ნადირობს	მინადირია	V;1;SG;IND;PRF = minadiria
+ნადირობს	გინადირია	V;2;SG;IND;PRF = ginadiria
+ნადირობს	უნადირია	V;3;SG;IND;PRF = unadiria
+ნადირობს	გვინადირია	V;1;PL;IND;PRF = gvinadiria
+ნადირობს	გინადირიათ	V;2;PL;IND;PRF = ginadiriat
+ნადირობს	უნადირიათ	V;3;PL;IND;PRF = unadiriat
+
+
+Screeve #10:
+ნადირობს	მენადირა	V;1;SG;IND;PST;PRF = menadira
+ნადირობს	გენადირა	V;2;SG;IND;PST;PRF = genadira
+ნადირობს	ენადირა	V;3;SG;IND;PST;PRF = enadira
+ნადირობს	გვენადირა	V;1;PL;IND;PST;PRF = gvenadira
+ნადირობს	გენადირათ	V;2;PL;IND;PST;PRF = genadirat
+ნადირობს	ენადირათ	V;3;PL;IND;PST;PRF = enadirat
+
+
+Screeve #11:
+ნადირობს	მენადიროს	V;1;SG;SBJV;PRF = menadiros
+ნადირობს	გენადიროს	V;2;SG;SBJV;PRF = genadiros
+ნადირობს	ენადიროს	V;3;SG;SBJV;PRF = enadiros
+ნადირობს	გვენადიროს	V;1;PL;SBJV;PRF = gvenadiros
+ნადირობს	გენადიროთ	V;2;PL;SBJV;PRF = genadirot
+ნადირობს	ენადიროთ	V;3;PL;SBJV;PRF = enadirot
+
+
+ნადირობს	ნადირობა	V;V.MSDR;IPFV

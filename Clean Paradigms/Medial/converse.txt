@@ -1,0 +1,108 @@
+#43 - საუბრობს - converse:
+Screeve #1:
+საუბრობს	ვსაუბრობ	V;1;SG;IND;PRS = vsaubrob
+საუბრობს	საუბრობ	V;2;SG;IND;PRS = saubrob
+საუბრობს	საუბრობს	V;3;SG;IND;PRS = saubrobs
+საუბრობს	ვსაუბრობთ	V;1;PL;IND;PRS = vsaubrobt
+საუბრობს	საუბრობთ	V;2;PL;IND;PRS = saubrobt
+საუბრობს	საუბრობენ	V;3;PL;IND;PRS = saubroben
+
+
+Screeve #2:
+საუბრობს	ვსაუბრობდი	V;1;SG;IND;IPFV = vsaubrobdi
+საუბრობს	საუბრობდი	V;2;SG;IND;IPFV = saubrobdi
+საუბრობს	საუბრობდა	V;3;SG;IND;IPFV = saubrobda
+საუბრობს	ვსაუბრობდით	V;1;PL;IND;IPFV = vsaubrobdit
+საუბრობს	საუბრობდით	V;2;PL;IND;IPFV = saubrobdit
+საუბრობს	საუბრობდნენ	V;3;PL;IND;IPFV = saubrobdnen
+
+
+Screeve #3:
+საუბრობს	ვსაუბრობდე	V;1;SG;SBJV;PRS = vsaubrobde
+საუბრობს	საუბრობდე	V;2;SG;SBJV;PRS = saubrobde
+საუბრობს	საუბრობდეს	V;3;SG;SBJV;PRS = saubrobdes
+საუბრობს	ვსაუბრობდეთ	V;1;PL;SBJV;PRS = vsaubrobdet
+საუბრობს	საუბრობდეთ	V;2;PL;SBJV;PRS = saubrobdet
+საუბრობს	საუბრობდნენ	V;3;PL;SBJV;PRS = saubrobdnen
+
+
+Screeve #4:
+საუბრობს	ვისაუბრებ	V;1;SG;IND;FUT = visaubreb
+საუბრობს	ისაუბრებ	V;2;SG;IND;FUT = isaubreb
+საუბრობს	ისაუბრებს	V;3;SG;IND;FUT = isaubrebs
+საუბრობს	ვისაუბრებთ	V;1;PL;IND;FUT = visaubrebt
+საუბრობს	ისაუბრებთ	V;2;PL;IND;FUT = isaubrebt
+საუბრობს	ისაუბრებენ	V;3;PL;IND;FUT = isaubreben
+
+
+Screeve #5:
+საუბრობს	ვისაუბრებდი	V;1;SG;COND = visaubrebdi
+საუბრობს	ისაუბრებდი	V;2;SG;COND = isaubrebdi
+საუბრობს	ისაუბრებდა	V;3;SG;COND = isaubrebda
+საუბრობს	ვისაუბრებდით	V;1;PL;COND = visaubrebdit
+საუბრობს	ისაუბრებდით	V;2;PL;COND = isaubrebdit
+საუბრობს	ისაუბრებდნენ	V;3;PL;COND = isaubrebdnen
+
+
+Screeve #6:
+საუბრობს	ვისაუბრებდე	V;1;SG;SBJV;FUT = visaubrebde
+საუბრობს	ისაუბრებდე	V;2;SG;SBJV;FUT = isaubrebde
+საუბრობს	ისაუბრებდეს	V;3;SG;SBJV;FUT = isaubrebdes
+საუბრობს	ვისაუბრებდეთ	V;1;PL;SBJV;FUT = visaubrebdet
+საუბრობს	ისაუბრებდეთ	V;2;PL;SBJV;FUT = isaubrebdet
+საუბრობს	ისაუბრებდნენ	V;3;PL;SBJV;FUT = isaubrebdnen
+
+
+Screeve #7:
+საუბრობს	ვისაუბრე	V;1;SG;IND;PST;PFV = visaubre
+საუბრობს	ისაუბრე	V;2;SG;IND;PST;PFV = isaubre
+საუბრობს	ისაუბრა	V;3;SG;IND;PST;PFV = isaubra
+საუბრობს	ვისაუბრეთ	V;1;PL;IND;PST;PFV = visaubret
+საუბრობს	ისაუბრეთ	V;2;PL;IND;PST;PFV = isaubret
+საუბრობს	ისაუბრეს	V;3;PL;IND;PST;PFV = isaubres
+
+საუბრობს	ისაუბრე	V;2;SG;IMP = isaubre
+საუბრობს	ისაუბრეთ	V;2;PL;IMP = isaubret
+
+
+Screeve #8:
+საუბრობს	ვისაუბრო	V;1;SG;OPT = visaubro
+საუბრობს	ისაუბრო	V;2;SG;OPT = isaubro
+საუბრობს	ისაუბროს	V;3;SG;OPT = isaubros
+საუბრობს	ვისაუბროთ	V;1;PL;OPT = visaubrot
+საუბრობს	ისაუბროთ	V;2;PL;OPT = isaubrot
+საუბრობს	ისაუბრონ	V;3;PL;OPT = isaubron
+
+საუბრობს	ვისაუბროთ	V;1;PL;IMP = visaubrot
+საუბრობს	ისაუბროს	V;3;SG;IMP = isaubros
+საუბრობს	ისაუბრონ	V;3;PL;IMP = isaubron
+
+
+Screeve #9:
+საუბრობს	მისაუბრია	V;1;SG;IND;PRF = misaubria
+საუბრობს	გისაუბრია	V;2;SG;IND;PRF = gisaubria
+საუბრობს	უსაუბრია	V;3;SG;IND;PRF = usaubria
+საუბრობს	გვისაუბრია	V;1;PL;IND;PRF = gvisaubria
+საუბრობს	გისაუბრიათ	V;2;PL;IND;PRF = gisaubriat
+საუბრობს	უსაუბრიათ	V;3;PL;IND;PRF = usaubriat
+
+
+Screeve #10:
+საუბრობს	მესაუბრა	V;1;SG;IND;PST;PRF = mesaubra
+საუბრობს	გესაუბრა	V;2;SG;IND;PST;PRF = gesaubra
+საუბრობს	ესაუბრა	V;3;SG;IND;PST;PRF = esaubra
+საუბრობს	გვესაუბრა	V;1;PL;IND;PST;PRF = gvesaubra
+საუბრობს	გესაუბრათ	V;2;PL;IND;PST;PRF = gesaubrat
+საუბრობს	ესაუბრათ	V;3;PL;IND;PST;PRF = esaubrat
+
+
+Screeve #11:
+საუბრობს	მესაუბროს	V;1;SG;SBJV;PRF = mesaubros
+საუბრობს	გესაუბროს	V;2;SG;SBJV;PRF = gesaubros
+საუბრობს	ესაუბროს	V;3;SG;SBJV;PRF = esaubros
+საუბრობს	გვესაუბროს	V;1;PL;SBJV;PRF = gvesaubros
+საუბრობს	გესაუბროთ	V;2;PL;SBJV;PRF = gesaubrot
+საუბრობს	ესაუბროთ	V;3;PL;SBJV;PRF = esaubrot
+
+
+საუბრობს	საუბრობა	V;V.MSDR;IPFV

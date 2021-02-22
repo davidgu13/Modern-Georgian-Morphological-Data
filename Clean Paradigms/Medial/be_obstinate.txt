@@ -1,0 +1,108 @@
+#24 - ჯიუტობს - be_obstinate:
+Screeve #1:
+ჯიუტობს	ვჯიუტობ	V;1;SG;IND;PRS = vǰiut'ob
+ჯიუტობს	ჯიუტობ	V;2;SG;IND;PRS = ǰiut'ob
+ჯიუტობს	ჯიუტობს	V;3;SG;IND;PRS = ǰiut'obs
+ჯიუტობს	ვჯიუტობთ	V;1;PL;IND;PRS = vǰiut'obt
+ჯიუტობს	ჯიუტობთ	V;2;PL;IND;PRS = ǰiut'obt
+ჯიუტობს	ჯიუტობენ	V;3;PL;IND;PRS = ǰiut'oben
+
+
+Screeve #2:
+ჯიუტობს	ვჯიუტობდი	V;1;SG;IND;IPFV = vǰiut'obdi
+ჯიუტობს	ჯიუტობდი	V;2;SG;IND;IPFV = ǰiut'obdi
+ჯიუტობს	ჯიუტობდა	V;3;SG;IND;IPFV = ǰiut'obda
+ჯიუტობს	ვჯიუტობდით	V;1;PL;IND;IPFV = vǰiut'obdit
+ჯიუტობს	ჯიუტობდით	V;2;PL;IND;IPFV = ǰiut'obdit
+ჯიუტობს	ჯიუტობდნენ	V;3;PL;IND;IPFV = ǰiut'obdnen
+
+
+Screeve #3:
+ჯიუტობს	ვჯიუტობდე	V;1;SG;SBJV;PRS = vǰiut'obde
+ჯიუტობს	ჯიუტობდე	V;2;SG;SBJV;PRS = ǰiut'obde
+ჯიუტობს	ჯიუტობდეს	V;3;SG;SBJV;PRS = ǰiut'obdes
+ჯიუტობს	ვჯიუტობდეთ	V;1;PL;SBJV;PRS = vǰiut'obdet
+ჯიუტობს	ჯიუტობდეთ	V;2;PL;SBJV;PRS = ǰiut'obdet
+ჯიუტობს	ჯიუტობდნენ	V;3;PL;SBJV;PRS = ǰiut'obdnen
+
+
+Screeve #4:
+ჯიუტობს	ვიჯიუტებ	V;1;SG;IND;FUT = viǰiut'eb
+ჯიუტობს	იჯიუტებ	V;2;SG;IND;FUT = iǰiut'eb
+ჯიუტობს	იჯიუტებს	V;3;SG;IND;FUT = iǰiut'ebs
+ჯიუტობს	ვიჯიუტებთ	V;1;PL;IND;FUT = viǰiut'ebt
+ჯიუტობს	იჯიუტებთ	V;2;PL;IND;FUT = iǰiut'ebt
+ჯიუტობს	იჯიუტებენ	V;3;PL;IND;FUT = iǰiut'eben
+
+
+Screeve #5:
+ჯიუტობს	ვიჯიუტებდი	V;1;SG;COND = viǰiut'ebdi
+ჯიუტობს	იჯიუტებდი	V;2;SG;COND = iǰiut'ebdi
+ჯიუტობს	იჯიუტებდა	V;3;SG;COND = iǰiut'ebda
+ჯიუტობს	ვიჯიუტებდით	V;1;PL;COND = viǰiut'ebdit
+ჯიუტობს	იჯიუტებდით	V;2;PL;COND = iǰiut'ebdit
+ჯიუტობს	იჯიუტებდნენ	V;3;PL;COND = iǰiut'ebdnen
+
+
+Screeve #6:
+ჯიუტობს	ვიჯიუტებდე	V;1;SG;SBJV;FUT = viǰiut'ebde
+ჯიუტობს	იჯიუტებდე	V;2;SG;SBJV;FUT = iǰiut'ebde
+ჯიუტობს	იჯიუტებდეს	V;3;SG;SBJV;FUT = iǰiut'ebdes
+ჯიუტობს	ვიჯიუტებდეთ	V;1;PL;SBJV;FUT = viǰiut'ebdet
+ჯიუტობს	იჯიუტებდეთ	V;2;PL;SBJV;FUT = iǰiut'ebdet
+ჯიუტობს	იჯიუტებდნენ	V;3;PL;SBJV;FUT = iǰiut'ebdnen
+
+
+Screeve #7:
+ჯიუტობს	ვიჯიუტე	V;1;SG;IND;PST;PFV = viǰiut'e
+ჯიუტობს	იჯიუტე	V;2;SG;IND;PST;PFV = iǰiut'e
+ჯიუტობს	იჯიუტა	V;3;SG;IND;PST;PFV = iǰiut'a
+ჯიუტობს	ვიჯიუტეთ	V;1;PL;IND;PST;PFV = viǰiut'et
+ჯიუტობს	იჯიუტეთ	V;2;PL;IND;PST;PFV = iǰiut'et
+ჯიუტობს	იჯიუტეს	V;3;PL;IND;PST;PFV = iǰiut'es
+
+ჯიუტობს	იჯიუტე	V;2;SG;IMP = iǰiut'e
+ჯიუტობს	იჯიუტეთ	V;2;PL;IMP = iǰiut'et
+
+
+Screeve #8:
+ჯიუტობს	ვიჯიუტო	V;1;SG;OPT = viǰiut'o
+ჯიუტობს	იჯიუტო	V;2;SG;OPT = iǰiut'o
+ჯიუტობს	იჯიუტოს	V;3;SG;OPT = iǰiut'os
+ჯიუტობს	ვიჯიუტოთ	V;1;PL;OPT = viǰiut'ot
+ჯიუტობს	იჯიუტოთ	V;2;PL;OPT = iǰiut'ot
+ჯიუტობს	იჯიუტონ	V;3;PL;OPT = iǰiut'on
+
+ჯიუტობს	ვიჯიუტოთ	V;1;PL;IMP = viǰiut'ot
+ჯიუტობს	იჯიუტოს	V;3;SG;IMP = iǰiut'os
+ჯიუტობს	იჯიუტონ	V;3;PL;IMP = iǰiut'on
+
+
+Screeve #9:
+ჯიუტობს	მიჯიუტია	V;1;SG;IND;PRF = miǰiut'ia
+ჯიუტობს	გიჯიუტია	V;2;SG;IND;PRF = giǰiut'ia
+ჯიუტობს	უჯიუტია	V;3;SG;IND;PRF = uǰiut'ia
+ჯიუტობს	გვიჯიუტია	V;1;PL;IND;PRF = gviǰiut'ia
+ჯიუტობს	გიჯიუტიათ	V;2;PL;IND;PRF = giǰiut'iat
+ჯიუტობს	უჯიუტიათ	V;3;PL;IND;PRF = uǰiut'iat
+
+
+Screeve #10:
+ჯიუტობს	მეჯიუტა	V;1;SG;IND;PST;PRF = meǰiut'a
+ჯიუტობს	გეჯიუტა	V;2;SG;IND;PST;PRF = geǰiut'a
+ჯიუტობს	ეჯიუტა	V;3;SG;IND;PST;PRF = eǰiut'a
+ჯიუტობს	გვეჯიუტა	V;1;PL;IND;PST;PRF = gveǰiut'a
+ჯიუტობს	გეჯიუტათ	V;2;PL;IND;PST;PRF = geǰiut'at
+ჯიუტობს	ეჯიუტათ	V;3;PL;IND;PST;PRF = eǰiut'at
+
+
+Screeve #11:
+ჯიუტობს	მეჯიუტოს	V;1;SG;SBJV;PRF = meǰiut'os
+ჯიუტობს	გეჯიუტოს	V;2;SG;SBJV;PRF = geǰiut'os
+ჯიუტობს	ეჯიუტოს	V;3;SG;SBJV;PRF = eǰiut'os
+ჯიუტობს	გვეჯიუტოს	V;1;PL;SBJV;PRF = gveǰiut'os
+ჯიუტობს	გეჯიუტოთ	V;2;PL;SBJV;PRF = geǰiut'ot
+ჯიუტობს	ეჯიუტოთ	V;3;PL;SBJV;PRF = eǰiut'ot
+
+
+ჯიუტობს	ჯიუტობა	V;V.MSDR;IPFV

@@ -1,0 +1,108 @@
+#11 - ცხოვრობს - live_in:
+Screeve #1:
+ცხოვრობს	ვცხოვრობ	V;1;SG;IND;PRS = vcxovrob
+ცხოვრობს	ცხოვრობ	V;2;SG;IND;PRS = cxovrob
+ცხოვრობს	ცხოვრობს	V;3;SG;IND;PRS = cxovrobs
+ცხოვრობს	ვცხოვრობთ	V;1;PL;IND;PRS = vcxovrobt
+ცხოვრობს	ცხოვრობთ	V;2;PL;IND;PRS = cxovrobt
+ცხოვრობს	ცხოვრობენ	V;3;PL;IND;PRS = cxovroben
+
+
+Screeve #2:
+ცხოვრობს	ვცხოვრობდი	V;1;SG;IND;IPFV = vcxovrobdi
+ცხოვრობს	ცხოვრობდი	V;2;SG;IND;IPFV = cxovrobdi
+ცხოვრობს	ცხოვრობდა	V;3;SG;IND;IPFV = cxovrobda
+ცხოვრობს	ვცხოვრობდით	V;1;PL;IND;IPFV = vcxovrobdit
+ცხოვრობს	ცხოვრობდით	V;2;PL;IND;IPFV = cxovrobdit
+ცხოვრობს	ცხოვრობდნენ	V;3;PL;IND;IPFV = cxovrobdnen
+
+
+Screeve #3:
+ცხოვრობს	ვცხოვრობდე	V;1;SG;SBJV;PRS = vcxovrobde
+ცხოვრობს	ცხოვრობდე	V;2;SG;SBJV;PRS = cxovrobde
+ცხოვრობს	ცხოვრობდეს	V;3;SG;SBJV;PRS = cxovrobdes
+ცხოვრობს	ვცხოვრობდეთ	V;1;PL;SBJV;PRS = vcxovrobdet
+ცხოვრობს	ცხოვრობდეთ	V;2;PL;SBJV;PRS = cxovrobdet
+ცხოვრობს	ცხოვრობდნენ	V;3;PL;SBJV;PRS = cxovrobdnen
+
+
+Screeve #4:
+ცხოვრობს	ვიცხოვრებ	V;1;SG;IND;FUT = vicxovreb
+ცხოვრობს	იცხოვრებ	V;2;SG;IND;FUT = icxovreb
+ცხოვრობს	იცხოვრებს	V;3;SG;IND;FUT = icxovrebs
+ცხოვრობს	ვიცხოვრებთ	V;1;PL;IND;FUT = vicxovrebt
+ცხოვრობს	იცხოვრებთ	V;2;PL;IND;FUT = icxovrebt
+ცხოვრობს	იცხოვრებენ	V;3;PL;IND;FUT = icxovreben
+
+
+Screeve #5:
+ცხოვრობს	ვიცხოვრებდი	V;1;SG;COND = vicxovrebdi
+ცხოვრობს	იცხოვრებდი	V;2;SG;COND = icxovrebdi
+ცხოვრობს	იცხოვრებდა	V;3;SG;COND = icxovrebda
+ცხოვრობს	ვიცხოვრებდით	V;1;PL;COND = vicxovrebdit
+ცხოვრობს	იცხოვრებდით	V;2;PL;COND = icxovrebdit
+ცხოვრობს	იცხოვრებდნენ	V;3;PL;COND = icxovrebdnen
+
+
+Screeve #6:
+ცხოვრობს	ვიცხოვრებდე	V;1;SG;SBJV;FUT = vicxovrebde
+ცხოვრობს	იცხოვრებდე	V;2;SG;SBJV;FUT = icxovrebde
+ცხოვრობს	იცხოვრებდეს	V;3;SG;SBJV;FUT = icxovrebdes
+ცხოვრობს	ვიცხოვრებდეთ	V;1;PL;SBJV;FUT = vicxovrebdet
+ცხოვრობს	იცხოვრებდეთ	V;2;PL;SBJV;FUT = icxovrebdet
+ცხოვრობს	იცხოვრებდნენ	V;3;PL;SBJV;FUT = icxovrebdnen
+
+
+Screeve #7:
+ცხოვრობს	ვიცხოვრე	V;1;SG;IND;PST;PFV = vicxovre
+ცხოვრობს	იცხოვრე	V;2;SG;IND;PST;PFV = icxovre
+ცხოვრობს	იცხოვრა	V;3;SG;IND;PST;PFV = icxovra
+ცხოვრობს	ვიცხოვრეთ	V;1;PL;IND;PST;PFV = vicxovret
+ცხოვრობს	იცხოვრეთ	V;2;PL;IND;PST;PFV = icxovret
+ცხოვრობს	იცხოვრეს	V;3;PL;IND;PST;PFV = icxovres
+
+ცხოვრობს	იცხოვრე	V;2;SG;IMP = icxovre
+ცხოვრობს	იცხოვრეთ	V;2;PL;IMP = icxovret
+
+
+Screeve #8:
+ცხოვრობს	ვიცხოვრო	V;1;SG;OPT = vicxovro
+ცხოვრობს	იცხოვრო	V;2;SG;OPT = icxovro
+ცხოვრობს	იცხოვროს	V;3;SG;OPT = icxovros
+ცხოვრობს	ვიცხოვროთ	V;1;PL;OPT = vicxovrot
+ცხოვრობს	იცხოვროთ	V;2;PL;OPT = icxovrot
+ცხოვრობს	იცხოვრონ	V;3;PL;OPT = icxovron
+
+ცხოვრობს	ვიცხოვროთ	V;1;PL;IMP = vicxovrot
+ცხოვრობს	იცხოვროს	V;3;SG;IMP = icxovros
+ცხოვრობს	იცხოვრონ	V;3;PL;IMP = icxovron
+
+
+Screeve #9:
+ცხოვრობს	მიცხოვრია	V;1;SG;IND;PRF = micxovria
+ცხოვრობს	გიცხოვრია	V;2;SG;IND;PRF = gicxovria
+ცხოვრობს	უცხოვრია	V;3;SG;IND;PRF = ucxovria
+ცხოვრობს	გვიცხოვრია	V;1;PL;IND;PRF = gvicxovria
+ცხოვრობს	გიცხოვრიათ	V;2;PL;IND;PRF = gicxovriat
+ცხოვრობს	უცხოვრიათ	V;3;PL;IND;PRF = ucxovriat
+
+
+Screeve #10:
+ცხოვრობს	მეცხოვრა	V;1;SG;IND;PST;PRF = mecxovra
+ცხოვრობს	გეცხოვრა	V;2;SG;IND;PST;PRF = gecxovra
+ცხოვრობს	ეცხოვრა	V;3;SG;IND;PST;PRF = ecxovra
+ცხოვრობს	გვეცხოვრა	V;1;PL;IND;PST;PRF = gvecxovra
+ცხოვრობს	გეცხოვრათ	V;2;PL;IND;PST;PRF = gecxovrat
+ცხოვრობს	ეცხოვრათ	V;3;PL;IND;PST;PRF = ecxovrat
+
+
+Screeve #11:
+ცხოვრობს	მეცხოვროს	V;1;SG;SBJV;PRF = mecxovros
+ცხოვრობს	გეცხოვროს	V;2;SG;SBJV;PRF = gecxovros
+ცხოვრობს	ეცხოვროს	V;3;SG;SBJV;PRF = ecxovros
+ცხოვრობს	გვეცხოვროს	V;1;PL;SBJV;PRF = gvecxovros
+ცხოვრობს	გეცხოვროთ	V;2;PL;SBJV;PRF = gecxovrot
+ცხოვრობს	ეცხოვროთ	V;3;PL;SBJV;PRF = ecxovrot
+
+
+ცხოვრობს	ცხოვრება	V;V.MSDR;IPFV

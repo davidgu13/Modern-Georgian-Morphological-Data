@@ -1,0 +1,108 @@
+#41 - სეირნობს - travel:
+Screeve #1:
+სეირნობს	ვსეირნობ	V;1;SG;IND;PRS = vseirnob
+სეირნობს	სეირნობ	V;2;SG;IND;PRS = seirnob
+სეირნობს	სეირნობს	V;3;SG;IND;PRS = seirnobs
+სეირნობს	ვსეირნობთ	V;1;PL;IND;PRS = vseirnobt
+სეირნობს	სეირნობთ	V;2;PL;IND;PRS = seirnobt
+სეირნობს	სეირნობენ	V;3;PL;IND;PRS = seirnoben
+
+
+Screeve #2:
+სეირნობს	ვსეირნობდი	V;1;SG;IND;IPFV = vseirnobdi
+სეირნობს	სეირნობდი	V;2;SG;IND;IPFV = seirnobdi
+სეირნობს	სეირნობდა	V;3;SG;IND;IPFV = seirnobda
+სეირნობს	ვსეირნობდით	V;1;PL;IND;IPFV = vseirnobdit
+სეირნობს	სეირნობდით	V;2;PL;IND;IPFV = seirnobdit
+სეირნობს	სეირნობდნენ	V;3;PL;IND;IPFV = seirnobdnen
+
+
+Screeve #3:
+სეირნობს	ვსეირნობდე	V;1;SG;SBJV;PRS = vseirnobde
+სეირნობს	სეირნობდე	V;2;SG;SBJV;PRS = seirnobde
+სეირნობს	სეირნობდეს	V;3;SG;SBJV;PRS = seirnobdes
+სეირნობს	ვსეირნობდეთ	V;1;PL;SBJV;PRS = vseirnobdet
+სეირნობს	სეირნობდეთ	V;2;PL;SBJV;PRS = seirnobdet
+სეირნობს	სეირნობდნენ	V;3;PL;SBJV;PRS = seirnobdnen
+
+
+Screeve #4:
+სეირნობს	ვისეირნებ	V;1;SG;IND;FUT = viseirneb
+სეირნობს	ისეირნებ	V;2;SG;IND;FUT = iseirneb
+სეირნობს	ისეირნებს	V;3;SG;IND;FUT = iseirnebs
+სეირნობს	ვისეირნებთ	V;1;PL;IND;FUT = viseirnebt
+სეირნობს	ისეირნებთ	V;2;PL;IND;FUT = iseirnebt
+სეირნობს	ისეირნებენ	V;3;PL;IND;FUT = iseirneben
+
+
+Screeve #5:
+სეირნობს	ვისეირნებდი	V;1;SG;COND = viseirnebdi
+სეირნობს	ისეირნებდი	V;2;SG;COND = iseirnebdi
+სეირნობს	ისეირნებდა	V;3;SG;COND = iseirnebda
+სეირნობს	ვისეირნებდით	V;1;PL;COND = viseirnebdit
+სეირნობს	ისეირნებდით	V;2;PL;COND = iseirnebdit
+სეირნობს	ისეირნებდნენ	V;3;PL;COND = iseirnebdnen
+
+
+Screeve #6:
+სეირნობს	ვისეირნებდე	V;1;SG;SBJV;FUT = viseirnebde
+სეირნობს	ისეირნებდე	V;2;SG;SBJV;FUT = iseirnebde
+სეირნობს	ისეირნებდეს	V;3;SG;SBJV;FUT = iseirnebdes
+სეირნობს	ვისეირნებდეთ	V;1;PL;SBJV;FUT = viseirnebdet
+სეირნობს	ისეირნებდეთ	V;2;PL;SBJV;FUT = iseirnebdet
+სეირნობს	ისეირნებდნენ	V;3;PL;SBJV;FUT = iseirnebdnen
+
+
+Screeve #7:
+სეირნობს	ვისეირნე	V;1;SG;IND;PST;PFV = viseirne
+სეირნობს	ისეირნე	V;2;SG;IND;PST;PFV = iseirne
+სეირნობს	ისეირნა	V;3;SG;IND;PST;PFV = iseirna
+სეირნობს	ვისეირნეთ	V;1;PL;IND;PST;PFV = viseirnet
+სეირნობს	ისეირნეთ	V;2;PL;IND;PST;PFV = iseirnet
+სეირნობს	ისეირნეს	V;3;PL;IND;PST;PFV = iseirnes
+
+სეირნობს	ისეირნე	V;2;SG;IMP = iseirne
+სეირნობს	ისეირნეთ	V;2;PL;IMP = iseirnet
+
+
+Screeve #8:
+სეირნობს	ვისეირნო	V;1;SG;OPT = viseirno
+სეირნობს	ისეირნო	V;2;SG;OPT = iseirno
+სეირნობს	ისეირნოს	V;3;SG;OPT = iseirnos
+სეირნობს	ვისეირნოთ	V;1;PL;OPT = viseirnot
+სეირნობს	ისეირნოთ	V;2;PL;OPT = iseirnot
+სეირნობს	ისეირნონ	V;3;PL;OPT = iseirnon
+
+სეირნობს	ვისეირნოთ	V;1;PL;IMP = viseirnot
+სეირნობს	ისეირნოს	V;3;SG;IMP = iseirnos
+სეირნობს	ისეირნონ	V;3;PL;IMP = iseirnon
+
+
+Screeve #9:
+სეირნობს	მისეირნია	V;1;SG;IND;PRF = miseirnia
+სეირნობს	გისეირნია	V;2;SG;IND;PRF = giseirnia
+სეირნობს	უსეირნია	V;3;SG;IND;PRF = useirnia
+სეირნობს	გვისეირნია	V;1;PL;IND;PRF = gviseirnia
+სეირნობს	გისეირნიათ	V;2;PL;IND;PRF = giseirniat
+სეირნობს	უსეირნიათ	V;3;PL;IND;PRF = useirniat
+
+
+Screeve #10:
+სეირნობს	მესეირნა	V;1;SG;IND;PST;PRF = meseirna
+სეირნობს	გესეირნა	V;2;SG;IND;PST;PRF = geseirna
+სეირნობს	ესეირნა	V;3;SG;IND;PST;PRF = eseirna
+სეირნობს	გვესეირნა	V;1;PL;IND;PST;PRF = gveseirna
+სეირნობს	გესეირნათ	V;2;PL;IND;PST;PRF = geseirnat
+სეირნობს	ესეირნათ	V;3;PL;IND;PST;PRF = eseirnat
+
+
+Screeve #11:
+სეირნობს	მესეირნოს	V;1;SG;SBJV;PRF = meseirnos
+სეირნობს	გესეირნოს	V;2;SG;SBJV;PRF = geseirnos
+სეირნობს	ესეირნოს	V;3;SG;SBJV;PRF = eseirnos
+სეირნობს	გვესეირნოს	V;1;PL;SBJV;PRF = gveseirnos
+სეირნობს	გესეირნოთ	V;2;PL;SBJV;PRF = geseirnot
+სეირნობს	ესეირნოთ	V;3;PL;SBJV;PRF = eseirnot
+
+
+სეირნობს	სეირნობა	V;V.MSDR;IPFV

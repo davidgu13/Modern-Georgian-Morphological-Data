@@ -1,0 +1,108 @@
+#27 - საუზმობს - eat_breakfast:
+Screeve #1:
+საუზმობს	ვსაუზმობ	V;1;SG;IND;PRS = vsauzmob
+საუზმობს	საუზმობ	V;2;SG;IND;PRS = sauzmob
+საუზმობს	საუზმობს	V;3;SG;IND;PRS = sauzmobs
+საუზმობს	ვსაუზმობთ	V;1;PL;IND;PRS = vsauzmobt
+საუზმობს	საუზმობთ	V;2;PL;IND;PRS = sauzmobt
+საუზმობს	საუზმობენ	V;3;PL;IND;PRS = sauzmoben
+
+
+Screeve #2:
+საუზმობს	ვსაუზმობდი	V;1;SG;IND;IPFV = vsauzmobdi
+საუზმობს	საუზმობდი	V;2;SG;IND;IPFV = sauzmobdi
+საუზმობს	საუზმობდა	V;3;SG;IND;IPFV = sauzmobda
+საუზმობს	ვსაუზმობდით	V;1;PL;IND;IPFV = vsauzmobdit
+საუზმობს	საუზმობდით	V;2;PL;IND;IPFV = sauzmobdit
+საუზმობს	საუზმობდნენ	V;3;PL;IND;IPFV = sauzmobdnen
+
+
+Screeve #3:
+საუზმობს	ვსაუზმობდე	V;1;SG;SBJV;PRS = vsauzmobde
+საუზმობს	საუზმობდე	V;2;SG;SBJV;PRS = sauzmobde
+საუზმობს	საუზმობდეს	V;3;SG;SBJV;PRS = sauzmobdes
+საუზმობს	ვსაუზმობდეთ	V;1;PL;SBJV;PRS = vsauzmobdet
+საუზმობს	საუზმობდეთ	V;2;PL;SBJV;PRS = sauzmobdet
+საუზმობს	საუზმობდნენ	V;3;PL;SBJV;PRS = sauzmobdnen
+
+
+Screeve #4:
+საუზმობს	ვისაუზმებ	V;1;SG;IND;FUT = visauzmeb
+საუზმობს	ისაუზმებ	V;2;SG;IND;FUT = isauzmeb
+საუზმობს	ისაუზმებს	V;3;SG;IND;FUT = isauzmebs
+საუზმობს	ვისაუზმებთ	V;1;PL;IND;FUT = visauzmebt
+საუზმობს	ისაუზმებთ	V;2;PL;IND;FUT = isauzmebt
+საუზმობს	ისაუზმებენ	V;3;PL;IND;FUT = isauzmeben
+
+
+Screeve #5:
+საუზმობს	ვისაუზმებდი	V;1;SG;COND = visauzmebdi
+საუზმობს	ისაუზმებდი	V;2;SG;COND = isauzmebdi
+საუზმობს	ისაუზმებდა	V;3;SG;COND = isauzmebda
+საუზმობს	ვისაუზმებდით	V;1;PL;COND = visauzmebdit
+საუზმობს	ისაუზმებდით	V;2;PL;COND = isauzmebdit
+საუზმობს	ისაუზმებდნენ	V;3;PL;COND = isauzmebdnen
+
+
+Screeve #6:
+საუზმობს	ვისაუზმებდე	V;1;SG;SBJV;FUT = visauzmebde
+საუზმობს	ისაუზმებდე	V;2;SG;SBJV;FUT = isauzmebde
+საუზმობს	ისაუზმებდეს	V;3;SG;SBJV;FUT = isauzmebdes
+საუზმობს	ვისაუზმებდეთ	V;1;PL;SBJV;FUT = visauzmebdet
+საუზმობს	ისაუზმებდეთ	V;2;PL;SBJV;FUT = isauzmebdet
+საუზმობს	ისაუზმებდნენ	V;3;PL;SBJV;FUT = isauzmebdnen
+
+
+Screeve #7:
+საუზმობს	ვისაუზმე	V;1;SG;IND;PST;PFV = visauzme
+საუზმობს	ისაუზმე	V;2;SG;IND;PST;PFV = isauzme
+საუზმობს	ისაუზმა	V;3;SG;IND;PST;PFV = isauzma
+საუზმობს	ვისაუზმეთ	V;1;PL;IND;PST;PFV = visauzmet
+საუზმობს	ისაუზმეთ	V;2;PL;IND;PST;PFV = isauzmet
+საუზმობს	ისაუზმეს	V;3;PL;IND;PST;PFV = isauzmes
+
+საუზმობს	ისაუზმე	V;2;SG;IMP = isauzme
+საუზმობს	ისაუზმეთ	V;2;PL;IMP = isauzmet
+
+
+Screeve #8:
+საუზმობს	ვისაუზმო	V;1;SG;OPT = visauzmo
+საუზმობს	ისაუზმო	V;2;SG;OPT = isauzmo
+საუზმობს	ისაუზმოს	V;3;SG;OPT = isauzmos
+საუზმობს	ვისაუზმოთ	V;1;PL;OPT = visauzmot
+საუზმობს	ისაუზმოთ	V;2;PL;OPT = isauzmot
+საუზმობს	ისაუზმონ	V;3;PL;OPT = isauzmon
+
+საუზმობს	ვისაუზმოთ	V;1;PL;IMP = visauzmot
+საუზმობს	ისაუზმოს	V;3;SG;IMP = isauzmos
+საუზმობს	ისაუზმონ	V;3;PL;IMP = isauzmon
+
+
+Screeve #9:
+საუზმობს	მისაუზმია	V;1;SG;IND;PRF = misauzmia
+საუზმობს	გისაუზმია	V;2;SG;IND;PRF = gisauzmia
+საუზმობს	უსაუზმია	V;3;SG;IND;PRF = usauzmia
+საუზმობს	გვისაუზმია	V;1;PL;IND;PRF = gvisauzmia
+საუზმობს	გისაუზმიათ	V;2;PL;IND;PRF = gisauzmiat
+საუზმობს	უსაუზმიათ	V;3;PL;IND;PRF = usauzmiat
+
+
+Screeve #10:
+საუზმობს	მესაუზმა	V;1;SG;IND;PST;PRF = mesauzma
+საუზმობს	გესაუზმა	V;2;SG;IND;PST;PRF = gesauzma
+საუზმობს	ესაუზმა	V;3;SG;IND;PST;PRF = esauzma
+საუზმობს	გვესაუზმა	V;1;PL;IND;PST;PRF = gvesauzma
+საუზმობს	გესაუზმათ	V;2;PL;IND;PST;PRF = gesauzmat
+საუზმობს	ესაუზმათ	V;3;PL;IND;PST;PRF = esauzmat
+
+
+Screeve #11:
+საუზმობს	მესაუზმოს	V;1;SG;SBJV;PRF = mesauzmos
+საუზმობს	გესაუზმოს	V;2;SG;SBJV;PRF = gesauzmos
+საუზმობს	ესაუზმოს	V;3;SG;SBJV;PRF = esauzmos
+საუზმობს	გვესაუზმოს	V;1;PL;SBJV;PRF = gvesauzmos
+საუზმობს	გესაუზმოთ	V;2;PL;SBJV;PRF = gesauzmot
+საუზმობს	ესაუზმოთ	V;3;PL;SBJV;PRF = esauzmot
+
+
+საუზმობს	საუზმობა	V;V.MSDR;IPFV

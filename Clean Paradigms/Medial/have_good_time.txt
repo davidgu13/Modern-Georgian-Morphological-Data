@@ -1,0 +1,108 @@
+#28 - ქეიფობს - have_good_time:
+Screeve #1:
+ქეიფობს	ვქეიფობ	V;1;SG;IND;PRS = vkeipob
+ქეიფობს	ქეიფობ	V;2;SG;IND;PRS = keipob
+ქეიფობს	ქეიფობს	V;3;SG;IND;PRS = keipobs
+ქეიფობს	ვქეიფობთ	V;1;PL;IND;PRS = vkeipobt
+ქეიფობს	ქეიფობთ	V;2;PL;IND;PRS = keipobt
+ქეიფობს	ქეიფობენ	V;3;PL;IND;PRS = keipoben
+
+
+Screeve #2:
+ქეიფობს	ვქეიფობდი	V;1;SG;IND;IPFV = vkeipobdi
+ქეიფობს	ქეიფობდი	V;2;SG;IND;IPFV = keipobdi
+ქეიფობს	ქეიფობდა	V;3;SG;IND;IPFV = keipobda
+ქეიფობს	ვქეიფობდით	V;1;PL;IND;IPFV = vkeipobdit
+ქეიფობს	ქეიფობდით	V;2;PL;IND;IPFV = keipobdit
+ქეიფობს	ქეიფობდნენ	V;3;PL;IND;IPFV = keipobdnen
+
+
+Screeve #3:
+ქეიფობს	ვქეიფობდე	V;1;SG;SBJV;PRS = vkeipobde
+ქეიფობს	ქეიფობდე	V;2;SG;SBJV;PRS = keipobde
+ქეიფობს	ქეიფობდეს	V;3;SG;SBJV;PRS = keipobdes
+ქეიფობს	ვქეიფობდეთ	V;1;PL;SBJV;PRS = vkeipobdet
+ქეიფობს	ქეიფობდეთ	V;2;PL;SBJV;PRS = keipobdet
+ქეიფობს	ქეიფობდნენ	V;3;PL;SBJV;PRS = keipobdnen
+
+
+Screeve #4:
+ქეიფობს	ვიქეიფებ	V;1;SG;IND;FUT = vikeipeb
+ქეიფობს	იქეიფებ	V;2;SG;IND;FUT = ikeipeb
+ქეიფობს	იქეიფებს	V;3;SG;IND;FUT = ikeipebs
+ქეიფობს	ვიქეიფებთ	V;1;PL;IND;FUT = vikeipebt
+ქეიფობს	იქეიფებთ	V;2;PL;IND;FUT = ikeipebt
+ქეიფობს	იქეიფებენ	V;3;PL;IND;FUT = ikeipeben
+
+
+Screeve #5:
+ქეიფობს	ვიქეიფებდი	V;1;SG;COND = vikeipebdi
+ქეიფობს	იქეიფებდი	V;2;SG;COND = ikeipebdi
+ქეიფობს	იქეიფებდა	V;3;SG;COND = ikeipebda
+ქეიფობს	ვიქეიფებდით	V;1;PL;COND = vikeipebdit
+ქეიფობს	იქეიფებდით	V;2;PL;COND = ikeipebdit
+ქეიფობს	იქეიფებდნენ	V;3;PL;COND = ikeipebdnen
+
+
+Screeve #6:
+ქეიფობს	ვიქეიფებდე	V;1;SG;SBJV;FUT = vikeipebde
+ქეიფობს	იქეიფებდე	V;2;SG;SBJV;FUT = ikeipebde
+ქეიფობს	იქეიფებდეს	V;3;SG;SBJV;FUT = ikeipebdes
+ქეიფობს	ვიქეიფებდეთ	V;1;PL;SBJV;FUT = vikeipebdet
+ქეიფობს	იქეიფებდეთ	V;2;PL;SBJV;FUT = ikeipebdet
+ქეიფობს	იქეიფებდნენ	V;3;PL;SBJV;FUT = ikeipebdnen
+
+
+Screeve #7:
+ქეიფობს	ვიქეიფე	V;1;SG;IND;PST;PFV = vikeipe
+ქეიფობს	იქეიფე	V;2;SG;IND;PST;PFV = ikeipe
+ქეიფობს	იქეიფა	V;3;SG;IND;PST;PFV = ikeipa
+ქეიფობს	ვიქეიფეთ	V;1;PL;IND;PST;PFV = vikeipet
+ქეიფობს	იქეიფეთ	V;2;PL;IND;PST;PFV = ikeipet
+ქეიფობს	იქეიფეს	V;3;PL;IND;PST;PFV = ikeipes
+
+ქეიფობს	იქეიფე	V;2;SG;IMP = ikeipe
+ქეიფობს	იქეიფეთ	V;2;PL;IMP = ikeipet
+
+
+Screeve #8:
+ქეიფობს	ვიქეიფო	V;1;SG;OPT = vikeipo
+ქეიფობს	იქეიფო	V;2;SG;OPT = ikeipo
+ქეიფობს	იქეიფოს	V;3;SG;OPT = ikeipos
+ქეიფობს	ვიქეიფოთ	V;1;PL;OPT = vikeipot
+ქეიფობს	იქეიფოთ	V;2;PL;OPT = ikeipot
+ქეიფობს	იქეიფონ	V;3;PL;OPT = ikeipon
+
+ქეიფობს	ვიქეიფოთ	V;1;PL;IMP = vikeipot
+ქეიფობს	იქეიფოს	V;3;SG;IMP = ikeipos
+ქეიფობს	იქეიფონ	V;3;PL;IMP = ikeipon
+
+
+Screeve #9:
+ქეიფობს	მიქეიფია	V;1;SG;IND;PRF = mikeipia
+ქეიფობს	გიქეიფია	V;2;SG;IND;PRF = gikeipia
+ქეიფობს	უქეიფია	V;3;SG;IND;PRF = ukeipia
+ქეიფობს	გვიქეიფია	V;1;PL;IND;PRF = gvikeipia
+ქეიფობს	გიქეიფიათ	V;2;PL;IND;PRF = gikeipiat
+ქეიფობს	უქეიფიათ	V;3;PL;IND;PRF = ukeipiat
+
+
+Screeve #10:
+ქეიფობს	მექეიფა	V;1;SG;IND;PST;PRF = mekeipa
+ქეიფობს	გექეიფა	V;2;SG;IND;PST;PRF = gekeipa
+ქეიფობს	ექეიფა	V;3;SG;IND;PST;PRF = ekeipa
+ქეიფობს	გვექეიფა	V;1;PL;IND;PST;PRF = gvekeipa
+ქეიფობს	გექეიფათ	V;2;PL;IND;PST;PRF = gekeipat
+ქეიფობს	ექეიფათ	V;3;PL;IND;PST;PRF = ekeipat
+
+
+Screeve #11:
+ქეიფობს	მექეიფოს	V;1;SG;SBJV;PRF = mekeipos
+ქეიფობს	გექეიფოს	V;2;SG;SBJV;PRF = gekeipos
+ქეიფობს	ექეიფოს	V;3;SG;SBJV;PRF = ekeipos
+ქეიფობს	გვექეიფოს	V;1;PL;SBJV;PRF = gvekeipos
+ქეიფობს	გექეიფოთ	V;2;PL;SBJV;PRF = gekeipot
+ქეიფობს	ექეიფოთ	V;3;PL;SBJV;PRF = ekeipot
+
+
+ქეიფობს	ქეიფობა	V;V.MSDR;IPFV

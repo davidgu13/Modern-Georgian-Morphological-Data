@@ -1,0 +1,108 @@
+#17 - მეცადინეობს - study2:
+Screeve #1:
+მეცადინეობს	ვმეცადინეობ	V;1;SG;IND;PRS = vmecadineob
+მეცადინეობს	მეცადინეობ	V;2;SG;IND;PRS = mecadineob
+მეცადინეობს	მეცადინეობს	V;3;SG;IND;PRS = mecadineobs
+მეცადინეობს	ვმეცადინეობთ	V;1;PL;IND;PRS = vmecadineobt
+მეცადინეობს	მეცადინეობთ	V;2;PL;IND;PRS = mecadineobt
+მეცადინეობს	მეცადინეობენ	V;3;PL;IND;PRS = mecadineoben
+
+
+Screeve #2:
+მეცადინეობს	ვმეცადინეობდი	V;1;SG;IND;IPFV = vmecadineobdi
+მეცადინეობს	მეცადინეობდი	V;2;SG;IND;IPFV = mecadineobdi
+მეცადინეობს	მეცადინეობდა	V;3;SG;IND;IPFV = mecadineobda
+მეცადინეობს	ვმეცადინეობდით	V;1;PL;IND;IPFV = vmecadineobdit
+მეცადინეობს	მეცადინეობდით	V;2;PL;IND;IPFV = mecadineobdit
+მეცადინეობს	მეცადინეობდნენ	V;3;PL;IND;IPFV = mecadineobdnen
+
+
+Screeve #3:
+მეცადინეობს	ვმეცადინეობდე	V;1;SG;SBJV;PRS = vmecadineobde
+მეცადინეობს	მეცადინეობდე	V;2;SG;SBJV;PRS = mecadineobde
+მეცადინეობს	მეცადინეობდეს	V;3;SG;SBJV;PRS = mecadineobdes
+მეცადინეობს	ვმეცადინეობდეთ	V;1;PL;SBJV;PRS = vmecadineobdet
+მეცადინეობს	მეცადინეობდეთ	V;2;PL;SBJV;PRS = mecadineobdet
+მეცადინეობს	მეცადინეობდნენ	V;3;PL;SBJV;PRS = mecadineobdnen
+
+
+Screeve #4:
+მეცადინეობს	ვიმეცადინებ	V;1;SG;IND;FUT = vimecadineb
+მეცადინეობს	იმეცადინებ	V;2;SG;IND;FUT = imecadineb
+მეცადინეობს	იმეცადინებს	V;3;SG;IND;FUT = imecadinebs
+მეცადინეობს	ვიმეცადინებთ	V;1;PL;IND;FUT = vimecadinebt
+მეცადინეობს	იმეცადინებთ	V;2;PL;IND;FUT = imecadinebt
+მეცადინეობს	იმეცადინებენ	V;3;PL;IND;FUT = imecadineben
+
+
+Screeve #5:
+მეცადინეობს	ვიმეცადინებდი	V;1;SG;COND = vimecadinebdi
+მეცადინეობს	იმეცადინებდი	V;2;SG;COND = imecadinebdi
+მეცადინეობს	იმეცადინებდა	V;3;SG;COND = imecadinebda
+მეცადინეობს	ვიმეცადინებდით	V;1;PL;COND = vimecadinebdit
+მეცადინეობს	იმეცადინებდით	V;2;PL;COND = imecadinebdit
+მეცადინეობს	იმეცადინებდნენ	V;3;PL;COND = imecadinebdnen
+
+
+Screeve #6:
+მეცადინეობს	ვიმეცადინებდე	V;1;SG;SBJV;FUT = vimecadinebde
+მეცადინეობს	იმეცადინებდე	V;2;SG;SBJV;FUT = imecadinebde
+მეცადინეობს	იმეცადინებდეს	V;3;SG;SBJV;FUT = imecadinebdes
+მეცადინეობს	ვიმეცადინებდეთ	V;1;PL;SBJV;FUT = vimecadinebdet
+მეცადინეობს	იმეცადინებდეთ	V;2;PL;SBJV;FUT = imecadinebdet
+მეცადინეობს	იმეცადინებდნენ	V;3;PL;SBJV;FUT = imecadinebdnen
+
+
+Screeve #7:
+მეცადინეობს	ვიმეცადინე	V;1;SG;IND;PST;PFV = vimecadine
+მეცადინეობს	იმეცადინე	V;2;SG;IND;PST;PFV = imecadine
+მეცადინეობს	იმეცადინა	V;3;SG;IND;PST;PFV = imecadina
+მეცადინეობს	ვიმეცადინეთ	V;1;PL;IND;PST;PFV = vimecadinet
+მეცადინეობს	იმეცადინეთ	V;2;PL;IND;PST;PFV = imecadinet
+მეცადინეობს	იმეცადინეს	V;3;PL;IND;PST;PFV = imecadines
+
+მეცადინეობს	იმეცადინე	V;2;SG;IMP = imecadine
+მეცადინეობს	იმეცადინეთ	V;2;PL;IMP = imecadinet
+
+
+Screeve #8:
+მეცადინეობს	ვიმეცადინო	V;1;SG;OPT = vimecadino
+მეცადინეობს	იმეცადინო	V;2;SG;OPT = imecadino
+მეცადინეობს	იმეცადინოს	V;3;SG;OPT = imecadinos
+მეცადინეობს	ვიმეცადინოთ	V;1;PL;OPT = vimecadinot
+მეცადინეობს	იმეცადინოთ	V;2;PL;OPT = imecadinot
+მეცადინეობს	იმეცადინონ	V;3;PL;OPT = imecadinon
+
+მეცადინეობს	ვიმეცადინოთ	V;1;PL;IMP = vimecadinot
+მეცადინეობს	იმეცადინოს	V;3;SG;IMP = imecadinos
+მეცადინეობს	იმეცადინონ	V;3;PL;IMP = imecadinon
+
+
+Screeve #9:
+მეცადინეობს	მიმეცადინია	V;1;SG;IND;PRF = mimecadinia
+მეცადინეობს	გიმეცადინია	V;2;SG;IND;PRF = gimecadinia
+მეცადინეობს	უმეცადინია	V;3;SG;IND;PRF = umecadinia
+მეცადინეობს	გვიმეცადინია	V;1;PL;IND;PRF = gvimecadinia
+მეცადინეობს	გიმეცადინიათ	V;2;PL;IND;PRF = gimecadiniat
+მეცადინეობს	უმეცადინიათ	V;3;PL;IND;PRF = umecadiniat
+
+
+Screeve #10:
+მეცადინეობს	მემეცადინა	V;1;SG;IND;PST;PRF = memecadina
+მეცადინეობს	გემეცადინა	V;2;SG;IND;PST;PRF = gemecadina
+მეცადინეობს	ემეცადინა	V;3;SG;IND;PST;PRF = emecadina
+მეცადინეობს	გვემეცადინა	V;1;PL;IND;PST;PRF = gvemecadina
+მეცადინეობს	გემეცადინათ	V;2;PL;IND;PST;PRF = gemecadinat
+მეცადინეობს	ემეცადინათ	V;3;PL;IND;PST;PRF = emecadinat
+
+
+Screeve #11:
+მეცადინეობს	მემეცადინოს	V;1;SG;SBJV;PRF = memecadinos
+მეცადინეობს	გემეცადინოს	V;2;SG;SBJV;PRF = gemecadinos
+მეცადინეობს	ემეცადინოს	V;3;SG;SBJV;PRF = emecadinos
+მეცადინეობს	გვემეცადინოს	V;1;PL;SBJV;PRF = gvemecadinos
+მეცადინეობს	გემეცადინოთ	V;2;PL;SBJV;PRF = gemecadinot
+მეცადინეობს	ემეცადინოთ	V;3;PL;SBJV;PRF = emecadinot
+
+
+მეცადინეობს	მეცადინება	V;V.MSDR;IPFV

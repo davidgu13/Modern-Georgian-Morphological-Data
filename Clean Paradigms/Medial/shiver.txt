@@ -1,0 +1,108 @@
+#44 - კანკალებს - shiver:
+Screeve #1:
+კანკალებს	ვკანკალებ	V;1;SG;IND;PRS = vk'ank'aleb
+კანკალებს	კანკალებ	V;2;SG;IND;PRS = k'ank'aleb
+კანკალებს	კანკალებს	V;3;SG;IND;PRS = k'ank'alebs
+კანკალებს	ვკანკალებთ	V;1;PL;IND;PRS = vk'ank'alebt
+კანკალებს	კანკალებთ	V;2;PL;IND;PRS = k'ank'alebt
+კანკალებს	კანკალებენ	V;3;PL;IND;PRS = k'ank'aleben
+
+
+Screeve #2:
+კანკალებს	ვკანკალებდი	V;1;SG;IND;IPFV = vk'ank'alebdi
+კანკალებს	კანკალებდი	V;2;SG;IND;IPFV = k'ank'alebdi
+კანკალებს	კანკალებდა	V;3;SG;IND;IPFV = k'ank'alebda
+კანკალებს	ვკანკალებდით	V;1;PL;IND;IPFV = vk'ank'alebdit
+კანკალებს	კანკალებდით	V;2;PL;IND;IPFV = k'ank'alebdit
+კანკალებს	კანკალებდნენ	V;3;PL;IND;IPFV = k'ank'alebdnen
+
+
+Screeve #3:
+კანკალებს	ვკანკალებდე	V;1;SG;SBJV;PRS = vk'ank'alebde
+კანკალებს	კანკალებდე	V;2;SG;SBJV;PRS = k'ank'alebde
+კანკალებს	კანკალებდეს	V;3;SG;SBJV;PRS = k'ank'alebdes
+კანკალებს	ვკანკალებდეთ	V;1;PL;SBJV;PRS = vk'ank'alebdet
+კანკალებს	კანკალებდეთ	V;2;PL;SBJV;PRS = k'ank'alebdet
+კანკალებს	კანკალებდნენ	V;3;PL;SBJV;PRS = k'ank'alebdnen
+
+
+Screeve #4:
+კანკალებს	ვიკანკალებ	V;1;SG;IND;FUT = vik'ank'aleb
+კანკალებს	იკანკალებ	V;2;SG;IND;FUT = ik'ank'aleb
+კანკალებს	იკანკალებს	V;3;SG;IND;FUT = ik'ank'alebs
+კანკალებს	ვიკანკალებთ	V;1;PL;IND;FUT = vik'ank'alebt
+კანკალებს	იკანკალებთ	V;2;PL;IND;FUT = ik'ank'alebt
+კანკალებს	იკანკალებენ	V;3;PL;IND;FUT = ik'ank'aleben
+
+
+Screeve #5:
+კანკალებს	ვიკანკალებდი	V;1;SG;COND = vik'ank'alebdi
+კანკალებს	იკანკალებდი	V;2;SG;COND = ik'ank'alebdi
+კანკალებს	იკანკალებდა	V;3;SG;COND = ik'ank'alebda
+კანკალებს	ვიკანკალებდით	V;1;PL;COND = vik'ank'alebdit
+კანკალებს	იკანკალებდით	V;2;PL;COND = ik'ank'alebdit
+კანკალებს	იკანკალებდნენ	V;3;PL;COND = ik'ank'alebdnen
+
+
+Screeve #6:
+კანკალებს	ვიკანკალებდე	V;1;SG;SBJV;FUT = vik'ank'alebde
+კანკალებს	იკანკალებდე	V;2;SG;SBJV;FUT = ik'ank'alebde
+კანკალებს	იკანკალებდეს	V;3;SG;SBJV;FUT = ik'ank'alebdes
+კანკალებს	ვიკანკალებდეთ	V;1;PL;SBJV;FUT = vik'ank'alebdet
+კანკალებს	იკანკალებდეთ	V;2;PL;SBJV;FUT = ik'ank'alebdet
+კანკალებს	იკანკალებდნენ	V;3;PL;SBJV;FUT = ik'ank'alebdnen
+
+
+Screeve #7:
+კანკალებს	ვიკანკალე	V;1;SG;IND;PST;PFV = vik'ank'ale
+კანკალებს	იკანკალე	V;2;SG;IND;PST;PFV = ik'ank'ale
+კანკალებს	იკანკალა	V;3;SG;IND;PST;PFV = ik'ank'ala
+კანკალებს	ვიკანკალეთ	V;1;PL;IND;PST;PFV = vik'ank'alet
+კანკალებს	იკანკალეთ	V;2;PL;IND;PST;PFV = ik'ank'alet
+კანკალებს	იკანკალეს	V;3;PL;IND;PST;PFV = ik'ank'ales
+
+კანკალებს	იკანკალე	V;2;SG;IMP = ik'ank'ale
+კანკალებს	იკანკალეთ	V;2;PL;IMP = ik'ank'alet
+
+
+Screeve #8:
+კანკალებს	ვიკანკალო	V;1;SG;OPT = vik'ank'alo
+კანკალებს	იკანკალო	V;2;SG;OPT = ik'ank'alo
+კანკალებს	იკანკალოს	V;3;SG;OPT = ik'ank'alos
+კანკალებს	ვიკანკალოთ	V;1;PL;OPT = vik'ank'alot
+კანკალებს	იკანკალოთ	V;2;PL;OPT = ik'ank'alot
+კანკალებს	იკანკალონ	V;3;PL;OPT = ik'ank'alon
+
+კანკალებს	ვიკანკალოთ	V;1;PL;IMP = vik'ank'alot
+კანკალებს	იკანკალოს	V;3;SG;IMP = ik'ank'alos
+კანკალებს	იკანკალონ	V;3;PL;IMP = ik'ank'alon
+
+
+Screeve #9:
+კანკალებს	მიკანკალია	V;1;SG;IND;PRF = mik'ank'alia
+კანკალებს	გიკანკალია	V;2;SG;IND;PRF = gik'ank'alia
+კანკალებს	უკანკალია	V;3;SG;IND;PRF = uk'ank'alia
+კანკალებს	გვიკანკალია	V;1;PL;IND;PRF = gvik'ank'alia
+კანკალებს	გიკანკალიათ	V;2;PL;IND;PRF = gik'ank'aliat
+კანკალებს	უკანკალიათ	V;3;PL;IND;PRF = uk'ank'aliat
+
+
+Screeve #10:
+კანკალებს	მეკანკალა	V;1;SG;IND;PST;PRF = mek'ank'ala
+კანკალებს	გეკანკალა	V;2;SG;IND;PST;PRF = gek'ank'ala
+კანკალებს	ეკანკალა	V;3;SG;IND;PST;PRF = ek'ank'ala
+კანკალებს	გვეკანკალა	V;1;PL;IND;PST;PRF = gvek'ank'ala
+კანკალებს	გეკანკალათ	V;2;PL;IND;PST;PRF = gek'ank'alat
+კანკალებს	ეკანკალათ	V;3;PL;IND;PST;PRF = ek'ank'alat
+
+
+Screeve #11:
+კანკალებს	მეკანკალოს	V;1;SG;SBJV;PRF = mek'ank'alos
+კანკალებს	გეკანკალოს	V;2;SG;SBJV;PRF = gek'ank'alos
+კანკალებს	ეკანკალოს	V;3;SG;SBJV;PRF = ek'ank'alos
+კანკალებს	გვეკანკალოს	V;1;PL;SBJV;PRF = gvek'ank'alos
+კანკალებს	გეკანკალოთ	V;2;PL;SBJV;PRF = gek'ank'alot
+კანკალებს	ეკანკალოთ	V;3;PL;SBJV;PRF = ek'ank'alot
+
+
+კანკალებს	კანკალი	V;V.MSDR;IPFV
