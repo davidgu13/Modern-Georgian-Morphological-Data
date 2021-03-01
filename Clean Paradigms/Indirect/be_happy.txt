@@ -1,0 +1,83 @@
+#9 - უხარია - be_happy:
+Screeve #1:
+უხარია	მიხარია	V;1;SG;IND;PRS = mixaria
+უხარია	გიხარია	V;2;SG;IND;PRS = gixaria
+უხარია	უხარია	V;3;SG;IND;PRS = uxaria
+უხარია	გვიხარია	V;1;PL;IND;PRS = gvixaria
+უხარია	გიხარიათ	V;2;PL;IND;PRS = gixariat
+უხარია	უხარიათ	V;3;PL;IND;PRS = uxariat
+
+
+Screeve #2:
+უხარია	მიხაროდა	V;1;SG;IND;IPFV = mixaroda
+უხარია	გიხაროდა	V;2;SG;IND;IPFV = gixaroda
+უხარია	უხაროდა	V;3;SG;IND;IPFV = uxaroda
+უხარია	გვიხაროდა	V;1;PL;IND;IPFV = gvixaroda
+უხარია	გიხაროდათ	V;2;PL;IND;IPFV = gixarodat
+უხარია	უხაროდათ	V;3;PL;IND;IPFV = uxarodat
+
+
+Screeve #3:
+უხარია	მიხაროდეს	V;1;SG;SBJV;PRS = mixarodes
+უხარია	გიხაროდეს	V;2;SG;SBJV;PRS = gixarodes
+უხარია	უხაროდეს	V;3;SG;SBJV;PRS = uxarodes
+უხარია	გვიხაროდეს	V;1;PL;SBJV;PRS = gvixarodes
+უხარია	გიხაროდეთ	V;2;PL;SBJV;PRS = gixarodet
+უხარია	უხაროდეთ	V;3;PL;SBJV;PRS = uxarodet
+
+
+Screeve #4:
+უხარია	გამეხარდება	V;1;SG;IND;FUT = gamexardeba
+უხარია	გაგეხარდება	V;2;SG;IND;FUT = gagexardeba
+უხარია	გაეხარდება	V;3;SG;IND;FUT = gaexardeba
+უხარია	გაგვეხარდება	V;1;PL;IND;FUT = gagvexardeba
+უხარია	გაგეხარდებათ	V;2;PL;IND;FUT = gagexardebat
+უხარია	გაეხარდებათ	V;3;PL;IND;FUT = gaexardebat
+
+
+Screeve #5:
+უხარია	გამეხარდებოდა	V;1;SG;COND = gamexardeboda
+უხარია	გაგეხარდებოდა	V;2;SG;COND = gagexardeboda
+უხარია	გაეხარდებოდა	V;3;SG;COND = gaexardeboda
+უხარია	გაგვეხარდებოდა	V;1;PL;COND = gagvexardeboda
+უხარია	გაგეხარდებოდათ	V;2;PL;COND = gagexardebodat
+უხარია	გაეხარდებოდათ	V;3;PL;COND = gaexardebodat
+
+
+Screeve #6:
+უხარია	გამეხარდებოდეს	V;1;SG;SBJV;FUT = gamexardebodes
+უხარია	გაგეხარდებოდეს	V;2;SG;SBJV;FUT = gagexardebodes
+უხარია	გაეხარდებოდეს	V;3;SG;SBJV;FUT = gaexardebodes
+უხარია	გაგვეხარდებოდეს	V;1;PL;SBJV;FUT = gagvexardebodes
+უხარია	გაგეხარდებოდეთ	V;2;PL;SBJV;FUT = gagexardebodet
+უხარია	გაეხარდებოდეთ	V;3;PL;SBJV;FUT = gaexardebodet
+
+
+Screeve #9:
+უხარია	გამხარებია	V;1;SG;IND;PRF = gamxarebia
+უხარია	გაგხარებია	V;2;SG;IND;PRF = gagxarebia
+უხარია	გახარებია	V;3;SG;IND;PRF = gaxarebia
+უხარია	გაგვხარებია	V;1;PL;IND;PRF = gagvxarebia
+უხარია	გაგხარებიათ	V;2;PL;IND;PRF = gagxarebiat
+უხარია	გახარებიათ	V;3;PL;IND;PRF = gaxarebiat
+
+
+Screeve #10:
+უხარია	გამხარებოდა	V;1;SG;IND;PST;PRF = gamxareboda
+უხარია	გაგხარებოდა	V;2;SG;IND;PST;PRF = gagxareboda
+უხარია	გახარებოდა	V;3;SG;IND;PST;PRF = gaxareboda
+უხარია	გაგვხარებოდა	V;1;PL;IND;PST;PRF = gagvxareboda
+უხარია	გაგხარებოდათ	V;2;PL;IND;PST;PRF = gagxarebodat
+უხარია	გახარებოდათ	V;3;PL;IND;PST;PRF = gaxarebodat
+
+
+Screeve #11:
+უხარია	გამხარებოდეს	V;1;SG;SBJV;PRF = gamxarebodes
+უხარია	გაგხარებოდეს	V;2;SG;SBJV;PRF = gagxarebodes
+უხარია	გახარებოდეს	V;3;SG;SBJV;PRF = gaxarebodes
+უხარია	გაგვხარებოდეს	V;1;PL;SBJV;PRF = gagvxarebodes
+უხარია	გაგხარებოდეთ	V;2;PL;SBJV;PRF = gagxarebodet
+უხარია	გახარებოდეთ	V;3;PL;SBJV;PRF = gaxarebodet
+
+
+უხარია	გახარება	V;V.MSDR;IPFV

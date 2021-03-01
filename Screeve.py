@@ -308,8 +308,7 @@ class Medial_Screeve(Screeve):
                 else:
                     lemma.ts = 'ინ'
 
-def define_Medial_Screeves():
-    return define_Transitive_Screeves('med')
+def define_Medial_Screeves(): return define_Transitive_Screeves('med')
 
 
 class Indirect_Screeve(Screeve):
@@ -331,34 +330,38 @@ class Indirect_Screeve(Screeve):
                 self.paas[k]['suff'] = curr_3sg_suff
 
         if self.idx in {1,2,3}:
-            if lemma.version == 'subj':
-                lemma.version = SUBJECTIVE_VERSION
             self.paas['sg3']['pref'] = lemma.pres_S_3sg_pref
             self.paas['pl3']['pref'] = lemma.pres_S_3sg_pref
-            lemma.root = lemma.root
-            lemma.ts = lemma.ts
+            # lemma.root = lemma.root
+            # lemma.ts = lemma.ts
         elif self.idx in {4,5,6}:
             lemma.version = zip_pronouns(['ე']*6)
             lemma.root = lemma.root_fut
             lemma.ts = lemma.ts_fut
-            lemma.passive_marker = 'ოდ'
         elif self.idx in {9,10,11}:
+            self.paas['sg3']['pref'] = lemma.pres_S_3sg_pref
+            self.paas['pl3']['pref'] = lemma.pres_S_3sg_pref
             lemma.version = zip_pronouns([''] * 6)
             lemma.root = lemma.root_perf
             lemma.ts = lemma.ts_perf
-            lemma.passive_marker = 'ოდ'
         else:
             raise Exception("No more screeves exist! If 7,8 do exist, add them manually!")
+
+        if self.idx in {2,3,5,6,10,11}: # <=> not in 1,4,9
+            d_marker = lemma.screeve_marker_d if self.idx in {2,3} else 'ოდ'
+            self.markers = zip_pronouns([d_marker + v for k, v in self.markers.items()])
 
 def define_Indirect_Screeves():
     # if conj=='tv': Indirect_Screeve = Transitive_Screeve
     # elif conj=='med': Indirect_Screeve = Medial_Screeve
     # else: raise Exception('Invalid Screeve class!')
 
+    # Note: there is a marker in the Future Sub-Series that can be -d or -od. It is specified as a parameter in the Excel, and added in the Lemma class (not here!).
+
     # Present Indicative
     screeve1_paas = [['მ', ''], ['გ', ''], ['', ''], ['გვ', ''], ['გ', 'თ'], ['', 'თ']]  # some of these affixes are set later!
     screeve1_markers = [''] * 6
-    def screeve1_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return paa_pref + version + root + ts + paa_suff
+    def screeve1_form(paa_pref, prev, version, root, d_marker, ts, screeve_marker, paa_suff): return paa_pref + version + root + d_marker + ts + paa_suff
     present_indicative = Indirect_Screeve(1, screeve1_paas, screeve1_markers, screeve1_form)
 
     # Imperfect Indicative
@@ -373,8 +376,10 @@ def define_Indirect_Screeves():
     present_subjunctive = Indirect_Screeve(3, screeve3_paas, screeve3_markers, screeve2_form)
 
     # Future Indicative
-    def screeve4_form(paa_pref, prev, version, root, _, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
-    future_indicative = Indirect_Screeve(4, screeve1_paas, screeve1_markers, screeve4_form)
+    screeve4_paas = [[v1,'ა'+v2] for [v1,v2] in screeve1_paas]
+
+    def screeve4_form(paa_pref, prev, version, root, d_marker, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + d_marker + ts + screeve_marker + paa_suff  # stem is the same as in screeve2_form
+    future_indicative = Indirect_Screeve(4, screeve4_paas, screeve1_markers, screeve4_form)
 
     # Conditional
     def screeve5_form(paa_pref, prev, version, root, d_marker, ts, screeve_marker, paa_suff): return prev + paa_pref + version + root + d_marker + ts + screeve_marker + paa_suff

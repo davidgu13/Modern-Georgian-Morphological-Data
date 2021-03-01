@@ -1,0 +1,83 @@
+#20 - ეცინება - giggle:
+Screeve #1:
+ეცინება	მეცინება	V;1;SG;IND;PRS = mecineba
+ეცინება	გეცინება	V;2;SG;IND;PRS = gecineba
+ეცინება	ეცინება	V;3;SG;IND;PRS = ecineba
+ეცინება	გვეცინება	V;1;PL;IND;PRS = gvecineba
+ეცინება	გეცინებათ	V;2;PL;IND;PRS = gecinebat
+ეცინება	ეცინებათ	V;3;PL;IND;PRS = ecinebat
+
+
+Screeve #2:
+ეცინება	მეცინებოდა	V;1;SG;IND;IPFV = mecineboda
+ეცინება	გეცინებოდა	V;2;SG;IND;IPFV = gecineboda
+ეცინება	ეცინებოდა	V;3;SG;IND;IPFV = ecineboda
+ეცინება	გვეცინებოდა	V;1;PL;IND;IPFV = gvecineboda
+ეცინება	გეცინებოდათ	V;2;PL;IND;IPFV = gecinebodat
+ეცინება	ეცინებოდათ	V;3;PL;IND;IPFV = ecinebodat
+
+
+Screeve #3:
+ეცინება	მეცინებოდეს	V;1;SG;SBJV;PRS = mecinebodes
+ეცინება	გეცინებოდეს	V;2;SG;SBJV;PRS = gecinebodes
+ეცინება	ეცინებოდეს	V;3;SG;SBJV;PRS = ecinebodes
+ეცინება	გვეცინებოდეს	V;1;PL;SBJV;PRS = gvecinebodes
+ეცინება	გეცინებოდეთ	V;2;PL;SBJV;PRS = gecinebodet
+ეცინება	ეცინებოდეთ	V;3;PL;SBJV;PRS = ecinebodet
+
+
+Screeve #4:
+ეცინება	გამეცინება	V;1;SG;IND;FUT = gamecineba
+ეცინება	გაგეცინება	V;2;SG;IND;FUT = gagecineba
+ეცინება	გაეცინება	V;3;SG;IND;FUT = gaecineba
+ეცინება	გაგვეცინება	V;1;PL;IND;FUT = gagvecineba
+ეცინება	გაგეცინებათ	V;2;PL;IND;FUT = gagecinebat
+ეცინება	გაეცინებათ	V;3;PL;IND;FUT = gaecinebat
+
+
+Screeve #5:
+ეცინება	გამეცინებოდა	V;1;SG;COND = gamecineboda
+ეცინება	გაგეცინებოდა	V;2;SG;COND = gagecineboda
+ეცინება	გაეცინებოდა	V;3;SG;COND = gaecineboda
+ეცინება	გაგვეცინებოდა	V;1;PL;COND = gagvecineboda
+ეცინება	გაგეცინებოდათ	V;2;PL;COND = gagecinebodat
+ეცინება	გაეცინებოდათ	V;3;PL;COND = gaecinebodat
+
+
+Screeve #6:
+ეცინება	გამეცინებოდეს	V;1;SG;SBJV;FUT = gamecinebodes
+ეცინება	გაგეცინებოდეს	V;2;SG;SBJV;FUT = gagecinebodes
+ეცინება	გაეცინებოდეს	V;3;SG;SBJV;FUT = gaecinebodes
+ეცინება	გაგვეცინებოდეს	V;1;PL;SBJV;FUT = gagvecinebodes
+ეცინება	გაგეცინებოდეთ	V;2;PL;SBJV;FUT = gagecinebodet
+ეცინება	გაეცინებოდეთ	V;3;PL;SBJV;FUT = gaecinebodet
+
+
+Screeve #9:
+ეცინება	გამცინებია	V;1;SG;IND;PRF = gamcinebia
+ეცინება	გაგცინებია	V;2;SG;IND;PRF = gagcinebia
+ეცინება	გასცინებია	V;3;SG;IND;PRF = gascinebia
+ეცინება	გაგვცინებია	V;1;PL;IND;PRF = gagvcinebia
+ეცინება	გაგცინებიათ	V;2;PL;IND;PRF = gagcinebiat
+ეცინება	გასცინებიათ	V;3;PL;IND;PRF = gascinebiat
+
+
+Screeve #10:
+ეცინება	გამცინებოდა	V;1;SG;IND;PST;PRF = gamcineboda
+ეცინება	გაგცინებოდა	V;2;SG;IND;PST;PRF = gagcineboda
+ეცინება	გასცინებოდა	V;3;SG;IND;PST;PRF = gascineboda
+ეცინება	გაგვცინებოდა	V;1;PL;IND;PST;PRF = gagvcineboda
+ეცინება	გაგცინებოდათ	V;2;PL;IND;PST;PRF = gagcinebodat
+ეცინება	გასცინებოდათ	V;3;PL;IND;PST;PRF = gascinebodat
+
+
+Screeve #11:
+ეცინება	გამცინებოდეს	V;1;SG;SBJV;PRF = gamcinebodes
+ეცინება	გაგცინებოდეს	V;2;SG;SBJV;PRF = gagcinebodes
+ეცინება	გასცინებოდეს	V;3;SG;SBJV;PRF = gascinebodes
+ეცინება	გაგვცინებოდეს	V;1;PL;SBJV;PRF = gagvcinebodes
+ეცინება	გაგცინებოდეთ	V;2;PL;SBJV;PRF = gagcinebodet
+ეცინება	გასცინებოდეთ	V;3;PL;SBJV;PRF = gascinebodet
+
+
+ეცინება	გაცინება	V;V.MSDR;IPFV

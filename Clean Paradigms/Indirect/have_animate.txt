@@ -1,0 +1,83 @@
+#3 - ჰყავს - have_animate:
+Screeve #1:
+ჰყავს	მყავს	V;1;SG;IND;PRS = mq'avs
+ჰყავს	გყავს	V;2;SG;IND;PRS = gq'avs
+ჰყავს	ჰყავს	V;3;SG;IND;PRS = hq'avs
+ჰყავს	გვყავს	V;1;PL;IND;PRS = gvq'avs
+ჰყავს	გყავთ	V;2;PL;IND;PRS = gq'avt
+ჰყავს	ჰყავთ	V;3;PL;IND;PRS = hq'avt
+
+
+Screeve #2:
+ჰყავს	მყავდა	V;1;SG;IND;IPFV = mq'avda
+ჰყავს	გყავდა	V;2;SG;IND;IPFV = gq'avda
+ჰყავს	ჰყავდა	V;3;SG;IND;IPFV = hq'avda
+ჰყავს	გვყავდა	V;1;PL;IND;IPFV = gvq'avda
+ჰყავს	გყავდათ	V;2;PL;IND;IPFV = gq'avdat
+ჰყავს	ჰყავდათ	V;3;PL;IND;IPFV = hq'avdat
+
+
+Screeve #3:
+ჰყავს	მყავდეს	V;1;SG;SBJV;PRS = mq'avdes
+ჰყავს	გყავდეს	V;2;SG;SBJV;PRS = gq'avdes
+ჰყავს	ჰყავდეს	V;3;SG;SBJV;PRS = hq'avdes
+ჰყავს	გვყავდეს	V;1;PL;SBJV;PRS = gvq'avdes
+ჰყავს	გყავდეთ	V;2;PL;SBJV;PRS = gq'avdet
+ჰყავს	ჰყავდეთ	V;3;PL;SBJV;PRS = hq'avdet
+
+
+Screeve #4:
+ჰყავს	მეყოლება	V;1;SG;IND;FUT = meq'oleba
+ჰყავს	გეყოლება	V;2;SG;IND;FUT = geq'oleba
+ჰყავს	ეყოლება	V;3;SG;IND;FUT = eq'oleba
+ჰყავს	გვეყოლება	V;1;PL;IND;FUT = gveq'oleba
+ჰყავს	გეყოლებათ	V;2;PL;IND;FUT = geq'olebat
+ჰყავს	ეყოლებათ	V;3;PL;IND;FUT = eq'olebat
+
+
+Screeve #5:
+ჰყავს	მეყოლებოდა	V;1;SG;COND = meq'oleboda
+ჰყავს	გეყოლებოდა	V;2;SG;COND = geq'oleboda
+ჰყავს	ეყოლებოდა	V;3;SG;COND = eq'oleboda
+ჰყავს	გვეყოლებოდა	V;1;PL;COND = gveq'oleboda
+ჰყავს	გეყოლებოდათ	V;2;PL;COND = geq'olebodat
+ჰყავს	ეყოლებოდათ	V;3;PL;COND = eq'olebodat
+
+
+Screeve #6:
+ჰყავს	მეყოლებოდეს	V;1;SG;SBJV;FUT = meq'olebodes
+ჰყავს	გეყოლებოდეს	V;2;SG;SBJV;FUT = geq'olebodes
+ჰყავს	ეყოლებოდეს	V;3;SG;SBJV;FUT = eq'olebodes
+ჰყავს	გვეყოლებოდეს	V;1;PL;SBJV;FUT = gveq'olebodes
+ჰყავს	გეყოლებოდეთ	V;2;PL;SBJV;FUT = geq'olebodet
+ჰყავს	ეყოლებოდეთ	V;3;PL;SBJV;FUT = eq'olebodet
+
+
+Screeve #9:
+ჰყავს	მყოლია	V;1;SG;IND;PRF = mq'olia
+ჰყავს	გყოლია	V;2;SG;IND;PRF = gq'olia
+ჰყავს	ჰყოლია	V;3;SG;IND;PRF = hq'olia
+ჰყავს	გვყოლია	V;1;PL;IND;PRF = gvq'olia
+ჰყავს	გყოლიათ	V;2;PL;IND;PRF = gq'oliat
+ჰყავს	ჰყოლიათ	V;3;PL;IND;PRF = hq'oliat
+
+
+Screeve #10:
+ჰყავს	მყოლოდა	V;1;SG;IND;PST;PRF = mq'oloda
+ჰყავს	გყოლოდა	V;2;SG;IND;PST;PRF = gq'oloda
+ჰყავს	ჰყოლოდა	V;3;SG;IND;PST;PRF = hq'oloda
+ჰყავს	გვყოლოდა	V;1;PL;IND;PST;PRF = gvq'oloda
+ჰყავს	გყოლოდათ	V;2;PL;IND;PST;PRF = gq'olodat
+ჰყავს	ჰყოლოდათ	V;3;PL;IND;PST;PRF = hq'olodat
+
+
+Screeve #11:
+ჰყავს	მყოლოდეს	V;1;SG;SBJV;PRF = mq'olodes
+ჰყავს	გყოლოდეს	V;2;SG;SBJV;PRF = gq'olodes
+ჰყავს	ჰყოლოდეს	V;3;SG;SBJV;PRF = hq'olodes
+ჰყავს	გვყოლოდეს	V;1;PL;SBJV;PRF = gvq'olodes
+ჰყავს	გყოლოდეთ	V;2;PL;SBJV;PRF = gq'olodet
+ჰყავს	ჰყოლოდეთ	V;3;PL;SBJV;PRF = hq'olodet
+
+
+ჰყავს	ყოლება	V;V.MSDR;IPFV

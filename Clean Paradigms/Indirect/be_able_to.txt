@@ -1,0 +1,83 @@
+#10 - შეუძლია - be_able_to:
+Screeve #1:
+შეუძლია	შემიძლია	V;1;SG;IND;PRS = šemijlia
+შეუძლია	შეგიძლია	V;2;SG;IND;PRS = šegijlia
+შეუძლია	შეუძლია	V;3;SG;IND;PRS = šeujlia
+შეუძლია	შეგვიძლია	V;1;PL;IND;PRS = šegvijlia
+შეუძლია	შეგიძლიათ	V;2;PL;IND;PRS = šegijliat
+შეუძლია	შეუძლიათ	V;3;PL;IND;PRS = šeujliat
+
+
+Screeve #4:
+შეუძლია	შემეძლება	V;1;SG;IND;FUT = šemejleba
+შეუძლია	შეგეძლება	V;2;SG;IND;FUT = šegejleba
+შეუძლია	შეეძლება	V;3;SG;IND;FUT = šeejleba
+შეუძლია	შეგვეძლება	V;1;PL;IND;FUT = šegvejleba
+შეუძლია	შეგეძლებათ	V;2;PL;IND;FUT = šegejlebat
+შეუძლია	შეეძლებათ	V;3;PL;IND;FUT = šeejlebat
+
+
+Screeve #5:
+შეუძლია	შემეძლებოდა	V;1;SG;COND = šemejleboda
+შეუძლია	შეგეძლებოდა	V;2;SG;COND = šegejleboda
+შეუძლია	შეეძლებოდა	V;3;SG;COND = šeejleboda
+შეუძლია	შეგვეძლებოდა	V;1;PL;COND = šegvejleboda
+შეუძლია	შეგეძლებოდათ	V;2;PL;COND = šegejlebodat
+შეუძლია	შეეძლებოდათ	V;3;PL;COND = šeejlebodat
+
+
+Screeve #6:
+შეუძლია	შემეძლებოდეს	V;1;SG;SBJV;FUT = šemejlebodes
+შეუძლია	შეგეძლებოდეს	V;2;SG;SBJV;FUT = šegejlebodes
+შეუძლია	შეეძლებოდეს	V;3;SG;SBJV;FUT = šeejlebodes
+შეუძლია	შეგვეძლებოდეს	V;1;PL;SBJV;FUT = šegvejlebodes
+შეუძლია	შეგეძლებოდეთ	V;2;PL;SBJV;FUT = šegejlebodet
+შეუძლია	შეეძლებოდეთ	V;3;PL;SBJV;FUT = šeejlebodet
+
+
+Screeve #7:
+შეუძლია	შემეძლო	V;1;SG;IND;PST;PFV = šemejlo
+შეუძლია	შეგეძლო	V;2;SG;IND;PST;PFV = šegejlo
+შეუძლია	შეეძლო	V;3;SG;IND;PST;PFV = šeejlo
+შეუძლია	შეგვეძლო	V;1;PL;IND;PST;PFV = šegvejlo
+შეუძლია	შეგეძლოთ	V;2;PL;IND;PST;PFV = šegejlot
+შეუძლია	შეეძლოთ	V;3;PL;IND;PST;PFV = šeejlot
+
+
+Screeve #8:
+შეუძლია	შემეძლოს	V;1;SG;OPT = šemejlos
+შეუძლია	შეგეძლოს	V;2;SG;OPT = šegejlos
+შეუძლია	შეძლოს	V;3;SG;OPT = šeejlos
+შეუძლია	შეგვეძლოს	V;1;PL;OPT = šegvejlos
+შეუძლია	შეგეძლოთ	V;2;PL;OPT = šegejlot
+შეუძლია	შეძლონ	V;3;PL;OPT = šeejlot
+
+
+Screeve #9:
+შეუძლია	შემძლებია	V;1;SG;IND;PRF = šemjlebia
+შეუძლია	შეგძლებია	V;2;SG;IND;PRF = šegjlebia
+შეუძლია	შეძლებია	V;3;SG;IND;PRF = šejlebia
+შეუძლია	შეგვძლებია	V;1;PL;IND;PRF = šegvjlebia
+შეუძლია	შეგძლებიათ	V;2;PL;IND;PRF = šegjlebiat
+შეუძლია	შეძლებიათ	V;3;PL;IND;PRF = šejlebiat
+
+
+Screeve #10:
+შეუძლია	შემძლებოდა	V;1;SG;IND;PST;PRF = šemjleboda
+შეუძლია	შეგძლებოდა	V;2;SG;IND;PST;PRF = šegjleboda
+შეუძლია	შეძლებოდა	V;3;SG;IND;PST;PRF = šejleboda
+შეუძლია	შეგვძლებოდა	V;1;PL;IND;PST;PRF = šegvjleboda
+შეუძლია	შეგძლებოდათ	V;2;PL;IND;PST;PRF = šegjlebodat
+შეუძლია	შეძლებოდათ	V;3;PL;IND;PST;PRF = šejlebodat
+
+
+Screeve #11:
+შეუძლია	შემძლებოდეს	V;1;SG;SBJV;PRF = šemjlebodes
+შეუძლია	შეგძლებოდეს	V;2;SG;SBJV;PRF = šegjlebodes
+შეუძლია	შეძლებოდეს	V;3;SG;SBJV;PRF = šejlebodes
+შეუძლია	შეგვძლებოდეს	V;1;PL;SBJV;PRF = šegvjlebodes
+შეუძლია	შეგძლებოდეთ	V;2;PL;SBJV;PRF = šegjlebodet
+შეუძლია	შეძლებოდეთ	V;3;PL;SBJV;PRF = šejlebodet
+
+
+შეუძლია	შეძლება	V;V.MSDR;IPFV

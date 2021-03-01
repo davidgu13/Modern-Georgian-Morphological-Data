@@ -1,0 +1,83 @@
+#21 - სძინავს - sleep:
+Screeve #1:
+სძინავს	მძინავს	V;1;SG;IND;PRS = mjinavs
+სძინავს	გძინავს	V;2;SG;IND;PRS = gjinavs
+სძინავს	სძინავს	V;3;SG;IND;PRS = sjinavs
+სძინავს	გვძინავს	V;1;PL;IND;PRS = gvjinavs
+სძინავს	გძინავთ	V;2;PL;IND;PRS = gjinavt
+სძინავს	სძინავთ	V;3;PL;IND;PRS = sjinavt
+
+
+Screeve #4:
+სძინავს	მეძინება	V;1;SG;IND;FUT = mejineba
+სძინავს	გეძინება	V;2;SG;IND;FUT = gejineba
+სძინავს	ეძინება	V;3;SG;IND;FUT = ejineba
+სძინავს	გვეძინება	V;1;PL;IND;FUT = gvejineba
+სძინავს	გეძინებათ	V;2;PL;IND;FUT = gejinebat
+სძინავს	ეძინებათ	V;3;PL;IND;FUT = ejinebat
+
+
+Screeve #5:
+სძინავს	მეძინებოდა	V;1;SG;COND = mejineboda
+სძინავს	გეძინებოდა	V;2;SG;COND = gejineboda
+სძინავს	ეძინებოდა	V;3;SG;COND = ejineboda
+სძინავს	გვეძინებოდა	V;1;PL;COND = gvejineboda
+სძინავს	გეძინებოდათ	V;2;PL;COND = gejinebodat
+სძინავს	ეძინებოდათ	V;3;PL;COND = ejinebodat
+
+
+Screeve #6:
+სძინავს	მეძინებოდეს	V;1;SG;SBJV;FUT = mejinebodes
+სძინავს	გეძინებოდეს	V;2;SG;SBJV;FUT = gejinebodes
+სძინავს	ეძინებოდეს	V;3;SG;SBJV;FUT = ejinebodes
+სძინავს	გვეძინებოდეს	V;1;PL;SBJV;FUT = gvejinebodes
+სძინავს	გეძინებოდეთ	V;2;PL;SBJV;FUT = gejinebodet
+სძინავს	ეძინებოდეთ	V;3;PL;SBJV;FUT = ejinebodet
+
+
+Screeve #7:
+სძინავს	მეძინა	V;1;SG;IND;IPFV = mejina
+სძინავს	გეძინა	V;2;SG;IND;IPFV = gejina
+სძინავს	ეძინა	V;3;SG;IND;IPFV = ejina
+სძინავს	გვეძინა	V;1;PL;IND;IPFV = gvejina
+სძინავს	გეძინათ	V;2;PL;IND;IPFV = gejinat
+სძინავს	ეძინათ	V;3;PL;IND;IPFV = ejinat
+
+
+Screeve #8:
+სძინავს	მეძინოს	V;1;SG;SBJV;PRS = mejinos
+სძინავს	გეძინოს	V;2;SG;SBJV;PRS = gejinos
+სძინავს	ეძინოს	V;3;SG;SBJV;PRS = ejinos
+სძინავს	გვეძინოს	V;1;PL;SBJV;PRS = gvejinos
+სძინავს	გეძინოთ	V;2;PL;SBJV;PRS = gejinot
+სძინავს	ეძინოთ	V;3;PL;SBJV;PRS = ejinot
+
+
+Screeve #9:
+სძინავს	მძინებია	V;1;SG;IND;PRF = mjinebia
+სძინავს	გძინებია	V;2;SG;IND;PRF = gjinebia
+სძინავს	სძინებია	V;3;SG;IND;PRF = sjinebia
+სძინავს	გვძინებია	V;1;PL;IND;PRF = gvjinebia
+სძინავს	გძინებიათ	V;2;PL;IND;PRF = gjinebiat
+სძინავს	სძინებიათ	V;3;PL;IND;PRF = sjinebiat
+
+
+Screeve #10:
+სძინავს	მძინებოდა	V;1;SG;IND;PST;PRF = mjineboda
+სძინავს	გძინებოდა	V;2;SG;IND;PST;PRF = gjineboda
+სძინავს	სძინებოდა	V;3;SG;IND;PST;PRF = sjineboda
+სძინავს	გვძინებოდა	V;1;PL;IND;PST;PRF = gvjineboda
+სძინავს	გძინებოდათ	V;2;PL;IND;PST;PRF = gjinebodat
+სძინავს	სძინებოდათ	V;3;PL;IND;PST;PRF = sjinebodat
+
+
+Screeve #11:
+სძინავს	მძინებოდეს	V;1;SG;SBJV;PRF = mjinebodes
+სძინავს	გძინებოდეს	V;2;SG;SBJV;PRF = gjinebodes
+სძინავს	სძინებოდეს	V;3;SG;SBJV;PRF = sjinebodes
+სძინავს	გვძინებოდეს	V;1;PL;SBJV;PRF = gvjinebodes
+სძინავს	გძინებოდეთ	V;2;PL;SBJV;PRF = gjinebodet
+სძინავს	სძინებოდეთ	V;3;PL;SBJV;PRF = sjinebodet
+
+
+სძინავს	ძილი	V;V.MSDR;IPFV

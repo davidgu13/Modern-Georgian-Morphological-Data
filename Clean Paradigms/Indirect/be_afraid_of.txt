@@ -1,0 +1,83 @@
+#11 - ეშინია - be_afraid_of:
+Screeve #1:
+ეშინია	მეშინია	V;1;SG;IND;PRS = mešinia
+ეშინია	გეშინია	V;2;SG;IND;PRS = gešinia
+ეშინია	ეშინია	V;3;SG;IND;PRS = ešinia
+ეშინია	გვეშინია	V;1;PL;IND;PRS = gvešinia
+ეშინია	გეშინიათ	V;2;PL;IND;PRS = gešiniat
+ეშინია	ეშინიათ	V;3;PL;IND;PRS = ešiniat
+
+
+Screeve #2:
+ეშინია	მეშინოდა	V;1;SG;IND;IPFV = mešinoda
+ეშინია	გეშინოდა	V;2;SG;IND;IPFV = gešinoda
+ეშინია	ეშინოდა	V;3;SG;IND;IPFV = ešinoda
+ეშინია	გვეშინოდა	V;1;PL;IND;IPFV = gvešinoda
+ეშინია	გეშინოდათ	V;2;PL;IND;IPFV = gešinodat
+ეშინია	ეშინოდათ	V;3;PL;IND;IPFV = ešinodat
+
+
+Screeve #3:
+ეშინია	მეშინოდეს	V;1;SG;SBJV;PRS = mešinodes
+ეშინია	გეშინოდეს	V;2;SG;SBJV;PRS = gešinodes
+ეშინია	ეშინოდეს	V;3;SG;SBJV;PRS = ešinodes
+ეშინია	გვეშინოდეს	V;1;PL;SBJV;PRS = gvešinodes
+ეშინია	გეშინოდეთ	V;2;PL;SBJV;PRS = gešinodet
+ეშინია	ეშინოდეთ	V;3;PL;SBJV;PRS = ešinodet
+
+
+Screeve #4:
+ეშინია	შემეშინდება	V;1;SG;IND;FUT = šemešindeba
+ეშინია	შეგეშინდება	V;2;SG;IND;FUT = šegešindeba
+ეშინია	შეეშინდება	V;3;SG;IND;FUT = šeešindeba
+ეშინია	შეგვეშინდება	V;1;PL;IND;FUT = šegvešindeba
+ეშინია	შეგეშინდებათ	V;2;PL;IND;FUT = šegešindebat
+ეშინია	შეეშინდებათ	V;3;PL;IND;FUT = šeešindebat
+
+
+Screeve #5:
+ეშინია	შემეშინდებოდა	V;1;SG;COND = šemešindeboda
+ეშინია	შეგეშინდებოდა	V;2;SG;COND = šegešindeboda
+ეშინია	შეეშინდებოდა	V;3;SG;COND = šeešindeboda
+ეშინია	შეგვეშინდებოდა	V;1;PL;COND = šegvešindeboda
+ეშინია	შეგეშინდებოდათ	V;2;PL;COND = šegešindebodat
+ეშინია	შეეშინდებოდათ	V;3;PL;COND = šeešindebodat
+
+
+Screeve #6:
+ეშინია	შემეშინდებოდეს	V;1;SG;SBJV;FUT = šemešindebodes
+ეშინია	შეგეშინდებოდეს	V;2;SG;SBJV;FUT = šegešindebodes
+ეშინია	შეეშინდებოდეს	V;3;SG;SBJV;FUT = šeešindebodes
+ეშინია	შეგვეშინდებოდეს	V;1;PL;SBJV;FUT = šegvešindebodes
+ეშინია	შეგეშინდებოდეთ	V;2;PL;SBJV;FUT = šegešindebodet
+ეშინია	შეეშინდებოდეთ	V;3;PL;SBJV;FUT = šeešindebodet
+
+
+Screeve #9:
+ეშინია	შემშინებია	V;1;SG;IND;PRF = šemšinebia
+ეშინია	შეგშინებია	V;2;SG;IND;PRF = šegšinebia
+ეშინია	შეშინებია	V;3;SG;IND;PRF = šešinebia
+ეშინია	შეგვშინებია	V;1;PL;IND;PRF = šegvšinebia
+ეშინია	შეგშინებიათ	V;2;PL;IND;PRF = šegšinebiat
+ეშინია	შეშინებიათ	V;3;PL;IND;PRF = šešinebiat
+
+
+Screeve #10:
+ეშინია	შემშინებოდა	V;1;SG;IND;PST;PRF = šemšineboda
+ეშინია	შეგშინებოდა	V;2;SG;IND;PST;PRF = šegšineboda
+ეშინია	შეშინებოდა	V;3;SG;IND;PST;PRF = šešineboda
+ეშინია	შეგვშინებოდა	V;1;PL;IND;PST;PRF = šegvšineboda
+ეშინია	შეგშინებოდათ	V;2;PL;IND;PST;PRF = šegšinebodat
+ეშინია	შეშინებოდათ	V;3;PL;IND;PST;PRF = šešinebodat
+
+
+Screeve #11:
+ეშინია	შემშინებოდეს	V;1;SG;SBJV;PRF = šemšinebodes
+ეშინია	შეგშინებოდეს	V;2;SG;SBJV;PRF = šegšinebodes
+ეშინია	შეშინებოდეს	V;3;SG;SBJV;PRF = šešinebodes
+ეშინია	შეგვშინებოდეს	V;1;PL;SBJV;PRF = šegvšinebodes
+ეშინია	შეგშინებოდეთ	V;2;PL;SBJV;PRF = šegšinebodet
+ეშინია	შეშინებოდეთ	V;3;PL;SBJV;PRF = šešinebodet
+
+
+ეშინია	შიში	V;V.MSDR;IPFV

@@ -1,0 +1,83 @@
+#18 - ერიდება - be_shy:
+Screeve #1:
+ერიდება	მერიდება	V;1;SG;IND;PRS = merideba
+ერიდება	გერიდება	V;2;SG;IND;PRS = gerideba
+ერიდება	ერიდება	V;3;SG;IND;PRS = erideba
+ერიდება	გვერიდება	V;1;PL;IND;PRS = gverideba
+ერიდება	გერიდებათ	V;2;PL;IND;PRS = geridebat
+ერიდება	ერიდებათ	V;3;PL;IND;PRS = eridebat
+
+
+Screeve #2:
+ერიდება	მერიდებოდა	V;1;SG;IND;IPFV = merideboda
+ერიდება	გერიდებოდა	V;2;SG;IND;IPFV = gerideboda
+ერიდება	ერიდებოდა	V;3;SG;IND;IPFV = erideboda
+ერიდება	გვერიდებოდა	V;1;PL;IND;IPFV = gverideboda
+ერიდება	გერიდებოდათ	V;2;PL;IND;IPFV = geridebodat
+ერიდება	ერიდებოდათ	V;3;PL;IND;IPFV = eridebodat
+
+
+Screeve #3:
+ერიდება	მერიდებოდეს	V;1;SG;SBJV;PRS = meridebodes
+ერიდება	გერიდებოდეს	V;2;SG;SBJV;PRS = geridebodes
+ერიდება	ერიდებოდეს	V;3;SG;SBJV;PRS = eridebodes
+ერიდება	გვერიდებოდეს	V;1;PL;SBJV;PRS = gveridebodes
+ერიდება	გერიდებოდეთ	V;2;PL;SBJV;PRS = geridebodet
+ერიდება	ერიდებოდეთ	V;3;PL;SBJV;PRS = eridebodet
+
+
+Screeve #4:
+ერიდება	მომერიდება	V;1;SG;IND;FUT = momerideba
+ერიდება	მოგერიდება	V;2;SG;IND;FUT = mogerideba
+ერიდება	მოერიდება	V;3;SG;IND;FUT = moerideba
+ერიდება	მოგვერიდება	V;1;PL;IND;FUT = mogverideba
+ერიდება	მოგერიდებათ	V;2;PL;IND;FUT = mogeridebat
+ერიდება	მოერიდებათ	V;3;PL;IND;FUT = moeridebat
+
+
+Screeve #5:
+ერიდება	მომერიდებოდა	V;1;SG;COND = momerideboda
+ერიდება	მოგერიდებოდა	V;2;SG;COND = mogerideboda
+ერიდება	მოერიდებოდა	V;3;SG;COND = moerideboda
+ერიდება	მოგვერიდებოდა	V;1;PL;COND = mogverideboda
+ერიდება	მოგერიდებოდათ	V;2;PL;COND = mogeridebodat
+ერიდება	მოერიდებოდათ	V;3;PL;COND = moeridebodat
+
+
+Screeve #6:
+ერიდება	მომერიდებოდეს	V;1;SG;SBJV;FUT = momeridebodes
+ერიდება	მოგერიდებოდეს	V;2;SG;SBJV;FUT = mogeridebodes
+ერიდება	მოერიდებოდეს	V;3;SG;SBJV;FUT = moeridebodes
+ერიდება	მოგვერიდებოდეს	V;1;PL;SBJV;FUT = mogveridebodes
+ერიდება	მოგერიდებოდეთ	V;2;PL;SBJV;FUT = mogeridebodet
+ერიდება	მოერიდებოდეთ	V;3;PL;SBJV;FUT = moeridebodet
+
+
+Screeve #9:
+ერიდება	მომრიდებია	V;1;SG;IND;PRF = momridebia
+ერიდება	მოგრიდებია	V;2;SG;IND;PRF = mogridebia
+ერიდება	მორიდებია	V;3;SG;IND;PRF = moridebia
+ერიდება	მოგვრიდებია	V;1;PL;IND;PRF = mogvridebia
+ერიდება	მოგრიდებიათ	V;2;PL;IND;PRF = mogridebiat
+ერიდება	მორიდებიათ	V;3;PL;IND;PRF = moridebiat
+
+
+Screeve #10:
+ერიდება	მომრიდებოდა	V;1;SG;IND;PST;PRF = momrideboda
+ერიდება	მოგრიდებოდა	V;2;SG;IND;PST;PRF = mogrideboda
+ერიდება	მორიდებოდა	V;3;SG;IND;PST;PRF = morideboda
+ერიდება	მოგვრიდებოდა	V;1;PL;IND;PST;PRF = mogvrideboda
+ერიდება	მოგრიდებოდათ	V;2;PL;IND;PST;PRF = mogridebodat
+ერიდება	მორიდებოდათ	V;3;PL;IND;PST;PRF = moridebodat
+
+
+Screeve #11:
+ერიდება	მომრიდებოდეს	V;1;SG;SBJV;PRF = momridebodes
+ერიდება	მოგრიდებოდეს	V;2;SG;SBJV;PRF = mogridebodes
+ერიდება	მორიდებოდეს	V;3;SG;SBJV;PRF = moridebodes
+ერიდება	მოგვრიდებოდეს	V;1;PL;SBJV;PRF = mogvridebodes
+ერიდება	მოგრიდებოდეთ	V;2;PL;SBJV;PRF = mogridebodet
+ერიდება	მორიდებოდეთ	V;3;PL;SBJV;PRF = moridebodet
+
+
+ერიდება	რიდი	V;V.MSDR;IPFV

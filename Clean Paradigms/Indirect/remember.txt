@@ -1,0 +1,83 @@
+#7 - ახსოვს - remember:
+Screeve #1:
+ახსოვს	მახსოვს	V;1;SG;IND;PRS = maxsovs
+ახსოვს	გახსოვს	V;2;SG;IND;PRS = gaxsovs
+ახსოვს	ახსოვს	V;3;SG;IND;PRS = axsovs
+ახსოვს	გვახსოვს	V;1;PL;IND;PRS = gvaxsovs
+ახსოვს	გახსოვთ	V;2;PL;IND;PRS = gaxsovt
+ახსოვს	ახსოვთ	V;3;PL;IND;PRS = axsovt
+
+
+Screeve #2:
+ახსოვს	მახსოვდა	V;1;SG;IND;IPFV = maxsovda
+ახსოვს	გახსოვდა	V;2;SG;IND;IPFV = gaxsovda
+ახსოვს	ახსოვდა	V;3;SG;IND;IPFV = axsovda
+ახსოვს	გვახსოვდა	V;1;PL;IND;IPFV = gvaxsovda
+ახსოვს	გახსოვდათ	V;2;PL;IND;IPFV = gaxsovdat
+ახსოვს	ახსოვდათ	V;3;PL;IND;IPFV = axsovdat
+
+
+Screeve #3:
+ახსოვს	მახსოვდეს	V;1;SG;SBJV;PRS = maxsovdes
+ახსოვს	გახსოვდეს	V;2;SG;SBJV;PRS = gaxsovdes
+ახსოვს	ახსოვდეს	V;3;SG;SBJV;PRS = axsovdes
+ახსოვს	გვახსოვდეს	V;1;PL;SBJV;PRS = gvaxsovdes
+ახსოვს	გახსოვდეთ	V;2;PL;SBJV;PRS = gaxsovdet
+ახსოვს	ახსოვდეთ	V;3;PL;SBJV;PRS = axsovdet
+
+
+Screeve #4:
+ახსოვს	მეხსომება	V;1;SG;IND;FUT = mexsomeba
+ახსოვს	გეხსომება	V;2;SG;IND;FUT = gexsomeba
+ახსოვს	ეხსომება	V;3;SG;IND;FUT = exsomeba
+ახსოვს	გვეხსომება	V;1;PL;IND;FUT = gvexsomeba
+ახსოვს	გეხსომებათ	V;2;PL;IND;FUT = gexsomebat
+ახსოვს	ეხსომებათ	V;3;PL;IND;FUT = exsomebat
+
+
+Screeve #5:
+ახსოვს	მეხსომებოდა	V;1;SG;COND = mexsomeboda
+ახსოვს	გეხსომებოდა	V;2;SG;COND = gexsomeboda
+ახსოვს	ეხსომებოდა	V;3;SG;COND = exsomeboda
+ახსოვს	გვეხსომებოდა	V;1;PL;COND = gvexsomeboda
+ახსოვს	გეხსომებოდათ	V;2;PL;COND = gexsomebodat
+ახსოვს	ეხსომებოდათ	V;3;PL;COND = exsomebodat
+
+
+Screeve #6:
+ახსოვს	მეხსომებოდეს	V;1;SG;SBJV;FUT = mexsomebodes
+ახსოვს	გეხსომებოდეს	V;2;SG;SBJV;FUT = gexsomebodes
+ახსოვს	ეხსომებოდეს	V;3;SG;SBJV;FUT = exsomebodes
+ახსოვს	გვეხსომებოდეს	V;1;PL;SBJV;FUT = gvexsomebodes
+ახსოვს	გეხსომებოდეთ	V;2;PL;SBJV;FUT = gexsomebodet
+ახსოვს	ეხსომებოდეთ	V;3;PL;SBJV;FUT = exsomebodet
+
+
+Screeve #9:
+ახსოვს	მხსომებია	V;1;SG;IND;PRF = mxsomebia
+ახსოვს	გხსომებია	V;2;SG;IND;PRF = gxsomebia
+ახსოვს	ხსომებია	V;3;SG;IND;PRF = xsomebia
+ახსოვს	გვხსომებია	V;1;PL;IND;PRF = gvxsomebia
+ახსოვს	გხსომებიათ	V;2;PL;IND;PRF = gxsomebiat
+ახსოვს	ხსომებიათ	V;3;PL;IND;PRF = xsomebiat
+
+
+Screeve #10:
+ახსოვს	მხსომებოდა	V;1;SG;IND;PST;PRF = mxsomeboda
+ახსოვს	გხსომებოდა	V;2;SG;IND;PST;PRF = gxsomeboda
+ახსოვს	ხსომებოდა	V;3;SG;IND;PST;PRF = xsomeboda
+ახსოვს	გვხსომებოდა	V;1;PL;IND;PST;PRF = gvxsomeboda
+ახსოვს	გხსომებოდათ	V;2;PL;IND;PST;PRF = gxsomebodat
+ახსოვს	ხსომებოდათ	V;3;PL;IND;PST;PRF = xsomebodat
+
+
+Screeve #11:
+ახსოვს	მხსომებოდეს	V;1;SG;SBJV;PRF = mxsomebodes
+ახსოვს	გხსომებოდეს	V;2;SG;SBJV;PRF = gxsomebodes
+ახსოვს	ხსომებოდეს	V;3;SG;SBJV;PRF = xsomebodes
+ახსოვს	გვხსომებოდეს	V;1;PL;SBJV;PRF = gvxsomebodes
+ახსოვს	გხსომებოდეთ	V;2;PL;SBJV;PRF = gxsomebodet
+ახსოვს	ხსომებოდეთ	V;3;PL;SBJV;PRF = xsomebodet
+
+
+ახსოვს	ხსოვნა	V;V.MSDR;IPFV

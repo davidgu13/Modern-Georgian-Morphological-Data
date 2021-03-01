@@ -1,0 +1,83 @@
+#16 - ეცოდება - pity:
+Screeve #1:
+ეცოდება	მეცოდება	V;1;SG;IND;PRS = mecodeba
+ეცოდება	გეცოდება	V;2;SG;IND;PRS = gecodeba
+ეცოდება	ეცოდება	V;3;SG;IND;PRS = ecodeba
+ეცოდება	გვეცოდება	V;1;PL;IND;PRS = gvecodeba
+ეცოდება	გეცოდებათ	V;2;PL;IND;PRS = gecodebat
+ეცოდება	ეცოდებათ	V;3;PL;IND;PRS = ecodebat
+
+
+Screeve #2:
+ეცოდება	მეცოდებოდა	V;1;SG;IND;IPFV = mecodeboda
+ეცოდება	გეცოდებოდა	V;2;SG;IND;IPFV = gecodeboda
+ეცოდება	ეცოდებოდა	V;3;SG;IND;IPFV = ecodeboda
+ეცოდება	გვეცოდებოდა	V;1;PL;IND;IPFV = gvecodeboda
+ეცოდება	გეცოდებოდათ	V;2;PL;IND;IPFV = gecodebodat
+ეცოდება	ეცოდებოდათ	V;3;PL;IND;IPFV = ecodebodat
+
+
+Screeve #3:
+ეცოდება	მეცოდებოდეს	V;1;SG;SBJV;PRS = mecodebodes
+ეცოდება	გეცოდებოდეს	V;2;SG;SBJV;PRS = gecodebodes
+ეცოდება	ეცოდებოდეს	V;3;SG;SBJV;PRS = ecodebodes
+ეცოდება	გვეცოდებოდეს	V;1;PL;SBJV;PRS = gvecodebodes
+ეცოდება	გეცოდებოდეთ	V;2;PL;SBJV;PRS = gecodebodet
+ეცოდება	ეცოდებოდეთ	V;3;PL;SBJV;PRS = ecodebodet
+
+
+Screeve #4:
+ეცოდება	შემეცოდება	V;1;SG;IND;FUT = šemecodeba
+ეცოდება	შეგეცოდება	V;2;SG;IND;FUT = šegecodeba
+ეცოდება	შეეცოდება	V;3;SG;IND;FUT = šeecodeba
+ეცოდება	შეგვეცოდება	V;1;PL;IND;FUT = šegvecodeba
+ეცოდება	შეგეცოდებათ	V;2;PL;IND;FUT = šegecodebat
+ეცოდება	შეეცოდებათ	V;3;PL;IND;FUT = šeecodebat
+
+
+Screeve #5:
+ეცოდება	შემეცოდებოდა	V;1;SG;COND = šemecodeboda
+ეცოდება	შეგეცოდებოდა	V;2;SG;COND = šegecodeboda
+ეცოდება	შეეცოდებოდა	V;3;SG;COND = šeecodeboda
+ეცოდება	შეგვეცოდებოდა	V;1;PL;COND = šegvecodeboda
+ეცოდება	შეგეცოდებოდათ	V;2;PL;COND = šegecodebodat
+ეცოდება	შეეცოდებოდათ	V;3;PL;COND = šeecodebodat
+
+
+Screeve #6:
+ეცოდება	შემეცოდებოდეს	V;1;SG;SBJV;FUT = šemecodebodes
+ეცოდება	შეგეცოდებოდეს	V;2;SG;SBJV;FUT = šegecodebodes
+ეცოდება	შეეცოდებოდეს	V;3;SG;SBJV;FUT = šeecodebodes
+ეცოდება	შეგვეცოდებოდეს	V;1;PL;SBJV;FUT = šegvecodebodes
+ეცოდება	შეგეცოდებოდეთ	V;2;PL;SBJV;FUT = šegecodebodet
+ეცოდება	შეეცოდებოდეთ	V;3;PL;SBJV;FUT = šeecodebodet
+
+
+Screeve #9:
+ეცოდება	შემცოდებია	V;1;SG;IND;PRF = šemcodebia
+ეცოდება	შეგცოდებია	V;2;SG;IND;PRF = šegcodebia
+ეცოდება	შეცოდებია	V;3;SG;IND;PRF = šecodebia
+ეცოდება	შეგვცოდებია	V;1;PL;IND;PRF = šegvcodebia
+ეცოდება	შეგცოდებიათ	V;2;PL;IND;PRF = šegcodebiat
+ეცოდება	შეცოდებიათ	V;3;PL;IND;PRF = šecodebiat
+
+
+Screeve #10:
+ეცოდება	შემცოდებოდა	V;1;SG;IND;PST;PRF = šemcodeboda
+ეცოდება	შეგცოდებოდა	V;2;SG;IND;PST;PRF = šegcodeboda
+ეცოდება	შეცოდებოდა	V;3;SG;IND;PST;PRF = šecodeboda
+ეცოდება	შეგვცოდებოდა	V;1;PL;IND;PST;PRF = šegvcodeboda
+ეცოდება	შეგცოდებოდათ	V;2;PL;IND;PST;PRF = šegcodebodat
+ეცოდება	შეცოდებოდათ	V;3;PL;IND;PST;PRF = šecodebodat
+
+
+Screeve #11:
+ეცოდება	შემცოდებოდეს	V;1;SG;SBJV;PRF = šemcodebodes
+ეცოდება	შეგცოდებოდეს	V;2;SG;SBJV;PRF = šegcodebodes
+ეცოდება	შეცოდებოდეს	V;3;SG;SBJV;PRF = šecodebodes
+ეცოდება	შეგვცოდებოდეს	V;1;PL;SBJV;PRF = šegvcodebodes
+ეცოდება	შეგცოდებოდეთ	V;2;PL;SBJV;PRF = šegcodebodet
+ეცოდება	შეცოდებოდეთ	V;3;PL;SBJV;PRF = šecodebodet
+
+
+ეცოდება	შეცოდება	V;V.MSDR;IPFV

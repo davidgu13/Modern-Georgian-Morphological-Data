@@ -1,0 +1,83 @@
+#2 - აქვს - have_inanimate:
+Screeve #1:
+აქვს	მაქვს	V;1;SG;IND;PRS = makvs
+აქვს	გაქვს	V;2;SG;IND;PRS = gakvs
+აქვს	აქვს	V;3;SG;IND;PRS = akvs
+აქვს	გვაქვს	V;1;PL;IND;PRS = gvakvs
+აქვს	გაქვთ	V;2;PL;IND;PRS = gakvt
+აქვს	აქვთ	V;3;PL;IND;PRS = akvt
+
+
+Screeve #2:
+აქვს	მქონდა	V;1;SG;IND;IPFV = mkonda
+აქვს	გქონდა	V;2;SG;IND;IPFV = gkonda
+აქვს	ჰქონდა	V;3;SG;IND;IPFV = hkonda
+აქვს	გვქონდა	V;1;PL;IND;IPFV = gvkonda
+აქვს	გქონდათ	V;2;PL;IND;IPFV = gkondat
+აქვს	ჰქონდათ	V;3;PL;IND;IPFV = hkondat
+
+
+Screeve #3:
+აქვს	მქონდეს	V;1;SG;SBJV;PRS = mkondes
+აქვს	გქონდეს	V;2;SG;SBJV;PRS = gkondes
+აქვს	ჰქონდეს	V;3;SG;SBJV;PRS = hkondes
+აქვს	გვქონდეს	V;1;PL;SBJV;PRS = gvkondes
+აქვს	გქონდეთ	V;2;PL;SBJV;PRS = gkondet
+აქვს	ჰქონდეთ	V;3;PL;SBJV;PRS = hkondet
+
+
+Screeve #4:
+აქვს	მექნება	V;1;SG;IND;FUT = mekneba
+აქვს	გექნება	V;2;SG;IND;FUT = gekneba
+აქვს	ექნება	V;3;SG;IND;FUT = ekneba
+აქვს	გვექნება	V;1;PL;IND;FUT = gvekneba
+აქვს	გექნებათ	V;2;PL;IND;FUT = geknebat
+აქვს	ექნებათ	V;3;PL;IND;FUT = eknebat
+
+
+Screeve #5:
+აქვს	მექნებოდა	V;1;SG;COND = mekneboda
+აქვს	გექნებოდა	V;2;SG;COND = gekneboda
+აქვს	ექნებოდა	V;3;SG;COND = ekneboda
+აქვს	გვექნებოდა	V;1;PL;COND = gvekneboda
+აქვს	გექნებოდათ	V;2;PL;COND = geknebodat
+აქვს	ექნებოდათ	V;3;PL;COND = eknebodat
+
+
+Screeve #6:
+აქვს	მექნებოდეს	V;1;SG;SBJV;FUT = meknebodes
+აქვს	გექნებოდეს	V;2;SG;SBJV;FUT = geknebodes
+აქვს	ექნებოდეს	V;3;SG;SBJV;FUT = eknebodes
+აქვს	გვექნებოდეს	V;1;PL;SBJV;FUT = gveknebodes
+აქვს	გექნებოდეთ	V;2;PL;SBJV;FUT = geknebodet
+აქვს	ექნებოდეთ	V;3;PL;SBJV;FUT = eknebodet
+
+
+Screeve #9:
+აქვს	მქონია	V;1;SG;IND;PRF = mkonia
+აქვს	გქონია	V;2;SG;IND;PRF = gkonia
+აქვს	ჰქონია	V;3;SG;IND;PRF = hkonia
+აქვს	გვქონია	V;1;PL;IND;PRF = gvkonia
+აქვს	გქონიათ	V;2;PL;IND;PRF = gkoniat
+აქვს	ჰქონიათ	V;3;PL;IND;PRF = hkoniat
+
+
+Screeve #10:
+აქვს	მქონოდა	V;1;SG;IND;PST;PRF = mkonoda
+აქვს	გქონოდა	V;2;SG;IND;PST;PRF = gkonoda
+აქვს	ჰქონოდა	V;3;SG;IND;PST;PRF = hkonoda
+აქვს	გვქონოდა	V;1;PL;IND;PST;PRF = gvkonoda
+აქვს	გქონოდათ	V;2;PL;IND;PST;PRF = gkonodat
+აქვს	ჰქონოდათ	V;3;PL;IND;PST;PRF = hkonodat
+
+
+Screeve #11:
+აქვს	მქონოდეს	V;1;SG;SBJV;PRF = mkonodes
+აქვს	გქონოდეს	V;2;SG;SBJV;PRF = gkonodes
+აქვს	ჰქონოდეს	V;3;SG;SBJV;PRF = hkonodes
+აქვს	გვქონოდეს	V;1;PL;SBJV;PRF = gvkonodes
+აქვს	გქონოდეთ	V;2;PL;SBJV;PRF = gkonodet
+აქვს	ჰქონოდეთ	V;3;PL;SBJV;PRF = hkonodet
+
+
+აქვს	ქონება	V;V.MSDR;IPFV

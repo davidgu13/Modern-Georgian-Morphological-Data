@@ -1,0 +1,83 @@
+#8 - სჭირდება - need2:
+Screeve #1:
+სჭირდება	მჭირდება	V;1;SG;IND;PRS = mč'irdeba
+სჭირდება	გჭირდება	V;2;SG;IND;PRS = gč'irdeba
+სჭირდება	სჭირდება	V;3;SG;IND;PRS = sč'irdeba
+სჭირდება	გვჭირდება	V;1;PL;IND;PRS = gvč'irdeba
+სჭირდება	გჭირდებათ	V;2;PL;IND;PRS = gč'irdebat
+სჭირდება	სჭირდებათ	V;3;PL;IND;PRS = sč'irdebat
+
+
+Screeve #2:
+სჭირდება	მჭირდებოდა	V;1;SG;IND;IPFV = mč'irdeboda
+სჭირდება	გჭირდებოდა	V;2;SG;IND;IPFV = gč'irdeboda
+სჭირდება	სჭირდებოდა	V;3;SG;IND;IPFV = sč'irdeboda
+სჭირდება	გვჭირდებოდა	V;1;PL;IND;IPFV = gvč'irdeboda
+სჭირდება	გჭირდებოდათ	V;2;PL;IND;IPFV = gč'irdebodat
+სჭირდება	სჭირდებოდათ	V;3;PL;IND;IPFV = sč'irdebodat
+
+
+Screeve #3:
+სჭირდება	მჭირდებოდეს	V;1;SG;SBJV;PRS = mč'irdebodes
+სჭირდება	გჭირდებოდეს	V;2;SG;SBJV;PRS = gč'irdebodes
+სჭირდება	სჭირდებოდეს	V;3;SG;SBJV;PRS = sč'irdebodes
+სჭირდება	გვჭირდებოდეს	V;1;PL;SBJV;PRS = gvč'irdebodes
+სჭირდება	გჭირდებოდეთ	V;2;PL;SBJV;PRS = gč'irdebodet
+სჭირდება	სჭირდებოდეთ	V;3;PL;SBJV;PRS = sč'irdebodet
+
+
+Screeve #4:
+სჭირდება	დამჭირდება	V;1;SG;IND;FUT = damč'irdeba
+სჭირდება	დაგჭირდება	V;2;SG;IND;FUT = dagč'irdeba
+სჭირდება	დასჭირდება	V;3;SG;IND;FUT = dasč'irdeba
+სჭირდება	დაგვჭირდება	V;1;PL;IND;FUT = dagvč'irdeba
+სჭირდება	დაგჭირდებათ	V;2;PL;IND;FUT = dagč'irdebat
+სჭირდება	დასჭირდებათ	V;3;PL;IND;FUT = dasč'irdebat
+
+
+Screeve #5:
+სჭირდება	დამჭირდებოდა	V;1;SG;COND = damč'irdeboda
+სჭირდება	დაგჭირდებოდა	V;2;SG;COND = dagč'irdeboda
+სჭირდება	დასჭირდებოდა	V;3;SG;COND = dasč'irdeboda
+სჭირდება	დაგვჭირდებოდა	V;1;PL;COND = dagvč'irdeboda
+სჭირდება	დაგჭირდებოდათ	V;2;PL;COND = dagč'irdebodat
+სჭირდება	დასჭირდებოდათ	V;3;PL;COND = dasč'irdebodat
+
+
+Screeve #6:
+სჭირდება	დამჭირდებოდეს	V;1;SG;SBJV;FUT = damč'irdebodes
+სჭირდება	დაგჭირდებოდეს	V;2;SG;SBJV;FUT = dagč'irdebodes
+სჭირდება	დასჭირდებოდეს	V;3;SG;SBJV;FUT = dasč'irdebodes
+სჭირდება	დაგვჭირდებოდეს	V;1;PL;SBJV;FUT = dagvč'irdebodes
+სჭირდება	დაგჭირდებოდეთ	V;2;PL;SBJV;FUT = dagč'irdebodet
+სჭირდება	დასჭირდებოდეთ	V;3;PL;SBJV;FUT = dasč'irdebodet
+
+
+Screeve #9:
+სჭირდება	დამჭირვებია	V;1;SG;IND;PRF = damč'irvebia
+სჭირდება	დაგჭირვებია	V;2;SG;IND;PRF = dagč'irvebia
+სჭირდება	დასჭირვებია	V;3;SG;IND;PRF = dasč'irvebia
+სჭირდება	დაგვჭირვებია	V;1;PL;IND;PRF = dagvč'irvebia
+სჭირდება	დაგჭირვებიათ	V;2;PL;IND;PRF = dagč'irvebiat
+სჭირდება	დასჭირვებიათ	V;3;PL;IND;PRF = dasč'irvebiat
+
+
+Screeve #10:
+სჭირდება	დამჭირვებოდა	V;1;SG;IND;PST;PRF = damč'irveboda
+სჭირდება	დაგჭირვებოდა	V;2;SG;IND;PST;PRF = dagč'irveboda
+სჭირდება	დასჭირვებოდა	V;3;SG;IND;PST;PRF = dasč'irveboda
+სჭირდება	დაგვჭირვებოდა	V;1;PL;IND;PST;PRF = dagvč'irveboda
+სჭირდება	დაგჭირვებოდათ	V;2;PL;IND;PST;PRF = dagč'irvebodat
+სჭირდება	დასჭირვებოდათ	V;3;PL;IND;PST;PRF = dasč'irvebodat
+
+
+Screeve #11:
+სჭირდება	დამჭირვებოდეს	V;1;SG;SBJV;PRF = damč'irvebodes
+სჭირდება	დაგჭირვებოდეს	V;2;SG;SBJV;PRF = dagč'irvebodes
+სჭირდება	დასჭირვებოდეს	V;3;SG;SBJV;PRF = dasč'irvebodes
+სჭირდება	დაგვჭირვებოდეს	V;1;PL;SBJV;PRF = dagvč'irvebodes
+სჭირდება	დაგჭირვებოდეთ	V;2;PL;SBJV;PRF = dagč'irvebodet
+სჭირდება	დასჭირვებოდეთ	V;3;PL;SBJV;PRF = dasč'irvebodet
+
+
+სჭირდება	დაჭირვება	V;V.MSDR;IPFV

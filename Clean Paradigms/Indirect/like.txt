@@ -1,0 +1,83 @@
+#6 - მოსწონს - like:
+Screeve #1:
+მოსწონს	მომწონს	V;1;SG;IND;PRS = momc'ons
+მოსწონს	მოგწონს	V;2;SG;IND;PRS = mogc'ons
+მოსწონს	მოსწონს	V;3;SG;IND;PRS = mosc'ons
+მოსწონს	მოგვწონს	V;1;PL;IND;PRS = mogvc'ons
+მოსწონს	მოგწონთ	V;2;PL;IND;PRS = mogc'ont
+მოსწონს	მოსწონთ	V;3;PL;IND;PRS = mosc'ont
+
+
+Screeve #2:
+მოსწონს	მომწონდა	V;1;SG;IND;IPFV = momc'onda
+მოსწონს	მოგწონდა	V;2;SG;IND;IPFV = mogc'onda
+მოსწონს	მოსწონდა	V;3;SG;IND;IPFV = mosc'onda
+მოსწონს	მოგვწონდა	V;1;PL;IND;IPFV = mogvc'onda
+მოსწონს	მოგწონდათ	V;2;PL;IND;IPFV = mogc'ondat
+მოსწონს	მოსწონდათ	V;3;PL;IND;IPFV = mosc'ondat
+
+
+Screeve #3:
+მოსწონს	მომწონდეს	V;1;SG;SBJV;PRS = momc'ondes
+მოსწონს	მოგწონდეს	V;2;SG;SBJV;PRS = mogc'ondes
+მოსწონს	მოსწონდეს	V;3;SG;SBJV;PRS = mosc'ondes
+მოსწონს	მოგვწონდეს	V;1;PL;SBJV;PRS = mogvc'ondes
+მოსწონს	მოგწონდეთ	V;2;PL;SBJV;PRS = mogc'ondet
+მოსწონს	მოსწონდეთ	V;3;PL;SBJV;PRS = mosc'ondet
+
+
+Screeve #4:
+მოსწონს	მომეწონება	V;1;SG;IND;FUT = momec'oneba
+მოსწონს	მოგეწონება	V;2;SG;IND;FUT = mogec'oneba
+მოსწონს	მოეწონება	V;3;SG;IND;FUT = moec'oneba
+მოსწონს	მოგვეწონება	V;1;PL;IND;FUT = mogvec'oneba
+მოსწონს	მოგეწონებათ	V;2;PL;IND;FUT = mogec'onebat
+მოსწონს	მოეწონებათ	V;3;PL;IND;FUT = moec'onebat
+
+
+Screeve #5:
+მოსწონს	მომეწონებოდა	V;1;SG;COND = momec'oneboda
+მოსწონს	მოგეწონებოდა	V;2;SG;COND = mogec'oneboda
+მოსწონს	მოეწონებოდა	V;3;SG;COND = moec'oneboda
+მოსწონს	მოგვეწონებოდა	V;1;PL;COND = mogvec'oneboda
+მოსწონს	მოგეწონებოდათ	V;2;PL;COND = mogec'onebodat
+მოსწონს	მოეწონებოდათ	V;3;PL;COND = moec'onebodat
+
+
+Screeve #6:
+მოსწონს	მომეწონებოდეს	V;1;SG;SBJV;FUT = momec'onebodes
+მოსწონს	მოგეწონებოდეს	V;2;SG;SBJV;FUT = mogec'onebodes
+მოსწონს	მოეწონებოდეს	V;3;SG;SBJV;FUT = moec'onebodes
+მოსწონს	მოგვეწონებოდეს	V;1;PL;SBJV;FUT = mogvec'onebodes
+მოსწონს	მოგეწონებოდეთ	V;2;PL;SBJV;FUT = mogec'onebodet
+მოსწონს	მოეწონებოდეთ	V;3;PL;SBJV;FUT = moec'onebodet
+
+
+Screeve #9:
+მოსწონს	მომწონებია	V;1;SG;IND;PRF = momc'onebia
+მოსწონს	მოგწონებია	V;2;SG;IND;PRF = mogc'onebia
+მოსწონს	მოსწონებია	V;3;SG;IND;PRF = mosc'onebia
+მოსწონს	მოგვწონებია	V;1;PL;IND;PRF = mogvc'onebia
+მოსწონს	მოგწონებიათ	V;2;PL;IND;PRF = mogc'onebiat
+მოსწონს	მოსწონებიათ	V;3;PL;IND;PRF = mosc'onebiat
+
+
+Screeve #10:
+მოსწონს	მომწონებოდა	V;1;SG;IND;PST;PRF = momc'oneboda
+მოსწონს	მოგწონებოდა	V;2;SG;IND;PST;PRF = mogc'oneboda
+მოსწონს	მოსწონებოდა	V;3;SG;IND;PST;PRF = mosc'oneboda
+მოსწონს	მოგვწონებოდა	V;1;PL;IND;PST;PRF = mogvc'oneboda
+მოსწონს	მოგწონებოდათ	V;2;PL;IND;PST;PRF = mogc'onebodat
+მოსწონს	მოსწონებოდათ	V;3;PL;IND;PST;PRF = mosc'onebodat
+
+
+Screeve #11:
+მოსწონს	მომწონებოდეს	V;1;SG;SBJV;PRF = momc'onebodes
+მოსწონს	მოგწონებოდეს	V;2;SG;SBJV;PRF = mogc'onebodes
+მოსწონს	მოსწონებოდეს	V;3;SG;SBJV;PRF = mosc'onebodes
+მოსწონს	მოგვწონებოდეს	V;1;PL;SBJV;PRF = mogvc'onebodes
+მოსწონს	მოგწონებოდეთ	V;2;PL;SBJV;PRF = mogc'onebodet
+მოსწონს	მოსწონებოდეთ	V;3;PL;SBJV;PRF = mosc'onebodet
+
+
+მოსწონს	მოწონება	V;V.MSDR;IPFV

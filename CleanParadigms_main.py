@@ -46,7 +46,7 @@ if __name__=='__main__':
 
     indirect_class = Conjugation(define_Indirect_Screeves())
     IND_df = pd.read_excel(file_path, sheet_name=3)
-    IND_df = IND_df.drop(columns=IND_df.columns.tolist()[13:])
+    IND_df = IND_df.drop(columns=IND_df.columns.tolist()[15:])
     IND_df.fillna('', inplace=True)
 
     TV_lemmas_dict = {(idx+1):transitive_class.gen_lemma_object(row,'tv') for idx,row in TV_df.iterrows()}
@@ -92,7 +92,7 @@ if __name__=='__main__':
             os.mkdir(os.path.join("Clean Paradigms", dir_name))
 
 
-    conjugation_choice = 2
+    conjugation_choice = 3
     assert 0 <= conjugation_choice < len(conjugations_names)
 
     if conjugation_choice==0:
@@ -102,16 +102,16 @@ if __name__=='__main__':
 
     elif conjugation_choice==1:
         example_lemma = ITV_lemmas_dict[21]
-        with open(os.path.join("Clean Paradigms", conjugations_names[1], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==2:
         example_lemma = MED_lemmas_dict[18] # when not used, always put 0,-1, or empty, to avoid overriding existing (manually-edited) data!
-        with open(os.path.join("Clean Paradigms", conjugations_names[2], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
+        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
             medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==3:
-        example_lemma = IND_lemmas_dict[1]
+        example_lemma = IND_lemmas_dict[8]
         with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice],
                                example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
             indirect_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
