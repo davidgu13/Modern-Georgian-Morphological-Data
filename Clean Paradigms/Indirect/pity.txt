@@ -56,28 +56,28 @@ Screeve #6:
 Screeve #9:
 ეცოდება	შემცოდებია	V;1;SG;IND;PRF = šemcodebia
 ეცოდება	შეგცოდებია	V;2;SG;IND;PRF = šegcodebia
-ეცოდება	შეცოდებია	V;3;SG;IND;PRF = šecodebia
+ეცოდება	შესცოდებია	V;3;SG;IND;PRF = šescodebia
 ეცოდება	შეგვცოდებია	V;1;PL;IND;PRF = šegvcodebia
 ეცოდება	შეგცოდებიათ	V;2;PL;IND;PRF = šegcodebiat
-ეცოდება	შეცოდებიათ	V;3;PL;IND;PRF = šecodebiat
+ეცოდება	შესცოდებიათ	V;3;PL;IND;PRF = šescodebiat
 
 
 Screeve #10:
 ეცოდება	შემცოდებოდა	V;1;SG;IND;PST;PRF = šemcodeboda
 ეცოდება	შეგცოდებოდა	V;2;SG;IND;PST;PRF = šegcodeboda
-ეცოდება	შეცოდებოდა	V;3;SG;IND;PST;PRF = šecodeboda
+ეცოდება	შესცოდებოდა	V;3;SG;IND;PST;PRF = šescodeboda
 ეცოდება	შეგვცოდებოდა	V;1;PL;IND;PST;PRF = šegvcodeboda
 ეცოდება	შეგცოდებოდათ	V;2;PL;IND;PST;PRF = šegcodebodat
-ეცოდება	შეცოდებოდათ	V;3;PL;IND;PST;PRF = šecodebodat
+ეცოდება	შესცოდებოდათ	V;3;PL;IND;PST;PRF = šescodebodat
 
 
 Screeve #11:
 ეცოდება	შემცოდებოდეს	V;1;SG;SBJV;PRF = šemcodebodes
 ეცოდება	შეგცოდებოდეს	V;2;SG;SBJV;PRF = šegcodebodes
-ეცოდება	შეცოდებოდეს	V;3;SG;SBJV;PRF = šecodebodes
+ეცოდება	შესცოდებოდეს	V;3;SG;SBJV;PRF = šescodebodes
 ეცოდება	შეგვცოდებოდეს	V;1;PL;SBJV;PRF = šegvcodebodes
 ეცოდება	შეგცოდებოდეთ	V;2;PL;SBJV;PRF = šegcodebodet
-ეცოდება	შეცოდებოდეთ	V;3;PL;SBJV;PRF = šecodebodet
+ეცოდება	შესცოდებოდეთ	V;3;PL;SBJV;PRF = šescodebodet
 
 
 ეცოდება	შეცოდება	V;V.MSDR;IPFV

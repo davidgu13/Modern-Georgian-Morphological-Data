@@ -47,37 +47,37 @@ Screeve #7:
 Screeve #8:
 შეუძლია	შემეძლოს	V;1;SG;OPT = šemejlos
 შეუძლია	შეგეძლოს	V;2;SG;OPT = šegejlos
-შეუძლია	შეძლოს	V;3;SG;OPT = šeejlos
+შეუძლია	შეძლოს	V;3;SG;OPT = šejlos
 შეუძლია	შეგვეძლოს	V;1;PL;OPT = šegvejlos
 შეუძლია	შეგეძლოთ	V;2;PL;OPT = šegejlot
-შეუძლია	შეძლონ	V;3;PL;OPT = šeejlot
+შეუძლია	შეძლონ	V;3;PL;OPT = šejlon
 
 
 Screeve #9:
 შეუძლია	შემძლებია	V;1;SG;IND;PRF = šemjlebia
 შეუძლია	შეგძლებია	V;2;SG;IND;PRF = šegjlebia
-შეუძლია	შეძლებია	V;3;SG;IND;PRF = šejlebia
+შეუძლია	შესძლებია	V;3;SG;IND;PRF = šesjlebia
 შეუძლია	შეგვძლებია	V;1;PL;IND;PRF = šegvjlebia
 შეუძლია	შეგძლებიათ	V;2;PL;IND;PRF = šegjlebiat
-შეუძლია	შეძლებიათ	V;3;PL;IND;PRF = šejlebiat
+შეუძლია	შესძლებიათ	V;3;PL;IND;PRF = šesjlebiat
 
 
 Screeve #10:
 შეუძლია	შემძლებოდა	V;1;SG;IND;PST;PRF = šemjleboda
 შეუძლია	შეგძლებოდა	V;2;SG;IND;PST;PRF = šegjleboda
-შეუძლია	შეძლებოდა	V;3;SG;IND;PST;PRF = šejleboda
+შეუძლია	შესძლებოდა	V;3;SG;IND;PST;PRF = šesjleboda
 შეუძლია	შეგვძლებოდა	V;1;PL;IND;PST;PRF = šegvjleboda
 შეუძლია	შეგძლებოდათ	V;2;PL;IND;PST;PRF = šegjlebodat
-შეუძლია	შეძლებოდათ	V;3;PL;IND;PST;PRF = šejlebodat
+შეუძლია	შესძლებოდათ	V;3;PL;IND;PST;PRF = šesjlebodat
 
 
 Screeve #11:
 შეუძლია	შემძლებოდეს	V;1;SG;SBJV;PRF = šemjlebodes
 შეუძლია	შეგძლებოდეს	V;2;SG;SBJV;PRF = šegjlebodes
-შეუძლია	შეძლებოდეს	V;3;SG;SBJV;PRF = šejlebodes
+შეუძლია	შესძლებოდეს	V;3;SG;SBJV;PRF = šesjlebodes
 შეუძლია	შეგვძლებოდეს	V;1;PL;SBJV;PRF = šegvjlebodes
 შეუძლია	შეგძლებოდეთ	V;2;PL;SBJV;PRF = šegjlebodet
-შეუძლია	შეძლებოდეთ	V;3;PL;SBJV;PRF = šejlebodet
+შეუძლია	შესძლებოდეთ	V;3;PL;SBJV;PRF = šesjlebodet
 
 
 შეუძლია	შეძლება	V;V.MSDR;IPFV
