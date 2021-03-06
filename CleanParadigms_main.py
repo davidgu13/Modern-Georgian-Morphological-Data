@@ -92,7 +92,7 @@ if __name__=='__main__':
             os.mkdir(os.path.join("Clean Paradigms", dir_name))
 
 
-    conjugation_choice = 3
+    conjugation_choice = -1
     assert 0 <= conjugation_choice < len(conjugations_names)
 
     if conjugation_choice==0:
@@ -111,7 +111,7 @@ if __name__=='__main__':
             medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
 
     elif conjugation_choice==3:
-        example_lemma = IND_lemmas_dict[8]
+        example_lemma = IND_lemmas_dict[-1]
         with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice],
                                example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
             indirect_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
