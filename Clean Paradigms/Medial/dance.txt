@@ -105,4 +105,4 @@ Screeve #11:
 ცეკვავს	ეცეკვოთ	V;3;PL;SBJV;PRF = ecek'vot
 
 
-ცეკვავს	ცეკვაV;V.MSDR;IPFV
+ცეკვავს	ცეკვა	V;V.MSDR;IPFV

@@ -106,4 +106,4 @@ Screeve #11:
 
 
 ათრობს	დათრობა	V;V.MSDR;PRF
-ათრობს	?	V;V.MSDR;IPFV
+ათრობს	თრობა	V;V.MSDR;IPFV

@@ -105,5 +105,4 @@ Screeve #11:
 ასახელებს	დაესახელებინოთ	V;3;PL;SBJV;PRF = daesaxelebinot
 
 
-ასახელებს	?	V;V.MSDR;PRF
-ასახელებს	?	V;V.MSDR;IPFV
+ასახელებს	დასახელება	V;V.MSDR;PRF
