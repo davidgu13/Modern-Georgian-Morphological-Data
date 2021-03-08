@@ -28,7 +28,7 @@ Screeve #3:
 
 Screeve #4:
 ფრინავს	ვიფრენ	V;1;SG;IND;FUT = vipren
-ფრენს	იფრენ	V;2;SG;IND;FUT = ipren
+ფრინავს	იფრენ	V;2;SG;IND;FUT = ipren
 ფრინავს	იფრენს	V;3;SG;IND;FUT = iprens
 ფრინავს	ვიფრენთ	V;1;PL;IND;FUT = viprent
 ფრინავს	იფრენთ	V;2;PL;IND;FUT = iprent
