@@ -20,6 +20,8 @@ class Conjugation:
             obj = Medial_Lemma(*row.tolist())
         elif conj=='ind':
             obj = Indirect_Lemma(*row.tolist())
+        elif conj=='stat':
+            obj = Stative_Lemma(*row.tolist())
         else:
             raise Exception("Unknown Conjugation class!")
         return obj
@@ -49,13 +51,19 @@ if __name__=='__main__':
     IND_df = IND_df.drop(columns=IND_df.columns.tolist()[15:])
     IND_df.fillna('', inplace=True)
 
+    stative_class = Conjugation(define_Stative_Screeves())
+    STAT_df = pd.read_excel(file_path, sheet_name=4)
+    STAT_df = STAT_df.drop(columns=STAT_df.columns.tolist()[12:])
+    STAT_df.fillna('', inplace=True)
+
+
     TV_lemmas_dict = {(idx+1):transitive_class.gen_lemma_object(row,'tv') for idx,row in TV_df.iterrows()}
     ITV_lemmas_dict = {(idx+1):intransitive_class.gen_lemma_object(row,'itv') for idx,row in ITV_df.iterrows()}
     MED_lemmas_dict = {(idx+1):medial_class.gen_lemma_object(row,'med') for idx,row in MED_df.iterrows()}
     IND_lemmas_dict = {(idx+1):indirect_class.gen_lemma_object(row,'ind') for idx,row in IND_df.iterrows()}
+    STAT_lemmas_dict = {(idx+1):stative_class.gen_lemma_object(row,'stat') for idx,row in STAT_df.iterrows()}
 
-
-    # region transitive_verbs
+    # region transitive_and_intarnsitive_verbs
     # 2 simple regular verbs for example, and then the actual 5 verbs:
     # write = Transitive_Lemma(1, 'write', 'და','','წერ','','ა','OV','IOV', masdar_imprf='წერა')
     # build = Transitive_Lemma(2, 'build', 'ა','ა','შენ','ებ','ა','OV','IOV', masdar_prf='აშენება', masdar_imprf='შენება')
@@ -66,9 +74,6 @@ if __name__=='__main__':
     # let_pass = Transitive_Lemma(7, 'let_pass', 'გა','ა','ტარ','ებ','ა','OV','IOV', masdar_prf='გატარება')
     # transitive_lemmas_dict = {1: write, 2: build, 3: take, 4: lose, 5: do, 6: listen, 7:let_pass}
 
-    # endregion transitive
-
-    # region intransitive_verbs
     # blush = Intransitive_Lemma(1, 'blush', 2, 1, 'გა', '', 'წითლ', 'ებ', 'ა', 'ი', '', '', 'ულ', '', masdar_prf='გაწითლება', masdar_imprf='წითლება')
     # be_done = Intransitive_Lemma(2, 'be_done', 2, 1, 'გა', '', 'კეთ', 'ებ', 'ა', 'ი', 'ებ', '', 'ულ', '', masdar_prf='?')
     # be_opened = Intransitive_Lemma(3, 'be_opened', 1, 1, 'გა', 'ი', 'ღ', 'ებ', 'ო', 'ე', 'ებ', '', 'ულ', '', masdar_prf='გაიღება ?') # you can add the active parallel to the first list!
@@ -80,41 +85,22 @@ if __name__=='__main__':
     # hide_tv = Intransitive_Lemma(9, 'hide_tv', 1, 2, 'და', 'ე', 'მალ', 'ებ', 'ა', 'ე', 'ვ', '', '', '', masdar_prf='დამალვა?', masdar_imprf='მალვა?')
     # stay_from = Intransitive_Lemma(10, 'stay_from', 3, 1, 'და', '', 'რჩ', 'ებ', 'ა', 'ე', 'ენ', '', '', '', masdar_prf='დარჩენა')
     # be_born = Intransitive_Lemma(11, 'be_born', 'და', 'ი', )
-    # intransitive_lemmas_dict = {1: blush, 2: be_done, 3:be_opened, 4:written, 5:be_cleaned,
-    #                             6:err, 7:hide, 8:choke, 9: hide_tv, 10: stay_from}
-    # endregion intransitive_verbs
+    # intransitive_lemmas_dict = {1: blush, 2: be_done, 3:be_opened, 4:written, 5:be_cleaned, 6:err, 7:hide, 8:choke, 9: hide_tv, 10: stay_from}
+    # endregion transitive_and_intarnsitive_verbs
 
-    conjugations_names = ['Transitive', 'Intransitive', 'Medial', 'Indirect']
+    conjugations_names = ['Transitive', 'Intransitive', 'Medial', 'Indirect', 'Stative']
     if not os.path.isdir("Clean Paradigms"):
         os.mkdir("Clean Paradigms")
     for dir_name in conjugations_names:
         if not os.path.isdir(os.path.join("Clean Paradigms", dir_name)):
             os.mkdir(os.path.join("Clean Paradigms", dir_name))
-
-
-    conjugation_choice = -1
-    assert 0 <= conjugation_choice < len(conjugations_names)
-
-    if conjugation_choice==0:
-        example_lemma = TV_lemmas_dict[46]
-        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-            transitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
-
-    elif conjugation_choice==1:
-        example_lemma = ITV_lemmas_dict[21]
-        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-            intransitive_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
-
-    elif conjugation_choice==2:
-        example_lemma = MED_lemmas_dict[18] # when not used, always put 0,-1, or empty, to avoid overriding existing (manually-edited) data!
-        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice], example_lemma.translation+".txt"), 'w+', encoding='utf8') as f:
-            medial_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
-
-    elif conjugation_choice==3:
-        example_lemma = IND_lemmas_dict[-1]
-        with open(os.path.join("Clean Paradigms", conjugations_names[conjugation_choice],
-                               example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
-            indirect_class.gen_paradigm(example_lemma, use_unimorph_format, verbose, f)
-
-    else: raise Exception("Invalid conjugation choice!")
-
+    choice_mapping = dict(zip(range(5),zip([transitive_class, intransitive_class, medial_class, indirect_class, stative_class],
+                                           [TV_lemmas_dict, ITV_lemmas_dict, MED_lemmas_dict, IND_lemmas_dict, STAT_lemmas_dict])))
+    
+    class_choice = -1  # can be either 0,1,2,3,4 ; write -1 for locking.
+    lemma_choices = [46, 21, 18, -1, -1] # when index isn't used, always insert 0 or -1 to disable the possibility of overriding
+    assert 0 <= class_choice < len(conjugations_names)
+    
+    example_lemma = choice_mapping[class_choice][1][lemma_choices[class_choice]] # equivalent to CLS_lemmas_dict[46]
+    with open(os.path.join("Clean Paradigms", conjugations_names[class_choice], example_lemma.translation + ".txt"), 'w+', encoding='utf8') as f:
+        choice_mapping[class_choice][0].gen_paradigm(example_lemma, use_unimorph_format, verbose, f)

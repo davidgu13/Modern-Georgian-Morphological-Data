@@ -13,13 +13,16 @@ def remove_transliteration2(file_name):
     return s
 
 if __name__=='__main__':
-    classes = ['Transitive', 'Intransitive', 'Medial', 'Indirect']
+    classes = ['Transitive', 'Intransitive', 'Medial', 'Indirect', 'Stative']
     paths = [os.path.join("Clean Paradigms",c) for c in classes]
     with open('Georgian Data.txt','w+',encoding='utf8') as f:
-        for p in paths:
-            for file_name in os.listdir(p):
-                full_path = os.path.join(p,file_name)
-                with open(full_path,'r',encoding='utf8') as f_orig:
-                    content = remove_transliteration2(full_path)
-                    content = content.replace('\n\n\n','\n').replace('\n\n','\n')
-                f.write(content)
+        for i,p in enumerate(paths):
+            with open(f'Georgian Data {classes[i]}.txt', 'w+', encoding='utf8') as f1:
+                for file_name in os.listdir(p):
+                    full_path = os.path.join(p,file_name)
+                    with open(full_path,'r',encoding='utf8') as f_orig:
+                        content = remove_transliteration2(full_path)
+                        content = content.replace('\n\n\n','\n').replace('\n\n','\n')
+                    f.write(content)
+                    f1.write(content)
+

@@ -115,3 +115,28 @@ class Indirect_Lemma(Lemma):
     def gen_lemma_form(self, screeves):
         if self.lemma_form=='': # calculating the lemma name, if not already given
             self.lemma_form = self.pres_S_3sg_pref + self.version['sg3'] + self.root + self.passive_marker + self.ts + self.pres_IDO_3sg_suffix  # 1st Screeve, 3rd person singular
+
+
+class Stative_Lemma(Lemma):
+    def __init__(self, idx: int, translation: str, valency:int, version: str, root_pres: str, ts_pres: str, root_fut:str, ts_fut:str, s3sg_pref, o3sg_suff, aor_indic_3rd_sg: str, exist_screeves:str):
+        super().__init__(idx, translation, '', version, root_pres, ts_pres, aor_indic_3rd_sg)
+        self.version = SUBJECTIVE_VERSION if version == 'subj' else zip_pronouns([version] * 6)
+        self.valency = valency
+        self.exist_screeves = [int(c) for c in exist_screeves.split(',')] # can maximally be [1,4,7,8,9,10]
+        # self.screeves2idx = dict(zip([1,4,7,8,9,10],range(1,7)))
+        self.s3sg_pref = s3sg_pref # ჰ, ს
+        self.o3sg_suff = o3sg_suff # ა / ს
+        self.root_fut = root_fut
+        self.ts_fut = ts_fut
+
+    def gen_lemma_form(self, screeves):
+        if self.lemma_form=='': # calculating the lemma name, if not already given
+            self.lemma_form = self.s3sg_pref + self.version['sg3'] + self.root + self.passive_marker + self.ts + self.o3sg_suff  # 1st Screeve, 3rd person singular
+
+    def generate_clean_paradigm(self, screeves, use_unimorph_format, verbose, file):
+        self.gen_lemma_form(screeves)
+        if verbose: file.write(f"#{self.idx} - {self.lemma_form} - {self.translation}:\n")
+
+        for i,screeve in enumerate(screeves): # print the verbal forms (no Imperatives, no Masdars)
+            if screeve.idx in self.exist_screeves:
+                screeve.generate_forms(copy.copy(self), use_unimorph_format, verbose, file)
