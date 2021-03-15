@@ -1,0 +1,49 @@
+#5 - ჰქვია - called:
+Screeve #1:
+ჰქვია	მქვია	V;1;SG;IND;PRS = mkvia
+ჰქვია	გქვია	V;2;SG;IND;PRS = gkvia
+ჰქვია	ჰქვია	V;3;SG;IND;PRS = hkvia
+ჰქვია	გვქვია	V;1;PL;IND;PRS = gvkvia
+ჰქვია	გქვიათ	V;2;PL;IND;PRS = gkviat
+ჰქვია	ჰქვიათ	V;3;PL;IND;PRS = hkviat
+
+Screeve #4:
+ჰქვია	მერქმევა	V;1;SG;IND;FUT = merkmeva
+ჰქვია	გერქმევა	V;2;SG;IND;FUT = gerkmeva
+ჰქვია	ერქმევა	V;3;SG;IND;FUT = erkmeva
+ჰქვია	გვერქმევა	V;1;PL;IND;FUT = gverkmeva
+ჰქვია	გერქმევათ	V;2;PL;IND;FUT = gerkmevat
+ჰქვია	ერქმევათ	V;3;PL;IND;FUT = erkmevat
+
+Screeve #7:
+ჰქვია	მერქვა	V;1;SG;IND;PST;PFV = merkva
+ჰქვია	გერქვა	V;2;SG;IND;PST;PFV = gerkva
+ჰქვია	ერქვა	V;3;SG;IND;PST;PFV = erkva
+ჰქვია	გვერქვა	V;1;PL;IND;PST;PFV = gverkva
+ჰქვია	გერქვათ	V;2;PL;IND;PST;PFV = gerkvat
+ჰქვია	ერქვათ	V;3;PL;IND;PST;PFV = erkvat
+
+Screeve #8:
+ჰქვია	მერქვას	V;1;SG;OPT = merkvas
+ჰქვია	გერქვას	V;2;SG;OPT = gerkvas
+ჰქვია	ერქვას	V;3;SG;OPT = erkvas
+ჰქვია	გვერქვას	V;1;PL;OPT = gverkvas
+ჰქვია	გერქვათ	V;2;PL;OPT = gerkvat
+ჰქვია	ერქვათ	V;3;PL;OPT = erkvat
+
+Screeve #9:
+ჰქვია	მრქმევია	V;1;SG;IND;PRF = mrkmevia
+ჰქვია	გრქმევია	V;2;SG;IND;PRF = grkmevia
+ჰქვია	რქმევია	V;3;SG;IND;PRF = rkmevia
+ჰქვია	გვრქმევია	V;1;PL;IND;PRF = gvrkmevia
+ჰქვია	გრქმევიათ	V;2;PL;IND;PRF = grkmeviat
+ჰქვია	რქმევიათ	V;3;PL;IND;PRF = rkmeviat
+
+Screeve #10:
+ჰქვია	მრქმევოდა	V;1;SG;IND;PST;PRF = mrkmevoda
+ჰქვია	გრქმევოდა	V;2;SG;IND;PST;PRF = grkmevoda
+ჰქვია	რქმევოდა	V;3;SG;IND;PST;PRF = rkmevoda
+ჰქვია	გვრქმევოდა	V;1;PL;IND;PST;PRF = gvrkmevoda
+ჰქვია	გრქმევოდათ	V;2;PL;IND;PST;PRF = grkmevodat
+ჰქვია	რქმევოდათ	V;3;PL;IND;PST;PRF = rkmevodat
+

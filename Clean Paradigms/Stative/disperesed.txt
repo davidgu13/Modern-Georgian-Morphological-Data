@@ -1,0 +1,17 @@
+#7 - ფანტია - disperesed:
+Screeve #1:
+ფანტია	ფანტია	V;3;SG;IND;PRS = pant'ia
+ფანტია	ფანტიათ	V;3;PL;IND;PRS = pant'iat
+
+Screeve #4:
+ფანტია	ეფანტება	V;3;SG;IND;FUT = epant'eba
+ფანტია	ეფანტებათ	V;3;PL;IND;FUT = epant'ebat
+
+Screeve #7:
+ფანტია	ეფანტა	V;3;SG;IND;PST;PFV = epant'a
+ფანტია	ეფანტათ	V;3;PL;IND;PST;PFV = epant'at
+
+Screeve #8:
+ფანტია	ეფანტოს	V;3;SG;OPT = epant'os
+ფანტია	ეფანტოთ	V;3;PL;OPT = epant'ot
+

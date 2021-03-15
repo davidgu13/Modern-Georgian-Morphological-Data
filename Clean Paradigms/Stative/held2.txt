@@ -1,0 +1,49 @@
+#11 - უჭირავს - held2:
+Screeve #1:
+უჭირავს	მიჭირავს	V;1;SG;IND;PRS = mič'iravs
+უჭირავს	გიჭირავს	V;2;SG;IND;PRS = gič'iravs
+უჭირავს	უჭირავს	V;3;SG;IND;PRS = uč'iravs
+უჭირავს	გვიჭირავს	V;1;PL;IND;PRS = gvič'iravs
+უჭირავს	გიჭირავთ	V;2;PL;IND;PRS = gič'iravt
+უჭირავს	უჭირავთ	V;3;PL;IND;PRS = uč'iravt
+
+Screeve #4:
+უჭირავს	მეჭირება	V;1;SG;IND;FUT = meč'ireba
+უჭირავს	გეჭირება	V;2;SG;IND;FUT = geč'ireba
+უჭირავს	ეჭირება	V;3;SG;IND;FUT = eč'ireba
+უჭირავს	გვეჭირება	V;1;PL;IND;FUT = gveč'ireba
+უჭირავს	გეჭირებათ	V;2;PL;IND;FUT = geč'irebat
+უჭირავს	ეჭირებათ	V;3;PL;IND;FUT = eč'irebat
+
+Screeve #7:
+უჭირავს	მეჭირა	V;1;SG;IND;PST;PFV = meč'ira
+უჭირავს	გეჭირა	V;2;SG;IND;PST;PFV = geč'ira
+უჭირავს	ეჭირა	V;3;SG;IND;PST;PFV = eč'ira
+უჭირავს	გვეჭირა	V;1;PL;IND;PST;PFV = gveč'ira
+უჭირავს	გეჭირათ	V;2;PL;IND;PST;PFV = geč'irat
+უჭირავს	ეჭირათ	V;3;PL;IND;PST;PFV = eč'irat
+
+Screeve #8:
+უჭირავს	მეჭიროს	V;1;SG;OPT = meč'iros
+უჭირავს	გეჭიროს	V;2;SG;OPT = geč'iros
+უჭირავს	ეჭიროს	V;3;SG;OPT = eč'iros
+უჭირავს	გვეჭიროს	V;1;PL;OPT = gveč'iros
+უჭირავს	გეჭიროთ	V;2;PL;OPT = geč'irot
+უჭირავს	ეჭიროთ	V;3;PL;OPT = eč'irot
+
+Screeve #9:
+უჭირავს	მჭერია	V;1;SG;IND;PRF = mč'eria
+უჭირავს	გჭერია	V;2;SG;IND;PRF = gč'eria
+უჭირავს	სჭერია	V;3;SG;IND;PRF = sč'eria
+უჭირავს	გვჭერია	V;1;PL;IND;PRF = gvč'eria
+უჭირავს	გჭერიათ	V;2;PL;IND;PRF = gč'eriat
+უჭირავს	სჭერიათ	V;3;PL;IND;PRF = sč'eriat
+
+Screeve #10:
+უჭირავს	მჭეროდა	V;1;SG;IND;PST;PRF = mč'eroda
+უჭირავს	გჭეროდა	V;2;SG;IND;PST;PRF = gč'eroda
+უჭირავს	სჭეროდა	V;3;SG;IND;PST;PRF = sč'eroda
+უჭირავს	გვჭეროდა	V;1;PL;IND;PST;PRF = gvč'eroda
+უჭირავს	გჭეროდათ	V;2;PL;IND;PST;PRF = gč'erodat
+უჭირავს	სჭეროდათ	V;3;PL;IND;PST;PRF = sč'erodat
+

@@ -1,0 +1,16 @@
+#6 - ასხია - poured:
+Screeve #1:
+ასხია	ასხია	V;3;SG;IND;PRS = asxia
+ასხია	ასხიათ	V;3;PL;IND;PRS = asxiat
+
+Screeve #4:
+ასხია	ესხმება	V;3;SG;IND;FUT = esxmeba
+ასხია	ესხმებათ	V;3;PL;IND;FUT = esxmebat
+
+Screeve #7:
+ასხია	ესხა	V;3;SG;IND;PST;PFV = esxa
+ასხია	ესხათ	V;3;PL;IND;PST;PFV = esxat
+
+Screeve #8:
+ასხია	ესხას	V;3;SG;OPT = esxas
+ასხია	ესხათ	V;3;PL;OPT = esxat

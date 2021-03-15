@@ -1,0 +1,49 @@
+#2 - უკავია - held:
+Screeve #1:
+უკავია	მიკავია	V;1;SG;IND;PRS = mik'avia
+უკავია	გიკავია	V;2;SG;IND;PRS = gik'avia
+უკავია	უკავია	V;3;SG;IND;PRS = uk'avia
+უკავია	გვიკავია	V;1;PL;IND;PRS = gvik'avia
+უკავია	გიკავიათ	V;2;PL;IND;PRS = gik'aviat
+უკავია	უკავიათ	V;3;PL;IND;PRS = uk'aviat
+
+Screeve #4:
+უკავია	მეკავება	V;1;SG;IND;FUT = mek'aveba
+უკავია	გეკავება	V;2;SG;IND;FUT = gek'aveba
+უკავია	ეკავება	V;3;SG;IND;FUT = ek'aveba
+უკავია	გვეკავება	V;1;PL;IND;FUT = gvek'aveba
+უკავია	გეკავებათ	V;2;PL;IND;FUT = gek'avebat
+უკავია	ეკავებათ	V;3;PL;IND;FUT = ek'avebat
+
+Screeve #7:
+უკავია	მეკავა	V;1;SG;IND;PST;PFV = mek'ava
+უკავია	გეკავა	V;2;SG;IND;PST;PFV = gek'ava
+უკავია	ეკავა	V;3;SG;IND;PST;PFV = ek'ava
+უკავია	გვეკავა	V;1;PL;IND;PST;PFV = gvek'ava
+უკავია	გეკავათ	V;2;PL;IND;PST;PFV = gek'avat
+უკავია	ეკავათ	V;3;PL;IND;PST;PFV = ek'avat
+
+Screeve #8:
+უკავია	მეკავოს	V;1;SG;OPT = mek'avos
+უკავია	გეკავოს	V;2;SG;OPT = gek'avos
+უკავია	ეკავოს	V;3;SG;OPT = ek'avos
+უკავია	გვეკავოს	V;1;PL;OPT = gvek'avos
+უკავია	გეკავოთ	V;2;PL;OPT = gek'avot
+უკავია	ეკავოთ	V;3;PL;OPT = ek'avot
+
+Screeve #9:
+უკავია	მკავებია	V;1;SG;IND;PRF = mk'avebia
+უკავია	გკავებია	V;2;SG;IND;PRF = gk'avebia
+უკავია	ჰკავებია	V;3;SG;IND;PRF = hk'avebia
+უკავია	გვკავებია	V;1;PL;IND;PRF = gvk'avebia
+უკავია	გკავებიათ	V;2;PL;IND;PRF = gk'avebiat
+უკავია	ჰკავებიათ	V;3;PL;IND;PRF = hk'avebiat
+
+Screeve #10:
+უკავია	მკავებოდა	V;1;SG;IND;PST;PRF = mk'aveboda
+უკავია	გკავებოდა	V;2;SG;IND;PST;PRF = gk'aveboda
+უკავია	ჰკავებოდა	V;3;SG;IND;PST;PRF = hk'aveboda
+უკავია	გვკავებოდა	V;1;PL;IND;PST;PRF = gvk'aveboda
+უკავია	გკავებოდათ	V;2;PL;IND;PST;PRF = gk'avebodat
+უკავია	ჰკავებოდათ	V;3;PL;IND;PST;PRF = hk'avebodat
+

@@ -1,0 +1,49 @@
+#9 - აცვია - worn2:
+Screeve #1:
+აცვია	მაცვია	V;1;SG;IND;PRS = macvia
+აცვია	გაცვია	V;2;SG;IND;PRS = gacvia
+აცვია	აცვია	V;3;SG;IND;PRS = acvia
+აცვია	გვაცვია	V;1;PL;IND;PRS = gvacvia
+აცვია	გაცვიათ	V;2;PL;IND;PRS = gacviat
+აცვია	აცვიათ	V;3;PL;IND;PRS = acviat
+
+Screeve #4:
+აცვია	მეცმევა	V;1;SG;IND;FUT = mecmeva
+აცვია	გეცმევა	V;2;SG;IND;FUT = gecmeva
+აცვია	ეცმევა	V;3;SG;IND;FUT = ecmeva
+აცვია	გვეცმევა	V;1;PL;IND;FUT = gvecmeva
+აცვია	გეცმევათ	V;2;PL;IND;FUT = gecmevat
+აცვია	ეცმევათ	V;3;PL;IND;FUT = ecmevat
+
+Screeve #7:
+აცვია	მეცვა	V;1;SG;IND;PST;PFV = mecva
+აცვია	გეცვა	V;2;SG;IND;PST;PFV = gecva
+აცვია	ეცვა	V;3;SG;IND;PST;PFV = ecva
+აცვია	გვეცვა	V;1;PL;IND;PST;PFV = gvecva
+აცვია	გეცვათ	V;2;PL;IND;PST;PFV = gecvat
+აცვია	ეცვათ	V;3;PL;IND;PST;PFV = ecvat
+
+Screeve #8:
+აცვია	მეცვას	V;1;SG;OPT = mecvas
+აცვია	გეცვას	V;2;SG;OPT = gecvas
+აცვია	ეცვას	V;3;SG;OPT = ecvas
+აცვია	გვეცვას	V;1;PL;OPT = gvecvas
+აცვია	გეცვათ	V;2;PL;OPT = gecvat
+აცვია	ეცვათ	V;3;PL;OPT = ecvat
+
+Screeve #9:
+აცვია	მცმევია	V;1;SG;IND;PRF = mcmevia
+აცვია	გცმევია	V;2;SG;IND;PRF = gcmevia
+აცვია	სცმევია	V;3;SG;IND;PRF = scmevia
+აცვია	გვცმევია	V;1;PL;IND;PRF = gvcmevia
+აცვია	გცმევიათ	V;2;PL;IND;PRF = gcmeviat
+აცვია	სცმევიათ	V;3;PL;IND;PRF = scmeviat
+
+Screeve #10:
+აცვია	მცმევოდა	V;1;SG;IND;PST;PRF = mcmevoda
+აცვია	გცმევოდა	V;2;SG;IND;PST;PRF = gcmevoda
+აცვია	სცმევოდა	V;3;SG;IND;PST;PRF = scmevoda
+აცვია	გვცმევოდა	V;1;PL;IND;PST;PRF = gvcmevoda
+აცვია	გცმევოდათ	V;2;PL;IND;PST;PRF = gcmevodat
+აცვია	სცმევოდათ	V;3;PL;IND;PST;PRF = scmevodat
+

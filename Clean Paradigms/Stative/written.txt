@@ -1,0 +1,25 @@
+#10 - უწერია - written:
+Screeve #1:
+უწერია	უწერია	V;3;SG;IND;PRS = uc'eria
+უწერია	უწერიათ	V;3;PL;IND;PRS = uc'eriat
+
+Screeve #4:
+უწერია	ეწერება	V;3;SG;IND;FUT = ec'ereba
+უწერია	ეწერებათ	V;3;PL;IND;FUT = ec'erebat
+
+Screeve #7:
+უწერია	ეწერა	V;3;SG;IND;PST;PFV = ec'era
+უწერია	ეწერათ	V;3;PL;IND;PST;PFV = ec'erat
+
+Screeve #8:
+უწერია	ეწეროს	V;3;SG;OPT = ec'eros
+უწერია	ეწეროთ	V;3;PL;OPT = ec'erot
+
+Screeve #9:
+უწერია	წერებია	V;3;SG;IND;PRF = c'erebia
+უწერია	წერებიათ	V;3;PL;IND;PRF = c'erebiat
+
+Screeve #10:
+უწერია	წერებოდა	V;3;SG;IND;PST;PRF = c'ereboda
+უწერია	წერებოდათ	V;3;PL;IND;PST;PRF = c'erebodat
+

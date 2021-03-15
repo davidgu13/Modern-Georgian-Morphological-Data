@@ -1,0 +1,16 @@
+#8 - აფარია - covered:
+Screeve #1:
+აფარია	აფარია	V;3;SG;IND;PRS = aparia
+აფარია	აფარიათ	V;3;PL;IND;PRS = apariat
+
+Screeve #4:
+აფარია	ეფარება	V;3;SG;IND;FUT = epareba
+აფარია	ეფარებათ	V;3;PL;IND;FUT = eparebat
+
+Screeve #7:
+აფარია	ეფარა	V;3;SG;IND;PST;PFV = epara
+აფარია	ეფარათ	V;3;PL;IND;PST;PFV = eparat
+
+Screeve #8:
+აფარია	ეფაროს	V;3;SG;OPT = eparos
+აფარია	ეფაროთ	V;3;PL;OPT = eparot

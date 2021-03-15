@@ -1,0 +1,16 @@
+#4 - ურევია - mixed_up:
+Screeve #1:
+ურევია	ურევია	V;3;SG;IND;PRS = urevia
+ურევია	ურევიათ	V;3;PL;IND;PRS = ureviat
+
+Screeve #4:
+ურევია	ერევა	V;3;SG;IND;FUT = ereva
+ურევია	ერევათ	V;3;PL;IND;FUT = erevat
+
+Screeve #7:
+ურევია	ერია	V;3;SG;IND;PST;PFV = eria
+ურევია	ერიათ	V;3;PL;IND;PST;PFV = eriat
+
+Screeve #8:
+ურევია	ერიოს	V;3;SG;OPT = erios
+ურევია	ერიოთ	V;3;PL;OPT = eriot

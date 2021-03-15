@@ -1,0 +1,33 @@
+#3 - უკეთია - worn:
+Screeve #1:
+უკეთია	მიკეთია	V;1;SG;IND;PRS = mik'etia
+უკეთია	გიკეთია	V;2;SG;IND;PRS = gik'etia
+უკეთია	უკეთია	V;3;SG;IND;PRS = uk'etia
+უკეთია	გვიკეთია	V;1;PL;IND;PRS = gvik'etia
+უკეთია	გიკეთიათ	V;2;PL;IND;PRS = gik'etiat
+უკეთია	უკეთიათ	V;3;PL;IND;PRS = uk'etiat
+
+Screeve #4:
+უკეთია	მეკეთება	V;1;SG;IND;FUT = mek'eteba
+უკეთია	გეკეთება	V;2;SG;IND;FUT = gek'eteba
+უკეთია	ეკეთება	V;3;SG;IND;FUT = ek'eteba
+უკეთია	გვეკეთება	V;1;PL;IND;FUT = gvek'eteba
+უკეთია	გეკეთებათ	V;2;PL;IND;FUT = gek'etebat
+უკეთია	ეკეთებათ	V;3;PL;IND;FUT = ek'etebat
+
+Screeve #7:
+უკეთია	მეკეთა	V;1;SG;IND;PST;PFV = mek'eta
+უკეთია	გეკეთა	V;2;SG;IND;PST;PFV = gek'eta
+უკეთია	ეკეთა	V;3;SG;IND;PST;PFV = ek'eta
+უკეთია	გვეკეთა	V;1;PL;IND;PST;PFV = gvek'eta
+უკეთია	გეკეთათ	V;2;PL;IND;PST;PFV = gek'etat
+უკეთია	ეკეთათ	V;3;PL;IND;PST;PFV = ek'etat
+
+Screeve #8:
+უკეთია	მეკეთოს	V;1;SG;OPT = mek'etos
+უკეთია	გეკეთოს	V;2;SG;OPT = gek'etos
+უკეთია	ეკეთოს	V;3;SG;OPT = ek'etos
+უკეთია	გვეკეთოს	V;1;PL;OPT = gvek'etos
+უკეთია	გეკეთოთ	V;2;PL;OPT = gek'etot
+უკეთია	ეკეთოთ	V;3;PL;OPT = ek'etot
+

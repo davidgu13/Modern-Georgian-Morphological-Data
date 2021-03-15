@@ -1,0 +1,25 @@
+#12 - ახვევია - wrapped:
+Screeve #1:
+ახვევია	ახვევია	V;3;SG;IND;PRS = axvevia
+ახვევია	ახვევიათ	V;3;PL;IND;PRS = axveviat
+
+Screeve #4:
+ახვევია	ეხვევა	V;3;SG;IND;FUT = exveva
+ახვევია	ეხვევათ	V;3;PL;IND;FUT = exvevat
+
+Screeve #7:
+ახვევია	ეხვია	V;3;SG;IND;PST;PFV = exvia
+ახვევია	ეხვიათ	V;3;PL;IND;PST;PFV = exviat
+
+Screeve #8:
+ახვევია	ეხვიოს	V;3;SG;OPT = exvios
+ახვევია	ეხვიოთ	V;3;PL;OPT = exviot
+
+Screeve #9:
+ახვევია	ხვევია	V;3;SG;IND;PRF = xvevia
+ახვევია	ხვევიათ	V;3;PL;IND;PRF = xveviat
+
+Screeve #10:
+ახვევია	ხვევოდა	V;3;SG;IND;PST;PRF = xvevoda
+ახვევია	ხვევოდათ	V;3;PL;IND;PST;PRF = xvevodat
+

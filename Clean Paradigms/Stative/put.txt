@@ -1,0 +1,19 @@
+#1 - დევს - put:
+Screeve #1:
+დევს	დევს	V;3;SG;IND;PRS = devs
+
+Screeve #4:
+დევს	ედება	V;3;SG;IND;FUT = edeba
+
+Screeve #7:
+დევს	იდო	V;3;SG;IND;PST;PFV = ido
+
+Screeve #8:
+დევს	იდოს	V;3;SG;OPT = idos
+
+Screeve #9:
+დევს	დებულა	V;3;SG;IND;PRF = debula
+
+Screeve #10:
+დევს	დებულიყო	V;3;SG;IND;PST;PRF = debuliq'o
+
