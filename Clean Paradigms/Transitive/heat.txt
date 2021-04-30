@@ -88,12 +88,12 @@ Screeve #9:
 
 
 Screeve #10:
-ათბობს	გამეთბა	V;1;SG;IND;PST;PRF = gametba
-ათბობს	გაგეთბა	V;2;SG;IND;PST;PRF = gagetba
-ათბობს	გაეთბა	V;3;SG;IND;PST;PRF = gaetba
-ათბობს	გაგვეთბა	V;1;PL;IND;PST;PRF = gagvetba
-ათბობს	გაგეთბათ	V;2;PL;IND;PST;PRF = gagetbat
-ათბობს	გაეთბათ	V;3;PL;IND;PST;PRF = gaetbat
+ათბობს	გამეთბო	V;1;SG;IND;PST;PRF = gametbo
+ათბობს	გაგეთბო	V;2;SG;IND;PST;PRF = gagetbo
+ათბობს	გაეთბო	V;3;SG;IND;PST;PRF = gaetbo
+ათბობს	გაგვეთბო	V;1;PL;IND;PST;PRF = gagvetbo
+ათბობს	გაგეთბოთ	V;2;PL;IND;PST;PRF = gagetbot
+ათბობს	გაეთბოთ	V;3;PL;IND;PST;PRF = gaetbot
 
 
 Screeve #11:

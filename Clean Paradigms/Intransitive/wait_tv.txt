@@ -79,30 +79,30 @@ Screeve #8:
 
 
 Screeve #9:
-ელოდება	დავლოდებულვარ	V;1;SG;IND;PRF = davlodebulvar
-ელოდება	დალოდებულხარ	V;2;SG;IND;PRF = dalodebulxar
-ელოდება	დალოდებულა	V;3;SG;IND;PRF = dalodebula
-ელოდება	დავლოდებულვართ	V;1;PL;IND;PRF = davlodebulvart
-ელოდება	დალოდებულხართ	V;2;PL;IND;PRF = dalodebulxart
-ელოდება	დალოდებულან	V;3;PL;IND;PRF = dalodebulan
+ელოდება	დავლოდებივარ	V;1;SG;IND;PRF = davlodebivar
+ელოდება	დალოდებიხარ	V;2;SG;IND;PRF = dalodebixar
+ელოდება	დაალოდებია	V;3;SG;IND;PRF = dalodebia
+ელოდება	დავლოდებივართ	V;1;PL;IND;PRF = davlodebivart
+ელოდება	დალოდებიხართ	V;2;PL;IND;PRF = dalodebixart
+ელოდება	დალოდებიან	V;3;PL;IND;PRF = dalodebian
 
 
 Screeve #10:
-ელოდება	დავლოდებულიყავი	V;1;SG;IND;PST;PRF = davlodebuliq'avi
-ელოდება	დალოდებულიყავი	V;2;SG;IND;PST;PRF = dalodebuliq'avi
-ელოდება	დალოდებულიყო	V;3;SG;IND;PST;PRF = dalodebuliq'o
-ელოდება	დავლოდებულიყავით	V;1;PL;IND;PST;PRF = davlodebuliq'avit
-ელოდება	დალოდებულიყავით	V;2;PL;IND;PST;PRF = dalodebuliq'avit
-ელოდება	დალოდებულიყვნენ	V;3;PL;IND;PST;PRF = dalodebuliq'vnen
+ელოდება	დავლოდებოდი	V;1;SG;IND;PST;PRF = davlodebodi
+ელოდება	დალოდებოდი	V;2;SG;IND;PST;PRF = dalodebodi
+ელოდება	დალოდებოდა	V;3;SG;IND;PST;PRF = dalodeboda
+ელოდება	დავლოდებოდით	V;1;PL;IND;PST;PRF = davlodebodit
+ელოდება	დალოდებოდით	V;2;PL;IND;PST;PRF = dalodebodit
+ელოდება	დალოდებოდინენ	V;3;PL;IND;PST;PRF = dalodebodinen
 
 
 Screeve #11:
-ელოდება	დავლოდებულიყო	V;1;SG;SBJV;PRF = davlodebuliq'o
-ელოდება	დალოდებულიყო	V;2;SG;SBJV;PRF = dalodebuliq'o
-ელოდება	დალოდებულიყოს	V;3;SG;SBJV;PRF = dalodebuliq'os
-ელოდება	დავლოდებულიყოთ	V;1;PL;SBJV;PRF = davlodebuliq'ot
-ელოდება	დალოდებულიყოთ	V;2;PL;SBJV;PRF = dalodebuliq'ot
-ელოდება	დალოდებულიყონ	V;3;PL;SBJV;PRF = dalodebuliq'on
+ელოდება	დავლოდებოდე	V;1;SG;SBJV;PRF = davlodebode
+ელოდება	დალოდებოდე	V;2;SG;SBJV;PRF = dalodebode
+ელოდება	დალოდებოდეს	V;3;SG;SBJV;PRF = dalodebodes
+ელოდება	დავლოდებოდეთ	V;1;PL;SBJV;PRF = davlodebodet
+ელოდება	დალოდებოდეთ	V;2;PL;SBJV;PRF = dalodebodet
+ელოდება	დალოდებოდენენ	V;3;PL;SBJV;PRF = dalodebodenen
 
 
 ელოდება	დალოდება	V;V.MSDR;PRF

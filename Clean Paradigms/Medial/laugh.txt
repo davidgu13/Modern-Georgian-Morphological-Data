@@ -9,21 +9,21 @@ Screeve #1:
 
 
 Screeve #2:
-იცინის	ვიცინიდი	V;1;SG;IND;IPFV = vicinidi
-იცინის	იცინიდი	V;2;SG;IND;IPFV = icinidi
-იცინის	იცინიდა	V;3;SG;IND;IPFV = icinida
-იცინის	ვიცინიდით	V;1;PL;IND;IPFV = vicinidit
-იცინის	იცინიდით	V;2;PL;IND;IPFV = icinidit
-იცინის	იცინიდნენ	V;3;PL;IND;IPFV = icinidnen
+იცინის	ვიცინოდი	V;1;SG;IND;IPFV = vicinodi
+იცინის	იცინოდი	V;2;SG;IND;IPFV = icinodi
+იცინის	იცინოდა	V;3;SG;IND;IPFV = icinoda
+იცინის	ვიცინოდით	V;1;PL;IND;IPFV = vicinodit
+იცინის	იცინოდით	V;2;PL;IND;IPFV = icinodit
+იცინის	იცინოდნენ	V;3;PL;IND;IPFV = icinodnen
 
 
 Screeve #3:
-იცინის	ვიცინიდე	V;1;SG;SBJV;PRS = vicinide
-იცინის	იცინიდე	V;2;SG;SBJV;PRS = icinide
-იცინის	იცინიდეს	V;3;SG;SBJV;PRS = icinides
-იცინის	ვიცინიდეთ	V;1;PL;SBJV;PRS = vicinidet
-იცინის	იცინიდეთ	V;2;PL;SBJV;PRS = icinidet
-იცინის	იცინიდნენ	V;3;PL;SBJV;PRS = icinidnen
+იცინის	ვიცინოდე	V;1;SG;SBJV;PRS = vicinode
+იცინის	იცინოდე	V;2;SG;SBJV;PRS = icinode
+იცინის	იცინოდეს	V;3;SG;SBJV;PRS = icinodes
+იცინის	ვიცინოდეთ	V;1;PL;SBJV;PRS = vicinodet
+იცინის	იცინოდეთ	V;2;PL;SBJV;PRS = icinodet
+იცინის	იცინოდნენ	V;3;PL;SBJV;PRS = icinodnen
 
 
 Screeve #4:

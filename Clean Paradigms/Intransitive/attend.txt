@@ -81,7 +81,7 @@ Screeve #8:
 Screeve #9:
 ესწრება	დავსწრებივარ	V;1;SG;IND;PRF = davsc'rebivar
 ესწრება	დასწრებიხარ	V;2;SG;IND;PRF = dasc'rebixar
-ესწრება	დასწრებია	V;3;SG;IND;PRF = daasc'rebia
+ესწრება	დასწრებია	V;3;SG;IND;PRF = dasc'rebia
 ესწრება	დავსწრებივართ	V;1;PL;IND;PRF = davsc'rebivart
 ესწრება	დასწრებიხართ	V;2;PL;IND;PRF = dasc'rebixart
 ესწრება	დასწრებიან	V;3;PL;IND;PRF = dasc'rebian

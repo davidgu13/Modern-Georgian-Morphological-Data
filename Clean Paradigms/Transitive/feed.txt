@@ -61,8 +61,8 @@ Screeve #7:
 აჭმევს	აჭამეთ	V;2;PL;IND;PST;PFV = ač'amet
 აჭმევს	აჭამეს	V;3;PL;IND;PST;PFV = ač'ames
 
-აჭმევს	აჭამე	V;2;SG;IMP = šeač'ame
-აჭმევს	აჭამეთ	V;2;PL;IMP = šeač'amet
+აჭმევს	აჭამე	V;2;SG;IMP = ač'ame
+აჭმევს	აჭამეთ	V;2;PL;IMP = ač'amet
 
 
 Screeve #8:
