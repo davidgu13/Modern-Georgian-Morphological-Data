@@ -54,15 +54,15 @@ Screeve #6:
 
 
 Screeve #7:
-აცნობს	გავაცნე	V;1;SG;IND;PST;PFV = gavacne
-აცნობს	გააცნე	V;2;SG;IND;PST;PFV = gaacne
+აცნობს	გავაცანი	V;1;SG;IND;PST;PFV = gavacani
+აცნობს	გააცანი	V;2;SG;IND;PST;PFV = gaacani
 აცნობს	გააცნო	V;3;SG;IND;PST;PFV = gaacno
-აცნობს	გავაცნეთ	V;1;PL;IND;PST;PFV = gavacnet
-აცნობს	გააცნეთ	V;2;PL;IND;PST;PFV = gaacnet
+აცნობს	გავაცანით	V;1;PL;IND;PST;PFV = gavacanit
+აცნობს	გააცანით	V;2;PL;IND;PST;PFV = gaacanit
 აცნობს	გააცნეს	V;3;PL;IND;PST;PFV = gaacnes
 
-აცნობს	გააცნე	V;2;SG;IMP = gaacne
-აცნობს	გააცნეთ	V;2;PL;IMP = gaacnet
+აცნობს	გააცანი	V;2;SG;IMP = gaacani
+აცნობს	გააცანით	V;2;PL;IMP = gaacanit
 
 
 Screeve #8:
